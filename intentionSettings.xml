@@ -1,0 +1,25 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Objective-C/Add as a parameter to 'initWith...'" />
+    <ignoreAction name="Objective-C/Convert to instance variable" />
+    <ignoreAction name="Objective-C/Convert to property" />
+    <ignoreAction name="Objective-C/Declare method in interface" />
+    <ignoreAction name="Objective-C/Declare method in private category" />
+    <ignoreAction name="Objective-C/Declare property as 'readwrite' in private category" />
+    <ignoreAction name="Objective-C/Extract category of this class" />
+    <ignoreAction name="Objective-C/Extract private category of this class" />
+    <ignoreAction name="Objective-C/Extract protocol of this class" />
+    <ignoreAction name="Objective-C/Extract super class" />
+    <ignoreAction name="Objective-C/Generate property" />
+    <ignoreAction name="Objective-C/Implement accessor methods" />
+    <ignoreAction name="Objective-C/Localize the string" />
+    <ignoreAction name="Objective-C/Move instance variables to implementation" />
+    <ignoreAction name="Objective-C/Move to interface" />
+    <ignoreAction name="Objective-C/Move to private category" />
+    <ignoreAction name="Objective-C/Replace 'id' return type with 'instancetype'" />
+    <ignoreAction name="Objective-C/Switch '.' and method notation" />
+    <ignoreAction name="Objective-C/Synthesize property" />
+    <ignoreAction name="Objective-C/Wrap with &quot;if ([ respondsToSelector: ])&quot;" />
+    <ignoreAction name="Objective-C/Wrap with stringWithFormat" />
+  </component>
+</application>

@@ -1,0 +1,104 @@
+<scheme name="Darcula - Modify" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2019-07-02T19:49:11</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.1.4.0.0</property>
+    <property name="modified">2019-08-15T11:24:07</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="0.6" />
+  <attributes>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="c4747e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.EXTERN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="45c678" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.FORMAT_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="ccb850" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="e3ad66" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e3ad66" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="73be57" />
+      </value>
+    </option>
+    <option name="OC.LABEL">
+      <value>
+        <option name="FOREGROUND" value="c60509" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="c4755e" />
+      </value>
+    </option>
+    <option name="OC.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="EFFECT_COLOR" value="294362" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="OC.SELFSUPERTHIS">
+      <value>
+        <option name="FOREGROUND" value="cca03d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc9781" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="9383b4" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="419de3" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="235aaa" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="235aaa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="76d1d1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,689 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Project/manul/utility_tool/iptables_tool.h" timestamp="1566184134111" />
+      <file name="D:/Project/manul/metaserver/client_manager.h" timestamp="1564739008604">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="97" column="1" />
+        <mark key="^" line="97" column="1" />
+      </file>
+      <file name="D:/Project/manul/run_clang_format.py" timestamp="1562938603767">
+        <mark key="[" line="65" column="80" />
+        <mark key="]" line="67" column="29" />
+        <mark key="^" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+      </file>
+      <file name="D:/Project/manul/client/cluster_stream_client.h" timestamp="1566184866158">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="393" column="33" />
+        <mark key="." line="435" column="0" />
+      </file>
+      <file name="D:/Project/manul/metaserver/load_file_info.h" timestamp="1562830014672">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
+      </file>
+      <file name="D:/Project/manul/common/offset_table.h" timestamp="1565842114593">
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="20" />
+        <mark key="." line="64" column="20" />
+        <mark key="^" line="64" column="20" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunkserver_flags.cc" timestamp="1566198614737">
+        <mark key="[" line="28" column="46" />
+      </file>
+      <file name="D:/Project/manul/common/file_name_util.h" timestamp="1564113525178">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="15" column="52" />
+        <mark key="^" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.h" timestamp="1565771184104">
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="38" />
+        <mark key="^" line="87" column="38" />
+        <mark key="." line="87" column="38" />
+      </file>
+      <file name="D:/Project/ustevent/src/disk_io_util.h" timestamp="1565691387066">
+        <mark key="[" line="26" column="77" />
+        <mark key="]" line="26" column="76" />
+        <mark key="." line="26" column="76" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/crush_calculator.cc" timestamp="1564056738501">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="52" />
+      </file>
+      <file name="D:/Project/manul/metaserver/replication_manager.cc" timestamp="1565751692234">
+        <mark key="[" line="452" column="58" />
+        <mark key="]" line="450" column="41" />
+        <mark key="^" line="450" column="41" />
+        <mark key="." line="450" column="41" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/query_chunk_meta.cc" timestamp="1565233893459">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="31" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/io_loop_handle.cc" timestamp="1565271063294">
+        <mark key="[" line="1401" column="64" />
+        <mark key="]" line="1401" column="63" />
+        <mark key="^" line="1401" column="63" />
+        <mark key="." line="1401" column="63" />
+      </file>
+      <file name="D:/Project/manul/metaserver/get_chunk_meta_handle.h" timestamp="1565753306073">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/seal_chunk.h" timestamp="1565268139302">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="40" column="23" />
+        <mark key="^" line="40" column="23" />
+        <mark key="." line="40" column="23" />
+      </file>
+      <file name="D:/Project/manul/common/io_proto.h" timestamp="1563761791095">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="D:/Project/manul/metaserver/release_file_lock.h" timestamp="1565753471330">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+      </file>
+      <file name="D:/Project/ustevent/CMakeLists.txt" timestamp="1565664684422">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+      </file>
+      <file name="D:/Project/manul/include/manul_errorcode_def.h" timestamp="1565928541765">
+        <mark key="[" line="80" column="51" />
+        <mark key="]" line="80" column="50" />
+        <mark key="^" line="80" column="50" />
+        <mark key="." line="80" column="50" />
+      </file>
+      <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1564491230907">
+        <mark key="[" line="295" column="49" />
+        <mark key="]" line="295" column="50" />
+        <mark key="." line="295" column="50" />
+        <mark key="^" line="295" column="50" />
+      </file>
+      <file name="D:/Project/manul/include/manul.h" timestamp="1566269677531">
+        <mark key="[" line="190" column="20" />
+        <mark key="]" line="190" column="30" />
+        <mark key="." line="190" column="30" />
+        <mark key="^" line="190" column="30" />
+      </file>
+      <file name="D:/Project/manul/metaserver/file_lock_helper.cc" timestamp="1564395429635">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/cluster_handle.cc" timestamp="1566198671344">
+        <mark key="d" line="24" column="27" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/CMakeLists.txt" timestamp="1565689969083">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="34" column="53" />
+        <mark key="^" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+      </file>
+      <file name="D:/Project/manul/fio_client_plugin/CMakeLists.txt" timestamp="1562815389616">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
+      <file name="D:/Project/manul/metaserver/chunk_table_manager.cc" timestamp="1565251531221">
+        <mark key="[" line="178" column="48" />
+        <mark key="]" line="178" column="52" />
+        <mark key="^" line="178" column="52" />
+        <mark key="." line="178" column="52" />
+      </file>
+      <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="15" column="35" />
+      </file>
+      <file name="D:/Project/manul/metaserver/simple_file_node_table.h" timestamp="1564373350562">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="32" column="9" />
+        <mark key="^" line="32" column="9" />
+        <mark key="." line="32" column="9" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/CMakeLists.txt" timestamp="1566199691131">
+        <mark key="[" line="23" column="43" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566199611179">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="102" column="1" />
+      </file>
+      <file name="D:/Project/manul/common/manul_flags.cc" timestamp="1566202313841">
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="57" column="40" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="57" column="40" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" timestamp="1565764742675">
+        <mark key="[" line="268" column="69" />
+        <mark key="]" line="269" column="60" />
+        <mark key="^" line="269" column="60" />
+        <mark key="." line="269" column="60" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/delete_chunk.cc" timestamp="1565761720140">
+        <mark key="[" line="98" column="43" />
+        <mark key="]" line="98" column="68" />
+        <mark key="^" line="98" column="68" />
+        <mark key="." line="98" column="68" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/simple_test_case_base.cc" timestamp="1565160884743">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+      </file>
+      <file name="D:/Project/manul/fio_plugin/CMakeLists.txt" timestamp="1562815473540">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/manul_utility.cc" timestamp="1566194831490">
+        <mark key="[" line="207" column="9" />
+        <mark key="]" line="197" column="8" />
+        <mark key="^" line="197" column="8" />
+        <mark key="." line="207" column="10" />
+      </file>
+      <file name="D:/Project/manul/metaserver/simple_file_node_table.cc" timestamp="1564380638186">
+        <mark key="[" line="142" column="15" />
+        <mark key="]" line="142" column="15" />
+        <mark key="^" line="142" column="15" />
+        <mark key="." line="142" column="15" />
+      </file>
+      <file name="D:/Project/manul/common/file_name_util.cc" timestamp="1564113611056">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="D:/Project/ustevent/src/CMakeLists.txt" timestamp="1565689963339">
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="108" column="23" />
+        <mark key="^" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+      </file>
+      <file name="D:/Project/manul/metaserver/chunkserver_manager.h" timestamp="1564110737451">
+        <mark key="[" line="137" column="15" />
+        <mark key="]" line="123" column="46" />
+        <mark key="." line="123" column="46" />
+        <mark key="^" line="123" column="46" />
+      </file>
+      <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/include/gtest/gtest.h" timestamp="1566183882619" />
+      <file name="D:/Project/manul/utility_tool/utility_factory.cc" timestamp="1563848363780">
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/iptables_tool.cc" timestamp="1566196938352">
+        <mark key="[" line="44" column="66" />
+        <mark key="]" line="44" column="69" />
+        <mark key="^" line="44" column="69" />
+        <mark key="." line="44" column="69" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/file_manager.h" timestamp="1565007631580">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="65" column="22" />
+        <mark key="^" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+      </file>
+      <file name="D:/Project/ustevent/src/base/obj_pool.h" timestamp="1565676756950">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/io_loop_handle.h" timestamp="1564989602515">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="43" column="51" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566207483190">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.h" timestamp="1565955194600">
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
+      <file name="D:/Project/manul/metaserver/load_data.cc" timestamp="1564111349680">
+        <mark key="[" line="48" column="10" />
+        <mark key="]" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+      </file>
+      <file name="D:/Project/manul/metaserver/delete_file.h" timestamp="1564389663849">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="39" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+      </file>
+      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1565753610056">
+        <mark key="[" line="155" column="60" />
+        <mark key="]" line="194" column="30" />
+        <mark key="^" line="194" column="30" />
+        <mark key="." line="194" column="30" />
+      </file>
+      <file name="D:/Project/manul/metaserver/renew_chunkserver.cc" timestamp="1566198769961">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+      </file>
+      <file name="D:/Project/manul/client/client_flags.cc" timestamp="1566194985194">
+        <mark key="[" line="39" column="51" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="39" column="50" />
+      </file>
+      <file name="D:/Project/manul/metaserver/create_directory.cc" timestamp="1564377441261">
+        <mark key="[" line="177" column="73" />
+        <mark key="]" line="178" column="1" />
+        <mark key="." line="178" column="1" />
+        <mark key="^" line="178" column="1" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" timestamp="1565771554396">
+        <mark key="[" line="140" column="73" />
+        <mark key="]" line="141" column="27" />
+        <mark key="^" line="141" column="27" />
+        <mark key="." line="141" column="27" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/utility_entry.h" timestamp="1563788394347">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1565838865397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Project/manul/metaserver/rename_file.h" timestamp="1564389852077">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/raw_device_manager.cc" timestamp="1565236560167">
+        <mark key="[" line="411" column="16" />
+        <mark key="]" line="411" column="14" />
+        <mark key="^" line="411" column="14" />
+        <mark key="." line="411" column="14" />
+      </file>
+      <file name="D:/Project/manul/CMakeLists.txt" timestamp="1565691214808">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="D:/Project/manul/metaserver/get_chunk_meta_handle.cc" timestamp="1565753379874">
+        <mark key="[" line="131" column="8" />
+        <mark key="]" line="131" column="15" />
+        <mark key="^" line="131" column="15" />
+        <mark key="." line="131" column="15" />
+      </file>
+      <file name="D:/Project/manul/client/cluster_stream_client.cc" timestamp="1566208036892">
+        <mark key="[" line="488" column="12" />
+        <mark key="]" line="490" column="50" />
+        <mark key="." line="489" column="0" />
+        <mark key="^" line="505" column="23" />
+      </file>
+      <file name="D:/Project/manul/metaserver/delete_file.cc" timestamp="1564392782999">
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="46" />
+      </file>
+      <file name="/fragment.cpp" timestamp="1565948727057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Project/ustevent/src/libevent/aio_util.cc" timestamp="1565690445952">
+        <mark key="[" line="119" column="16" />
+        <mark key="]" line="119" column="15" />
+        <mark key="." line="119" column="15" />
+        <mark key="^" line="119" column="15" />
+      </file>
+      <file name="D:/Project/manul/client/file_client_core.h" timestamp="1564490730055">
+        <mark key="[" line="246" column="29" />
+        <mark key="]" line="246" column="30" />
+        <mark key="." line="246" column="30" />
+        <mark key="^" line="246" column="30" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1566208697812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/crush_calculator.h" timestamp="1564110070897">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="55" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="21" column="32" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/manager_handle.cc" timestamp="1566198804385" />
+      <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566198839863">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="47" />
+      </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/chunk_formatter.cc" timestamp="1565765230722">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/ReleaseFileLock.cc" timestamp="1565071726145">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="20" column="53" />
+        <mark key="." line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+      </file>
+      <file name="D:/Project/manul/metaserver/file_lock_helper.h" timestamp="1564395143306">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/manul_utility.h" timestamp="1565953707614">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="35" />
+      </file>
+      <file name="D:/Project/manul/metaserver/open_file.h" timestamp="1565753410698">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/clion64.exe.vmoptions" timestamp="1565948065031">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="D:/Project/manul/metaserver/release_file_lock.cc" timestamp="1565753595188">
+        <mark key="[" line="101" column="68" />
+        <mark key="]" line="101" column="88" />
+        <mark key="." line="101" column="88" />
+        <mark key="^" line="101" column="88" />
+      </file>
+      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566269940947">
+        <mark key="[" line="217" column="0" />
+      </file>
+      <file name="D:/Project/manul/common/zk_name_container.cc" timestamp="1563183695856">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+      </file>
+      <file name="D:/Project/manul/metaserver/create_file.cc" timestamp="1564377390778">
+        <mark key="[" line="86" column="33" />
+        <mark key="]" line="86" column="70" />
+        <mark key="." line="86" column="70" />
+        <mark key="^" line="86" column="70" />
+      </file>
+      <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/local/include/ustevent/stack.h" timestamp="1566203565821" />
+      <file name="D:/Project/manul/metaserver/client_manager.cc" timestamp="1565752874267">
+        <mark key="[" line="254" column="2" />
+        <mark key="]" line="255" column="59" />
+        <mark key="^" line="255" column="59" />
+        <mark key="." line="255" column="59" />
+      </file>
+      <file name="D:/Project/manul/portal/CMakeLists.txt" timestamp="1562815559102">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="38" column="40" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" timestamp="1566180445213">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="71" />
+        <mark key="^" line="214" column="23" />
+        <mark key="." line="214" column="23" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" timestamp="1566209185248">
+        <mark key="[" line="109" column="24" />
+        <mark key="]" line="125" column="20" />
+        <mark key="." line="125" column="20" />
+        <mark key="^" line="125" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="74" column="23" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="101" column="16" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="189" column="9" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="102" column="16" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="67" column="0" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="122" column="34" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="73" column="39" filename="$USER_HOME$/Work/test_code/ustevent/src/callbacks.h" />
+      <jump line="16" column="10" filename="$USER_HOME$/Work/test_code/ustevent/src/callbacks.h" />
+      <jump line="14" column="6" filename="$USER_HOME$/Work/test_code/ustevent/ustevent/connection_uevent.h" />
+      <jump line="123" column="36" filename="$USER_HOME$/Work/test_code/ustevent/tests/udisk_demo_client.cc" />
+      <jump line="115" column="29" filename="$USER_HOME$/Work/test_code/ustevent/src/connection_uevent.h" />
+      <jump line="130" column="42" filename="$USER_HOME$/Work/test_code/ustevent/src/connection_uevent.h" />
+      <jump line="139" column="2" filename="$USER_HOME$/Work/test_code/ustevent/src/connection_uevent.h" />
+      <jump line="145" column="14" filename="$USER_HOME$/Work/test_code/ustevent/src/connection_uevent.h" />
+      <jump line="30" column="34" filename="D:/Code/manul/chunkserver/chunk_storage/raw_chunk_storage.h" />
+      <jump line="304" column="30" filename="D:/Project/manul/client/cluster_stream_client.h" />
+      <jump line="1361" column="0" filename="D:/Project/manul/client/cluster_stream_client.cc" />
+      <jump line="1355" column="9" filename="D:/Project/manul/client/cluster_stream_client.cc" />
+      <jump line="203" column="0" filename="D:/Project/manul/client/cluster_file_client.cc" />
+      <jump line="299" column="14" filename="D:/Project/manul/client/stream_client_impl.cc" />
+      <jump line="1226" column="29" filename="D:/Project/manul/client/cluster_stream_client.cc" />
+      <jump line="1" column="15" filename="D:/Project/manul/.clang-format" />
+      <jump line="40" column="29" filename="D:/Project/manul/tool/manul_client_delete_when_io_pending.cc" />
+      <jump line="199" column="0" filename="D:/Project/manul/tool/manul_client_delete_when_io_pending.cc" />
+      <jump line="24" column="0" filename="D:/Project/manul/tool/manul_client_delete_when_io_pending.cc" />
+      <jump line="45" column="15" filename="D:/Project/manul/tool/manul_client_close_when_io_pending.cc" />
+      <jump line="116" column="0" filename="D:/Project/manul/tool/manul_client_close_when_io_pending.cc" />
+      <jump line="0" column="0" filename="D:/Project/manul/tool/manul_client_close_when_io_pending.cc" />
+      <jump line="210" column="7" filename="D:/Project/manul/client/cluster_stream_client.h" />
+      <jump line="19" column="36" filename="D:/Project/manul/utility_tool/CMakeLists.txt" />
+      <jump line="0" column="42" filename="D:/Project/manul/utility_tool/CMakeLists.txt" />
+      <jump line="11" column="26" filename="D:/Project/manul/utility_tool/CMakeLists.txt" />
+      <jump line="14" column="13" filename="D:/Project/manul/utility_tool/CMakeLists.txt" />
+      <jump line="13" column="73" filename="D:/Project/manul/utility_tool/utility_conn_handle.cc" />
+      <jump line="346" column="2" filename="D:/Project/manul/utility_tool/file_manager.cc" />
+      <jump line="2" column="0" filename="D:/Project/manul/metaserver/get_cluster_info.h" />
+      <jump line="292" column="27" filename="D:/Project/manul/metaserver/chunkserver_manager.cc" />
+      <jump line="118" column="0" filename="D:/Project/manul/utility_tool/manul_utility.cc" />
+      <jump line="17" column="0" filename="D:/Project/manul/utility_tool/manul_utility.cc" />
+      <jump line="45" column="11" filename="D:/Project/manul/metaserver/get_cluster_info.cc" />
+      <jump line="200" column="46" filename="D:/Project/manul/utility_tool/file_manager.cc" />
+      <jump line="271" column="31" filename="D:/Project/manul/utility_tool/file_manager.cc" />
+      <jump line="279" column="39" filename="D:/Project/manul/utility_tool/file_manager.cc" />
+      <jump line="294" column="0" filename="D:/Project/manul/metaserver/chunkserver_manager.cc" />
+      <jump line="1244" column="8" filename="D:/Project/manul/client/cluster_stream_client.cc" />
+      <jump line="280" column="35" filename="D:/Project/manul/include/manul.h" />
+      <jump line="51" column="45" filename="D:/Project/manul/metaserver/release_file_lock.cc" />
+      <jump line="30" column="0" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="0" column="0" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="21" column="129" filename="D:/Project/manul/metaserver/get_chunk_meta_handle.cc" />
+      <jump line="30" column="82" filename="D:/Project/manul/utility_tool/test_cases/BasicFunction.cc" />
+      <jump line="140" column="4" filename="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" />
+      <jump line="173" column="0" filename="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" />
+      <jump line="98" column="7" filename="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" />
+      <jump line="34" column="43" filename="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" />
+      <jump line="12" column="20" filename="D:/Project/manul/chunkserver/CMakeLists.txt" />
+      <jump line="354" column="21" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="518" column="38" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="360" column="30" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="359" column="14" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="381" column="52" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
+      <jump line="22" column="13" filename="D:/Project/ustevent/src/disk_io_util.cc" />
+      <jump line="26" column="15" filename="D:/Project/ustevent/src/disk_io_util.cc" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAYnJpZWYgR2V0IGZpbGUgc3RhdCBpbiBtYW51bAogICAqCiAgICogQHJldHVybiB1c2UgImN0cmwtPkdldEVycm5vKCkiIHRvIGdldCByZXR1cm4gdmFsdWUKICAgKiBAcmV0dmFsIE1BTlVMX0VPSyAgICAgICAgU3VjY2Vzcy4KICAgKiBAcmV0dmFsIE1BTlVMX0VOT0VOVCAgICAgVGhlICJwYXRoIiBpcyBub3QgZXhpc3QuCiAgICogQHJldHZhbCBNQU5VTF9FSU8gICAgICAgIEkvTyBlcnJvci4KICAgKiBAcmV0dmFsIE1BTlVMX0VBQ0NFUyAgICAgVGhlIGFjY2VzcyBpcyBub3QgYWxsb3dlZC4KICAgKiBAcmV0dmFsIE1BTlVMX0VJTlZBTCAgICAgUGFyYW1ldGVycyBpcyBpbnZhbGlkLgogICAqIEByZXR2YWwgTUFOVUxfRU5PU1lTICAgICBGdW5jdGlvbiBub3QgaW1wbGVtZW50ZWQuCiAgICogQHJldHZhbCBNQU5VTF9FVElNRURPVVQgIFJQQyB0byBzZXJ2ZXIgaXMgbm90IHJldHVybi4KICAgKi8KICB2aXJ0dWFsIHZvaWQgU3RhdChNYW51bENvbnRyb2xsZXIqIGN0cmwsIGNvbnN0IHN0ZDo6c3RyaW5nJiBwYXRoLAogICAgICAgICAgICAgICAgICAgIEZpbGVTdGF0KiBzdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKSA9IDA7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>worker</text>
+      </register>
+      <register name="/" type="4">
+        <text>Submit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAYnJpZWYgR2V0IGZpbGUgc3RhdCBpbiBtYW51bAogICAqCiAgICogQHJldHVybiB1c2UgImN0cmwtPkdldEVycm5vKCkiIHRvIGdldCByZXR1cm4gdmFsdWUKICAgKiBAcmV0dmFsIE1BTlVMX0VPSyAgICAgICAgU3VjY2Vzcy4KICAgKiBAcmV0dmFsIE1BTlVMX0VOT0VOVCAgICAgVGhlICJwYXRoIiBpcyBub3QgZXhpc3QuCiAgICogQHJldHZhbCBNQU5VTF9FSU8gICAgICAgIEkvTyBlcnJvci4KICAgKiBAcmV0dmFsIE1BTlVMX0VBQ0NFUyAgICAgVGhlIGFjY2VzcyBpcyBub3QgYWxsb3dlZC4KICAgKiBAcmV0dmFsIE1BTlVMX0VJTlZBTCAgICAgUGFyYW1ldGVycyBpcyBpbnZhbGlkLgogICAqIEByZXR2YWwgTUFOVUxfRU5PU1lTICAgICBGdW5jdGlvbiBub3QgaW1wbGVtZW50ZWQuCiAgICogQHJldHZhbCBNQU5VTF9FVElNRURPVVQgIFJQQyB0byBzZXJ2ZXIgaXMgbm90IHJldHVybi4KICAgKi8KICB2aXJ0dWFsIHZvaWQgU3RhdChNYW51bENvbnRyb2xsZXIqIGN0cmwsIGNvbnN0IHN0ZDo6c3RyaW5nJiBwYXRoLAogICAgICAgICAgICAgICAgICAgIEZpbGVTdGF0KiBzdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKSA9IDA7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgaW9fc2l6ZSwgJnJlYWxfd3Jfb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJHTUYzOiAiIDw8ICh1aW50NjRfdCl3b3JrZXJfIDw8ICIgICIgPDwgKih1aW50NjRfdCAqKXdvcmtlcl8KICAgICAgICAgICAgICAgIDw8ICIgICIgPDwgKioodWludDY0X3QgKiopd29ya2VyXzsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Submit</last-search>
+      <last-offset />
+      <last-pattern>Submit</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>CloseFile</entry>
+        <entry encoding="base64">XDxjb21tb25cPg==</entry>
+        <entry encoding="base64">XDxzZXNzaW9uX2RhdGFcPg==</entry>
+        <entry>main</entry>
+        <entry>ls_cb</entry>
+        <entry>OpenTestFile</entry>
+        <entry>OpenTest</entry>
+        <entry>Ls</entry>
+        <entry>unit</entry>
+        <entry>Submit3</entry>
+        <entry>Submit</entry>
+      </history-search>
+      <history-cmd>
+        <entry>675</entry>
+        <entry>275</entry>
+        <entry>295</entry>
+        <entry>450</entry>
+        <entry>921</entry>
+        <entry>318</entry>
+        <entry>352</entry>
+        <entry>262</entry>
+        <entry>432</entry>
+        <entry>271</entry>
+        <entry>551</entry>
+        <entry>31</entry>
+        <entry>787</entry>
+        <entry>wq</entry>
+        <entry>193</entry>
+        <entry>798</entry>
+        <entry>128</entry>
+        <entry>70</entry>
+        <entry>570</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
