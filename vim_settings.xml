@@ -63,11 +63,11 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566278785653">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="^" line="266" column="19" />
-        <mark key="." line="276" column="0" />
+      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566279673859">
+        <mark key="[" line="266" column="41" />
+        <mark key="]" line="266" column="55" />
+        <mark key="^" line="266" column="55" />
+        <mark key="." line="266" column="55" />
       </file>
       <file name="D:/Project/manul/metaserver/renew_chunkserver.cc" timestamp="1566198769961">
         <mark key="[" line="23" column="28" />
@@ -81,6 +81,7 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
+      <file name="/open_file.cc" timestamp="1566279674995" />
       <file name="/a.sql" timestamp="1565838865397">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,6 +96,12 @@
         <mark key="]" line="120" column="14" />
         <mark key="." line="120" column="14" />
         <mark key="^" line="120" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1566279724299">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Project/manul/chunkserver/manager_handle.cc" timestamp="1566198804385" />
       <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566198839863">
@@ -184,13 +191,14 @@
       <jump line="381" column="52" filename="D:/Project/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" />
       <jump line="22" column="13" filename="D:/Project/ustevent/src/disk_io_util.cc" />
       <jump line="26" column="15" filename="D:/Project/ustevent/src/disk_io_util.cc" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJDaHVuayBub3QgZXhpc3QgaW4gYWxsIGNodW5rc2VydmVyLiIKICAgICAgICAgICAgICAgIDw8ICIgSnVzdCBpbnNlcnQgYSBuZXcgY2h1bmtpbmZvIGludG8gY2h1bmtfaW5mb3NfcGJfLiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tmp</text>
       </register>
       <register name="-" type="4">
-        <text>worker</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
