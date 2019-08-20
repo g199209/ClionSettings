@@ -64,6 +64,12 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566288808289">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="18" column="45" />
@@ -78,18 +84,18 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="41" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566285272525">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
+      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566290015533">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="D:/Project/manul/utility_tool/CMakeLists.txt" timestamp="1566199691131">
         <mark key="[" line="23" column="43" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566199611179">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
+      <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566288738539">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="34" />
         <mark key="." line="112" column="0" />
         <mark key="^" line="102" column="1" />
       </file>
@@ -158,6 +164,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/Project/manul/metaserver/manager_handle.cc" timestamp="1566289322796">
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="169" column="38" />
+        <mark key="." line="169" column="38" />
+        <mark key="^" line="169" column="38" />
       </file>
       <file name="/a.sql" timestamp="1565838865397">
         <mark key="[" line="0" column="0" />
@@ -282,11 +294,6 @@
         <mark key="." line="64" column="20" />
         <mark key="^" line="64" column="20" />
       </file>
-      <file name="D:/Project/ustevent/src/disk_io_util.h" timestamp="1565691387066">
-        <mark key="[" line="26" column="77" />
-        <mark key="]" line="26" column="76" />
-        <mark key="." line="26" column="76" />
-      </file>
       <file name="D:/Project/manul/utility_tool/crush_calculator.cc" timestamp="1564056738501">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="22" />
@@ -405,16 +412,17 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566207483190">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566288453426">
+        <mark key="[" line="78" column="59" />
+        <mark key="]" line="80" column="15" />
+        <mark key="." line="80" column="15" />
+        <mark key="^" line="80" column="15" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.h" timestamp="1565955194600">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="25" />
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.h" timestamp="1566288333588">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="37" column="63" />
+        <mark key="^" line="37" column="63" />
+        <mark key="." line="37" column="63" />
       </file>
       <file name="D:/Project/manul/metaserver/load_data.cc" timestamp="1564111349680">
         <mark key="[" line="48" column="10" />
@@ -447,7 +455,7 @@
         <mark key="^" line="411" column="14" />
         <mark key="." line="411" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566279724299">
+      <file name="/Dummy.txt" timestamp="1566288645298">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -560,7 +568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhNQU5VTF9PSyk7Cg==</text>
+        <text encoding="base64">ICByZXNwX2JvZHlfLT5zZXRfdG90YWxfZGlyX251bSgwKTsK</text>
       </register>
       <register name="-" type="4">
         <text>done</text>
@@ -569,34 +577,34 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhNQU5VTF9PSyk7Cg==</text>
+        <text encoding="base64">ICByZXNwX2JvZHlfLT5zZXRfdG90YWxfZGlyX251bSgwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uL2lwdGFibGVzX3Rvb2wuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBGaWxlU3RhdFN0YXQqIHN0YXQgPSBhcmdzLnN0YXQ7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbl90ZXN0X2Nhc2VfYmFzZS5oIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB1Y2xvdWQ6Om1hbnVsOjpGaWxlTWV0YVBCJiBmaWxlX21ldGFfcGIgPSBzUmVzLmZpbGVfbWV0YSgpOwo=</text>
+        <text encoding="base64">ICBGaWxlU3RhdFN0YXQqIHN0YXQgPSBhcmdzLnN0YXQ7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBERUZJTkVfQ0FMTEJBQ0tfTUVUSE9EKFN0YXQpOwo=</text>
+        <text encoding="base64">ICBjb25zdCB1Y2xvdWQ6Om1hbnVsOjpGaWxlTWV0YVBCJiBmaWxlX21ldGFfcGIgPSBzUmVzLmZpbGVfbWV0YSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBDbHVzdGVyRmlsZUNsaWVudDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEZpbGVDbGllbnRDb3JlOjpTdGF0RnNBcmdzJiBhcmdzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFudWxDYWxsYmFjayBjYWxsYmFjaykgewogIFVMT0dfSU5GTyA8PCAiQ2x1c3RlciBGaWxlIENsaWVudCBTdGF0RnMiOwogIEFzc2VydEluVGhyZWFkKCk7CgogIGlmICghQ2hlY2tNYW5hZ2VySW5pdChjdHJsKSkgewogICAgY2FsbGJhY2soTUFOVUxfTk9UX0lOSVQpOwogICAgcmV0dXJuOwogIH0KCiAgaWYgKCFHZXRNZXRhU2VydmVyQ29ubihjdHJsKSkgewogICAgY2FsbGJhY2soTUFOVUxfQ09OTkVDVElPTl9FUlJPUik7CiAgICByZXR1cm47CiAgfQoKICB1Y2xvdWQ6OlVNZXNzYWdlIG1zZzsKICB1aW50MzJfdCBvYmppZCA9IHVldmVudDo6TWVzc2FnZVV0aWw6Ok9iaklkKCk7CiAgdWludDMyX3QgZmxvd25vID0gdWV2ZW50OjpNZXNzYWdlVXRpbDo6Rmxvd25vKCk7CiAgTmV3TWVzc2FnZV92MigmbXNnLCBmbG93bm8sIGJhc2U6Ok15VXVpZDo6TmV3VXVpZCgpLAogICAgICAgICAgICAgICAgdWNsb3VkOjptYW51bDo6R0VUX1NUQVRfRlNfUkVRVUVTVCwgMCwgZmFsc2UsIG9iamlkLCAwLCAiU3RhdEZzIiwKICAgICAgICAgICAgICAgIG51bGxwdHIsIG51bGxwdHIpOwogIHVjbG91ZDo6bWFudWw6OkdldFN0YXRGc1JlcXVlc3QqIHJlcSA9CiAgICAgIG1zZy5tdXRhYmxlX2JvZHkoKS0+TXV0YWJsZUV4dGVuc2lvbih1Y2xvdWQ6Om1hbnVsOjpnZXRfc3RhdF9mc19yZXF1ZXN0KTsKICByZXEtPnNldF9jbGllbnRfc2Vzc2lvbl9pZChNYW5hZ2VySGFuZGxlOjpJbnN0YW5jZSgpLT5HZXRDbGllbnRTZXNzaW9uSWQoKSk7CiAgcmVxLT5zZXRfZmlsZV9wYXRoKGFyZ3MucGF0aCk7CgogIFVMT0dfSU5GTyA8PCBtc2cuRGVidWdTdHJpbmcoKTsKICAvLyBUT0RPKGZhbmdyYW4uZnIpIHVzaW5nIHRpbWVvdXQgaW4gY3RybAogIHBiX2Nvbm5lY3RfbWFuYWdlcl8tPlNlbmRQYlJlcXVlc3RJbkxvb3AoCiAgICAgIGNvbm5fLCBtc2csIHN0ZDo6YmluZCgmQ2x1c3RlckZpbGVDbGllbnQ6Ok9uU3RhdERvbmUsIHRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnBsYWNlaG9sZGVyczo6XzEsIGFyZ3MsIGNhbGxiYWNrKSwKICAgICAgc3RkOjpiaW5kKCZDbHVzdGVyRmlsZUNsaWVudDo6T25TdGF0VGltZW91dCwgdGhpcywgYXJncywgY2FsbGJhY2spLAogICAgICBGTEFHU19tYW51bF9jbGllbnRfUEJEZWZhdWx0VGltZW91dCk7CgogIGN0cmwtPlNldEVycm5vU3RhdHVzKEVycm5vU3RhdHVzKE1BTlVMX09LLCAiT0siKSk7Cn0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBERUZJTkVfQ0FMTEJBQ0tfTUVUSE9EKFN0YXQpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPKGZhbmdyYW4uZnIpIGZpbmQgYSBiZXR0ZXIgd2F5IHRvIGNoZWNrIGluaXQK</text>
+        <text encoding="base64">dm9pZCBDbHVzdGVyRmlsZUNsaWVudDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IEZpbGVDbGllbnRDb3JlOjpTdGF0RnNBcmdzJiBhcmdzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWFudWxDYWxsYmFjayBjYWxsYmFjaykgewogIFVMT0dfSU5GTyA8PCAiQ2x1c3RlciBGaWxlIENsaWVudCBTdGF0RnMiOwogIEFzc2VydEluVGhyZWFkKCk7CgogIGlmICghQ2hlY2tNYW5hZ2VySW5pdChjdHJsKSkgewogICAgY2FsbGJhY2soTUFOVUxfTk9UX0lOSVQpOwogICAgcmV0dXJuOwogIH0KCiAgaWYgKCFHZXRNZXRhU2VydmVyQ29ubihjdHJsKSkgewogICAgY2FsbGJhY2soTUFOVUxfQ09OTkVDVElPTl9FUlJPUik7CiAgICByZXR1cm47CiAgfQoKICB1Y2xvdWQ6OlVNZXNzYWdlIG1zZzsKICB1aW50MzJfdCBvYmppZCA9IHVldmVudDo6TWVzc2FnZVV0aWw6Ok9iaklkKCk7CiAgdWludDMyX3QgZmxvd25vID0gdWV2ZW50OjpNZXNzYWdlVXRpbDo6Rmxvd25vKCk7CiAgTmV3TWVzc2FnZV92MigmbXNnLCBmbG93bm8sIGJhc2U6Ok15VXVpZDo6TmV3VXVpZCgpLAogICAgICAgICAgICAgICAgdWNsb3VkOjptYW51bDo6R0VUX1NUQVRfRlNfUkVRVUVTVCwgMCwgZmFsc2UsIG9iamlkLCAwLCAiU3RhdEZzIiwKICAgICAgICAgICAgICAgIG51bGxwdHIsIG51bGxwdHIpOwogIHVjbG91ZDo6bWFudWw6OkdldFN0YXRGc1JlcXVlc3QqIHJlcSA9CiAgICAgIG1zZy5tdXRhYmxlX2JvZHkoKS0+TXV0YWJsZUV4dGVuc2lvbih1Y2xvdWQ6Om1hbnVsOjpnZXRfc3RhdF9mc19yZXF1ZXN0KTsKICByZXEtPnNldF9jbGllbnRfc2Vzc2lvbl9pZChNYW5hZ2VySGFuZGxlOjpJbnN0YW5jZSgpLT5HZXRDbGllbnRTZXNzaW9uSWQoKSk7CiAgcmVxLT5zZXRfZmlsZV9wYXRoKGFyZ3MucGF0aCk7CgogIFVMT0dfSU5GTyA8PCBtc2cuRGVidWdTdHJpbmcoKTsKICAvLyBUT0RPKGZhbmdyYW4uZnIpIHVzaW5nIHRpbWVvdXQgaW4gY3RybAogIHBiX2Nvbm5lY3RfbWFuYWdlcl8tPlNlbmRQYlJlcXVlc3RJbkxvb3AoCiAgICAgIGNvbm5fLCBtc2csIHN0ZDo6YmluZCgmQ2x1c3RlckZpbGVDbGllbnQ6Ok9uU3RhdERvbmUsIHRoaXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OnBsYWNlaG9sZGVyczo6XzEsIGFyZ3MsIGNhbGxiYWNrKSwKICAgICAgc3RkOjpiaW5kKCZDbHVzdGVyRmlsZUNsaWVudDo6T25TdGF0VGltZW91dCwgdGhpcywgYXJncywgY2FsbGJhY2spLAogICAgICBGTEFHU19tYW51bF9jbGllbnRfUEJEZWZhdWx0VGltZW91dCk7CgogIGN0cmwtPlNldEVycm5vU3RhdHVzKEVycm5vU3RhdHVzKE1BTlVMX09LLCAiT0siKSk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
