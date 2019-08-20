@@ -63,11 +63,11 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566274677890">
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="22" />
-        <mark key="^" line="247" column="20" />
-        <mark key="." line="250" column="0" />
+      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566278785653">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="266" column="19" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="D:/Project/manul/metaserver/renew_chunkserver.cc" timestamp="1566198769961">
         <mark key="[" line="23" column="28" />
@@ -187,7 +187,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJDaHVuayBub3QgZXhpc3QgaW4gYWxsIGNodW5rc2VydmVyLiIKICAgICAgICAgICAgICAgIDw8ICIgSnVzdCBpbnNlcnQgYSBuZXcgY2h1bmtpbmZvIGludG8gY2h1bmtfaW5mb3NfcGJfLiI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>worker</text>
@@ -199,31 +199,31 @@
         <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBGaWxlQ2xpZW50SW1wbDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwgY29uc3Qgc3RkOjpzdHJpbmcmIHBhdGgsIEZpbGVTeXN0ZW1TdGF0KiBmc19zdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKXsKCn0K</text>
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJDaHVuayBub3QgZXhpc3QgaW4gYWxsIGNodW5rc2VydmVyLiIKICAgICAgICAgICAgICAgIDw8ICIgSnVzdCBpbnNlcnQgYSBuZXcgY2h1bmtpbmZvIGludG8gY2h1bmtfaW5mb3NfcGJfLiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIC8vIFRPRE8gKG1pbmdmZWkuZ2FvKSA6IFJldHVybiBjaHVua19pbmZvc19wYl8gZGlyZWN0bHkgaXMgYnVnZ3khCiAgICAgIC8vIExhc3QgY2h1bmtpbmZvIGluIGNodW5rX2luZm9zX3BiXyBtYXkgYmUgc2VhbGVkIQogICAgICBhc3NlcnQoZmFsc2UpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
+        <text encoding="base64">ICAgIGlmIChub3RfZXhpc3RfY291bnQgPT0gZmlsZV9tZXRhX3BiXy5taXJyb3JfYXJncygpLm1heF9jb3B5KCkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJGaW5kIGVuZCBvZiB0aGUgZmlsZSIKICAgICAgICAgICAgICAgIDw8ICIgbm90IGV4aXN0IGNvdW50IDogIiA8PCBub3RfZXhpc3RfY291bnQgPDwgIiBtaXJyb3IgYXJncyA6ICIKICAgICAgICAgICAgICAgIDw8IGZpbGVfbWV0YV9wYl8ubWlycm9yX2FyZ3MoKS5EZWJ1Z1N0cmluZygpCiAgICAgICAgICAgICAgICA8PCAiIG5lZWRfY29weV9udW1iZXIgOiAiIDw8IG5lZWRfY29weV9udW1iZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgaW9fc2l6ZSwgJnJlYWxfd3Jfb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
+        <text encoding="base64">dm9pZCBGaWxlQ2xpZW50SW1wbDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwgY29uc3Qgc3RkOjpzdHJpbmcmIHBhdGgsIEZpbGVTeXN0ZW1TdGF0KiBmc19zdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKXsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJHTUYzOiAiIDw8ICh1aW50NjRfdCl3b3JrZXJfIDw8ICIgICIgPDwgKih1aW50NjRfdCAqKXdvcmtlcl8KICAgICAgICAgICAgICAgIDw8ICIgICIgPDwgKioodWludDY0X3QgKiopd29ya2VyXzsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
