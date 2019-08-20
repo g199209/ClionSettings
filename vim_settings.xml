@@ -227,7 +227,12 @@
         <mark key="." line="101" column="88" />
         <mark key="^" line="101" column="88" />
       </file>
-      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566271215093" />
+      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566282501058">
+        <mark key="[" line="222" column="11" />
+        <mark key="]" line="230" column="13" />
+        <mark key="^" line="230" column="13" />
+        <mark key="." line="230" column="13" />
+      </file>
       <file name="D:/Project/manul/common/zk_name_container.cc" timestamp="1563183695856">
         <mark key="[" line="29" column="46" />
         <mark key="]" line="29" column="48" />
