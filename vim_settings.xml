@@ -471,10 +471,11 @@
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="D:/Project/manul/utility_tool/algorithm.h" timestamp="1566293613686">
-        <mark key="]" line="14" column="1" />
-        <mark key="^" line="14" column="1" />
-        <mark key="." line="14" column="1" />
+      <file name="D:/Project/manul/utility_tool/algorithm.h" timestamp="1566295047527">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/clion64.exe.vmoptions" timestamp="1565948065031">
         <mark key="[" line="6" column="18" />
@@ -570,7 +571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIG1hbnVsIHsKbmFtZXNwYWNlIHV0aWxpdHkgewoKfSAvLyBuYW1lc3BhY2UgdXRpbGl0eQp9IC8vIG5hbWVzcGFjZSBtYW51bAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZnVuY3Rpb248aW50MzJfdChjb25zdCBzdGQ6OnN0cmluZyAmcGF0aCk+IGNyZWF0ZV9kaXJfZnVuYzsK</text>
       </register>
       <register name="-" type="4">
         <text>done</text>
@@ -579,34 +580,34 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIG1hbnVsIHsKbmFtZXNwYWNlIHV0aWxpdHkgewoKfSAvLyBuYW1lc3BhY2UgdXRpbGl0eQp9IC8vIG5hbWVzcGFjZSBtYW51bAo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZnVuY3Rpb248aW50MzJfdChjb25zdCBzdGQ6OnN0cmluZyAmcGF0aCk+IGNyZWF0ZV9kaXJfZnVuYzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQWxnb3JpdGhtIHsKCn07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uL2lwdGFibGVzX3Rvb2wuaCIK</text>
+        <text encoding="base64">dXNpbmcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbl90ZXN0X2Nhc2VfYmFzZS5oIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgQWxnb3JpdGhtIHsKCn07Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBGaWxlU3RhdFN0YXQqIHN0YXQgPSBhcmdzLnN0YXQ7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uL2lwdGFibGVzX3Rvb2wuaCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbl90ZXN0X2Nhc2VfYmFzZS5oIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB1Y2xvdWQ6Om1hbnVsOjpGaWxlTWV0YVBCJiBmaWxlX21ldGFfcGIgPSBzUmVzLmZpbGVfbWV0YSgpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBGaWxlU3RhdFN0YXQqIHN0YXQgPSBhcmdzLnN0YXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
