@@ -64,11 +64,11 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566288808289">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566290253395">
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="29" column="40" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
@@ -568,7 +568,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXNwX2JvZHlfLT5zZXRfdG90YWxfZGlyX251bSgwKTsK</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlRFU1Q6IFN0YXRGc1Rlc3QuQmFzaWMiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>done</text>
@@ -577,7 +577,7 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXNwX2JvZHlfLT5zZXRfdG90YWxfZGlyX251bSgwKTsK</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlRFU1Q6IFN0YXRGc1Rlc3QuQmFzaWMiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgIi4uL2lwdGFibGVzX3Rvb2wuaCIK</text>
