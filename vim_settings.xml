@@ -114,17 +114,17 @@
         <mark key="^" line="80" column="50" />
         <mark key="." line="80" column="50" />
       </file>
-      <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1564491230907">
-        <mark key="[" line="295" column="49" />
-        <mark key="]" line="295" column="50" />
-        <mark key="." line="295" column="50" />
-        <mark key="^" line="295" column="50" />
+      <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1566271441216">
+        <mark key="[" line="234" column="75" />
+        <mark key="]" line="235" column="3" />
+        <mark key="." line="235" column="3" />
+        <mark key="^" line="235" column="3" />
       </file>
-      <file name="D:/Project/manul/include/manul.h" timestamp="1566269677531">
-        <mark key="[" line="190" column="20" />
-        <mark key="]" line="190" column="30" />
-        <mark key="." line="190" column="30" />
-        <mark key="^" line="190" column="30" />
+      <file name="D:/Project/manul/include/manul.h" timestamp="1566271364128">
+        <mark key="[" line="202" column="28" />
+        <mark key="]" line="202" column="38" />
+        <mark key="." line="202" column="38" />
+        <mark key="^" line="202" column="38" />
       </file>
       <file name="D:/Project/manul/metaserver/file_lock_helper.cc" timestamp="1564395429635">
         <mark key="[" line="40" column="0" />
@@ -238,6 +238,9 @@
         <mark key="^" line="123" column="46" />
       </file>
       <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/include/gtest/gtest.h" timestamp="1566183882619" />
+      <file name="D:/Project/manul/client/file_client_impl.h" timestamp="1566271392477">
+        <mark key="[" line="43" column="45" />
+      </file>
       <file name="D:/Project/manul/utility_tool/utility_factory.cc" timestamp="1563848363780">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="33" />
@@ -291,11 +294,11 @@
         <mark key="^" line="24" column="39" />
         <mark key="." line="24" column="39" />
       </file>
-      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1565753610056">
-        <mark key="[" line="155" column="60" />
-        <mark key="]" line="194" column="30" />
-        <mark key="^" line="194" column="30" />
-        <mark key="." line="194" column="30" />
+      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566271562515">
+        <mark key="[" line="284" column="9" />
+        <mark key="]" line="284" column="9" />
+        <mark key="^" line="284" column="9" />
+        <mark key="." line="284" column="9" />
       </file>
       <file name="D:/Project/manul/metaserver/renew_chunkserver.cc" timestamp="1566198769961">
         <mark key="[" line="23" column="28" />
@@ -377,11 +380,11 @@
         <mark key="." line="119" column="15" />
         <mark key="^" line="119" column="15" />
       </file>
-      <file name="D:/Project/manul/client/file_client_core.h" timestamp="1564490730055">
-        <mark key="[" line="246" column="29" />
-        <mark key="]" line="246" column="30" />
-        <mark key="." line="246" column="30" />
-        <mark key="^" line="246" column="30" />
+      <file name="D:/Project/manul/client/file_client_core.h" timestamp="1566271488746">
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="120" column="14" />
+        <mark key="." line="120" column="14" />
+        <mark key="^" line="120" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1566208697812">
         <mark key="[" line="0" column="0" />
@@ -439,8 +442,11 @@
         <mark key="." line="101" column="88" />
         <mark key="^" line="101" column="88" />
       </file>
-      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566269940947">
-        <mark key="[" line="217" column="0" />
+      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566271215093">
+        <mark key="[" line="225" column="31" />
+        <mark key="]" line="225" column="30" />
+        <mark key="^" line="225" column="30" />
+        <mark key="." line="225" column="30" />
       </file>
       <file name="D:/Project/manul/common/zk_name_container.cc" timestamp="1563183695856">
         <mark key="[" line="29" column="46" />
@@ -547,7 +553,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAYnJpZWYgR2V0IGZpbGUgc3RhdCBpbiBtYW51bAogICAqCiAgICogQHJldHVybiB1c2UgImN0cmwtPkdldEVycm5vKCkiIHRvIGdldCByZXR1cm4gdmFsdWUKICAgKiBAcmV0dmFsIE1BTlVMX0VPSyAgICAgICAgU3VjY2Vzcy4KICAgKiBAcmV0dmFsIE1BTlVMX0VOT0VOVCAgICAgVGhlICJwYXRoIiBpcyBub3QgZXhpc3QuCiAgICogQHJldHZhbCBNQU5VTF9FSU8gICAgICAgIEkvTyBlcnJvci4KICAgKiBAcmV0dmFsIE1BTlVMX0VBQ0NFUyAgICAgVGhlIGFjY2VzcyBpcyBub3QgYWxsb3dlZC4KICAgKiBAcmV0dmFsIE1BTlVMX0VJTlZBTCAgICAgUGFyYW1ldGVycyBpcyBpbnZhbGlkLgogICAqIEByZXR2YWwgTUFOVUxfRU5PU1lTICAgICBGdW5jdGlvbiBub3QgaW1wbGVtZW50ZWQuCiAgICogQHJldHZhbCBNQU5VTF9FVElNRURPVVQgIFJQQyB0byBzZXJ2ZXIgaXMgbm90IHJldHVybi4KICAgKi8KICB2aXJ0dWFsIHZvaWQgU3RhdChNYW51bENvbnRyb2xsZXIqIGN0cmwsIGNvbnN0IHN0ZDo6c3RyaW5nJiBwYXRoLAogICAgICAgICAgICAgICAgICAgIEZpbGVTdGF0KiBzdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKSA9IDA7Cg==</text>
+        <text encoding="base64">ICBzdHJ1Y3QgU3RhdEFyZ3MgewogICAgc3RkOjpzdHJpbmcgcGF0aDsKICAgIEZpbGVTdGF0KiBzdGF0OwoKICAgIC8qCiAgICBzdGQ6OnN0cmluZyBUb1N0cmluZygpIGNvbnN0IHsKICAgICAgcmV0dXJuIEZvcm1hdFN0cmluZygiW1BhdGg6JXMgU3RhdDolc10iLCBwYXRoLmNfc3RyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXQgPyBGaWxlU3RhdFRvU3RyaW5nKCpzdGF0KS5jX3N0cigpIDogIk5VTEwiKSk7CiAgICB9CiAgICAqLwoKICAgIFN0YXRBcmdzKCkgOiBzdGF0KE5VTEwpIHt9CiAgfTsK</text>
       </register>
       <register name="-" type="4">
         <text>worker</text>
@@ -556,34 +562,34 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAYnJpZWYgR2V0IGZpbGUgc3RhdCBpbiBtYW51bAogICAqCiAgICogQHJldHVybiB1c2UgImN0cmwtPkdldEVycm5vKCkiIHRvIGdldCByZXR1cm4gdmFsdWUKICAgKiBAcmV0dmFsIE1BTlVMX0VPSyAgICAgICAgU3VjY2Vzcy4KICAgKiBAcmV0dmFsIE1BTlVMX0VOT0VOVCAgICAgVGhlICJwYXRoIiBpcyBub3QgZXhpc3QuCiAgICogQHJldHZhbCBNQU5VTF9FSU8gICAgICAgIEkvTyBlcnJvci4KICAgKiBAcmV0dmFsIE1BTlVMX0VBQ0NFUyAgICAgVGhlIGFjY2VzcyBpcyBub3QgYWxsb3dlZC4KICAgKiBAcmV0dmFsIE1BTlVMX0VJTlZBTCAgICAgUGFyYW1ldGVycyBpcyBpbnZhbGlkLgogICAqIEByZXR2YWwgTUFOVUxfRU5PU1lTICAgICBGdW5jdGlvbiBub3QgaW1wbGVtZW50ZWQuCiAgICogQHJldHZhbCBNQU5VTF9FVElNRURPVVQgIFJQQyB0byBzZXJ2ZXIgaXMgbm90IHJldHVybi4KICAgKi8KICB2aXJ0dWFsIHZvaWQgU3RhdChNYW51bENvbnRyb2xsZXIqIGN0cmwsIGNvbnN0IHN0ZDo6c3RyaW5nJiBwYXRoLAogICAgICAgICAgICAgICAgICAgIEZpbGVTdGF0KiBzdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKSA9IDA7Cg==</text>
+        <text encoding="base64">ICBzdHJ1Y3QgU3RhdEFyZ3MgewogICAgc3RkOjpzdHJpbmcgcGF0aDsKICAgIEZpbGVTdGF0KiBzdGF0OwoKICAgIC8qCiAgICBzdGQ6OnN0cmluZyBUb1N0cmluZygpIGNvbnN0IHsKICAgICAgcmV0dXJuIEZvcm1hdFN0cmluZygiW1BhdGg6JXMgU3RhdDolc10iLCBwYXRoLmNfc3RyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXQgPyBGaWxlU3RhdFRvU3RyaW5nKCpzdGF0KS5jX3N0cigpIDogIk5VTEwiKSk7CiAgICB9CiAgICAqLwoKICAgIFN0YXRBcmdzKCkgOiBzdGF0KE5VTEwpIHt9CiAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBGaWxlQ2xpZW50SW1wbDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwgY29uc3Qgc3RkOjpzdHJpbmcmIHBhdGgsIEZpbGVTeXN0ZW1TdGF0KiBmc19zdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKXsKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbnQgcmV0ID0gZm9ya19uZXcoImZpbGUgd3JpdGUgIiArIFRFU1RfRklMRU5BTUUgKyAiIC9kZXYvemVybyA4ODg4IDEiKTsKICBFWFBFQ1RfRVEoMCwgcmV0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgaW9fc2l6ZSwgJnJlYWxfd3Jfb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
+        <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgaW9fc2l6ZSwgJnJlYWxfd3Jfb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJHTUYzOiAiIDw8ICh1aW50NjRfdCl3b3JrZXJfIDw8ICIgICIgPDwgKih1aW50NjRfdCAqKXdvcmtlcl8KICAgICAgICAgICAgICAgIDw8ICIgICIgPDwgKioodWludDY0X3QgKiopd29ya2VyXzsK</text>
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMzogIiA8PCAodWludDY0X3Qpd29ya2VyXyA8PCAiICAiIDw8ICoodWludDY0X3QgKil3b3JrZXJfCiAgICAgICAgICAgICAgPDwgIiAgIiA8PCAqKih1aW50NjRfdCAqKil3b3JrZXJfOwo=</text>
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJHTUYzOiAiIDw8ICh1aW50NjRfdCl3b3JrZXJfIDw8ICIgICIgPDwgKih1aW50NjRfdCAqKXdvcmtlcl8KICAgICAgICAgICAgICAgIDw8ICIgICIgPDwgKioodWludDY0X3QgKiopd29ya2VyXzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
