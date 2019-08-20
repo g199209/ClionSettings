@@ -20,15 +20,6 @@
       </file>
       <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1566271441216">
         <mark key="[" line="234" column="75" />
-        <mark key="]" line="235" column="3" />
-        <mark key="." line="235" column="3" />
-        <mark key="^" line="235" column="3" />
-      </file>
-      <file name="D:/Project/manul/include/manul.h" timestamp="1566271364128">
-        <mark key="[" line="202" column="28" />
-        <mark key="]" line="202" column="38" />
-        <mark key="." line="202" column="38" />
-        <mark key="^" line="202" column="38" />
       </file>
       <file name="D:/Project/manul/utility_tool/cluster_handle.cc" timestamp="1566198671344">
         <mark key="d" line="24" column="27" />
@@ -72,11 +63,11 @@
         <mark key="]" line="7" column="38" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566273265466">
-        <mark key="[" line="284" column="9" />
-        <mark key="]" line="284" column="9" />
-        <mark key="^" line="284" column="9" />
-        <mark key="." line="284" column="9" />
+      <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566274677890">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="22" />
+        <mark key="^" line="247" column="20" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="D:/Project/manul/metaserver/renew_chunkserver.cc" timestamp="1566198769961">
         <mark key="[" line="23" column="28" />
@@ -99,21 +90,11 @@
         <mark key="." line="489" column="0" />
         <mark key="^" line="505" column="23" />
       </file>
-      <file name="/fragment.cpp" timestamp="1565948727057">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Project/manul/client/file_client_core.h" timestamp="1566271488746">
         <mark key="[" line="120" column="9" />
         <mark key="]" line="120" column="14" />
         <mark key="." line="120" column="14" />
         <mark key="^" line="120" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1566208697812">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
       </file>
       <file name="D:/Project/manul/chunkserver/manager_handle.cc" timestamp="1566198804385" />
       <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566198839863">
@@ -124,12 +105,7 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="35" />
       </file>
-      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566271215093">
-        <mark key="[" line="225" column="31" />
-        <mark key="]" line="225" column="30" />
-        <mark key="^" line="225" column="30" />
-        <mark key="." line="225" column="30" />
-      </file>
+      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566271215093" />
       <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/local/include/ustevent/stack.h" timestamp="1566203565821" />
       <file name="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" timestamp="1566180445213">
         <mark key="[" line="12" column="0" />
@@ -211,7 +187,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdHJ1Y3QgU3RhdEFyZ3MgewogICAgc3RkOjpzdHJpbmcgcGF0aDsKICAgIEZpbGVTdGF0KiBzdGF0OwoKICAgIC8qCiAgICBzdGQ6OnN0cmluZyBUb1N0cmluZygpIGNvbnN0IHsKICAgICAgcmV0dXJuIEZvcm1hdFN0cmluZygiW1BhdGg6JXMgU3RhdDolc10iLCBwYXRoLmNfc3RyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXQgPyBGaWxlU3RhdFRvU3RyaW5nKCpzdGF0KS5jX3N0cigpIDogIk5VTEwiKSk7CiAgICB9CiAgICAqLwoKICAgIFN0YXRBcmdzKCkgOiBzdGF0KE5VTEwpIHt9CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
       </register>
       <register name="-" type="4">
         <text>worker</text>
@@ -220,7 +196,7 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdHJ1Y3QgU3RhdEFyZ3MgewogICAgc3RkOjpzdHJpbmcgcGF0aDsKICAgIEZpbGVTdGF0KiBzdGF0OwoKICAgIC8qCiAgICBzdGQ6OnN0cmluZyBUb1N0cmluZygpIGNvbnN0IHsKICAgICAgcmV0dXJuIEZvcm1hdFN0cmluZygiW1BhdGg6JXMgU3RhdDolc10iLCBwYXRoLmNfc3RyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKHN0YXQgPyBGaWxlU3RhdFRvU3RyaW5nKCpzdGF0KS5jX3N0cigpIDogIk5VTEwiKSk7CiAgICB9CiAgICAqLwoKICAgIFN0YXRBcmdzKCkgOiBzdGF0KE5VTEwpIHt9CiAgfTsK</text>
+        <text encoding="base64">ICAgICAgKyt1bmtub3duX2NvdW50Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dm9pZCBGaWxlQ2xpZW50SW1wbDo6U3RhdEZzKE1hbnVsQ29udHJvbGxlciogY3RybCwgY29uc3Qgc3RkOjpzdHJpbmcmIHBhdGgsIEZpbGVTeXN0ZW1TdGF0KiBmc19zdGF0LCBNYW51bENhbGxiYWNrIGNhbGxiYWNrKXsKCn0K</text>
