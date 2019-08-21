@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Project/manul/utility_tool/iptables_tool.h" timestamp="1566184134111" />
       <file name="D:/Project/manul/run_clang_format.py" timestamp="1562938603767">
         <mark key="[" line="65" column="80" />
         <mark key="]" line="67" column="29" />
@@ -15,6 +14,12 @@
         <mark key="]" line="27" column="13" />
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/algorithm.cc" timestamp="1566355248524">
+        <mark key="[" line="86" column="56" />
+        <mark key="]" line="84" column="1" />
+        <mark key="^" line="84" column="1" />
+        <mark key="." line="84" column="1" />
       </file>
       <file name="D:/Project/manul/common/file_name_util.h" timestamp="1564113525178">
         <mark key="[" line="14" column="59" />
@@ -108,7 +113,7 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/Project/manul/metaserver/chunkserver_manager.h" timestamp="1564110737451">
+      <file name="D:/Project/manul/metaserver/chunkserver_manager.h" timestamp="1566353518481">
         <mark key="[" line="137" column="15" />
         <mark key="]" line="123" column="46" />
         <mark key="." line="123" column="46" />
@@ -215,6 +220,10 @@
         <mark key="." line="249" column="21" />
         <mark key="^" line="249" column="21" />
       </file>
+      <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566353538335">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="47" />
+      </file>
       <file name="D:/Project/manul/chunkserver/chunk_storage/chunk_formatter.cc" timestamp="1565765230722">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="12" column="23" />
@@ -269,9 +278,9 @@
         <mark key="^" line="38" column="40" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" timestamp="1566209185248">
-        <mark key="[" line="109" column="24" />
-        <mark key="]" line="125" column="20" />
+      <file name="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" timestamp="1566354990441">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="97" column="34" />
         <mark key="." line="125" column="20" />
         <mark key="^" line="125" column="20" />
       </file>
@@ -395,7 +404,6 @@
         <mark key="^" line="108" column="23" />
         <mark key="." line="108" column="23" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/include/gtest/gtest.h" timestamp="1566183882619" />
       <file name="D:/Project/manul/utility_tool/iptables_tool.cc" timestamp="1566196938352">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="69" />
@@ -444,7 +452,6 @@
         <mark key="^" line="141" column="27" />
         <mark key="." line="141" column="27" />
       </file>
-      <file name="/open_file.cc" timestamp="1566279674995" />
       <file name="D:/Project/manul/chunkserver/chunk_storage/raw_device_manager.cc" timestamp="1565236560167">
         <mark key="[" line="411" column="16" />
         <mark key="]" line="411" column="14" />
@@ -463,18 +470,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="D:/Project/manul/chunkserver/manager_handle.cc" timestamp="1566198804385" />
       <file name="D:/Project/manul/metaserver/file_lock_helper.h" timestamp="1564395143306">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="19" column="50" />
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
-      </file>
-      <file name="D:/Project/manul/utility_tool/algorithm.h" timestamp="1566299104794">
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="78" column="22" />
-        <mark key="." line="78" column="22" />
-        <mark key="^" line="78" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/clion64.exe.vmoptions" timestamp="1565948065031">
         <mark key="[" line="6" column="18" />
@@ -494,7 +494,6 @@
         <mark key="." line="86" column="70" />
         <mark key="^" line="86" column="70" />
       </file>
-      <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/local/include/ustevent/stack.h" timestamp="1566203565821" />
       <file name="D:/Project/manul/utility_tool/test_cases/release_file_lock_test.cc" timestamp="1566180445213">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="71" />
@@ -570,16 +569,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgICAgIGJyZWFrOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnJhbmRvbV9kZXZpY2UgcmQ7CiAgc3RkOjptdDE5OTM3IG10KHJkKCkpOwogIHN0ZDo6dW5pZm9ybV9pbnRfZGlzdHJpYnV0aW9uPGludD4gZGlzdCgwLCA4ODg4KTsKICBhdXRvIGRpY2UgPSBzdGQ6OmJpbmQoZGlzdCwgbXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDAsIGN1cl9wYXRoXy5sZW5ndGgoKSAtIDE=</text>
+        <text>FileSizeDiceFunc</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgICAgIGJyZWFrOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnJhbmRvbV9kZXZpY2UgcmQ7CiAgc3RkOjptdDE5OTM3IG10KHJkKCkpOwogIHN0ZDo6dW5pZm9ybV9pbnRfZGlzdHJpYnV0aW9uPGludD4gZGlzdCgwLCA4ODg4KTsKICBhdXRvIGRpY2UgPSBzdGQ6OmJpbmQoZGlzdCwgbXQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY3VyX2Rpcl9udW1fKys7Cg==</text>
