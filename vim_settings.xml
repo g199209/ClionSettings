@@ -94,11 +94,11 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="41" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566380019984">
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="68" column="28" />
-        <mark key="^" line="68" column="28" />
-        <mark key="." line="68" column="28" />
+      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566381634911">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="70" column="42" />
+        <mark key="." line="70" column="42" />
+        <mark key="^" line="70" column="42" />
       </file>
       <file name="D:/Project/manul/utility_tool/CMakeLists.txt" timestamp="1566357101694">
         <mark key="[" line="26" column="47" />
@@ -268,7 +268,7 @@
         <mark key="." line="101" column="88" />
         <mark key="^" line="101" column="88" />
       </file>
-      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566372820899">
+      <file name="D:/Project/manul/include/manul_type.h" timestamp="1566380777540">
         <mark key="[" line="222" column="11" />
         <mark key="]" line="230" column="13" />
         <mark key="^" line="230" column="13" />
@@ -425,7 +425,7 @@
       <file name="D:/Project/manul/client/file_client_impl.h" timestamp="1566271392477">
         <mark key="[" line="43" column="45" />
       </file>
-      <file name="D:/Project/manul/metaserver/uri_table.h" timestamp="1566378643866" />
+      <file name="D:/Project/manul/metaserver/uri_table.h" timestamp="1566381667735" />
       <file name="D:/Project/manul/utility_tool/iptables_tool.cc" timestamp="1566196938352">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="69" />
@@ -444,6 +444,7 @@
         <mark key="." line="80" column="15" />
         <mark key="^" line="80" column="15" />
       </file>
+      <file name="D:/Project/manul/metaserver/simple_uri_table.cc" timestamp="1566381653206" />
       <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.h" timestamp="1566288333588">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="37" column="63" />
@@ -601,7 +602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIGlmIChmaWxlX25vZGUtPnN0YXR1cyAhPSBGSUxFX1NUQVRVU19OT1JNQUwgJiYKLy8gICAgICBmaWxlX25vZGUtPnN0YXR1cyAhPSBGSUxFX1NUQVRVU19TRUFMRUQpIHsKLy8gICAgVUxPR19FUlJPUiA8PCAiRmlsZSBOb2RlIFN0YXR1cyBpcyBub3QgTm9ybWFsL1NlYWxlZDogIgovLyAgICAgICAgICAgICAgIDw8IGZpbGVfbm9kZS0+c3RhdHVzOwovLyAgICBTZW5kUmVzcG9uc2UoTUFOVUxfSU5URVJOQUxfRVJST1IsICJGaWxlIE5vZGUgU3RhdHVzIGlzIG5vdCBOb3JtYWwvU2VhbGVkIik7Ci8vICAgIHJldHVybjsKLy8gIH0K</text>
+        <text encoding="base64">ICAgIAoKCgoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>return 0;</text>
@@ -610,36 +611,34 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplKTsK</text>
+        <text encoding="base64">ICBzdGQ6OmRlcXVlPHN0ZDo6dW5vcmRlcmVkX21hcDxzdGQ6OnN0cmluZywgVGFibGVFbnRyeSo+OjppdGVyYXRvcj4gY3VyX3JlY29yZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIGlmIChmaWxlX25vZGUtPnN0YXR1cyAhPSBGSUxFX1NUQVRVU19OT1JNQUwgJiYKLy8gICAgICBmaWxlX25vZGUtPnN0YXR1cyAhPSBGSUxFX1NUQVRVU19TRUFMRUQpIHsKLy8gICAgVUxPR19FUlJPUiA8PCAiRmlsZSBOb2RlIFN0YXR1cyBpcyBub3QgTm9ybWFsL1NlYWxlZDogIgovLyAgICAgICAgICAgICAgIDw8IGZpbGVfbm9kZS0+c3RhdHVzOwovLyAgICBTZW5kUmVzcG9uc2UoTUFOVUxfSU5URVJOQUxfRVJST1IsICJGaWxlIE5vZGUgU3RhdHVzIGlzIG5vdCBOb3JtYWwvU2VhbGVkIik7Ci8vICAgIHJldHVybjsKLy8gIH0K</text>
+        <text encoding="base64">ICAgIAoKCgoKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNlbmRSZXNwb25zZShyZXQsICJHZXQgRmlsZU5vZGUgRmFpbGVkIik7Cg==</text>
+        <text encoding="base64">ICBpbnQgZGVwdGggPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVwdGgtLTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBGaWxlTm9kZSogZmlsZV9ub2RlOwogIHJldCA9IGdfY29udGV4dC0+R2V0RmlsZU5vZGVUYWJsZSgpLT5HZXRGaWxlTm9kZShmaWxlX2lkLCAmZmlsZV9ub2RlKTsKICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICBVTE9HX0VSUk9SIDw8ICJHZXQgRmlsZU5vZGUgRmFpbGVkIjsKICAgIFNlbmRSZXNwb25zZShyZXQsICJHZXQgRmlsZU5vZGUgRmFpbGVkIik7CiAgICByZXR1cm47CiAgfQo=</text>
+        <text encoding="base64">ICAgIGl0Kys7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBnX2NvbnRleHQtPkdldFVyaVRhYmxlKCkK</text>
+        <text encoding="base64">ICAgIGlmIChpdCA9PSBlbmRfcG9zLmJhY2soKSkgewogICAgICBkZXB0aC0tOwogICAgICBjdXJfcG9zLnBvcF9iYWNrKCk7CiAgICAgIGVuZF9wb3MucG9wX2JhY2soKTsKICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>Create new chunk when most of chunks not exist.
-
-We can create new chunk if most of chunks not exist and other chunks timeout.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICByZWNvcmQucG9wX2JhY2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
