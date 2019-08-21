@@ -140,7 +140,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="44" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566375794148">
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566375807388">
         <mark key="[" line="70" column="42" />
         <mark key="]" line="70" column="42" />
         <mark key="." line="70" column="42" />
@@ -159,7 +159,7 @@
         <mark key="^" line="15" column="35" />
       </file>
       <file name="D:/Project/manul/chunkserver/chunk_storage/device_manager.cc" timestamp="1566374758830" />
-      <file name="D:/Project/manul/metaserver/get_stat.cc" timestamp="1566285176062">
+      <file name="D:/Project/manul/metaserver/get_stat.cc" timestamp="1566376857026">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="41" column="40" />
       </file>
@@ -176,11 +176,11 @@
       <file name="/home/mingfei.gao/Project/manul/utility_tool/CMakeLists.txt" timestamp="1566357092784">
         <mark key="[" line="26" column="47" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566290015533">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="40" />
-        <mark key="^" line="41" column="40" />
+      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566377369497">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="62" column="2" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/Project/manul/utility_tool/CMakeLists.txt" timestamp="1566357101694">
         <mark key="[" line="26" column="47" />
@@ -303,6 +303,7 @@
         <mark key="^" line="37" column="63" />
         <mark key="." line="37" column="63" />
       </file>
+      <file name="D:/Project/manul/common/metaserver_type.h" timestamp="1566377283209" />
       <file name="D:/Project/manul/metaserver/load_data.cc" timestamp="1564111349680">
         <mark key="[" line="48" column="10" />
         <mark key="]" line="68" column="9" />
@@ -474,11 +475,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.h" timestamp="1566285072266">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="24" />
-        <mark key="^" line="35" column="24" />
-        <mark key="." line="35" column="24" />
+      <file name="D:/Project/manul/metaserver/get_stat_fs.h" timestamp="1566376776559">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="D:/Project/manul/metaserver/release_file_lock.cc" timestamp="1565753595188">
         <mark key="[" line="101" column="68" />
@@ -597,10 +598,8 @@
       <jump line="72" column="9" filename="D:/Project/manul/utility_tool/test_cases/algorithm_unit_test.cc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Create new chunk when most of chunks not exist.
-
-We can create new chunk if most of chunks not exist and other chunks timeout.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Z2VuZXJhdG9yLlJ1bigiLyIsICZyZXN1bHRfYXJncyk=</text>
@@ -611,19 +610,19 @@ We can create new chunk if most of chunks not exist and other chunks timeout.</t
       <register name="0" type="2">
         <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBnX2NvbnRleHQtPkdldFVyaVRhYmxlKCkK</text>
+      </register>
+      <register name="3" type="4">
         <text>Create new chunk when most of chunks not exist.
 
 We can create new chunk if most of chunks not exist and other chunks timeout.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -635,10 +634,10 @@ We can create new chunk if most of chunks not exist and other chunks timeout.</t
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IHByb3RlY3RlZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHByb3RlY3RlZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
