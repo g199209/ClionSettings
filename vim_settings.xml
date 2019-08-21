@@ -33,12 +33,6 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="D:/Project/manul/utility_tool/algorithm.cc" timestamp="1566374156452">
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="65" column="23" />
-        <mark key="^" line="65" column="23" />
-        <mark key="." line="65" column="23" />
-      </file>
       <file name="D:/Project/manul/common/offset_table.h" timestamp="1565842114593">
         <mark key="[" line="64" column="19" />
         <mark key="]" line="64" column="20" />
@@ -146,7 +140,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="44" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566374870829">
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566375794148">
         <mark key="[" line="70" column="42" />
         <mark key="]" line="70" column="42" />
         <mark key="." line="70" column="42" />
@@ -333,6 +327,9 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
+      <file name="D:/Project/manul/metaserver/CMakeLists.txt" timestamp="1566375529083">
+        <mark key="[" line="48" column="34" />
+      </file>
       <file name="D:/Project/manul/client/client_flags.cc" timestamp="1566194985194">
         <mark key="[" line="39" column="51" />
         <mark key="]" line="39" column="50" />
@@ -419,11 +416,11 @@
         <mark key="." line="249" column="21" />
         <mark key="^" line="249" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566373963398">
+      <file name="/Dummy.txt" timestamp="1566375612260">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566353538335">
         <mark key="[" line="8" column="0" />
@@ -600,8 +597,10 @@
       <jump line="72" column="9" filename="D:/Project/manul/utility_tool/test_cases/algorithm_unit_test.cc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Create new chunk when most of chunks not exist.
+
+We can create new chunk if most of chunks not exist and other chunks timeout.</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Z2VuZXJhdG9yLlJ1bigiLyIsICZyZXN1bHRfYXJncyk=</text>
@@ -612,11 +611,13 @@
       <register name="0" type="2">
         <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>Create new chunk when most of chunks not exist.
+
+We can create new chunk if most of chunks not exist and other chunks timeout.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -631,13 +632,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IHByb3RlY3RlZDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">IHByb3RlY3RlZDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IHByb3RlY3RlZDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
