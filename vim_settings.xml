@@ -27,6 +27,7 @@
         <mark key="." line="131" column="52" />
         <mark key="^" line="131" column="52" />
       </file>
+      <file name="D:/Project/manul/chunkserver/chunkserver_flags.cc" timestamp="1566374408111" />
       <file name="D:/Project/manul/common/file_name_util.h" timestamp="1564113525178">
         <mark key="[" line="14" column="59" />
         <mark key="]" line="15" column="52" />
@@ -39,17 +40,17 @@
         <mark key="^" line="87" column="38" />
         <mark key="." line="87" column="38" />
       </file>
-      <file name="D:/Project/manul/client/stream_client_impl.cc" timestamp="1566456417449">
-        <mark key="[" line="133" column="8" />
-        <mark key="]" line="133" column="7" />
-        <mark key="^" line="133" column="7" />
-        <mark key="." line="133" column="7" />
+      <file name="D:/Project/manul/client/stream_client_impl.cc" timestamp="1566458997667">
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="^" line="78" column="24" />
+        <mark key="." line="78" column="24" />
       </file>
-      <file name="D:/Project/manul/client/client_type.cc" timestamp="1566456447530">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="D:/Project/manul/client/client_type.cc" timestamp="1566457392883">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/Project/manul/metaserver/replication_manager.cc" timestamp="1565751692234">
         <mark key="[" line="452" column="58" />
@@ -69,11 +70,11 @@
         <mark key="^" line="80" column="50" />
         <mark key="." line="80" column="50" />
       </file>
-      <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1566286109470">
-        <mark key="[" line="242" column="19" />
-        <mark key="]" line="242" column="67" />
-        <mark key="^" line="242" column="67" />
-        <mark key="." line="242" column="67" />
+      <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1566457976531">
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="157" column="49" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="D:/Project/manul/metaserver/file_lock_helper.cc" timestamp="1564395429635">
         <mark key="[" line="40" column="0" />
@@ -87,11 +88,11 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="D:/Project/manul/client/unittest/client_type_unittest.cc" timestamp="1566456467019">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+      <file name="D:/Project/manul/client/unittest/client_type_unittest.cc" timestamp="1566457532312">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566455972890">
         <mark key="[" line="53" column="8" />
@@ -105,9 +106,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat.cc" timestamp="1566376857026">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="41" column="40" />
+      <file name="D:/Project/manul/client/manager_handle.cc" timestamp="1566457421964">
+        <mark key="[" line="150" column="8" />
+        <mark key="]" line="150" column="7" />
+        <mark key="^" line="150" column="7" />
+        <mark key="." line="150" column="7" />
       </file>
       <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566443213152">
         <mark key="[" line="91" column="0" />
@@ -145,6 +148,7 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
+      <file name="D:/Project/scripts/client.20190729-132722.dell_udisk_ssd.72129.log" timestamp="1566374308304" />
       <file name="D:/Project/manul/client/cluster_file_client.h" timestamp="1566285435788">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="79" column="30" />
@@ -152,10 +156,9 @@
         <mark key="^" line="79" column="30" />
       </file>
       <file name="D:/Project/manul/utility_tool/file_manager.h" timestamp="1566452867871">
-        <mark key="[" line="44" column="57" />
-        <mark key="]" line="46" column="62" />
-        <mark key="^" line="46" column="62" />
-        <mark key="." line="46" column="62" />
+        <mark key="]" line="26" column="62" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="26" column="62" />
       </file>
       <file name="D:/Project/manul/chunkserver/io_loop_handle.h" timestamp="1564989602515">
         <mark key="[" line="5" column="0" />
@@ -163,6 +166,7 @@
         <mark key="^" line="43" column="51" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/Project/manul/common/metaserver_type.h" timestamp="1566377283209" />
       <file name="D:/Project/manul/metaserver/delete_file.h" timestamp="1564389663849">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="39" />
@@ -181,10 +185,8 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="D:/Project/manul/metaserver/delete_directory.cc" timestamp="1566441248913">
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="49" />
-      </file>
+      <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h" timestamp="1566458139357" />
+      <file name="D:/Project/manul/metaserver/uri_table_type.h" timestamp="1566379463052" />
       <file name="D:/Project/manul/utility_tool/utility_entry.h" timestamp="1563788394347">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="14" column="0" />
@@ -227,7 +229,7 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="46" />
       </file>
-      <file name="/fragment.cpp" timestamp="1566456481324">
+      <file name="/fragment.cpp" timestamp="1566457375410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -263,10 +265,10 @@
         <mark key="^" line="721" column="36" />
       </file>
       <file name="D:/Project/manul/metaserver/open_file.h" timestamp="1565753410698">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="36" />
+        <mark key="^" line="47" column="36" />
+        <mark key="." line="47" column="36" />
       </file>
       <file name="D:/Project/manul/metaserver/release_file_lock.cc" timestamp="1565753595188">
         <mark key="[" line="101" column="68" />
@@ -376,6 +378,7 @@
         <mark key="^" line="178" column="52" />
         <mark key="." line="178" column="52" />
       </file>
+      <file name="D:/Project/manul/chunkserver/chunk_storage/device_manager.cc" timestamp="1566374758830" />
       <file name="D:/Project/manul/metaserver/simple_file_node_table.h" timestamp="1564373350562">
         <mark key="[" line="30" column="61" />
         <mark key="]" line="32" column="9" />
@@ -424,6 +427,7 @@
         <mark key="^" line="108" column="23" />
         <mark key="." line="108" column="23" />
       </file>
+      <file name="D:/Project/manul/metaserver/uri_table.h" timestamp="1566440884381" />
       <file name="D:/Project/manul/utility_tool/iptables_tool.cc" timestamp="1566196938352">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="69" />
@@ -436,18 +440,7 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566455839008">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="16" />
-        <mark key="^" line="78" column="32" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="D:/Project/manul/utility_tool/file_manager.cc" timestamp="1566453293790">
-        <mark key="[" line="60" column="63" />
-        <mark key="]" line="60" column="64" />
-        <mark key="." line="60" column="64" />
-        <mark key="^" line="60" column="64" />
-      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566455839008" />
       <file name="D:/Project/manul/metaserver/simple_uri_table.cc" timestamp="1566441795440">
         <mark key="[" line="416" column="3" />
         <mark key="]" line="417" column="1" />
@@ -465,6 +458,12 @@
         <mark key="]" line="68" column="9" />
         <mark key="." line="68" column="9" />
         <mark key="^" line="68" column="9" />
+      </file>
+      <file name="D:/Project/manul/client/stream_client_impl.h" timestamp="1566458192038">
+        <mark key="[" line="58" column="10" />
+        <mark key="]" line="58" column="9" />
+        <mark key="^" line="58" column="9" />
+        <mark key="." line="58" column="9" />
       </file>
       <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566279673859">
         <mark key="[" line="266" column="41" />
@@ -484,6 +483,12 @@
         <mark key="^" line="141" column="27" />
         <mark key="." line="141" column="27" />
       </file>
+      <file name="D:/Project/manul/client/client_type.h" timestamp="1566459119605">
+        <mark key="[" line="8" column="71" />
+        <mark key="]" line="8" column="70" />
+        <mark key="^" line="8" column="70" />
+        <mark key="." line="8" column="70" />
+      </file>
       <file name="D:/Project/manul/chunkserver/chunk_storage/raw_device_manager.cc" timestamp="1565236560167">
         <mark key="[" line="411" column="16" />
         <mark key="]" line="411" column="14" />
@@ -495,11 +500,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566456480226">
+      <file name="/Dummy.txt" timestamp="1566459198330">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="D:/Project/manul/utility_tool/crush_calculator.h" timestamp="1564110070897">
         <mark key="[" line="24" column="22" />
@@ -612,44 +617,44 @@
       <jump line="72" column="9" filename="D:/Project/manul/utility_tool/test_cases/algorithm_unit_test.cc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dG1wCgpTaWduZWQtb2ZmLWJ5OiBHYW8gTWluZ2ZlaSA8bWluZ2ZlaS5nYW9AdWNsb3VkLmNuPg==</text>
       </register>
       <register name="-" type="4">
-        <text>total_file_num</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoY3RybF8uSXNPaygpKSB7CiAgICBjdl8ud2FpdChsY2spOwogIH0gZWxzZSB7CiAgICBleGVjX3JldF8gPSBjdHJsXy5HZXRFcnJubygpOwogIH0K</text>
+        <text encoding="base64">ICAqd29ya2VyX2lkID0gKHVpbnQxNl90KShoYW5kbGUgJiAweEZGRkZVTEwpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dG1wCgpTaWduZWQtb2ZmLWJ5OiBHYW8gTWluZ2ZlaSA8bWluZ2ZlaS5nYW9AdWNsb3VkLmNuPg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB1aW50MTZfdCBhbGxvY19jb3VudF9pZDsKICB1aW50MzJfdCBpdGVtX2lkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludDMyX3QgcmV0Owo=</text>
+        <text encoding="base64">ICBEZWNvZGVGaWxlSGFuZGxlKGhhbmRsZSwgJndvcmtlcl9pZCwgJmFsbG9jX2NvdW50X2lkLCAmaXRlbV9pZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAqd29ya2VyX2lkID0gKHVpbnQzMl90KShoYW5kbGUgPDwgNDggPj4gNDgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAgIGludDMyX3QgcmV0Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
