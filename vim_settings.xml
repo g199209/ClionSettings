@@ -64,12 +64,7 @@
         <mark key="^" line="40" column="23" />
         <mark key="." line="40" column="23" />
       </file>
-      <file name="D:/Project/manul/include/manul_errorcode_def.h" timestamp="1566467770045">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="61" />
-        <mark key="^" line="39" column="61" />
-        <mark key="." line="39" column="61" />
-      </file>
+      <file name="D:/Project/manul/include/manul_errorcode_def.h" timestamp="1566474150896" />
       <file name="D:/Project/manul/client/file_client_impl.cc" timestamp="1566457976531">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -94,6 +89,10 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
+      <file name="D:/Project/manul/tool/manul_chunkserver_append.cc" timestamp="1566374774934">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="44" />
+      </file>
       <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566463555653">
         <mark key="[" line="147" column="70" />
         <mark key="]" line="147" column="77" />
@@ -111,6 +110,10 @@
         <mark key="]" line="150" column="7" />
         <mark key="^" line="150" column="7" />
         <mark key="." line="150" column="7" />
+      </file>
+      <file name="D:/Project/manul/metaserver/get_stat.h" timestamp="1566285058127">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="41" />
       </file>
       <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566288738539">
         <mark key="[" line="4" column="0" />
@@ -235,6 +238,10 @@
         <mark key="." line="249" column="21" />
         <mark key="^" line="249" column="21" />
       </file>
+      <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566353538335">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="47" />
+      </file>
       <file name="D:/Project/manul/chunkserver/chunk_storage/chunk_formatter.cc" timestamp="1565765230722">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="12" column="23" />
@@ -283,10 +290,11 @@
         <mark key="^" line="38" column="40" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" timestamp="1566468407369">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
+      <file name="D:/Project/manul/utility_tool/test_cases/basic_function_test.cc" timestamp="1566475061406">
+        <mark key="[" line="185" column="32" />
+        <mark key="]" line="190" column="50" />
+        <mark key="." line="190" column="50" />
+        <mark key="^" line="190" column="50" />
       </file>
       <file name="D:/Project/manul/metaserver/client_manager.h" timestamp="1564739008604">
         <mark key="[" line="0" column="8" />
@@ -361,8 +369,8 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
-      <file name="D:/Project/manul/common/manul_flags.cc" timestamp="1566452242798">
-        <mark key="[" line="48" column="63" />
+      <file name="D:/Project/manul/common/manul_flags.cc" timestamp="1566474833449">
+        <mark key="[" line="48" column="65" />
         <mark key="]" line="48" column="62" />
         <mark key="^" line="48" column="62" />
         <mark key="." line="48" column="62" />
@@ -441,6 +449,10 @@
         <mark key="^" line="58" column="9" />
         <mark key="." line="58" column="9" />
       </file>
+      <file name="D:/Project/manul/tool/manul_chunkserver_perf_para.cc" timestamp="1566472047037">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="44" />
+      </file>
       <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566279673859">
         <mark key="[" line="266" column="41" />
         <mark key="]" line="266" column="55" />
@@ -476,11 +488,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566468539557">
+      <file name="D:/Project/manul/common/chunkserver_type.h" timestamp="1566473677545" />
+      <file name="/Dummy.txt" timestamp="1566475050173">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="4" />
       </file>
       <file name="D:/Project/manul/utility_tool/crush_calculator.h" timestamp="1564110070897">
@@ -595,48 +608,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BasicFunction</text>
+        <text>Add append length exceed chunk size check.
+
+Return error when append length exceed chunk size now.</text>
       </register>
       <register name="-" type="4">
-        <text>BasicFunction</text>
+        <text>AppendLengthEqualToChunkSize</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVGSU5FX01BTlVMX0VSUk9SQ09ERShNQU5VTF9aRVJPX0xFTkdUSF9FUlJPUiwgLTE2LAogICAgICAgICAgICAgICAgICAgICAgICJQUmVhZCBvciBBcHBlbmQgbGVuZ3RoIHplcm8iKTsK</text>
+        <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgY2h1bmtfc2l6ZV9saW1pdF8gLSAxLCAmb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Add append length exceed chunk size check.
+
+Return error when append length exceed chunk size now.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDo6bWVtY21wKCkK</text>
+        <text encoding="base64">ICAgICAgRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplIC8gNDA5NiAqICg0MDk2IC0gY2h1bmtzZXJ2ZXI6OlNFQ1RPUl9NRVRBX1NJWkUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBBcHBlbmQoZmQsIG51bGxwdHIsIC0xLCBudWxscHRyKTsKICBFWFBFQ1RfRVEoTUFOVUxfTEVOR1RIX0VYQ0VFRF9MSU1JVF9FUlJPUiwgZXhlY19yZXRfKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib29sIGxzX2hhc19tb3JlXzsKICBzdGQ6OnZlY3RvcjxzdGQ6OnN0cmluZz4gbHNfZW50cmllc187Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>Fix alloc_count width bug in ManulFileHandle.
-
-alloc_count should be uint16_t rather than uint32_t.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBlbmQoZmQsIG51bGxwdHIsIDAsIG51bGxwdHIpOwogIEVYUEVDVF9FUShNQU5VTF9aRVJPX0xFTkdUSF9FUlJPUiwgZXhlY19yZXRfKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICBpZiAoYXJncy5sZW5ndGggPiBmaWxlX21ldGFfcGJfLmNodW5rX3NpemUoKSkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgMjUwMGx1ICogMTAyNGx1ICogMTAyNGx1ICogMTAyNGx1IC8gRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplOwo=</text>
+        <text encoding="base64">ICAgIDo6bWVtY21wKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>144</text>
+        <text>1018</text>
       </register>
     </registers>
     <search>
@@ -661,7 +676,6 @@ alloc_count should be uint16_t rather than uint32_t.</text>
         <entry>Submit</entry>
       </history-search>
       <history-cmd>
-        <entry>275</entry>
         <entry>295</entry>
         <entry>450</entry>
         <entry>921</entry>
@@ -681,6 +695,7 @@ alloc_count should be uint16_t rather than uint32_t.</text>
         <entry>570</entry>
         <entry>w</entry>
         <entry>144</entry>
+        <entry>1018</entry>
       </history-cmd>
       <history-expr />
       <history-input />
