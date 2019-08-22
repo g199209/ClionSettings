@@ -27,7 +27,6 @@
         <mark key="." line="131" column="52" />
         <mark key="^" line="131" column="52" />
       </file>
-      <file name="D:/Project/manul/chunkserver/chunkserver_flags.cc" timestamp="1566374408111" />
       <file name="D:/Project/manul/common/file_name_util.h" timestamp="1564113525178">
         <mark key="[" line="14" column="59" />
         <mark key="]" line="15" column="52" />
@@ -39,6 +38,18 @@
         <mark key="]" line="87" column="38" />
         <mark key="^" line="87" column="38" />
         <mark key="." line="87" column="38" />
+      </file>
+      <file name="D:/Project/manul/client/stream_client_impl.cc" timestamp="1566456417449">
+        <mark key="[" line="133" column="8" />
+        <mark key="]" line="133" column="7" />
+        <mark key="^" line="133" column="7" />
+        <mark key="." line="133" column="7" />
+      </file>
+      <file name="D:/Project/manul/client/client_type.cc" timestamp="1566456447530">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="D:/Project/manul/metaserver/replication_manager.cc" timestamp="1565751692234">
         <mark key="[" line="452" column="58" />
@@ -76,11 +87,17 @@
         <mark key="^" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566452670224">
-        <mark key="[" line="87" column="26" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="87" column="25" />
-        <mark key="^" line="87" column="25" />
+      <file name="D:/Project/manul/client/unittest/client_type_unittest.cc" timestamp="1566456467019">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+      </file>
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566455972890">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="54" column="16" />
       </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
@@ -128,7 +145,6 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="D:/Project/scripts/client.20190729-132722.dell_udisk_ssd.72129.log" timestamp="1566374308304" />
       <file name="D:/Project/manul/client/cluster_file_client.h" timestamp="1566285435788">
         <mark key="[" line="79" column="29" />
         <mark key="]" line="79" column="30" />
@@ -147,7 +163,6 @@
         <mark key="^" line="43" column="51" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Project/manul/common/metaserver_type.h" timestamp="1566377283209" />
       <file name="D:/Project/manul/metaserver/delete_file.h" timestamp="1564389663849">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="39" />
@@ -166,7 +181,6 @@
         <mark key="." line="39" column="50" />
         <mark key="^" line="39" column="50" />
       </file>
-      <file name="D:/Project/manul/metaserver/uri_table_type.h" timestamp="1566379463052" />
       <file name="D:/Project/manul/metaserver/delete_directory.cc" timestamp="1566441248913">
         <mark key="[" line="76" column="2" />
         <mark key="]" line="76" column="49" />
@@ -213,7 +227,7 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="46" />
       </file>
-      <file name="/fragment.cpp" timestamp="1566444437028">
+      <file name="/fragment.cpp" timestamp="1566456481324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -362,7 +376,6 @@
         <mark key="^" line="178" column="52" />
         <mark key="." line="178" column="52" />
       </file>
-      <file name="D:/Project/manul/chunkserver/chunk_storage/device_manager.cc" timestamp="1566374758830" />
       <file name="D:/Project/manul/metaserver/simple_file_node_table.h" timestamp="1564373350562">
         <mark key="[" line="30" column="61" />
         <mark key="]" line="32" column="9" />
@@ -411,7 +424,6 @@
         <mark key="^" line="108" column="23" />
         <mark key="." line="108" column="23" />
       </file>
-      <file name="D:/Project/manul/metaserver/uri_table.h" timestamp="1566440884381" />
       <file name="D:/Project/manul/utility_tool/iptables_tool.cc" timestamp="1566196938352">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="69" />
@@ -424,11 +436,11 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566366987096">
-        <mark key="[" line="78" column="59" />
-        <mark key="]" line="80" column="15" />
-        <mark key="." line="80" column="15" />
-        <mark key="^" line="80" column="15" />
+      <file name="D:/Project/manul/utility_tool/test_cases/common_test_case_base.cc" timestamp="1566455839008">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="16" />
+        <mark key="^" line="78" column="32" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="D:/Project/manul/utility_tool/file_manager.cc" timestamp="1566453293790">
         <mark key="[" line="60" column="63" />
@@ -483,7 +495,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566449843702">
+      <file name="/Dummy.txt" timestamp="1566456480226">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -600,8 +612,8 @@
       <jump line="72" column="9" filename="D:/Project/manul/utility_tool/test_cases/algorithm_unit_test.cc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>total_file_num</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>total_file_num</text>
@@ -610,37 +622,37 @@
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3V0IDw8IENPTE9SKEJMVUUsICJUb3RhbCBMb2dpY2FsIFNpemU6ICIpIDw8IGZzX3N0YXQtPnRvdGFsX2ZpbGVfbnVtIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICBpZiAoY3RybF8uSXNPaygpKSB7CiAgICBjdl8ud2FpdChsY2spOwogIH0gZWxzZSB7CiAgICBleGVjX3JldF8gPSBjdHJsXy5HZXRFcnJubygpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U3RhdEZzVGVzdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBFWFBFQ1RfRVEoIi8iLCBmc19zdGF0Xy5wYXRoKTsKICBFWFBFQ1RfRVEocmVzdWx0X2FyZ3MucmVhbF9kaXJfbnVtLCBmc19zdGF0Xy50b3RhbF9kaXJfbnVtKTsKICBFWFBFQ1RfRVEocmVzdWx0X2FyZ3MucmVhbF9maWxlX251bSwgZnNfc3RhdF8udG90YWxfZmlsZV9udW0pOwogIEVYUEVDVF9FUShyZXN1bHRfYXJncy50b3RhbF9maWxlX3NpemUsIGZzX3N0YXRfLnRvdGFsX2xvZ2ljYWxfc2l6ZSk7CiAgRVhQRUNUX0VRKHJlc3VsdF9hcmdzLnJlYWxfZmlsZV9udW0gKiBGTEFHU19tYW51bF9jaHVua3NlcnZlcl9DaHVua1NpemUsCiAgICAgICAgICAgIGZzX3N0YXRfLnRvdGFsX3BoeXNpY2FsX3NpemUpOwo=</text>
+        <text encoding="base64">ICAgIGludDMyX3QgcmV0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBFWFBFQ1RfRVEoIi8iLCBmc19zdGF0Xy5wYXRoKTsKICBFWFBFQ1RfRVEoMCwgZnNfc3RhdF8udG90YWxfcGh5c2ljYWxfc2l6ZSk7CiAgRVhQRUNUX0VRKDAsIGZzX3N0YXRfLnRvdGFsX2xvZ2ljYWxfc2l6ZSk7CiAgRVhQRUNUX0VRKDAsIGZzX3N0YXRfLnRvdGFsX2ZpbGVfbnVtKTsKICBFWFBFQ1RfRVEoMCwgZnNfc3RhdF8udG90YWxfZGlyX251bSk7Cg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uL3Rlc3RfY2FzZXMvY29tbW9uX3Rlc3RfY2FzZV9iYXNlLmgiCg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RnNUcmVlR2VuZXJhdG9yCg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgRnNUcmVlR2VuZXJhdG9yVGVzdCA6IHB1YmxpYyB0ZXN0aW5nOjpUZXN0ICB7CiBwcm90ZWN0ZWQ6CiAgdWludDY0X3QgQ2hlY2tQYXRoRGVwdGgoY29uc3Qgc3RkOjpzdHJpbmcmIHBhdGgpIHsKICAgIHJldHVybiBzdGQ6OmNvdW50KHBhdGguYmVnaW4oKSwgcGF0aC5lbmQoKSwgJy8nKTsKICB9Cn07Cg==</text>
+        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8KICA8PCAiVEVTVDogQWxnb3JpdGhtVW5pdFRlc3QuRGljZUZ1bmNHZW5lcmF0b3JfR2V0Tm9ybWFsVWludDY0RGljZUZ1bmMiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>144</text>
       </register>
     </registers>
     <search>
@@ -665,7 +677,6 @@
         <entry>Submit</entry>
       </history-search>
       <history-cmd>
-        <entry>675</entry>
         <entry>275</entry>
         <entry>295</entry>
         <entry>450</entry>
@@ -685,6 +696,7 @@
         <entry>70</entry>
         <entry>570</entry>
         <entry>w</entry>
+        <entry>144</entry>
       </history-cmd>
       <history-expr />
       <history-input />
