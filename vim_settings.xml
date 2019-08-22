@@ -94,11 +94,11 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566455972890">
-        <mark key="[" line="53" column="8" />
-        <mark key="]" line="54" column="16" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="54" column="16" />
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566463555653">
+        <mark key="[" line="147" column="70" />
+        <mark key="]" line="147" column="77" />
+        <mark key="." line="147" column="77" />
+        <mark key="^" line="147" column="77" />
       </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
@@ -111,12 +111,6 @@
         <mark key="]" line="150" column="7" />
         <mark key="^" line="150" column="7" />
         <mark key="." line="150" column="7" />
-      </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566443213152">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="26" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="104" column="22" />
       </file>
       <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566288738539">
         <mark key="[" line="4" column="0" />
@@ -495,9 +489,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566459198330">
+      <file name="/Dummy.txt" timestamp="1566463585052">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
@@ -613,43 +607,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG1wCgpTaWduZWQtb2ZmLWJ5OiBHYW8gTWluZ2ZlaSA8bWluZ2ZlaS5nYW9AdWNsb3VkLmNuPg==</text>
+        <text>4096</text>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>4096</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAqd29ya2VyX2lkID0gKHVpbnQxNl90KShoYW5kbGUgJiAweEZGRkZVTEwpOwo=</text>
+        <text encoding="base64">ICB1aW50NjRfdCBmaWxlX3NpemVfbWluID0gRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplICogMTA7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dG1wCgpTaWduZWQtb2ZmLWJ5OiBHYW8gTWluZ2ZlaSA8bWluZ2ZlaS5nYW9AdWNsb3VkLmNuPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgMjUwMGx1ICogMTAyNGx1ICogMTAyNGx1ICogMTAyNGx1IC8gRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1aW50MTZfdCBhbGxvY19jb3VudF9pZDsKICB1aW50MzJfdCBpdGVtX2lkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBEZWNvZGVGaWxlSGFuZGxlKGhhbmRsZSwgJndvcmtlcl9pZCwgJmFsbG9jX2NvdW50X2lkLCAmaXRlbV9pZCk7Cg==</text>
+        <text encoding="base64">ICBpbnQgcmV0Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAqd29ya2VyX2lkID0gKHVpbnQzMl90KShoYW5kbGUgPDwgNDggPj4gNDgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">dG1wCgpTaWduZWQtb2ZmLWJ5OiBHYW8gTWluZ2ZlaSA8bWluZ2ZlaS5nYW9AdWNsb3VkLmNuPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICB1aW50MTZfdCBhbGxvY19jb3VudF9pZDsKICB1aW50MzJfdCBpdGVtX2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBEZWNvZGVGaWxlSGFuZGxlKGhhbmRsZSwgJndvcmtlcl9pZCwgJmFsbG9jX2NvdW50X2lkLCAmaXRlbV9pZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludDMyX3QgcmV0Owo=</text>
+        <text encoding="base64">ICAqd29ya2VyX2lkID0gKHVpbnQzMl90KShoYW5kbGUgPDwgNDggPj4gNDgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjdl8ud2FpdChsY2spOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
