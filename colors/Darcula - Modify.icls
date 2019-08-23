@@ -4,12 +4,12 @@
     <property name="created">2019-07-02T19:49:11</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.4.0.0</property>
-    <property name="modified">2019-08-15T11:24:07</property>
+    <property name="modified">2019-08-23T09:13:26</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="0.6" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <attributes>
     <option name="OC.ENUM_CONST">
       <value>
