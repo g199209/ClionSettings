@@ -6,4 +6,7 @@
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Kai" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_CARET_BLINKING" value="false" />
+  </component>
 </application>
