@@ -93,11 +93,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="44" />
       </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566527501635">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="146" column="64" />
-        <mark key="." line="146" column="64" />
-        <mark key="^" line="146" column="64" />
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566529018887">
+        <mark key="[" line="179" column="33" />
+        <mark key="]" line="179" column="40" />
+        <mark key="." line="179" column="40" />
+        <mark key="^" line="179" column="40" />
       </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
@@ -608,12 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Add append length exceed chunk size check.
-
-Return error when append length exceed chunk size now.</text>
+        <text>MultiChunkFile</text>
       </register>
       <register name="-" type="4">
-        <text>AppendLengthEqualToChunkSize</text>
+        <text>MultiChunkFile</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
@@ -622,33 +620,33 @@ Return error when append length exceed chunk size now.</text>
         <text encoding="base64">ICBBcHBlbmQoZmQsIGlvX2J1ZiwgY2h1bmtfc2l6ZV9saW1pdF8gLSAxLCAmb2Zmc2V0KTsKICBFWFBFQ1RfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICB1aW50NjRfdCBtYXhfaW9fc2l6ZSA9IEZMQUdTX21hbnVsX2NodW5rc2VydmVyX0NodW5rU2l6ZSAvIDQwOTYgKgogICAgICAgICg0MDk2IC0gY2h1bmtzZXJ2ZXI6OlNFQ1RPUl9NRVRBX1NJWkUpOw==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGVsZXRlW10gaW9fYnVmOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaW50MzJfdCByZXQgPSBNQU5VTF9PSzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEFwcGVuZChmZCwgaW9fYnVmLCBmaWxlX3NpemUsICZvZmZzZXQpOwogICAgZGVsZXRlW10gaW9fYnVmOwogICAgRVhQRUNUX0VRKE1BTlVMX09LLCBleGVjX3JldF8pOwogICAgaW50MzJfdCByZXQgPSBNQU5VTF9PSzsKICAgIGlmIChleGVjX3JldF8gIT0gTUFOVUxfT0spIHsKICAgICAgcmV0ID0gZXhlY19yZXRfOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1hbnVsRmlsZU9mZnNldCBvZmZzZXQ7Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>Add append length exceed chunk size check.
 
 Return error when append length exceed chunk size now.</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfQ2h1bmtTaXplIC8gNDA5NiAqICg0MDk2IC0gY2h1bmtzZXJ2ZXI6OlNFQ1RPUl9NRVRBX1NJWkUpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBBcHBlbmQoZmQsIG51bGxwdHIsIC0xLCBudWxscHRyKTsKICBFWFBFQ1RfRVEoTUFOVUxfTEVOR1RIX0VYQ0VFRF9MSU1JVF9FUlJPUiwgZXhlY19yZXRfKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBBcHBlbmQoZmQsIG51bGxwdHIsIDAsIG51bGxwdHIpOwogIEVYUEVDVF9FUShNQU5VTF9aRVJPX0xFTkdUSF9FUlJPUiwgZXhlY19yZXRfKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDo6bWVtY21wKCkK</text>
+        <text encoding="base64">ICBBcHBlbmQoZmQsIG51bGxwdHIsIC0xLCBudWxscHRyKTsKICBFWFBFQ1RfRVEoTUFOVUxfTEVOR1RIX0VYQ0VFRF9MSU1JVF9FUlJPUiwgZXhlY19yZXRfKTsK</text>
       </register>
       <register name=":" type="4">
         <text>1018</text>
