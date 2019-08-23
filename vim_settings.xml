@@ -89,15 +89,11 @@
         <mark key="^" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="D:/Project/manul/tool/manul_chunkserver_append.cc" timestamp="1566374774934">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="44" />
-      </file>
-      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566546631536">
-        <mark key="[" line="160" column="59" />
-        <mark key="]" line="160" column="57" />
-        <mark key="." line="160" column="57" />
-        <mark key="^" line="160" column="57" />
+      <file name="D:/Project/manul/utility_tool/test_cases/stat_fs_test.cc" timestamp="1566554000178">
+        <mark key="[" line="362" column="33" />
+        <mark key="]" line="364" column="74" />
+        <mark key="." line="364" column="74" />
+        <mark key="^" line="364" column="74" />
       </file>
       <file name="D:/Project/manul/client/dispatcher.cc" timestamp="1566207000044">
         <mark key="[" line="17" column="0" />
@@ -111,14 +107,11 @@
         <mark key="^" line="150" column="7" />
         <mark key="." line="150" column="7" />
       </file>
-      <file name="D:/Project/manul/metaserver/get_stat.h" timestamp="1566285058127">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="41" />
-      </file>
-      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566543777895">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+      <file name="D:/Project/manul/metaserver/get_stat_fs.cc" timestamp="1566553299167">
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="152" column="57" />
+        <mark key="." line="152" column="57" />
+        <mark key="^" line="152" column="57" />
       </file>
       <file name="D:/Project/manul/utility_tool/test_cases/client_seal_timeout_test.cc" timestamp="1566545450299">
         <mark key="[" line="104" column="0" />
@@ -175,11 +168,11 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="D:/Project/manul/client/client_flags.cc" timestamp="1566194985194">
-        <mark key="[" line="39" column="51" />
-        <mark key="]" line="39" column="50" />
-        <mark key="." line="39" column="50" />
-        <mark key="^" line="39" column="50" />
+      <file name="D:/Project/manul/client/client_flags.cc" timestamp="1566551431678">
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/.CLion2019.1/system/.remote/127.0.0.1_1234/c8a6d40d-26f8-42d1-ad6b-fec239e12715/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/limits.h" timestamp="1566458139357" />
       <file name="D:/Project/manul/metaserver/uri_table_type.h" timestamp="1566379463052" />
@@ -236,10 +229,6 @@
         <mark key="]" line="249" column="21" />
         <mark key="." line="249" column="21" />
         <mark key="^" line="249" column="21" />
-      </file>
-      <file name="D:/Project/manul/metaserver/chunkserver_manager.cc" timestamp="1566353538335">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="47" />
       </file>
       <file name="D:/Project/manul/chunkserver/chunk_storage/chunk_formatter.cc" timestamp="1565765230722">
         <mark key="[" line="17" column="23" />
@@ -369,6 +358,7 @@
         <mark key="^" line="32" column="9" />
         <mark key="." line="32" column="9" />
       </file>
+      <file name="D:/Project/manul/utility_tool/cluster_monitor.cc" timestamp="1566552883009" />
       <file name="D:/Project/manul/common/manul_flags.cc" timestamp="1566549521006">
         <mark key="[" line="48" column="65" />
         <mark key="]" line="48" column="62" />
@@ -453,10 +443,6 @@
         <mark key="^" line="58" column="9" />
         <mark key="." line="58" column="9" />
       </file>
-      <file name="D:/Project/manul/tool/manul_chunkserver_perf_para.cc" timestamp="1566472047037">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="44" />
-      </file>
       <file name="D:/Project/manul/metaserver/open_file.cc" timestamp="1566279673859">
         <mark key="[" line="266" column="41" />
         <mark key="]" line="266" column="55" />
@@ -488,9 +474,9 @@
         <mark key="." line="411" column="14" />
       </file>
       <file name="D:/Project/manul/common/chunkserver_type.h" timestamp="1566473677545" />
-      <file name="/Dummy.txt" timestamp="1566549615173">
+      <file name="/Dummy.txt" timestamp="1566554106993">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="4" />
@@ -607,59 +593,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Finish StatFs function.
-
-1. Support StatFs()
-2. Add test cases
-3. Add random file system generator
-4. Refine code
-
-TEST: StatFsTest.*</text>
+        <text>Add utility tool du help info.</text>
       </register>
       <register name="-" type="4">
-        <text>result_args</text>
+        <text>Add utility tool du help info.</text>
       </register>
       <register name="/" type="4">
         <text>Submit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICIgICAgIiA8PCBDT01NQU5EX0ZJTEVfU1RBVF9TVFIgPDwgIiAiIDw8IFVOREVSTElORSgicGF0aCIpIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICBGc1RyZWVHZW5lcmF0b3I6OlJlc3VsdEFyZ3MgcmVzdWx0X2FyZ3M7CiAgcmVzdWx0X2FyZ3MudG90YWxfY2h1bmtfbnVtID0gMyArIDIgKyAxOwogIHJlc3VsdF9hcmdzLnRvdGFsX2ZpbGVfc2l6ZSA9IGZpbGVfc2l6ZSAqIDM7CiAgcmVzdWx0X2FyZ3MucmVhbF9maWxlX251bSA9IDM7CiAgcmVzdWx0X2FyZ3MucmVhbF9kaXJfbnVtID0gMDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Finish StatFs function.
-
-1. Support StatFs()
-2. Add test cases
-3. Add random file system generator
-4. Refine code
-
-TEST: StatFsTest.*</text>
-      </register>
-      <register name="2" type="4">
-        <text>Add critical length test case.
-
-TEST: BasicIOTest.AppendLengthCritical</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBBU1NFUlRfRVEoMCwgcmV0KTsK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBGc1RyZWVHZW5lcmF0b3I6OlJlc3VsdEFyZ3MgcmVzdWx0X2FyZ3M7CiAgcmVzdWx0X2FyZ3MudG90YWxfY2h1bmtfbnVtID0gKChmaWxlX3NpemUgLSAxKSAvIGNodW5rX2RhdGFfc2l6ZV8gKyAxKSAqIDM7CiAgcmVzdWx0X2FyZ3MudG90YWxfZmlsZV9zaXplID0gZmlsZV9zaXplOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gIEp1ZGdlUmVzdWx0KCIvVTMyT3ZlcmZsb3ciLCByZXN1bHRfYXJncyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXN1bHRfYXJncy5yZWFsX2ZpbGVfbnVtID0gMTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBU1NFUlRfRVEoMCwgcmV0KTsK</text>
+        <text encoding="base64">ICByZXN1bHRfYXJncy5yZWFsX2Rpcl9udW0gPSAwOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gOjpzeXN0ZW0oY21kLmNfc3RyKCkpOwo=</text>
+        <text encoding="base64">ICBEZWxldGUoIi8iKTsKICBBU1NFUlRfRVEoTUFOVUxfT0ssIGV4ZWNfcmV0Xyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKmxvZ2ljYWxfc2l6ZSA9IGZpbGVfbm9kZS0+bGVuZ3RoOwogICAgICAqcGh5c2ljYWxfc2l6ZSA9IGZpbGVfbm9kZS0+Y2h1bmtfbnVtICogZmlsZV9ub2RlLT5tYXhfY29weSAqCiAgICAgICAgICBGTEFHU19tYW51bF9jaHVua3NlcnZlcl9DaHVua1NpemU7Cg==</text>
+        <text encoding="base64">ICBmb3IgKGludCBpID0gMDsgaSA8IDEwMDsgaSsrKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1018</text>
