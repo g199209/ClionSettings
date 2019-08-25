@@ -1,11 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="69445e12-a4f5-4c87-9405-8839f895d980" name="Remote" url="http://127.0.0.1">
+      <webServer id="dadd89b3-9e88-4159-a2a0-c061c6413c78" name="UCloud (dadd89b3-9e88-4159-a2a0-c061c6413c78)" url="http:///">
         <fileTransfer host="127.0.0.1" port="1234" privateKey="$USER_HOME$/.ssh/id_rsa_ucloud" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
           <option name="port" value="1234" />
         </fileTransfer>
       </webServer>
