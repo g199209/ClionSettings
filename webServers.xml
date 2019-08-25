@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dadd89b3-9e88-4159-a2a0-c061c6413c78" name="Remote (dadd89b3-9e88-4159-a2a0-c061c6413c78)" url="http:///">
+        <fileTransfer host="LocalForward" port="1234" accessType="SFTP" authAgent="true">
+          <option name="port" value="1234" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
