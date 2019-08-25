@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Remote" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="dadd89b3-9e88-4159-a2a0-c061c6413c78" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+      <toolchain name="Local" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
