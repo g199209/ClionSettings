@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="NextDiff" />
+  <action id="PublishGroup.SyncLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
