@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="fix_clang" description="fix_clang.sh" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="oldformater" description="fix_clang.sh" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Manul/scripts/fix_clang.sh" />
       <option name="PARAMETERS" />
