@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="C/C++" />
+      <blacklist language="Rust" />
+      <blacklist language="JavaScript" />
+      <blacklist language="SQL" />
+    </blacklists>
+  </component>
+</application>

@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="ClangFormat" description="clang-format v3.4.1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="oldformater" description="fix_clang.sh" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="D:\LLVM\bin\clang-format.exe" />
-      <option name="PARAMETERS" value="--style=google -i $FileName$" />
-      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+      <option name="COMMAND" value="$USER_HOME$/Manul/scripts/fix_clang.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Manul/scripts" />
     </exec>
   </tool>
 </toolSet>
