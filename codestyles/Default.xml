@@ -20,7 +20,7 @@
     <option name="ALIGN_INIT_LIST_IN_COLUMNS" value="false" />
     <option name="SPACE_BEFORE_PROTOCOLS_BRACKETS" value="false" />
     <option name="KEEP_BLANK_LINES_BEFORE_END" value="1" />
-    <option name="HEADER_GUARD_STYLE_PATTERN" value="${PROJECT_NAME}_${PROJECT_REL_PATH}_${FILE_NAME}_${EXT}_" />
+    <option name="HEADER_GUARD_STYLE_PATTERN" value="${PROJECT_REL_PATH}_${FILE_NAME}_${EXT}_" />
     <option name="NAMESPACES_NAMING_CONVENTION">
       <value prefix="" style="SNAKE_CASE" suffix="" />
     </option>

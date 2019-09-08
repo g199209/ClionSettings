@@ -7,5 +7,6 @@
       <blacklist language="JavaScript" />
       <blacklist language="SQL" />
     </blacklists>
+    <option id="oc.clangd.namehints.enums" value="false" />
   </component>
 </application>
