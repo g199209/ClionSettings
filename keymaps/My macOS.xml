@@ -9,6 +9,9 @@
   <action id="BuildProject">
     <keyboard-shortcut first-keystroke="meta f9" />
   </action>
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EmojiAndSymbols" />
@@ -32,4 +35,5 @@
     <keyboard-shortcut first-keystroke="ctrl meta space" />
   </action>
   <action id="StepInto" />
+  <action id="Uml.ShowDiff" />
 </keymap>
