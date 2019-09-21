@@ -1,8 +1,9 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="UCloud" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="c8a6d40d-26f8-42d1-ad6b-fec239e12715" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-      <toolchain name="Home" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="0f3b335d-ffe0-4a43-8bc3-fb84282c2b83" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="UCloud" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="Home" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="G:\MinGW" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
 </application>
