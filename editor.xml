@@ -1,8 +1,7 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Source Han Mono SC M" />
-    <option name="LINE_SPACING" value="1.0" />
+    <option name="FONT_FAMILY" value="Source Han Mono Powerline SC" />
   </component>
   <component name="EditorSettings">
     <option name="IS_CARET_BLINKING" value="false" />
