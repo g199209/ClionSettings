@@ -12,10 +12,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569152913257">
-        <mark key="[" line="20" column="3" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569154569439">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="68" column="21" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -28,38 +29,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>${GCC_BASE}/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHVpbnQ4X3Qgc3ViX2NtZDsgLy8gTFlZX1NVQkNNRF9ERVZJQ0VfQ1RSTAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Ci8qCiAqIAogKi8=</text>
+        <text encoding="base64">ICBzdHJ1Y3QgewogICAgdWludDhfdCBzdWJfY21kOyAvLyBMWVlfU1VCQ01EX0RFVklDRV9DVFJMCgogIH0gX19hdHRyaWJ1dGVfXygocGFja2VkKSkgcXVlcnlfZGV2aWNlX3N0YXR1c19yZXF1ZXN0OwoKICBzdHJ1Y3QgewoKICB9IF9fYXR0cmlidXRlX18oKHBhY2tlZCkpIHF1ZXJ5X2RldmljZV9zdGF0dXNfcmVzcG9uc2U7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci8qCiAqIAogKi8=</text>
+        <text encoding="base64">ICBzdHJ1Y3QgewogICAgdWludDhfdCBzdWJfY21kOyAvLyBMWVlfU1VCQ01EX0RFVklDRV9DVFJMCgogIH0gX19hdHRyaWJ1dGVfXygocGFja2VkKSkgcXVlcnlfZGV2aWNlX3N0YXR1c19yZXF1ZXN0OwoKICBzdHJ1Y3QgewoKICB9IF9fYXR0cmlidXRlX18oKHBhY2tlZCkpIHF1ZXJ5X2RldmljZV9zdGF0dXNfcmVzcG9uc2U7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9IGRhdGE7IC8vIDwgMjAwIEJ5dGVzCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnN0cnVjdCBTeW5jQ2hhbm5lbEluZm9EYXRhOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1bmlvbiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBMZVlhb1lhb0ZyYW1lVGFpbGQgdGFpbDsK</text>
+        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3QgewogIHVpbnQ4X3QgaGVhZGVyX21hZ2ljOyAvLyBMWVlfRlJBTUVfSEVBREVSX01BR0lDCiAgdWludDhfdCBsZW5ndGg7ICAgICAgIC8vIGluZGV4ICsgY21kICsgZGF0YSArIGNoZWNrCiAgdWludDhfdCBpbmRleDsgICAgICAgIC8vIExZWV9TRU5ERVJfWFhYCiAgdWludDhfdCBjbWRfc2V0OyAgICAgIC8vIExZWV9DTURTRVRfWFhYCiAgdWludDhfdCByYXdfZGF0YVswXTsgIC8vIDwgMjAwIGJ5dGVzCn0gX19hdHRyaWJ1dGVfXygocGFja2VkKSkgTFlZRnJhbWVIZWFkZXI7Cgp0eXBlZGVmIHN0cnVjdCB7CiAgdWludDhfdCBjaGVja3N1bTsgICAvLyBsZW5ndGggKyBpbmRleCArIGNtZCArIGRhdGEKICB1aW50OF90IHRhaWxfbWFnaWM7IC8vIExZWV9GUkFNRV9UQUlMX01BR0lDCn0gX19hdHRyaWJ1dGVfXygocGFja2VkKSkgTFlZRnJhbWVUYWlsOwoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgTGVZYW9ZYW9GcmFtZUhlYWRlciBoZWFkZXI7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB1aW50OF90IHJhd19kYXRhWzBdOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZGR0eXBlZGVmIHVuaW9uIHsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cgp9IExZWUZyYW1lRGF0YTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">I3NldChHQ0NfQkFTRSAiRzovYXJtLWdjYy9iaW4vIikK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8qCiAqIAogKi8=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9IGRhdGE7IC8vIDwgMjAwIEJ5dGVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>8_t uuid_address[LYY_UUID_ADDR_LEN];</text>
+        <text>#define LYY_CTRLCMD_QUERY_DEVICE_STATUS 0x01</text>
       </register>
     </registers>
     <search>
