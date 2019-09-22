@@ -10,10 +10,10 @@
         <mark key="[" line="2" column="18" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
-      <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569146594558">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569148279581">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569138627409">
         <mark key="[" line="41" column="29" />
@@ -27,13 +27,16 @@
       <register name="0" type="4">
         <text>${GCC_BASE}/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">I3NldChHQ0NfQkFTRSAiRzovYXJtLWdjYy9iaW4vIikK</text>
       </register>
       <register name="-" type="4">
