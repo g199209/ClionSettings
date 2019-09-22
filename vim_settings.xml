@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569159461155">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569160828226">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/RTOS2/Source/os_systick.c" timestamp="1569139659742" />
       <file name="G:/Star/Discovery/Test/CMakeLists.txt" timestamp="1569142986623" />
@@ -24,10 +24,11 @@
         <mark key="^" line="106" column="26" />
         <mark key="." line="106" column="26" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569159481501">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569160901118">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -41,40 +42,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVpbnQ4X3Qgc3ViX2NtZDsgLy8gTFlZX1NVQkNNRF9ERVZJQ0VfQ1RSTAo=</text>
+        <text encoding="base64">ICBQYXltZW50Q2FsbGJhY2sgcGF5bWVudF9jYWxsYmFja187Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImx5eV9jb21tYW5kLmgiCg==</text>
+        <text encoding="base64">dm9pZCBSZWdpc3RlclBheW1lbnRDYWxsYmFjayhMeXlCb3hIYW5kbGUgY29udGV4dCwgUGF5bWVudENhbGxiYWNrIGNhbGxiYWNrKSB7CiAgY29udGV4dC0+cGF5bWVudF9jYWxsYmFja18gPSBjYWxsYmFjazsgCn0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IF9fYXR0cmlidXRlX18oKHVudXNlZCkpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dm9pZCBSZWdpc3RlclBheW1lbnRDYWxsYmFjayhMeXlCb3hIYW5kbGUgY29udGV4dCwgUGF5bWVudENhbGxiYWNrIGNhbGxiYWNrKSB7CiAgY29udGV4dC0+cGF5bWVudF9jYWxsYmFja18gPSBjYWxsYmFjazsgCn0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnN0cnVjdCBDaGFubmVs</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB1aW50OF90IHV1aWRfYWRkcmVzc1tMWVlfVVVJRF9BRERSX0xFTl07CiAgdWludDhfdCBjdHJsX2NtZDsgLy8gTFlZX0NUUkxDTURfUVVFUllfREVWSUNFX1NUQVRVUw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">dHlwZWRlZiBpbnQzMl90ICgqUGF5bWVudENhbGxiYWNrKSh1aW50MzJfdCB0aW1lcyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICB1aW50OF90IHV1aWRfYWRkcmVzc1tMWVlfVVVJRF9BRERSX0xFTl07CiAgdWludDhfdCBjdHJsX2NtZDsgLy8gTFlZX0NUUkxDTURfUVVFUllfREVWSUNFX1NUQVRVUw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKSB7CiAgcHJpbnRmKCJIZWxsbywgV29ybGQhXG4iKTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1aW50OF90IHJlc2VydmVkWzBdIF9fYXR0cmlidXRlX18oKHVudXNlZCkpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1aW50OF90IHJlc2VydmVkWzBdIF9fYXR0cmlidXRlX18oKHVudXNlZCkpOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImx5eV9jb21tYW5kLmgiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3RydWN0IE1hY2hpbmVTcGVjaWZpZWREYXRhIHsKICB1aW50OF90IHN1Yl9jbWQ7IC8vIExZWV9TVUJDTURfWFhYCiAgdWludDhfdCBzdWJfY21kX2RhdGFbMF07Cn0gX19hdHRyaWJ1dGVfXygocGFja2VkKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CnN0cnVjdCBDaGFubmVs</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IF9fYXR0cmlidXRlX18oKHVudXNlZCkpOw==</text>
+        <text>LyyBoxContext</text>
       </register>
     </registers>
     <search>
@@ -103,7 +104,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -133,11 +134,41 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
