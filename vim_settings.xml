@@ -6,15 +6,19 @@
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/RTOS2/Source/os_systick.c" timestamp="1569139659742" />
       <file name="G:/Star/Discovery/Test/CMakeLists.txt" timestamp="1569142986623" />
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/Core/Template/ARMv8-M/main_s.c" timestamp="1569137974173" />
-      <file name="G:/Star/LeYaoYao/le_yao_yao.c" timestamp="1569146582847">
-        <mark key="[" line="2" column="18" />
+      <file name="G:/Star/LeYaoYao/le_yao_yao.c" timestamp="1569151791802">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569152913257">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
-      <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569148279581">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569138627409">
         <mark key="[" line="41" column="29" />
         <mark key="]" line="41" column="30" />
@@ -28,19 +32,34 @@
         <text>${GCC_BASE}/</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
+        <text encoding="base64">Ci8qCiAqIAogKi8=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
+        <text encoding="base64">Ci8qCiAqIAogKi8=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+        <text encoding="base64">ICB9IGRhdGE7IC8vIDwgMjAwIEJ5dGVzCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICB1bmlvbiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBMZVlhb1lhb0ZyYW1lVGFpbGQgdGFpbDsK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgTGVZYW9ZYW9GcmFtZUhlYWRlciBoZWFkZXI7</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CnZvaWQgUmVnaXN0ZXI=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dm9pZCBoZWxsbyh2b2lkKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">I3NldChHQ0NfQkFTRSAiRzovYXJtLWdjYy9iaW4vIikK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>8_t uuid_address[LYY_UUID_ADDR_LEN];</text>
       </register>
     </registers>
     <search>
