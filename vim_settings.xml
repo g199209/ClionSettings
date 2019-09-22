@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569073357641">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/Core/Template/ARMv8-M/main_s.c" timestamp="1569137974173" />
+      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569137849676">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="8" />
       </file>
     </filemarks>
     <jumps />
@@ -15,15 +16,26 @@
       <register name="0" type="4">
         <text>${GCC_BASE}/</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">I3NldChHQ0NfQkFTRSAiRzovYXJtLWdjYy9iaW4vIikK</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>${GCC_BASE}/</text>
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
