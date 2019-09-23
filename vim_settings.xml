@@ -24,11 +24,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569241833225">
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="15" />
-        <mark key="." line="57" column="15" />
-        <mark key="^" line="57" column="15" />
+      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569242120804">
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -45,34 +45,34 @@
         <text encoding="base64">ICBTRUFSQ0hfSEVBREVSLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
+        <text encoding="base64">ICB1aW50Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
+        <text encoding="base64">ICB1aW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgcGFyc2VyLT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgUGFyc2VEYXRhKEx5eURhdGFQYXJzZXIgKnBhcnNlcik7Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2ggKHBhcnNlci0+ZnNtX3N0YXRlXykgewogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSEVBREVSOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfTEVOR1RIOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSU5ERVg6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX1NFQVJDSF9DTUQ6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX0FDUVVJUkVfREFUQToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0NIRUNLX1NVTToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0VORDoKICAgIGJyZWFrOwoKICBkZWZhdWx0OgogICAgYXNzZXJ0KGZhbHNlKTsKICAgIGJyZWFrOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1aW50MzJfdCByaW5nX2J1Zl9sZW47Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIChsZW4tLSkgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3QgewogIAp9Owo=</text>
+        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBSZWdpc3RlclBheW1lbnRDYWxsYmFjayhMeXlCb3hIYW5kbGUgY29udGV4dCwgUGF5bWVudENhbGxiYWNrIGNhbGxiYWNrKSB7CiAgY29udGV4dC0+cGF5bWVudF9jYWxsYmFja18gPSBjYWxsYmFjazsgCn0K</text>
+        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
       </register>
       <register name="-" type="4">
         <text>parser_ring</text>
