@@ -24,11 +24,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569244733538">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="37" column="10" />
+      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569245253278">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -42,25 +42,26 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICBTRUFSQ0hfSEVBREVSLAo=</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgUmluZ0J1ZkdldERhdGEoTHl5RGF0YVBhcnNlciAqcGFyc2VyLCB1aW50OF90ICoqcF9kYXRhLCB1aW50MzJfdCAqYXZhaWxfbGVuKSB7CiAgIAp9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB1aW50Cg==</text>
+      <register name="1" type="4">
+        <text>, uint8_t *input_data,
+                      uint32_t len</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1aW50Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgUmluZ0J1ZkdldERhdGEoTHl5RGF0YVBhcnNlciAqcGFyc2VyLCB1aW50OF90ICoqcF9kYXRhLCB1aW50MzJfdCAqYXZhaWxfbGVuKSB7CiAgIAp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB1aW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzd2l0Y2ggKHBhcnNlci0+ZnNtX3N0YXRlXykgewogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSEVBREVSOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfTEVOR1RIOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSU5ERVg6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX1NFQVJDSF9DTUQ6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX0FDUVVJUkVfREFUQToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0NIRUNLX1NVTToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0VORDoKICAgIGJyZWFrOwoKICBkZWZhdWx0OgogICAgYXNzZXJ0KGZhbHNlKTsKICAgIGJyZWFrOwogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIChsZW4tLSkgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICBzd2l0Y2ggKHBhcnNlci0+ZnNtX3N0YXRlXykgewogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSEVBREVSOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfTEVOR1RIOgogICAgYnJlYWs7CgogIGNhc2UgTFlZX1BBUlNFUl9TRUFSQ0hfSU5ERVg6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX1NFQVJDSF9DTUQ6CiAgICBicmVhazsKCiAgY2FzZSBMWVlfUEFSU0VSX0FDUVVJUkVfREFUQToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0NIRUNLX1NVTToKICAgIGJyZWFrOwoKICBjYXNlIExZWV9QQVJTRVJfU0VBUkNIX0VORDoKICAgIGJyZWFrOwoKICBkZWZhdWx0OgogICAgYXNzZXJ0KGZhbHNlKTsKICAgIGJyZWFrOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgIHdoaWxlIChsZW4tLSkgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIGJyZWFrOwo=</text>
