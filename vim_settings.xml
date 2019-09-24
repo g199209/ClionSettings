@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569329217445">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="28" column="1" />
+      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569331472920">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/RTOS2/Source/os_systick.c" timestamp="1569139659742" />
       <file name="G:/Star/Discovery/Test/CMakeLists.txt" timestamp="1569142986623" />
@@ -18,17 +18,17 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569329618201">
+      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569331373133">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569329592758">
-        <mark key="[" line="96" column="34" />
-        <mark key="]" line="90" column="53" />
-        <mark key="." line="90" column="53" />
-        <mark key="^" line="90" column="53" />
+      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569331501077">
+        <mark key="[" line="97" column="45" />
+        <mark key="]" line="98" column="37" />
+        <mark key="." line="98" column="37" />
+        <mark key="^" line="98" column="37" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -41,41 +41,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>parser_.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCpwX2RhdGEgPD0gTFlZX01BWF9EQVRBX0FSRUFfTEVOKSB7CiAgICAgICAgcGFyc2VyLT5jdXJfZnJhbWVfW3BhcnNlci0+Y3VyX2ZyYW1lX2xlbl8rK10gPSAqcF9kYXRhOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0lOREVYOwogICAgICB9IGVsc2UgewogICAgICAgIHBhcnNlci0+Y3VyX2ZyYW1lX2xlbl8gPSAwOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0hFQURFUjsKICAgICAgfQogICAgICBwX2RhdGErKzsKICAgICAgbGVuLS07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwX2RhdGErKzsKICAgICAgICBsZW4tLTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9bcGFyc2VyLT5jdXJfZnJhbWVfbGVuXysrXSA9ICpwX2RhdGE7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwX2RhdGErKzsKICAgICAgICBsZW4tLTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCpwX2RhdGEgPD0gTFlZX01BWF9EQVRBX0FSRUFfTEVOKSB7CiAgICAgICAgcGFyc2VyLT5jdXJfZnJhbWVfW3BhcnNlci0+Y3VyX2ZyYW1lX2xlbl8rK10gPSAqcF9kYXRhOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0lOREVYOwogICAgICB9IGVsc2UgewogICAgICAgIHBhcnNlci0+Y3VyX2ZyYW1lX2xlbl8gPSAwOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0hFQURFUjsKICAgICAgfQogICAgICBwX2RhdGErKzsKICAgICAgbGVuLS07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB1aW50OF90ICpjdXJfZnJhbWVfOwogIHVpbnQzMl90IGN1cl9mcmFtZV9tYXhfbGVuXzsKICB1aW50MzJfdCBjdXJfZnJhbWVfbGVuXzsK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9sZW5fID0gMDsKICAgICAgICBwYXJzZXItPmZzbV9zdGF0ZV8gPSBMWVlfUEFSU0VSX1NFQVJDSF9IRUFERVI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBwX2RhdGErKzsKICAgICAgICBsZW4tLTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
+        <text encoding="base64">ICB1aW50OF90ICpjdXJfZnJhbWVfOwogIHVpbnQzMl90IGN1cl9mcmFtZV9tYXhfbGVuXzsKICB1aW50MzJfdCBjdXJfZnJhbWVfbGVuXzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICpwX2RhdGEgPSAmcGFyc2VyLT5yaW5nX2J1Zl9bcGFyc2VyLT5yaW5nX2J1Zl9zdGFydF9dOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICpwX2RhdGEgPSAmcGFyc2VyLT5yaW5nX2J1Zl9bcGFyc2VyLT5yaW5nX2J1Zl9zdGFydF9dOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICpwX2RhdGEgPSAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICpwX2RhdGEgPSAmcGFyc2VyLT5yaW5nX2J1Zl9bcGFyc2VyLT5yaW5nX2J1Zl9zdGFydF9dOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>LYY_FRAME_HEADER_MAGIC</text>
       </register>
     </registers>
     <search>
