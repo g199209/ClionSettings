@@ -1,44 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/RTOS2/Source/os_systick.c" timestamp="1569139659742" />
-      <file name="G:/Star/Discovery/Test/CMakeLists.txt" timestamp="1569142986623" />
-      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/Core/Template/ARMv8-M/main_s.c" timestamp="1569137974173" />
-      <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
-      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569138627409">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="0" type="4">
-        <text>${GCC_BASE}/</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">I3NldChHQ0NfQkFTRSAiRzovYXJtLWdjYy9iaW4vIikK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="-" type="4">
-        <text />
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
@@ -92,5 +54,11 @@
         <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
