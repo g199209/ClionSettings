@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569241420917">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="12" column="12" />
+      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569251695609">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+        <mark key="^" line="26" column="58" />
       </file>
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/Drivers/CMSIS/RTOS2/Source/os_systick.c" timestamp="1569139659742" />
       <file name="G:/Star/Discovery/Test/CMakeLists.txt" timestamp="1569142986623" />
@@ -24,10 +24,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569248986247">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569251712069">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="45" column="63" />
       </file>
       <file name="G:/Star/Discovery/Test/Src/main.c" timestamp="1569144312368" />
       <file name="G:/Star/LeYaoYao/le_yao_yao.h" timestamp="1569151804945" />
@@ -41,40 +42,42 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1lbWNweSgmcGFyc2VyLT5yaW5nX2J1Zl9bcGFyc2VyLT5yaW5nX2J1Zl9lbmRfXSwgcF9kYXRhLCBjb3B5X2xlbik7CiAgICBwX2RhdGEgKz0gY29weV9sZW47CiAgICBsZW4gLT0gY29weV9sZW47CiAgICBwYXJzZXItPnJpbmdfYnVmX2VuZF8gKz0gY29weV9sZW47Cg==</text>
+        <text encoding="base64">ICAgICAgYXZhaWxfbGVuID0gIHBhcnNlci0+cmluZ19idWZfbGVuXyAtIHBhcnNlci0+cmluZ19idWZfZW5kXyAtIDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvcHlfbGVuID0gbGVuIDwgYXZhaWxfbGVuID8gbGVuIDogYXZhaWxfbGVuOwogICAgbWVtY3B5KCZwYXJzZXItPnJpbmdfYnVmX1twYXJzZXItPnJpbmdfYnVmX2VuZF9dLCBwX2RhdGEsIGNvcHlfbGVuKTsKICAgIHBfZGF0YSArPSBjb3B5X2xlbjsKICAgIGxlbiAtPSBjb3B5X2xlbjsKICAgIHBhcnNlci0+cmluZ19idWZfZW5kXyArPSBjb3B5X2xlbjsK</text>
+        <text encoding="base64">ICAgICpyZWFsX2xlbiArPSBjb3B5X2xlbjsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvcHlfbGVuID0gbGVuIDwgYXZhaWxfbGVuID8gbGVuIDogYXZhaWxfbGVuOwogICAgbWVtY3B5KCZwYXJzZXItPnJpbmdfYnVmX1twYXJzZXItPnJpbmdfYnVmX2VuZF9dLCBwX2RhdGEsIGNvcHlfbGVuKTsKICAgIHBfZGF0YSArPSBjb3B5X2xlbjsKICAgIGxlbiAtPSBjb3B5X2xlbjsKICAgIHBhcnNlci0+cmluZ19idWZfZW5kXyArPSBjb3B5X2xlbjsK</text>
+        <text encoding="base64">ICAgICpyZWFsX2xlbiArPSBjb3B5X2xlbjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF2YWlsX2xlbiA9IHBhcnNlci0+cmluZ19idWZfc3RhcnRfIC0gcGFyc2VyLT5yaW5nX2J1Zl9lbmRfIC0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfZW5kXyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIGF2YWlsX2xlbiA9ICBwYXJzZXItPnJpbmdfYnVmX2xlbl8gLSBwYXJzZXItPnJpbmdfYnVmX2VuZF8gLSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvcHlfbGVuID0gbGVuIDwgYXZhaWxfbGVuID8gbGVuIDogYXZhaWxfbGVuOwogICAgbWVtY3B5KCZwYXJzZXItPnJpbmdfYnVmX1twYXJzZXItPnJpbmdfYnVmX2VuZF9dLCBwX2RhdGEsIGNvcHlfbGVuKTsKICAgIHBfZGF0YSArPSBjb3B5X2xlbjsKICAgIGxlbiAtPSBjb3B5X2xlbjsKICAgIHBhcnNlci0+cmluZ19idWZfZW5kXyArPSBjb3B5X2xlbjsKICAgIGlmIChsZW4gPT0gMCB8fCBwYXJzZXItPnJpbmdfYnVmX3N0YXJ0XyA9PSAwKSB7CiAgICAgICpyZWFsX2xlbiA9IGNvcHlfbGVuOwogICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF2YWlsX2xlbiA9ICBwYXJzZXItPnJpbmdfYnVmX2xlbl8gLSBwYXJzZXItPnJpbmdfYnVmX2VuZF8gOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF2YWlsX2xlbiA9IHBhcnNlci0+cmluZ19idWZfc3RhcnRfIC0gcGFyc2VyLT5yaW5nX2J1Zl9lbmRfIC0gMTsKICAgIGNvcHlfbGVuID0gbGVuIDwgYXZhaWxfbGVuID8gbGVuIDogYXZhaWxfbGVuOwogICAgbWVtY3B5KCZwYXJzZXItPnJpbmdfYnVmX1twYXJzZXItPnJpbmdfYnVmX2VuZF9dLCBwX2RhdGEsIGNvcHlfbGVuKTsKICAgIHBhcnNlci0+cmluZ19idWZfZW5kXyArPSBjb3B5X2xlbjsKICAgICpyZWFsX2xlbiArPSBjb3B5X2xlbjsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGMK</text>
+      <register name="8" type="4">
+        <text>else {
+    avail_len
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxlbiAtPSBjb3B5X2xlbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFyc2VyLT5yaW5nX2J1Zl9sZW5fIC0gcGFyc2VyLT5yaW5nX2J1Zl9lbmRfIA==</text>
+        <text>real_len</text>
       </register>
     </registers>
     <search>
