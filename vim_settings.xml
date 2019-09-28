@@ -12,11 +12,11 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="D:/C++Study/main.cpp" timestamp="1569655155816">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="D:/C++Study/main.cpp" timestamp="1569657683552">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569331501077">
         <mark key="[" line="97" column="45" />
@@ -48,13 +48,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCpwX2RhdGEgPD0gTFlZX01BWF9EQVRBX0FSRUFfTEVOKSB7CiAgICAgICAgcGFyc2VyLT5jdXJfZnJhbWVfW3BhcnNlci0+Y3VyX2ZyYW1lX2xlbl8rK10gPSAqcF9kYXRhOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0lOREVYOwogICAgICB9IGVsc2UgewogICAgICAgIHBhcnNlci0+Y3VyX2ZyYW1lX2xlbl8gPSAwOwogICAgICAgIHBhcnNlci0+ZnNtX3N0YXRlXyA9IExZWV9QQVJTRVJfU0VBUkNIX0hFQURFUjsKICAgICAgfQogICAgICBwX2RhdGErKzsKICAgICAgbGVuLS07Cg==</text>
+        <text encoding="base64">ICBURDxkZWNsdHlwZShmZik+IGZkYXM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBURDxkZWNsdHlwZShmZik+IGZkYXM7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9bcGFyc2VyLT5jdXJfZnJhbWVfbGVuXysrXSA9ICpwX2RhdGE7Cg==</text>
@@ -81,7 +81,7 @@
         <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LYY_FRAME_HEADER_MAGIC</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
