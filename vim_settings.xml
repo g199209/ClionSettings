@@ -9,12 +9,22 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="G:/Andromeda/Nucleo/Test/CMakeLists.txt" timestamp="1571665031996" />
-      <file name="G:/Andromeda/Nucleo/Test/Src/main.c" timestamp="1571665475982">
-        <mark key="[" line="104" column="57" />
-        <mark key="]" line="104" column="54" />
-        <mark key="^" line="104" column="54" />
-        <mark key="." line="104" column="54" />
+      <file name="G:/Andromeda/Nucleo/Test/CMakeLists.txt" timestamp="1571667363696">
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="29" column="51" />
+        <mark key="^" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+      </file>
+      <file name="G:/Andromeda/Nucleo/Test/Src/main.c" timestamp="1571666935851">
+        <mark key="]" line="94" column="8" />
+        <mark key="^" line="94" column="8" />
+        <mark key="." line="94" column="8" />
+      </file>
+      <file name="G:/Andromeda/Nucleo/Test/Src/aaa.cc" timestamp="1571667049646">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="D:/C++Study/main.cpp" timestamp="1569675100586">
         <mark key="[" line="31" column="1" />
@@ -34,11 +44,23 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
+      <file name="G:/Andromeda/Nucleo/Test/Src/main.cc" timestamp="1571667457968">
+        <mark key="[" line="103" column="14" />
+        <mark key="]" line="103" column="17" />
+        <mark key="^" line="103" column="17" />
+        <mark key="." line="103" column="17" />
+      </file>
       <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569331373133">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="G:/Andromeda/Nucleo/Test/Src/aaa.h" timestamp="1571667037219">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569138627409">
         <mark key="[" line="41" column="29" />
@@ -49,49 +71,57 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEhBTF9EZWxheSgxMDAwKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBURDxkZWNsdHlwZShjKT4gZmFhczsKICBURDxkZWNsdHlwZShmZik+IGZkYXM7CiAgVEQ8ZGVjbHR5cGUoa2spPiBhZmRhczsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEhBTF9EZWxheSgxMDAwKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9bcGFyc2VyLT5jdXJfZnJhbWVfbGVuXysrXSA9ICpwX2RhdGE7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9sZW5fID0gMDsKICAgICAgICBwYXJzZXItPmZzbV9zdGF0ZV8gPSBMWVlfUEFSU0VSX1NFQVJDSF9IRUFERVI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwX2RhdGErKzsKICAgICAgICBsZW4tLTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB1aW50OF90ICpjdXJfZnJhbWVfOwogIHVpbnQzMl90IGN1cl9mcmFtZV9tYXhfbGVuXzsKICB1aW50MzJfdCBjdXJfZnJhbWVfbGVuXzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tt.GetDelayTime()</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>tt.GetDelayTime()</text>
+      </register>
+      <register name="/" type="4">
+        <text>main</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgSEFMX0RlbGF5KHR0LkdldERlbGF5VGltZSgpKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwdHJfLnIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgQUFBIHsKCn07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgQUFBIHsKcHVibGljOgogIEFBQSgpOwoKcHJpdmF0ZToKfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHVuaXF1ZV9wdHI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcygiIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBzdGQ6OnVuaXF1ZV9wdHI8QUFBPiBwXzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHVuaXF1ZV9wdHI+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBURDxkZWNsdHlwZShjKT4gZmFhczsKICBURDxkZWNsdHlwZShmZik+IGZkYXM7CiAgVEQ8ZGVjbHR5cGUoa2spPiBhZmRhczsK</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>main</last-search>
+      <last-offset />
+      <last-pattern>main</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>main</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
