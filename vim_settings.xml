@@ -1,101 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="G:/Star/LeYaoYao/le_yao_yao.c" timestamp="1569151791802">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-      </file>
-      <file name="G:/Andromeda/Nucleo/Test/CMakeLists.txt" timestamp="1571665031996" />
-      <file name="G:/Andromeda/Nucleo/Test/Src/main.c" timestamp="1571665420153">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="62" />
-        <mark key="^" line="103" column="19" />
-        <mark key="." line="104" column="0" />
-      </file>
-      <file name="D:/C++Study/main.cpp" timestamp="1569675100586">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="31" column="12" />
-        <mark key="." line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-      </file>
-      <file name="G:/Star/LeYaoYao/lyy.c" timestamp="1569331501077">
-        <mark key="[" line="97" column="45" />
-        <mark key="]" line="98" column="37" />
-        <mark key="." line="98" column="37" />
-        <mark key="^" line="98" column="37" />
-      </file>
-      <file name="G:/Star/LeYaoYao/lyy.h" timestamp="1569331472920">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="18" />
-      </file>
-      <file name="G:/Star/LeYaoYao/lyy_command.h" timestamp="1569331373133">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="G:/Star/Discovery/STM32F4DiscoveryTest/CMakeLists.txt" timestamp="1569138627409">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEhBTF9HUElPX1dyaXRlUGluKExEMl9HUElPX1BvcnQsIExEMl9QaW4sIEdQSU9fUElOX1JFU0VUKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBURDxkZWNsdHlwZShjKT4gZmFhczsKICBURDxkZWNsdHlwZShmZik+IGZkYXM7CiAgVEQ8ZGVjbHR5cGUoa2spPiBhZmRhczsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEhBTF9HUElPX1dyaXRlUGluKExEMl9HUElPX1BvcnQsIExEMl9QaW4sIEdQSU9fUElOX1JFU0VUKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9bcGFyc2VyLT5jdXJfZnJhbWVfbGVuXysrXSA9ICpwX2RhdGE7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXItPmN1cl9mcmFtZV9sZW5fID0gMDsKICAgICAgICBwYXJzZXItPmZzbV9zdGF0ZV8gPSBMWVlfUEFSU0VSX1NFQVJDSF9IRUFERVI7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwX2RhdGErKzsKICAgICAgICBsZW4tLTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB1aW50OF90ICpjdXJfZnJhbWVfOwogIHVpbnQzMl90IGN1cl9mcmFtZV9tYXhfbGVuXzsKICB1aW50MzJfdCBjdXJfZnJhbWVfbGVuXzsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci0+cmluZ19idWZfc3RhcnRfICs9ICphdmFpbF9sZW47Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>d</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
@@ -179,5 +84,11 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
