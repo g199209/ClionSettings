@@ -7,6 +7,7 @@
       <mapping pattern="metaserver_release_flag" type="PLAIN_TEXT" />
       <mapping pattern="chunkserver_release_flag" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="portal_release_flag" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
