@@ -6,6 +6,7 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="fio_gflag" type="PLAIN_TEXT" />
       <mapping pattern="chunkserver_release_flag" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="metaserver_release_flag" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
