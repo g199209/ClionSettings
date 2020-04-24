@@ -156,7 +156,7 @@
         <mark key="." line="165" column="1" />
         <mark key="^" line="165" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587637458220">
+      <file name="/Dummy.txt" timestamp="1587739506330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1587710537628">
@@ -255,6 +255,7 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/Opensource/spdlog/example/example.cpp" timestamp="1587739400901" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Manul/manul/tool/manul_client_repeat_open_close_test.cc" />
@@ -414,7 +415,7 @@
       <last-offset />
       <last-pattern>remove</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
