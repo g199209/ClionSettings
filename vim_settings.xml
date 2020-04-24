@@ -165,10 +165,14 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ec_chunk_locator.h" timestamp="1587626457013">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Opensource/smartdns/CMakeLists.txt" timestamp="1587741292513">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_server.c" timestamp="1587741693883">
+        <mark key="'" line="1476" column="73" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1587709659425">
         <mark key="[" line="34" column="3" />
@@ -176,6 +180,7 @@
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
       </file>
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_conf.c" timestamp="1587740825906" />
       <file name="$USER_HOME$/Manul/manul/archive/simple_ec_chunk_locator.cc" timestamp="1587711141677">
         <mark key="[" line="34" column="36" />
         <mark key="]" line="34" column="36" />
@@ -207,6 +212,7 @@
         <mark key="." line="352" column="38" />
         <mark key="^" line="352" column="38" />
       </file>
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_client.c" timestamp="1587741763101" />
       <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1587713368834">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -224,12 +230,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1587634950183">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1587718121854">
         <mark key="'" line="20" column="57" />
         <mark key="[" line="51" column="64" />
@@ -243,22 +243,14 @@
         <mark key="^" line="229" column="37" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_scheduler_unittest.cc" timestamp="1587626893566">
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="28" column="75" />
-        <mark key="." line="28" column="75" />
-        <mark key="^" line="28" column="75" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.h" timestamp="1587717091583">
         <mark key="[" line="15" column="54" />
         <mark key="]" line="15" column="41" />
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Opensource/spdlog/example/example.cpp" timestamp="1587739400901" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Manul/manul/tool/manul_client_repeat_open_close_test.cc" />
       <jump line="205" column="2" filename="$USER_HOME$/Manul/manul/tool/manul_client_repeat_open_close_test.cc" />
       <jump line="11" column="34" filename="$USER_HOME$/Manul/manul/fio_client_plugin/benchmark/parse_lat_log.py" />
       <jump line="21" column="21" filename="$USER_HOME$/Manul/manul/fio_client_plugin/benchmark/conf/fio_mix.conf" />
@@ -358,12 +350,13 @@
       <jump line="143" column="22" filename="$USER_HOME$/Manul/manul/archive/unittest/coroutines_test.cc" />
       <jump line="144" column="23" filename="$USER_HOME$/Manul/manul/archive/unittest/coroutines_test.cc" />
       <jump line="17" column="57" filename="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" />
+      <jump line="1476" column="73" filename="$USER_HOME$/Opensource/smartdns/src/dns_server.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZCgzLjApCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -372,34 +365,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhdXRvIGl0X2JlZ2luID0gdXNlZF9ibG9iLmxvd2VyX2JvdW5kKHtqYm9kX2lkXywgZGdfaWRfLCAwLCAwfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZCgzLjApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OnVuCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzdGQ6OnVuCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsK</text>
+        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsKICBVTE9HX0RFQlVHIDw8IER1bXBTY2hlZHVsZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIkFsbG9jYXRlIGRpc2sgaWQ6ICIgPDwgZGlza19pZDsK</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsKICBVTE9HX0RFQlVHIDw8IER1bXBTY2hlZHVsZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIkFsbG9jYXRlIGRpc2sgaWQ6ICIgPDwgZGlza19pZDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -411,9 +404,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remove</last-search>
+      <last-search encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
