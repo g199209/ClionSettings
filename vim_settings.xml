@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>327</entry>
         <entry>38</entry>
         <entry>116</entry>
         <entry>230</entry>
@@ -46,6 +45,7 @@
         <entry>196</entry>
         <entry>125</entry>
         <entry>222</entry>
+        <entry>1287</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -172,7 +172,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/dns_server.c" timestamp="1587741693883">
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_server.c" timestamp="1587742793023">
         <mark key="'" line="1476" column="73" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1587709659425">
@@ -215,7 +215,7 @@
         <mark key="." line="352" column="38" />
         <mark key="^" line="352" column="38" />
       </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/dns_client.c" timestamp="1587741763101" />
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_client.c" timestamp="1587743451685" />
       <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1587713368834">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -401,7 +401,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>222</text>
+        <text>1287</text>
       </register>
     </registers>
   </component>
@@ -411,7 +411,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
