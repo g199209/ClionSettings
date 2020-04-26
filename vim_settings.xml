@@ -157,17 +157,11 @@
         <mark key="." line="17" column="60" />
         <mark key="^" line="17" column="61" />
       </file>
-      <file name="$USER_HOME$/Opensource/smartdns/CMakeLists.txt" timestamp="1587741292513">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1587872306182">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="46" />
-        <mark key="." line="41" column="45" />
-        <mark key="^" line="41" column="46" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1587883622269">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="24" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1587881947250">
         <mark key="[" line="126" column="3" />
@@ -204,6 +198,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_file.cc" timestamp="1587872846607" />
+      <file name="$USER_HOME$/Manul/manul/portal/proto.h" timestamp="1587884149514" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc_dir/fragment.cpp" timestamp="1587872139624">
         <mark key="[" line="0" column="0" />
       </file>
