@@ -151,14 +151,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1587718352693">
-        <mark key="[" line="164" column="57" />
-        <mark key="]" line="165" column="1" />
-        <mark key="." line="165" column="1" />
-        <mark key="^" line="165" column="1" />
+      <file name="/Dummy.txt" timestamp="1587739506330">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/include/conf.h" timestamp="1587781681637" />
-      <file name="$USER_HOME$/Opensource/smartdns/src/lib/conf.c" timestamp="1587781680148" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1587710537628">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="34" />
@@ -171,11 +166,17 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_server.c" timestamp="1587742793023">
+        <mark key="'" line="1476" column="73" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1587709659425">
         <mark key="[" line="34" column="3" />
         <mark key="]" line="34" column="27" />
         <mark key="." line="34" column="27" />
         <mark key="^" line="34" column="27" />
+      </file>
+      <file name="$USER_HOME$/Opensource/smartdns/src/dns_conf.c" timestamp="1587781692801">
+        <mark key="'" line="350" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_ec_chunk_locator.cc" timestamp="1587711141677">
         <mark key="[" line="34" column="36" />
@@ -201,13 +202,6 @@
         <mark key="." line="57" column="52" />
         <mark key="^" line="57" column="52" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1587699857291">
-        <mark key="'" line="618" column="45" />
-        <mark key="[" line="352" column="39" />
-        <mark key="]" line="352" column="38" />
-        <mark key="." line="352" column="38" />
-        <mark key="^" line="352" column="38" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1587713368834">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -220,28 +214,16 @@
         <mark key="^" line="229" column="37" />
         <mark key="." line="220" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.h" timestamp="1587717091583">
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="15" column="41" />
-        <mark key="." line="15" column="41" />
-        <mark key="^" line="15" column="41" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1587871466995">
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="52" column="11" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="52" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587739506330">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/dns_server.c" timestamp="1587742793023">
-        <mark key="'" line="1476" column="73" />
-      </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/dns_conf.c" timestamp="1587781692801">
-        <mark key="'" line="350" column="26" />
-      </file>
-      <file name="$USER_HOME$/Opensource/smartdns/src/dns_client.c" timestamp="1587743451685" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1587718121854">
-        <mark key="'" line="20" column="57" />
-        <mark key="[" line="51" column="64" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1587870823470">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -350,7 +332,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZCgzLjApCg==</text>
+        <text encoding="base64">ICAgIC8vIGNsYW5nLWZvcm1hdCBvbgo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,34 +344,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdXRvIGl0X2JlZ2luID0gdXNlZF9ibG9iLmxvd2VyX2JvdW5kKHtqYm9kX2lkXywgZGdfaWRfLCAwLCAwfSk7Cg==</text>
+        <text encoding="base64">ICAvLyBjbGFuZy1mb3JtYXQgb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZCgzLjApCg==</text>
+        <text encoding="base64">ICAgIC8vIGNsYW5nLWZvcm1hdCBvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
+        <text encoding="base64">ICAgIC8vIGNsYW5nLWZvcm1hdCBvZmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGQ6OnVuCg==</text>
+        <text encoding="base64">ICAvLyBjbGFuZy1mb3JtYXQgb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
+        <text encoding="base64">ICAvLyBjbGFuZy1mb3JtYXQgb2ZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsK</text>
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZCgzLjApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsKICBVTE9HX0RFQlVHIDw8IER1bXBTY2hlZHVsZXIoKTsK</text>
+        <text encoding="base64">ICBzdGQ6OnVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIkFsbG9jYXRlIGRpc2sgaWQ6ICIgPDwgZGlza19pZDsK</text>
+        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9tdXRleCBibG9iX2wK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTY2FuTWFwIjsK</text>
       </register>
       <register name=":" type="4">
         <text>1287</text>
