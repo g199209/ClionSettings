@@ -151,7 +151,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588054770974">
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588056607456">
         <mark key="[" line="411" column="36" />
         <mark key="]" line="411" column="36" />
         <mark key="." line="411" column="36" />
@@ -163,12 +163,12 @@
         <mark key="." line="24" column="53" />
         <mark key="^" line="24" column="54" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1588053554745">
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1588056805189">
         <mark key="'" line="615" column="45" />
-        <mark key="[" line="484" column="20" />
-        <mark key="]" line="484" column="33" />
-        <mark key="." line="484" column="32" />
-        <mark key="^" line="484" column="33" />
+        <mark key="[" line="187" column="41" />
+        <mark key="]" line="187" column="28" />
+        <mark key="." line="187" column="27" />
+        <mark key="^" line="187" column="28" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1588054641826">
         <mark key="[" line="48" column="0" />
