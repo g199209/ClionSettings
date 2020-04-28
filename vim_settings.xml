@@ -157,12 +157,12 @@
         <mark key="^" line="272" column="37" />
         <mark key="." line="272" column="36" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1588070146812">
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1588073990815">
         <mark key="'" line="615" column="45" />
-        <mark key="[" line="499" column="57" />
-        <mark key="]" line="187" column="28" />
-        <mark key="." line="187" column="27" />
-        <mark key="^" line="187" column="28" />
+        <mark key="[" line="500" column="30" />
+        <mark key="]" line="500" column="31" />
+        <mark key="." line="500" column="30" />
+        <mark key="^" line="500" column="31" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1588054641826">
         <mark key="[" line="48" column="0" />
@@ -345,13 +345,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVhZEZyYWdVbmlxdWVJRCA=</text>
+        <text>std::placeholders::_1</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVhZEZyYWdVbmlxdWVJRCA=</text>
+        <text>std::placeholders::_1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
