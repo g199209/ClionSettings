@@ -151,11 +151,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1588080798726">
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="40" column="60" />
-        <mark key="." line="40" column="59" />
-        <mark key="^" line="40" column="60" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1588082164906">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1588077444943">
         <mark key="[" line="8" column="17" />
@@ -163,16 +163,17 @@
         <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h" timestamp="1588077597963" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588080898601">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="40" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588082050278">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588077508308">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588082615562">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="67" column="24" />
+        <mark key="." line="67" column="23" />
+        <mark key="^" line="67" column="24" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588077431196">
         <mark key="[" line="10" column="17" />
@@ -189,9 +190,9 @@
         <mark key="]" line="62" column="21" />
         <mark key="." line="62" column="21" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1588080576009">
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="45" column="43" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1588081344296">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="33" />
         <mark key="." line="45" column="42" />
         <mark key="^" line="45" column="43" />
       </file>
@@ -246,10 +247,11 @@
         <mark key="^" line="71" column="14" />
         <mark key="." line="127" column="21" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588077379247">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588082686102">
         <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="26" />
+        <mark key="^" line="27" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -358,46 +360,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6Omxpc3Q8UmVwbGljYXRpb25UYXNrUHRyPiBwZW5kaW5nX3Rhc2tzXzsK</text>
+        <text encoding="base64">ICAgIFJlcGxpY2F0aW9uVGFza0l0IG5leHRfaXQgPSBzdGQ6Om5leHQoaXQpOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IH4=</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6Omxpc3Q8UmVwbGljYXRpb25UYXNrUHRyPiBwZW5kaW5nX3Rhc2tzXzsK</text>
+        <text encoding="base64">ICB1ZXZlbnQ6OlRpbWVySWQgc2Nhbl90aW1lcl9pZF87Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IHByb3RlY3RlZDoK</text>
+        <text encoding="base64">ICAgIFJlcGxpY2F0aW9uVGFza0l0IG5leHRfaXQgPSBzdGQ6Om5leHQoaXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPKG1pbmdmZWkuZ2FvKTog6IulIHpvbmVfb2Zmc2V0X21hcCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vIOWPigovLyB6b25lX29mZnNldF9tYXA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
+        <text encoding="base64">ICAgICAgVUxPR19FUlJPUiA8PCAiRXhlYyBSZXBsaWNhdGlvbiBUYXNrIEZhaWxlZCFcbiIgPDwgdGFzay0+VG9TdHJpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiMjIyMiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GMTExMSI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb29wXy0+UnVuSW5Mb29wKFt0aGlzLCB0YXNrID0gc3RkOjptb3ZlKHRhc2spXSgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>206</text>
