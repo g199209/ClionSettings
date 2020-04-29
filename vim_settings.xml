@@ -163,17 +163,17 @@
         <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h" timestamp="1588077597963" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588082974171">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588128001199">
         <mark key="[" line="19" column="59" />
         <mark key="]" line="19" column="59" />
         <mark key="." line="19" column="59" />
         <mark key="^" line="49" column="17" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588083341479">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="12" />
-        <mark key="^" line="39" column="13" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588128070457">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="90" column="2" />
+        <mark key="." line="90" column="1" />
+        <mark key="^" line="90" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588077431196">
         <mark key="[" line="10" column="17" />
@@ -361,7 +361,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9uX2dvaW5nX3Rhc2tzXy5wdXNoX2JhY2soc3RkOjptb3ZlKHRhc2spKTsK</text>
+        <text encoding="base64">ICBpZiAoIXBlbmRpbmdfdGFza3NfLmVtcHR5KCkpIHsKICAgIAogIH0K</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,35 +373,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmV0ID0gdGFzay0+RXhlYyhbdGhpcywgaXRdKGludDMyX3QgcmV0KSB7IFRhc2tEb25lKHJldCwgaXQpOyB9KTsKCiAgICBpZiAocmV0ID09IE1BTlVMX09LKSB7CiAgICAgIG9uX2dvaW5nX3Rhc2tzXy5zcGxpY2Uob25fZ29pbmdfdGFza3NfLmVuZCgpLCBwZW5kaW5nX3Rhc2tzXywgaXQpOwogICAgICBvbl9nb2luZ190YXNrc19udW1fKys7CiAgICB9IGVsc2UgewogICAgICBwZW5kaW5nX3Rhc2tzXy5lcmFzZShpdCk7CiAgICAgIFVMT0dfRVJST1IgPDwgIkV4ZWMgUmVwbGljYXRpb24gVGFzayBGYWlsZWQhXG4iIDw8IHRhc2stPlRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgVUxPR19FUlJPUiA8PCAiRXhlYyBSZXBsaWNhdGlvbiBUYXNrIEZhaWxlZCFcbiIgPDwgdGFzay0+VG9TdHJpbmcoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uX2dvaW5nX3Rhc2tzXy5wdXNoX2JhY2soc3RkOjptb3ZlKHRhc2spKTsK</text>
+        <text encoding="base64">ICBpZiAoIXBlbmRpbmdfdGFza3NfLmVtcHR5KCkpIHsKICAgIAogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmV0ID0gdGFzay0+RXhlYygpCg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXQgIT0gTUFOVUxfT0spIHsKICAgICAgb25fZ29pbmdfdGFza3NfLnNwbGljZShvbl9nb2luZ190YXNrc18uZW5kKCksIHBlbmRpbmdfdGFza3NfLCBpdCk7CiAgICAgIG9uX2dvaW5nX3Rhc2tzX251bV8rKzsKICAgIH0gZWxzZSB7CiAgICAgIHBlbmRpbmdfdGFza3NfLmVyYXNlKGl0KTsKICAgICAgVUxPR19FUlJPUiA8PCAiRXhlYyBSZXBsaWNhdGlvbiBUYXNrIEZhaWxlZCFcbiIgPDwgdGFzay0+VG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmV0ID0gdGFzay0+RXhlYyhbdGhpcywgaXRdKGludDMyX3QgcmV0KSB7IFRhc2tEb25lKHJldCwgaXQpOyB9KTsKCiAgICBpZiAocmV0ID09IE1BTlVMX09LKSB7CiAgICAgIG9uX2dvaW5nX3Rhc2tzXy5zcGxpY2Uob25fZ29pbmdfdGFza3NfLmVuZCgpLCBwZW5kaW5nX3Rhc2tzXywgaXQpOwogICAgICBvbl9nb2luZ190YXNrc19udW1fKys7CiAgICB9IGVsc2UgewogICAgICBwZW5kaW5nX3Rhc2tzXy5lcmFzZShpdCk7CiAgICAgIFVMT0dfRVJST1IgPDwgIkV4ZWMgUmVwbGljYXRpb24gVGFzayBGYWlsZWQhXG4iIDw8IHRhc2stPlRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgVUxPR19FUlJPUiA8PCAiRXhlYyBSZXBsaWNhdGlvbiBUYXNrIEZhaWxlZCFcbiIgPDwgdGFzay0+VG9TdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">ICAgIHBlbmRpbmdfdGFza3NfLnB1c2hfYmFjayhzdGQ6Om1vdmUodGFzaykpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChvbl9nb2luZ190YXNrc19udW1fID49IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25UYXNrTWF4Q29uY3VycmVuY3kpIHsKICAgICAgYnJlYWs7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBwZW5kaW5nX3Rhc2tzXy5wdXNoX2JhY2soc3RkOjptb3ZlKHRhc2spKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LAogICAgICBtYXhfY29uY3VycmVuY3lfKG1heF9jb25jdXJyZW5jeSkg</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgb25fZ29pbmdfdGFza3NfLmVyYXNlKGl0KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-                                                   int max_concurrency</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVDTEFSRV9pbnQzMihtYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uVGFza01heENvbmN1cnJlbmN5KTsK</text>
+        <text encoding="base64">ICAgIG9uX2dvaW5nX3Rhc2tzXy5wdXNoX2JhY2soc3RkOjptb3ZlKHRhc2spKTsK</text>
       </register>
       <register name=":" type="4">
         <text>206</text>
