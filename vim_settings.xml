@@ -204,7 +204,12 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1588154720395">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588155024122" />
+      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588156796401">
+        <mark key="[" line="198" column="3" />
+        <mark key="]" line="199" column="167" />
+        <mark key="^" line="199" column="167" />
+        <mark key="." line="199" column="166" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1588154983849">
         <mark key="[" line="0" column="0" />
       </file>
