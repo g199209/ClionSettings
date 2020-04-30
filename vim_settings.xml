@@ -189,8 +189,8 @@
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588216540179">
-        <mark key="[" line="38" column="23" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588217765903">
+        <mark key="[" line="30" column="23" />
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="21" />
         <mark key="^" line="38" column="22" />
@@ -222,12 +222,12 @@
         <mark key="^" line="82" column="35" />
         <mark key="." line="82" column="34" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588216804207">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588217747617">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="84" column="39" />
-        <mark key="]" line="84" column="75" />
-        <mark key="." line="84" column="74" />
-        <mark key="^" line="84" column="75" />
+        <mark key="[" line="95" column="3" />
+        <mark key="]" line="66" column="17" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="66" column="17" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1588216152884">
         <mark key="[" line="84" column="5" />
