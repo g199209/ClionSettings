@@ -236,12 +236,12 @@
         <mark key="^" line="79" column="58" />
         <mark key="." line="79" column="57" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588235353357">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588236100399">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="69" column="3" />
-        <mark key="]" line="70" column="62" />
-        <mark key="." line="70" column="61" />
-        <mark key="^" line="70" column="62" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="33" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="132" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc_dir/fragment.cpp" timestamp="1588233566223">
         <mark key="[" line="0" column="0" />
@@ -249,7 +249,7 @@
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h_dir/fragment.cpp" timestamp="1588233704138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/recover_context.cc" timestamp="1588233340273">
+      <file name="$USER_HOME$/Manul/manul/archive/context/recover_context.cc" timestamp="1588236013835">
         <mark key="[" line="10" column="17" />
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="14" />
@@ -365,7 +365,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkVDL2VjX3dvcmtlci5oIgo=</text>
+        <text encoding="base64">ICBjdHgtPkFsbG9jQW5kQWxpZ25BbGxSZWFkQnVmKCk7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -380,31 +380,31 @@
         <text encoding="base64">ICAvLyBUT0RPOiBEbyB3ZSBuZWVkIHJ1biBpbiBsb29wPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkVDL2VjX3dvcmtlci5oIgo=</text>
+        <text encoding="base64">ICBjdHgtPkFsbG9jQW5kQWxpZ25BbGxSZWFkQnVmKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">I2luY2x1ZGUgIkVDL2VjX3dvcmtlci5oIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBEbyB3ZSBuZWVkIHJ1biBpbiBsb29wPwo=</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2b2lkIFJlY292ZXJSZWFkKFJlYWRDb250ZXh0UHRyJiYgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBEbyB3ZSBuZWVkIHJ1biBpbiBsb29wPwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICB2b2lkIFJlY292ZXJSZWFkKFJlYWRDb250ZXh0UHRyJiYgY29udGV4dCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBlY193b3JrZXJfCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgIGVjX3dvcmtlcl8oZWNfd29ya2VyKSA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBjb21tb246OkVjV29ya2VyICplY193b3JrZXJfOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWNfd29ya2VyXyhlY193b3JrZXIpLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJUYXNrIGlkOiAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZWNfd29ya2VyXyhlY193b3JrZXIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>221</text>
