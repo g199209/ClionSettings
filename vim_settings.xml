@@ -172,6 +172,12 @@
         <mark key="]" line="203" column="7" />
         <mark key="." line="203" column="7" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1588224506179">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1588155010949">
         <mark key="[" line="33" column="46" />
         <mark key="]" line="33" column="46" />
@@ -220,15 +226,9 @@
       <file name="/Dummy.txt" timestamp="1588218943684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1588154899729">
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="82" column="35" />
-        <mark key="^" line="82" column="35" />
-        <mark key="." line="82" column="34" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588219185743">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588219388554">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="44" column="25" />
+        <mark key="[" line="105" column="0" />
         <mark key="]" line="45" column="72" />
         <mark key="." line="45" column="71" />
         <mark key="^" line="45" column="72" />
@@ -355,7 +355,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,31 +370,31 @@
         <text encoding="base64">ICBSZWNvdmVyQ29udGV4dFB0ciByZWNvdmVyX2NvbnRleHRfcHRyXzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgVG9TdHJpbmcoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgcmVjb3Zlcl9jb250ZXh0X3B0cl8gPSBzdGQ6Om1ha2Vfc2hhcmVkPFJlY292ZXJDb250ZXh0PigpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IHByaXZhdGU6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgVG9TdHJpbmcoKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbnRleHQvYXBwZW5kX2NvbnRleHQuaCIK</text>
+        <text encoding="base64">ICAvLyAgcmVjb3Zlcl9jb250ZXh0X3B0cl8gPSBzdGQ6Om1ha2Vfc2hhcmVkPFJlY292ZXJDb250ZXh0PigpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnVmX1tjaHVua19pbmRleF0ucmVzaXplKAogICAgICAgICAgRkxBR1NfbWFudWxfYXJjaGl2ZXNlcnZlcl9SZXBsaWNhdGlvblNpbmdsZUlPU2l6ZSk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbnRleHQvYXBwZW5kX2NvbnRleHQuaCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBidWZfLnJlc2l6ZShGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RhdGFfYnVmID0gcmRfYnVmOwo=</text>
+        <text encoding="base64">ICAgICAgYnVmX1tjaHVua19pbmRleF0ucmVzaXplKAogICAgICAgICAgRkxBR1NfbWFudWxfYXJjaGl2ZXNlcnZlcl9SZXBsaWNhdGlvblNpbmdsZUlPU2l6ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidWZfLnJlc2l6ZShGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplKTsK</text>
       </register>
       <register name=":" type="4">
         <text>206</text>
