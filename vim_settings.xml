@@ -229,12 +229,12 @@
       <file name="/Dummy.txt" timestamp="1588218943684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588226501720">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588227764703">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="33" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="58" column="57" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1588216152884">
         <mark key="[" line="84" column="5" />
@@ -358,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5hcHBlbmRfZXhwZWN0X29mZnNldF8K</text>
+        <text encoding="base64">ICBDb25zdHJ1Y3RSZWNvdmVyUmVhZENvbnRleHQoKTsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,31 +373,31 @@
         <text encoding="base64">ICBSZWNvdmVyQ29udGV4dFB0ciByZWNvdmVyX2NvbnRleHRfcHRyXzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5hcHBlbmRfZXhwZWN0X29mZnNldF8K</text>
+        <text encoding="base64">ICBDb25zdHJ1Y3RSZWNvdmVyUmVhZENvbnRleHQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5lY196b25lX29mZnNldF8ucmVzaXplKGNodW5rX3NpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbnN0cnVjdFJlY292ZXJSZWFkQ29udGV4dCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIOatpOaXtuS9v+eUqOeahCB6b25lX2lkIOWwseaYryBrSW52YWxpZFpvbmVJZAo=</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gJmNodW5rX2luZGV4IDogbmVlZF9yZWNvdmVyX2NodW5rc18pIHsKICAgIGFwcGVuZF9jb250ZXh0X3B0cl8tPnRhcmdldF96b25lX2lkc19bY2h1bmtfaW5kZXhdID0gCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGQ6Om1hcDxDaHVua0luZGV4VHlwZSwgWm9uZUlEVHlwZT4gdGFyZ2V0X3pvbmVfaWRzXzsK</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5hcHBlbmRfZXhwZWN0X29mZnNldF8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5lY196b25lX29mZnNldF8ucmVzaXplKGNodW5rX3NpemUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gKnAgOiBlY19kYXRhX3ZlY18pIHsKICAgIGZyZWUocCk7CiAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIOatpOaXtuS9v+eUqOeahCB6b25lX2lkIOWwseaYryBrSW52YWxpZFpvbmVJZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBlY19kYXRhX3ZlY18g5Lit55qE5pWw5o2u5oyH6ZKI5ZyoIENvbnRleHQg5p6Q5p6E5pe26YeK5pS+77yBCg==</text>
+        <text encoding="base64">ICBzdGQ6Om1hcDxDaHVua0luZGV4VHlwZSwgWm9uZUlEVHlwZT4gdGFyZ2V0X3pvbmVfaWRzXzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfID0gc3RkOjptYWtlX3NoYXJlZDxBcHBlbmRDb250ZXh0PihidWZfLnNpemUoKSwgMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gKnAgOiBlY19kYXRhX3ZlY18pIHsKICAgIGZyZWUocCk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>206</text>
