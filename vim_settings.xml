@@ -167,16 +167,11 @@
         <mark key="." line="188" column="39" />
         <mark key="^" line="188" column="40" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_storage_unittest.cc" timestamp="1588154964716">
-        <mark key="[" line="203" column="7" />
-        <mark key="]" line="203" column="7" />
-        <mark key="." line="203" column="7" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1588224506179">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1588226041177">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1588155010949">
         <mark key="[" line="33" column="46" />
@@ -192,11 +187,22 @@
         <mark key="." line="124" column="16" />
         <mark key="^" line="124" column="17" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.cc" timestamp="1588225920072">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1588155804053">
         <mark key="[" line="89" column="29" />
         <mark key="]" line="91" column="27" />
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="27" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588226005707">
+        <mark key="[" line="69" column="18" />
+        <mark key="]" line="70" column="23" />
+        <mark key="^" line="70" column="23" />
+        <mark key="." line="70" column="22" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588219047186">
         <mark key="'" line="39" column="39" />
@@ -214,24 +220,21 @@
         <mark key="." line="94" column="60" />
         <mark key="^" line="94" column="61" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588156796401">
-        <mark key="[" line="198" column="3" />
-        <mark key="]" line="199" column="167" />
-        <mark key="^" line="199" column="167" />
-        <mark key="." line="199" column="166" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1588154983849">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588226134295">
+        <mark key="[" line="125" column="47" />
+        <mark key="]" line="126" column="45" />
+        <mark key="^" line="126" column="45" />
+        <mark key="." line="126" column="44" />
       </file>
       <file name="/Dummy.txt" timestamp="1588218943684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588219388554">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588226501720">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="45" column="72" />
-        <mark key="." line="45" column="71" />
-        <mark key="^" line="45" column="72" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="33" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1588216152884">
         <mark key="[" line="84" column="5" />
@@ -355,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5hcHBlbmRfZXhwZWN0X29mZnNldF8K</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,31 +373,31 @@
         <text encoding="base64">ICBSZWNvdmVyQ29udGV4dFB0ciByZWNvdmVyX2NvbnRleHRfcHRyXzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5hcHBlbmRfZXhwZWN0X29mZnNldF8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IHByaXZhdGU6Cg==</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5lY196b25lX29mZnNldF8ucmVzaXplKGNodW5rX3NpemUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIC8vIOatpOaXtuS9v+eUqOeahCB6b25lX2lkIOWwseaYryBrSW52YWxpZFpvbmVJZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgcmVjb3Zlcl9jb250ZXh0X3B0cl8gPSBzdGQ6Om1ha2Vfc2hhcmVkPFJlY292ZXJDb250ZXh0PigpOwo=</text>
+        <text encoding="base64">ICBzdGQ6Om1hcDxDaHVua0luZGV4VHlwZSwgWm9uZUlEVHlwZT4gdGFyZ2V0X3pvbmVfaWRzXzsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbnRleHQvYXBwZW5kX2NvbnRleHQuaCIK</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gKnAgOiBlY19kYXRhX3ZlY18pIHsKICAgIGZyZWUocCk7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBlY19kYXRhX3ZlY18g5Lit55qE5pWw5o2u5oyH6ZKI5ZyoIENvbnRleHQg5p6Q5p6E5pe26YeK5pS+77yBCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnVmX1tjaHVua19pbmRleF0ucmVzaXplKAogICAgICAgICAgRkxBR1NfbWFudWxfYXJjaGl2ZXNlcnZlcl9SZXBsaWNhdGlvblNpbmdsZUlPU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfID0gc3RkOjptYWtlX3NoYXJlZDxBcHBlbmRDb250ZXh0PihidWZfLnNpemUoKSwgMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBidWZfLnJlc2l6ZShGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>206</text>
