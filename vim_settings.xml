@@ -170,10 +170,11 @@
         <mark key="." line="18" column="58" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1588759349612" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588764787831">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="17" />
-        <mark key="." line="52" column="17" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588766110928">
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="54" column="2" />
+        <mark key="." line="54" column="1" />
+        <mark key="^" line="54" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588758421387">
         <mark key="'" line="39" column="39" />
@@ -181,12 +182,6 @@
         <mark key="]" line="29" column="14" />
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="14" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.h" timestamp="1588754799219">
-        <mark key="[" line="47" column="83" />
-        <mark key="]" line="47" column="91" />
-        <mark key="." line="47" column="90" />
-        <mark key="^" line="47" column="91" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h_dir/fragment.cpp" timestamp="1588757721282">
         <mark key="[" line="0" column="0" />
@@ -235,6 +230,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588765872979">
+        <mark key="'" line="15" column="35" />
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="143" column="12" />
+        <mark key="." line="143" column="11" />
+        <mark key="^" line="143" column="12" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588759644073">
         <mark key="[" line="556" column="0" />
@@ -362,7 +364,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICIgICAgIiA8PCBDT01NQU5EX0NMVVNURVJfSU5GT19TVFIgPDwgIiAiIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,31 +379,31 @@
         <text encoding="base64">ICBjb3V0IDw8ICIgICAgIiA8PCBDT01NQU5EX0NMVVNURVJfSU5GT19TVFIgPDwgIiAiIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwo=</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlJlcGxpY2F0aW9uIFRhc2sgIiA8PCB0YXNrX2lkLlRvU3RyaW5nKCkgPDwgIiBTdWNjZXNzISI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHRhc2tfaWQgPSAoKml0KS0+R2V0VGFza0lEKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwogIHJldCA9IGdfYXJjaGl2ZV9jb250ZXh0LT5HZXREaXNrR3JvdXBNYW5hZ2VyKCktPkdldERpc2tHcm91cChkZ19pZCwgJmRnX3B0cik7CiAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgVUxPR19FUlJPUiA8PCAiQ2FuIG5vdCBmaW5kIGRpc2sgZ3JvdXAgIiA8PCBkZ19pZDsKICAgIHJldHVybiByZXQ7CiAgfQogIHJldCA9IGRnX3B0ci0+RmlsbE9uR29pbmdSZXBsaWNhVGFza3NQYihvbl9nb2luZ190YXNrX2luZm9zKTsKICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICBVTE9HX0VSUk9SIDw8ICJGaWxsIG9uIGdvaW5nIHRhc2sgcGIgZmFpbGVkISByZXQ6ICIgPDwgcmV0OwogICAgcmV0dXJuIHJldDsKICB9CiAgcmV0ID0gZGdfcHRyLT5GaWxsUGVuZGluZ1JlcGxpY2FUYXNrc1BiKHBlbmRpbmdfdGFza19pbmZvcyk7CiAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgVUxPR19FUlJPUiA8PCAiRmlsbCBwZW5kaW5nIHRhc2sgcGIgZmFpbGVkISByZXQ6ICIgPDwgcmV0OwogICAgcmV0dXJuIHJldDsKICB9Cg==</text>
+        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBEaXNrR3JvdXBJRFR5cGUgZGdfaWQgPSByZXFfYm9keS5kZ19pZCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
