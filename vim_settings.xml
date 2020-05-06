@@ -220,11 +220,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588748416174">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588748733881">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="55" />
+        <mark key="." line="151" column="0" />
         <mark key="^" line="185" column="38" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588737917823" />
@@ -364,8 +364,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add smoke test pb timeout to 30s.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhdXRvJiB6b25lX2luZm8gPSBjaHVua19pbmZvLnpvbmVfaW5mb3Nbem9uZV9pbmRleF9dOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -377,34 +377,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdXRvJiBjaHVua19pbmZvID0gYmxvYl9tZXRhXy0+Y2h1bmtzX2luZm9zWyppdF9jaHVua107Cg==</text>
+        <text encoding="base64">ICBhdXRvJiB6b25lX2luZm8gPSBjaHVua19pbmZvLnpvbmVfaW5mb3Nbem9uZV9pbmRleF9dOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB6b25lX2luZm8uZGF0YV9sZW5ndGggPSB0YXJnZXRfbGVuXzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgcmVjb3Zlcl9jb250ZXh0X3B0cl8gPSBzdGQ6Om1ha2Vfc2hhcmVkPFJlY292ZXJDb250ZXh0PihzdGQ6Om1vdmUoKmN0eCkpOwogIC8vICBhdXRvIHJldCA9IGRnX2hhbmRsZV8tPlBSZWFkKHJlY292ZXJfY29udGV4dF9wdHJfLCApOwogIC8vICAvLyBUT0RPKG1pbmdmZWkuZ2FvKTogRGVhbCB3aXRoIGVycm9yCiAgLy8gIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBSZWNvdmVyQ29udGV4dFB0ciByZWNvdmVyX2NvbnRleHRfcHRyXzsK</text>
+        <text encoding="base64">ICAvLyAgcmVjb3Zlcl9jb250ZXh0X3B0cl8gPSBzdGQ6Om1ha2Vfc2hhcmVkPFJlY292ZXJDb250ZXh0PihzdGQ6Om1vdmUoKmN0eCkpOwogIC8vICBhdXRvIHJldCA9IGRnX2hhbmRsZV8tPlBSZWFkKHJlY292ZXJfY29udGV4dF9wdHJfLCApOwogIC8vICAvLyBUT0RPKG1pbmdmZWkuZ2FvKTogRGVhbCB3aXRoIGVycm9yCiAgLy8gIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXV0byYgY2h1bmtfaW5mbyA9IGJsb2JfbWV0YV8tPmNodW5rc19pbmZvc1sqaXRfY2h1bmtdOwo=</text>
+        <text encoding="base64">ICBSZWNvdmVyQ29udGV4dFB0ciByZWNvdmVyX2NvbnRleHRfcHRyXzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2h1bmtfaW5mby56b25lX2luZm9zW3pvbmVfaW5kZXhfXQo=</text>
+        <text encoding="base64">ICAgICAgYXV0byYgY2h1bmtfaW5mbyA9IGJsb2JfbWV0YV8tPmNodW5rc19pbmZvc1sqaXRfY2h1bmtdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2h1bmtfaW5mby56b25lX2luZm9zW3pvbmVfaW5kZXhfXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJUYXNrIGlkOiAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkKICAgICAgICAgICAgIDw8ICIsIGNodW5rX2luZGV4OiAiIDw8ICppdF9jaHVuazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBmb3IgKGludCBpID0gMDsgaTwgdXVpZF9zdHIuc2l6ZSgpOyBpKyspIHsKICAgICAgY291dCA8PCB1dWlkX3N0cltpXSA8PCAiICAiIDw8IChpbnQpdXVpZF9zdHJbaV0gPDwgZW5kbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJUYXNrIGlkOiAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkKICAgICAgICAgICAgIDw8ICIsIGNodW5rX2luZGV4OiAiIDw8ICppdF9jaHVuazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmb3IgKGludCBpID0gMDsgaTwgdXVpZF9zdHIuc2l6ZSgpOyBpKyspIHsKICAgICAgY291dCA8PCB1dWlkX3N0cltpXSA8PCAiICAiIDw8IChpbnQpdXVpZF9zdHJbaV0gPDwgZW5kbDsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>171</text>
