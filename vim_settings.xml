@@ -151,6 +151,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1588747617851">
+        <mark key="[" line="89" column="23" />
+        <mark key="]" line="89" column="41" />
+        <mark key="." line="89" column="40" />
+        <mark key="^" line="89" column="41" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588237547934">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="70" column="23" />
@@ -187,12 +193,6 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1588233954549">
-        <mark key="'" line="607" column="45" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="78" />
-        <mark key="." line="363" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1588235549183">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="25" />
@@ -220,8 +220,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588236100399">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588747756130">
         <mark key="'" line="15" column="35" />
+        <mark key="[" line="184" column="41" />
+        <mark key="]" line="185" column="38" />
+        <mark key="." line="185" column="37" />
+        <mark key="^" line="185" column="38" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588737917823" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588740905626">
@@ -236,7 +240,7 @@
         <mark key="." line="187" column="61" />
         <mark key="^" line="187" column="61" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588234105354">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588747495917">
         <mark key="[" line="124" column="44" />
         <mark key="]" line="124" column="44" />
         <mark key="." line="124" column="44" />
@@ -360,8 +364,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add smoke test pb timeout to 30s.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYXV0byYgY2h1bmtfaW5mbyA9IGJsb2JfbWV0YV8tPmNodW5rc19pbmZvc1sqaXRfY2h1bmtdOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,34 +377,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoIXV1aWRfcmV0KSB7CiAgICBVTE9HX0VSUk9SIDw8ICJVVUlEIEZvcm1hdCBlcnJvciEgIiA8PCBmLT5maWxlX25hbWU7CiAgICByZXR1cm4gLTE7CiAgfQo=</text>
+        <text encoding="base64">ICBhdXRvJiBjaHVua19pbmZvID0gYmxvYl9tZXRhXy0+Y2h1bmtzX2luZm9zWyppdF9jaHVua107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBmb3IgKGludCBpID0gMDsgaTwgdXVpZF9zdHIuc2l6ZSgpOyBpKyspIHsKICAgICAgY291dCA8PCB1dWlkX3N0cltpXSA8PCAiICAiIDw8IChpbnQpdXVpZF9zdHJbaV0gPDwgZW5kbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgYXV0byYgY2h1bmtfaW5mbyA9IGJsb2JfbWV0YV8tPmNodW5rc19pbmZvc1sqaXRfY2h1bmtdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2h1bmtfaW5mby56b25lX2luZm9zW3pvbmVfaW5kZXhfXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmLT5maWxlX25hbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBSZW1vdmUgcXVvdGF0aW9uCiAgZm9yIChhdXRvICZzIDogY29tbWFuZHMpIHsKICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogICAgaWYgKHMuc3RhcnRzX3dpdGgoIlwiIikgfHwgcy5zdGFydHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3ByZWZpeCgxKTsKICAgIH0KICAgIGlmIChzLmVuZHNfd2l0aCgiXCIiKSB8fCBzLmVuZHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3N1ZmZpeCgxKTsKICAgIH0KICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogIH0K</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJUYXNrIGlkOiAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkKICAgICAgICAgICAgIDw8ICIsIGNodW5rX2luZGV4OiAiIDw8ICppdF9jaHVuazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBmb3IgKGludCBpID0gMDsgaTwgdXVpZF9zdHIuc2l6ZSgpOyBpKyspIHsKICAgICAgY291dCA8PCB1dWlkX3N0cltpXSA8PCAiICAiIDw8IChpbnQpdXVpZF9zdHJbaV0gPDwgZW5kbDsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSBxdW90YXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhc3NlcnQobWV0YS0+c3RhdHVzID09IFpPTkVfVVNFRCk7Cg==</text>
+        <text encoding="base64">ICBmLT5maWxlX25hbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAvLyBSZW1vdmUgcXVvdGF0aW9uCiAgZm9yIChhdXRvICZzIDogY29tbWFuZHMpIHsKICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogICAgaWYgKHMuc3RhcnRzX3dpdGgoIlwiIikgfHwgcy5zdGFydHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3ByZWZpeCgxKTsKICAgIH0KICAgIGlmIChzLmVuZHNfd2l0aCgiXCIiKSB8fCBzLmVuZHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3N1ZmZpeCgxKTsKICAgIH0KICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>171</text>
