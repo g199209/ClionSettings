@@ -204,11 +204,10 @@
         <mark key="." line="79" column="1" />
         <mark key="^" line="79" column="2" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1588743059513">
-        <mark key="[" line="476" column="2" />
-        <mark key="]" line="361" column="2" />
-        <mark key="." line="361" column="1" />
-        <mark key="^" line="361" column="2" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1588745569514">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1588237031730">
         <mark key="[" line="50" column="25" />
@@ -216,18 +215,13 @@
         <mark key="^" line="50" column="26" />
         <mark key="." line="50" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1588237727386">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="143" column="32" />
-        <mark key="." line="155" column="0" />
+      <file name="/Dummy.txt" timestamp="1588745842029">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588236100399">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="33" />
-        <mark key="." line="127" column="0" />
-        <mark key="^" line="132" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588737917823" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588740905626">
@@ -253,9 +247,6 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h_dir/fragment.cpp" timestamp="1588233910284">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1588742935164">
         <mark key="[" line="566" column="0" />
@@ -369,14 +360,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add smoke test pb timeout to 30s.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>io_res_hdr</text>
+        <text>Add smoke test pb timeout to 30s.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -385,31 +376,31 @@
         <text encoding="base64">ICBpZiAoIXV1aWRfcmV0KSB7CiAgICBVTE9HX0VSUk9SIDw8ICJVVUlEIEZvcm1hdCBlcnJvciEgIiA8PCBmLT5maWxlX25hbWU7CiAgICByZXR1cm4gLTE7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmb3IgKGludCBpID0gMDsgaTwgdXVpZF9zdHIuc2l6ZSgpOyBpKyspIHsKICAgICAgY291dCA8PCB1dWlkX3N0cltpXSA8PCAiICAiIDw8IChpbnQpdXVpZF9zdHJbaV0gPDwgZW5kbDsKICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmLT5maWxlX25hbQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBSZW1vdmUgcXVvdGF0aW9uCiAgZm9yIChhdXRvICZzIDogY29tbWFuZHMpIHsKICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogICAgaWYgKHMuc3RhcnRzX3dpdGgoIlwiIikgfHwgcy5zdGFydHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3ByZWZpeCgxKTsKICAgIH0KICAgIGlmIChzLmVuZHNfd2l0aCgiXCIiKSB8fCBzLmVuZHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3N1ZmZpeCgxKTsKICAgIH0KICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFJlbW92ZSBxdW90YXRpb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBhc3NlcnQobWV0YS0+c3RhdHVzID09IFpPTkVfVVNFRCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmLT5maWxlX25hbQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBSZW1vdmUgcXVvdGF0aW9uCiAgZm9yIChhdXRvICZzIDogY29tbWFuZHMpIHsKICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogICAgaWYgKHMuc3RhcnRzX3dpdGgoIlwiIikgfHwgcy5zdGFydHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3ByZWZpeCgxKTsKICAgIH0KICAgIGlmIChzLmVuZHNfd2l0aCgiXCIiKSB8fCBzLmVuZHNfd2l0aCgiJyIpKSB7CiAgICAgIHMucmVtb3ZlX3N1ZmZpeCgxKTsKICAgIH0KICAgIGNvdXQgPDwgcyA8PCBlbmRsOwogIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFJlbW92ZSBxdW90YXRpb24K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhc3NlcnQobWV0YS0+c3RhdHVzID09IFpPTkVfVVNFRCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZiAoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQtPnJlcV9jb250ZXh0Xy0+U2V0UmV0Y29kZShmaW5hbF9yZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>257</text>
