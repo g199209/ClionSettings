@@ -231,12 +231,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588765872979">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588766770782">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="143" column="12" />
-        <mark key="]" line="143" column="12" />
-        <mark key="." line="143" column="11" />
-        <mark key="^" line="143" column="12" />
+        <mark key="[" line="189" column="5" />
+        <mark key="]" line="190" column="26" />
+        <mark key="." line="190" column="25" />
+        <mark key="^" line="190" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588759644073">
         <mark key="[" line="556" column="0" />
@@ -382,28 +382,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlJlcGxpY2F0aW9uIFRhc2sgIiA8PCB0YXNrX2lkLlRvU3RyaW5nKCkgPDwgIiBTdWNjZXNzISI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBhdXRvIHRhc2tfaWQgPSAoKml0KS0+R2V0VGFza0lEKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlJlcGxpY2F0aW9uIFRhc2sgIiA8PCB0YXNrX2lkLlRvU3RyaW5nKCkgPDwgIiBTdWNjZXNzISI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhdXRvIHRhc2tfaWQgPSAoKml0KS0+R2V0VGFza0lEKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
