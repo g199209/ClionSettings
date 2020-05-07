@@ -157,12 +157,6 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="14" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1588757808561">
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="59" />
-        <mark key="^" line="18" column="59" />
-        <mark key="." line="18" column="58" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588819244456">
         <mark key="'" line="42" column="2" />
       </file>
@@ -206,11 +200,10 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1588820696066">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="18" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1588824259356">
+        <mark key="[" line="632" column="0" />
+        <mark key="]" line="635" column="3" />
+        <mark key="." line="630" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1588820000095">
         <mark key="[" line="85" column="8" />
@@ -231,7 +224,12 @@
         <mark key="^" line="555" column="14" />
         <mark key="." line="556" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588819402039" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588823708605">
+        <mark key="[" line="107" column="44" />
+        <mark key="]" line="107" column="36" />
+        <mark key="." line="107" column="35" />
+        <mark key="^" line="107" column="36" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1588759978522">
         <mark key="[" line="148" column="27" />
         <mark key="]" line="148" column="35" />
@@ -243,6 +241,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1588824255315">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="65" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.h" timestamp="1588820773408">
         <mark key="[" line="39" column="19" />
@@ -357,47 +361,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IElzWm9uZUluUHJvZ3Jlc3Moem9uZV9pZCk7CiAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgcmV0dXJuIHJldDsKICB9Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>std::bind(</text>
+        <text>return 0;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICIgICAgIiA8PCBDT01NQU5EX0NMVVNURVJfSU5GT19TVFIgPDwgIiAiIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IElzWm9uZUluUHJvZ3Jlc3Moem9uZV9pZCk7CiAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgcmV0dXJuIHJldDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoKQo=</text>
+        <text encoding="base64">ICBpbnQzMl90IElzWm9uZVNlYWxSZWFkeShab25lSURUeXBlIHpvbmVfaWQpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>,
-      std::move(cb)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50MzJfdCBHZW5lcmljRGlza0hhbmRsZTo6SXNab25lU2VhbFJlYWR5KFpvbmVJRFR5cGUgem9uZV9pZCkgewp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IElzWm9uZUluUHJvZ3Jlc3Moem9uZV9pZCk7CiAgaWYgKHJldCAhPSBNQU5VTF9PSykgewogICAgcmV0dXJuIHJldDsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIlJlcGxpY2F0aW9uIFRhc2sgIiA8PCB0YXNrX2lkLlRvU3RyaW5nKCkgPDwgIiBTdWNjZXNzISI7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhdXRvIHRhc2tfaWQgPSAoKml0KS0+R2V0VGFza0lEKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpbl9wcm9ncmVzc196b25lc18uZmluZCh6b25lX2lkKSAhPSBpbl9wcm9ncmVzc196b25lc18uZW5kKCkpIHsKICAgICAgVUxPR19XQVJOIDw8ICJab25lIGJ1c3khICIgPDwgem9uZV9pZDsKICAgICAgcmV0dXJuIE1BTlVMX1pPTkVfSVNfQlVTWTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERpc2tHcm91cFNoYXJlZFB0ciBkZ19wdHI7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBEaXNrR3JvdXBTaGFyZWRQdHIgZGdfcHRyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>189</text>
