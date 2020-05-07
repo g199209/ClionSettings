@@ -157,7 +157,7 @@
         <mark key="." line="44" column="32" />
         <mark key="^" line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588847396007">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588850843157">
         <mark key="[" line="312" column="58" />
         <mark key="]" line="312" column="75" />
         <mark key="^" line="312" column="75" />
@@ -170,11 +170,11 @@
         <mark key="." line="106" column="66" />
         <mark key="^" line="106" column="67" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1588847515578">
-        <mark key="[" line="197" column="29" />
-        <mark key="]" line="210" column="20" />
-        <mark key="." line="210" column="19" />
-        <mark key="^" line="210" column="20" />
+      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1588852026607">
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="191" column="39" />
+        <mark key="." line="191" column="38" />
+        <mark key="^" line="191" column="39" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588839872877">
         <mark key="[" line="30" column="0" />
@@ -327,49 +327,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyDnirbmgIEK</text>
+        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1NFQUxFRCkgewogICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfU0VBTEVEOwogIH0gZWxzZSBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1VTRUQgJiYKICAgICAgICAgICAgICpibG9iX3N0YXR1cyA9PSBCTE9CX1NUQVRVU19TRUFMRUQpIHsKICAgIFVMT0dfRVJST1IgPDwgIk11c3QgaGF2ZSBoYXBwZW5lZCBmYWlsb3ZlciI7CiAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGFzc2VydCBmb3Igbm90LCBmaXggaXQgYWZ0ZXIgc3VwcG9ydCBmYWlsb3ZlcgogICAgYXNzZXJ0KGZhbHNlKTsKICB9Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>zone_meta</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY291dCA8PCBzdGQ6OnNldHcoMTQpIDw8IGN1cnJlbnRfb2ZmIDw8ICIgfCAiOwo=</text>
+        <text encoding="base64">ICAgIGNhc2UgQkxPQl9TVEFUVVNfU0VBTEVEOgogICAgICBzd2l0Y2ggKHpvbmVfc3RhdHVzKSB7CiAgICAgICAgY2FzZSBaT05FX1VTRUQ6CiAgICAgICAgICBVTE9HX0VSUk9SIDw8ICJab25lIHN0YXR1cyAiIDw8IHpvbmVfc3RhdHVzIDw8ICIgJiBibG9iIHN0YXR1cyAiCiAgICAgICAgICAgICAgICAgICAgIDw8ICpibG9iX3N0YXR1cyA8PCAiIGVycm9yLCBzZXQgQmxvYiBzdGF0dXMgdG8gQ09SUlVQVEVEIjsKICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX0NPUlJVUFRFRDsKICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgWk9ORV9TRUFMRUQ6CiAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIFpPTkVfUkVQTElDQVRJTkc6CiAgICAgICAgICAqYmxvYl9zdGF0dXMgPSBCTE9CX1NUQVRVU19SRVBMSUNBVElORzsKICAgICAgICAgIGJyZWFrOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICBhc3NlcnQoZmFsc2UpOwogICAgICB9CiAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyDnirbmgIEK</text>
+        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1NFQUxFRCkgewogICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfU0VBTEVEOwogIH0gZWxzZSBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1VTRUQgJiYKICAgICAgICAgICAgICpibG9iX3N0YXR1cyA9PSBCTE9CX1NUQVRVU19TRUFMRUQpIHsKICAgIFVMT0dfRVJST1IgPDwgIk11c3QgaGF2ZSBoYXBwZW5lZCBmYWlsb3ZlciI7CiAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGFzc2VydCBmb3Igbm90LCBmaXggaXQgYWZ0ZXIgc3VwcG9ydCBmYWlsb3ZlcgogICAgYXNzZXJ0KGZhbHNlKTsKICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zZWNvbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX1JFUExJQ0FUSU5HOwogICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib29sIHJldCA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFpPTkVfVVNFRDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAzLiAK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFpPTkVfU0VBTEVEOgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>状态的 Zone，Blob 状态修改为
-  // BLOB_STATUS_REPLICATING
-  // 2. 其次，若存在 ZONE_SEALED 状态的 Zone, 且 Blob 状态为 BLOB_STATUS_NORMALBlob 状态修改为
-  // BLOB_STATUS_SEALED</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIFpPTkVfUkVQTElDQVRJTkc6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFpvbmVCbG9iSW5mbyYgYmxvYl9pbmZvID0gbWV0YS5ibG9iX2luZm87Cg==</text>
+        <text encoding="base64">ICAgICAgc3dpdGNoICh6b25lX3N0YXR1cykgewogICAgICAgIGNhc2UgWk9ORV9VU0VEOgogICAgICAgICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfTk9STUFMOwogICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSBaT05FX1NFQUxFRDoKICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX1NFQUxFRDsKICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgWk9ORV9SRVBMSUNBVElORzoKICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX1JFUExJQ0FUSU5HOwogICAgICAgICAgYnJlYWs7CiAgICAgICAgZGVmYXVsdDoKICAgICAgICAgIGFzc2VydChmYWxzZSk7CiAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICYmCiAgICAgIHN0YXR1cyAhPSBaT05FX1NFQUxFRA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX1JFUExJQ0FUSU5HOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBCaW5kUmVhbERpc2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX1NFQUxFRDsK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
