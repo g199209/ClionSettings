@@ -157,6 +157,12 @@
         <mark key="." line="44" column="32" />
         <mark key="^" line="44" column="33" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588846009067">
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="15" />
+        <mark key="^" line="62" column="15" />
+        <mark key="." line="62" column="14" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/eventloop.h" timestamp="1588834815101" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1588840813383">
         <mark key="[" line="106" column="61" />
@@ -164,10 +170,10 @@
         <mark key="." line="106" column="66" />
         <mark key="^" line="106" column="67" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1588843477746">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="51" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1588846091871">
+        <mark key="[" line="194" column="4" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588839872877">
         <mark key="[" line="30" column="0" />
@@ -192,12 +198,6 @@
         <mark key="]" line="101" column="16" />
         <mark key="." line="101" column="15" />
         <mark key="^" line="101" column="16" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588823708605">
-        <mark key="[" line="107" column="44" />
-        <mark key="]" line="107" column="36" />
-        <mark key="." line="107" column="35" />
-        <mark key="^" line="107" column="36" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1588832824339">
         <mark key="[" line="106" column="20" />
@@ -326,7 +326,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFpvbmVCbG9iSW5mbyYgYmxvYl9pbmZvID0gbWV0YS5ibG9iX2luZm87Cg==</text>
+        <text encoding="base64">ICAvLyAzLiAK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,31 +341,34 @@
         <text encoding="base64">ICAgICAgY291dCA8PCBzdGQ6OnNldHcoMTQpIDw8IGN1cnJlbnRfb2ZmIDw8ICIgfCAiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFpvbmVCbG9iSW5mbyYgYmxvYl9pbmZvID0gbWV0YS5ibG9iX2luZm87Cg==</text>
+        <text encoding="base64">ICAvLyAzLiAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICYmCiAgICAgIHN0YXR1cyAhPSBaT05FX1NFQUxFRA==</text>
+        <text>状态的 Zone，Blob 状态修改为
+  // BLOB_STATUS_REPLICATING
+  // 2. 其次，若存在 ZONE_SEALED 状态的 Zone, 且 Blob 状态为 BLOB_STATUS_NORMALBlob 状态修改为
+  // BLOB_STATUS_SEALED</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IFpvbmVCbG9iSW5mbyYgYmxvYl9pbmZvID0gbWV0YS5ibG9iX2luZm87Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBCaW5kUmVhbERpc2soKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICYmCiAgICAgIHN0YXR1cyAhPSBaT05FX1NFQUxFRA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZ19pZF8gPSBkZ19pZDsKICBqYm9kX2lkXyA9IGpib2RfaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAgY291dCA8PCByc3AuRGVidWdTdHJpbmcoKSA8PCBlbmRsOwo=</text>
+        <text encoding="base64">ICBCaW5kUmVhbERpc2soKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDBfMV80XzEwNzEzODUwMzA3MDQyODY5MjcyCg==</text>
+        <text encoding="base64">ICBkZ19pZF8gPSBkZ19pZDsKICBqYm9kX2lkXyA9IGpib2RfaWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXV0byBhID0gdGFzay5yZXBsaWNhX2lkKCk7Cg==</text>
+        <text encoding="base64">ICAvLyAgY291dCA8PCByc3AuRGVidWdTdHJpbmcoKSA8PCBlbmRsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDBfMV80XzEwNzEzODUwMzA3MDQyODY5MjcyCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
