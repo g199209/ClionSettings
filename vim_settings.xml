@@ -163,13 +163,20 @@
         <mark key="^" line="62" column="15" />
         <mark key="." line="62" column="14" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588759284695">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1588757808561">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="59" />
         <mark key="^" line="18" column="59" />
         <mark key="." line="18" column="58" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1588759349612" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588819244456">
+        <mark key="'" line="42" column="2" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1588766110928">
         <mark key="[" line="53" column="36" />
         <mark key="]" line="54" column="2" />
@@ -182,6 +189,19 @@
         <mark key="]" line="29" column="14" />
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="14" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588766770782">
+        <mark key="'" line="15" column="35" />
+        <mark key="[" line="189" column="5" />
+        <mark key="]" line="190" column="26" />
+        <mark key="." line="190" column="25" />
+        <mark key="^" line="190" column="26" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588759644073">
+        <mark key="[" line="556" column="0" />
+        <mark key="]" line="556" column="30" />
+        <mark key="^" line="555" column="14" />
+        <mark key="." line="556" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h_dir/fragment.cpp" timestamp="1588757721282">
         <mark key="[" line="0" column="0" />
@@ -199,17 +219,17 @@
         <mark key="^" line="567" column="28" />
         <mark key="." line="567" column="27" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1588763788491">
+      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1588819071094">
         <mark key="[" line="142" column="64" />
         <mark key="]" line="142" column="60" />
         <mark key="^" line="142" column="60" />
         <mark key="." line="142" column="59" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1588755171776">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="110" column="35" />
-        <mark key="." line="110" column="34" />
-        <mark key="^" line="110" column="35" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1588759978522">
+        <mark key="[" line="148" column="27" />
+        <mark key="]" line="148" column="35" />
+        <mark key="." line="148" column="34" />
+        <mark key="^" line="148" column="35" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1588755681384">
         <mark key="[" line="30" column="0" />
@@ -223,45 +243,17 @@
         <mark key="." line="104" column="66" />
         <mark key="^" line="104" column="67" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc_dir/fragment.cpp" timestamp="1588759284688">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588759284695">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588766770782">
-        <mark key="'" line="15" column="35" />
-        <mark key="[" line="189" column="5" />
-        <mark key="]" line="190" column="26" />
-        <mark key="." line="190" column="25" />
-        <mark key="^" line="190" column="26" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1588759644073">
-        <mark key="[" line="556" column="0" />
-        <mark key="]" line="556" column="30" />
-        <mark key="^" line="555" column="14" />
-        <mark key="." line="556" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/dump_cluster_info.cc" timestamp="1588755139332" />
-      <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1588759978522">
-        <mark key="[" line="148" column="27" />
-        <mark key="]" line="148" column="35" />
-        <mark key="." line="148" column="34" />
-        <mark key="^" line="148" column="35" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/dump_replica_info.cc" timestamp="1588759319329">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc_dir/fragment.cpp" timestamp="1588759284688">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="15" filename="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" />
-      <jump line="149" column="4" filename="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" />
-      <jump line="226" column="34" filename="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" />
       <jump line="81" column="2" filename="$USER_HOME$/Manul/manul/deploy/chunkserver/deploy.sh" />
       <jump line="190" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_type.h" />
       <jump line="204" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_type.h" />
@@ -359,6 +351,9 @@
       <jump line="186" column="0" filename="$USER_HOME$/Manul/manul/archive/disk_group.cc" />
       <jump line="39" column="39" filename="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" />
       <jump line="11" column="37" filename="$USER_HOME$/Manul/manul/archive/disk_group.cc" />
+      <jump line="24" column="12" filename="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" />
+      <jump line="26" column="63" filename="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" />
+      <jump line="42" column="2" filename="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
