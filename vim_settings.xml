@@ -158,8 +158,11 @@
         <mark key="^" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/eventloop.h" timestamp="1588834815101" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1588819244456">
-        <mark key="'" line="42" column="2" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1588840813383">
+        <mark key="[" line="106" column="61" />
+        <mark key="]" line="106" column="67" />
+        <mark key="." line="106" column="66" />
+        <mark key="^" line="106" column="67" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588839872877">
         <mark key="[" line="30" column="0" />
@@ -178,12 +181,12 @@
         <mark key="." line="52" column="6" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588822723341">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588841675562">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="190" column="5" />
-        <mark key="]" line="191" column="26" />
-        <mark key="." line="191" column="25" />
-        <mark key="^" line="191" column="26" />
+        <mark key="[" line="100" column="17" />
+        <mark key="]" line="101" column="16" />
+        <mark key="." line="101" column="15" />
+        <mark key="^" line="101" column="16" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588823708605">
         <mark key="[" line="107" column="44" />
