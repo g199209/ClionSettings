@@ -26,8 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>196</entry>
-        <entry>125</entry>
         <entry>222</entry>
         <entry>1287</entry>
         <entry>206</entry>
@@ -46,6 +44,8 @@
         <entry>581</entry>
         <entry>461</entry>
         <entry>429</entry>
+        <entry>275</entry>
+        <entry>47</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,21 +151,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.h_dir/fragment.cpp" timestamp="1588931295590">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_zookeeper.cc" timestamp="1588941814500">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588938378392">
-        <mark key="[" line="370" column="0" />
-        <mark key="]" line="370" column="0" />
-        <mark key="^" line="370" column="20" />
-        <mark key="." line="370" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588942055989">
+        <mark key="[" line="274" column="13" />
+        <mark key="]" line="274" column="14" />
+        <mark key="^" line="274" column="14" />
+        <mark key="." line="274" column="13" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1588940423964" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1588931364274">
-        <mark key="[" line="59" column="11" />
-        <mark key="]" line="78" column="59" />
-        <mark key="." line="78" column="58" />
-        <mark key="^" line="78" column="59" />
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1588941694985" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1588941820613">
+        <mark key="[" line="193" column="33" />
+        <mark key="]" line="193" column="37" />
+        <mark key="." line="193" column="36" />
+        <mark key="^" line="193" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588933205099">
         <mark key="[" line="108" column="63" />
@@ -175,6 +176,12 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1588937102577">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/device_manager.cc" timestamp="1588942399122">
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588933411345">
         <mark key="[" line="102" column="0" />
@@ -194,8 +201,10 @@
         <mark key="^" line="142" column="60" />
         <mark key="." line="142" column="59" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1588930885237">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_context.h" timestamp="1588942359003">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/manul_flags.cc" timestamp="1588932526150" />
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588933208366">
@@ -203,9 +212,6 @@
         <mark key="]" line="68" column="80" />
         <mark key="." line="68" column="79" />
         <mark key="^" line="68" column="80" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1588931105359">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588939666289">
         <mark key="[" line="0" column="0" />
@@ -328,19 +334,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Add result check.</text>
+        <text>is_leader</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Add result check.</text>
+        <text>is_leader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVGSU5FX01BTlVMX0VSUk9SQ09ERShNQU5VTF9aT05FX0lTX0JVU1ksIC0xMzUsCiAgICAgICAgICAgICAgICAgICAgICAgInpvbmUgaXMgYnVzeSwgbmVlZCB3YWl0IGFuZCByZXRyeSBsYXRlciIpOwo=</text>
+        <text encoding="base64">ICBnX2FyY2hpdmVfY29udGV4dC0+U2V0SXNMZWFkZXIoaXNfbGVhZGVyKTsK</text>
       </register>
       <register name="1" type="4">
         <text>,
@@ -372,7 +378,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>429</text>
+        <text>47</text>
       </register>
     </registers>
   </component>
