@@ -155,11 +155,11 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.h_dir/fragment.cpp" timestamp="1588931295590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588933696490">
-        <mark key="[" line="458" column="17" />
-        <mark key="]" line="458" column="24" />
-        <mark key="^" line="458" column="24" />
-        <mark key="." line="458" column="23" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588934173008">
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="^" line="370" column="20" />
+        <mark key="." line="370" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1588931364274">
         <mark key="[" line="59" column="11" />
@@ -226,12 +226,12 @@
         <mark key="^" line="220" column="71" />
         <mark key="." line="220" column="70" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588933103077">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588934218873">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="197" column="7" />
-        <mark key="]" line="198" column="47" />
-        <mark key="^" line="198" column="47" />
-        <mark key="." line="198" column="46" />
+        <mark key="[" line="125" column="31" />
+        <mark key="]" line="199" column="47" />
+        <mark key="^" line="199" column="47" />
+        <mark key="." line="199" column="46" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/crush.cc" timestamp="1588932472236" />
     </filemarks>
@@ -341,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXJnZXRfem9uZV9pZHMuc2l6ZSgpCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -356,31 +356,31 @@
         <text encoding="base64">REVGSU5FX01BTlVMX0VSUk9SQ09ERShNQU5VTF9aT05FX0lTX0JVU1ksIC0xMzUsCiAgICAgICAgICAgICAgICAgICAgICAgInpvbmUgaXMgYnVzeSwgbmVlZCB3YWl0IGFuZCByZXRyeSBsYXRlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXJnZXRfem9uZV9pZHMuc2l6ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8g5q2kIENvbnRleHQg5LuL5LqOIFJXQ29udGV4dCDkuI4gSU9Db250ZXh0IOS5i+mXtAovLyDnlKjkuo7kvKDpgJIgUldDb250ZXh0IOS4reaJgOmcgOWPguaVsOiHsyBJT0NvbnRleHQg5LitCnN0cnVjdCBTdG9yYWdlUldDb250ZXh0IHsKICBab25lSURUeXBlIHpvbmVfaWQ7CiAgdm9pZCogZGF0YTsKICB1aW50NjRfdCBsZW5ndGg7CiAgdWludDY0X3QgcndfY29udGV4dF9mbG93bm87ICAvLyDkuIrlsYIgUldDb250ZXh0IOeahCBGbG93bm8KCiAgU3RvcmFnZVJXQ29udGV4dCgpCn07Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB1bmlvbiB7CiAgICB1aW50NjRfdCogYXBwZW5kX29mZnNldDsKICAgIHVpbnQ2NF90IHJlYWRfb2Zmc2V0OwogIH07Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8g5q2kIENvbnRleHQg5LuL5LqOIFJXQ29udGV4dCDkuI4gSU9Db250ZXh0IOS5i+mXtAovLyDnlKjkuo7kvKDpgJIgUldDb250ZXh0IOS4reaJgOmcgOWPguaVsOiHsyBJT0NvbnRleHQg5LitCnN0cnVjdCBTdG9yYWdlUldDb250ZXh0IHsKICBab25lSURUeXBlIHpvbmVfaWQ7CiAgdm9pZCogZGF0YTsKICB1aW50NjRfdCBsZW5ndGg7CiAgdWludDY0X3QgcndfY29udGV4dF9mbG93bm87ICAvLyDkuIrlsYIgUldDb250ZXh0IOeahCBGbG93bm8KCiAgU3RvcmFnZVJXQ29udGV4dCgpCn07Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB1bmlvbiB7CiAgICB1aW50NjRfdCogYXBwZW5kX29mZnNldDsKICAgIHVpbnQ2NF90IHJlYWRfb2Zmc2V0OwogIH07Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCBhcHBlbmRfb2Zmc2V0OwogIHVpbnQ2NF90IGFwcGVuZF9vZmZzZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">W0J1Z0ZpeF0gQWRkIHNtb2tlIHRlc3QgcGIgdGltZW91dCB0byAzMHMuCg==</text>
+        <text encoding="base64">ICB1aW50NjRfdCBhcHBlbmRfb2Zmc2V0OwogIHVpbnQ2NF90IGFwcGVuZF9vZmZzZXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
+        <text encoding="base64">W0J1Z0ZpeF0gQWRkIHNtb2tlIHRlc3QgcGIgdGltZW91dCB0byAzMHMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>581</text>
