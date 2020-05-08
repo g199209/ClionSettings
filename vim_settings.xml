@@ -158,11 +158,14 @@
         <mark key="." line="102" column="6" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/c++/9.3.0/bits/stl_tree.h" timestamp="1588927204483" />
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588930087791">
-        <mark key="[" line="446" column="80" />
-        <mark key="]" line="447" column="30" />
-        <mark key="^" line="447" column="30" />
-        <mark key="." line="447" column="29" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.h_dir/fragment.cpp" timestamp="1588931295590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588931547706">
+        <mark key="[" line="458" column="17" />
+        <mark key="]" line="458" column="24" />
+        <mark key="^" line="458" column="24" />
+        <mark key="." line="458" column="23" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/rw_context.h" timestamp="1588928676321">
         <mark key="[" line="63" column="0" />
@@ -170,16 +173,13 @@
         <mark key="^" line="38" column="18" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1588930885237">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1588920989250">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1588840813383">
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="106" column="67" />
-        <mark key="." line="106" column="66" />
-        <mark key="^" line="106" column="67" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1588927821935">
         <mark key="[" line="126" column="4" />
@@ -187,11 +187,16 @@
         <mark key="." line="126" column="19" />
         <mark key="^" line="126" column="20" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588909931839">
-        <mark key="[" line="228" column="38" />
-        <mark key="]" line="228" column="44" />
-        <mark key="." line="228" column="43" />
-        <mark key="^" line="228" column="44" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_context.h" timestamp="1588930811855">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588931150398">
+        <mark key="[" line="68" column="72" />
+        <mark key="]" line="68" column="80" />
+        <mark key="." line="68" column="79" />
+        <mark key="^" line="68" column="80" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1588923091169">
         <mark key="[" line="416" column="0" />
@@ -199,10 +204,13 @@
         <mark key="^" line="416" column="81" />
         <mark key="." line="416" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588928735223">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1588931105359">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588931278469">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/unittest/ec_engine_benchmark.cc" timestamp="1588919686403">
         <mark key="[" line="80" column="52" />
@@ -210,11 +218,17 @@
         <mark key="^" line="80" column="17" />
         <mark key="." line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1588929597183">
-        <mark key="[" line="104" column="46" />
-        <mark key="]" line="104" column="38" />
-        <mark key="." line="104" column="37" />
-        <mark key="^" line="104" column="38" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1588931449835">
+        <mark key="[" line="220" column="63" />
+        <mark key="]" line="220" column="71" />
+        <mark key="^" line="220" column="71" />
+        <mark key="." line="220" column="70" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1588931364274">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="78" column="59" />
+        <mark key="." line="78" column="58" />
+        <mark key="^" line="78" column="59" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588928697080">
         <mark key="'" line="15" column="35" />
@@ -223,23 +237,12 @@
         <mark key="^" line="198" column="47" />
         <mark key="." line="198" column="46" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1588909353296">
-        <mark key="[" line="29" column="77" />
-        <mark key="]" line="29" column="88" />
-        <mark key="^" line="29" column="88" />
-        <mark key="." line="29" column="87" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.h" timestamp="1588909943589">
-        <mark key="[" line="26" column="66" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="28" column="48" />
-        <mark key="." line="28" column="47" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588927507986">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1588930646910" />
     </filemarks>
     <jumps>
       <jump line="81" column="2" filename="$USER_HOME$/Manul/manul/deploy/chunkserver/deploy.sh" />
@@ -346,8 +349,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add smoke test pb timeout to 30s.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIiIK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -359,34 +362,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZsb3dub18gPSBnX2Zsb3dub18uZmV0Y2hfYWRkKDEpOwo=</text>
+        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIlN0YXJ0IEVDIFJlY292ZXIgZm9yIGZsb3dubyAiIDw8IGNvbnRleHQtPmZsb3dub187Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8g5q2kIENvbnRleHQg5LuL5LqOIFJXQ29udGV4dCDkuI4gSU9Db250ZXh0IOS5i+mXtAovLyDnlKjkuo7kvKDpgJIgUldDb250ZXh0IOS4reaJgOmcgOWPguaVsOiHsyBJT0NvbnRleHQg5LitCnN0cnVjdCBTdG9yYWdlUldDb250ZXh0IHsKICBab25lSURUeXBlIHpvbmVfaWQ7CiAgdm9pZCogZGF0YTsKICB1aW50NjRfdCBsZW5ndGg7CiAgdWludDY0X3QgcndfY29udGV4dF9mbG93bm87ICAvLyDkuIrlsYIgUldDb250ZXh0IOeahCBGbG93bm8KCiAgU3RvcmFnZVJXQ29udGV4dCgpCn07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
+        <text encoding="base64">ICB1bmlvbiB7CiAgICB1aW50NjRfdCogYXBwZW5kX29mZnNldDsKICAgIHVpbnQ2NF90IHJlYWRfb2Zmc2V0OwogIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3RleHByIHN0ZDo6c3RyaW5nX3ZpZXcgR2V0QmxvYlN0YXR1c1N0cihCbG9iU3RhdHVzIGJsb2Jfc3RhdHVzKTsK</text>
+        <text encoding="base64">ICB1aW50NjRfdCBhcHBlbmRfb2Zmc2V0OwogIHVpbnQ2NF90IGFwcGVuZF9vZmZzZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiB7CmNvbnN0ZXhwciBzdGQ6OnN0cmluZ192aWV3IGJsb2Jfc3RhdHVzX25hbWVfbWFwW10gPSB7CiAgICBbQkxPQl9TVEFUVVNfVU5LTk9XTl0gPSAiVW5rbm93biIsCiAgICBbQkxPQl9TVEFUVVNfTk9STUFMXSA9ICJOb3JtYWwiLAogICAgW0JMT0JfU1RBVFVTX1NFQUxFRF0gPSAiU2VhbGVkIiwKICAgIFtCTE9CX1NUQVRVU19ERUxFVElOR10gPSAiRGVsZXRpbmciLAogICAgW0JMT0JfU1RBVFVTX0RFTEVURURdID0gIkRlbGV0ZWQiLAogICAgW0JMT0JfU1RBVFVTX0NPUlJVUFRFRF0gPSAiQ29ycnVwdGVkIiwKICAgIFtCTE9CX1NUQVRVU19TRUFMSU5HXSA9ICJTZWFsaW5nIiwKICAgIFtCTE9CX1NUQVRVU19SRVBMSUNBVElOR10gPSAiUmVwbGljYXRpbmciLAogICAgW0JMT0JfU1RBVFVTX05FRURfUkVQTElDQVRJTkddID0gIk5lZWQgcmVwbGljYXRpbmciLAp9Owp9Cgpjb25zdGV4cHIgc3RkOjpzdHJpbmdfdmlldyBHZXRCbG9iU3RhdHVzU3RyKEJsb2JTdGF0dXMgYmxvYl9zdGF0dXMpIHsKICByZXR1cm4gYmxvYl9zdGF0dXNfbmFtZV9tYXBbYmxvYl9zdGF0dXNdOwp9Cg==</text>
+        <text encoding="base64">W0J1Z0ZpeF0gQWRkIHNtb2tlIHRlc3QgcGIgdGltZW91dCB0byAzMHMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3Qgc3RkOjptYXA8dWludDMyX3QsIHN0ZDo6c3RyaW5nX3ZpZXc+IGJsb2Jfc3RhdHVzX25hbWVfbWFwID0gewogICAgICB7QkxPQl9TVEFUVVNfVU5LTk9XTiwgIlVua25vd24ifSwKICAgICAge0JMT0JfU1RBVFVTX05PUk1BTCwgIk5vcm1hbCJ9LAogICAgICB7QkxPQl9TVEFUVVNfU0VBTEVELCAiU2VhbGVkIn0sCiAgICAgIHtCTE9CX1NUQVRVU19TRUFMSU5HLCAiU2VhbGluZyJ9LAogICAgICB7QkxPQl9TVEFUVVNfREVMRVRFRCwgIkRlbGV0ZWQifSwKICAgICAge0JMT0JfU1RBVFVTX0RFTEVUSU5HLCAiRGVsZXRpbmcifSwKICAgICAge0JMT0JfU1RBVFVTX1JFUExJQ0FUSU5HLCAiUmVwbGljYXRpbmcifSwKICAgICAge0JMT0JfU1RBVFVTX05FRURfUkVQTElDQVRJTkcsICJOZWVkIHJlcGxpY2F0aW5nIn0sCiAgICAgIHtCTE9CX1NUQVRVU19DT1JSVVBURUQsICJDb3JydXB0ZWQifSwKICB9Owo=</text>
+        <text>[BugFix] Add smoke test pb timeout to 30s.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHtCTE9CX1NUQVRVU19OT1JNQUwsICJOb3JtYWwifSwKICAgIC8vICAgIHtCTE9CX1NUQVRVU19TRUFMRUQsICJTZWFsZWQifSwKICAgIC8vICAgIHtCTE9CX1NUQVRVU19TRUFMSU5HLCAiU2VhbGluZyJ9LAogICAgLy8gICAge0JMT0JfU1RBVFVTX0RFTEVURUQsICJEZWxldGVkIn0sCiAgICAvLyAgICB7QkxPQl9TVEFUVVNfREVMRVRJTkcsICJEZWxldGluZyJ9LAogICAgLy8gICAge0JMT0JfU1RBVFVTX1JFUExJQ0FUSU5HLCAiUmVwbGljYXRpbmcifSwKICAgIC8vICAgIHtCTE9CX1NUQVRVU19ORUVEX1JFUExJQ0FUSU5HLCAiTmVlZCByZXBsaWNhdGluZyJ9LAogICAgLy8gICAge0JMT0JfU1RBVFVTX0NPUlJVUFRFRCwgIkNvcnJ1cHRlZCJ9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
