@@ -157,11 +157,11 @@
         <mark key="." line="44" column="32" />
         <mark key="^" line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588850843157">
-        <mark key="[" line="312" column="58" />
-        <mark key="]" line="312" column="75" />
-        <mark key="^" line="312" column="75" />
-        <mark key="." line="312" column="74" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588905650483">
+        <mark key="[" line="85" column="49" />
+        <mark key="]" line="85" column="47" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="85" column="46" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/eventloop.h" timestamp="1588834815101" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1588840813383">
@@ -182,7 +182,6 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1588831458442" />
       <file name="$USER_HOME$/Manul/ustevent/src/eventloop.h" timestamp="1588835159906" />
       <file name="/Dummy.txt" timestamp="1588839394482">
         <mark key="[" line="0" column="0" />
@@ -208,6 +207,10 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/recover_context.h" timestamp="1588833808015" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility_flags.cc" timestamp="1588831968888" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588905523748">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="122" column="7" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1588832101643">
         <mark key="[" line="80" column="51" />
         <mark key="]" line="80" column="51" />
@@ -327,7 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1NFQUxFRCkgewogICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfU0VBTEVEOwogIH0gZWxzZSBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1VTRUQgJiYKICAgICAgICAgICAgICpibG9iX3N0YXR1cyA9PSBCTE9CX1NUQVRVU19TRUFMRUQpIHsKICAgIFVMT0dfRVJST1IgPDwgIk11c3QgaGF2ZSBoYXBwZW5lZCBmYWlsb3ZlciI7CiAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGFzc2VydCBmb3Igbm90LCBmaXggaXQgYWZ0ZXIgc3VwcG9ydCBmYWlsb3ZlcgogICAgYXNzZXJ0KGZhbHNlKTsKICB9Cg==</text>
+        <text encoding="base64">ICBCTE9CX1NUQVRVU19SRVBMSUNBVElORyA9IDcsCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,7 +342,7 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQkxPQl9TVEFUVVNfU0VBTEVEOgogICAgICBzd2l0Y2ggKHpvbmVfc3RhdHVzKSB7CiAgICAgICAgY2FzZSBaT05FX1VTRUQ6CiAgICAgICAgICBVTE9HX0VSUk9SIDw8ICJab25lIHN0YXR1cyAiIDw8IHpvbmVfc3RhdHVzIDw8ICIgJiBibG9iIHN0YXR1cyAiCiAgICAgICAgICAgICAgICAgICAgIDw8ICpibG9iX3N0YXR1cyA8PCAiIGVycm9yLCBzZXQgQmxvYiBzdGF0dXMgdG8gQ09SUlVQVEVEIjsKICAgICAgICAgICpibG9iX3N0YXR1cyA9IEJMT0JfU1RBVFVTX0NPUlJVUFRFRDsKICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgWk9ORV9TRUFMRUQ6CiAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIFpPTkVfUkVQTElDQVRJTkc6CiAgICAgICAgICAqYmxvYl9zdGF0dXMgPSBCTE9CX1NUQVRVU19SRVBMSUNBVElORzsKICAgICAgICAgIGJyZWFrOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICBhc3NlcnQoZmFsc2UpOwogICAgICB9CiAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICBCTE9CX1NUQVRVU19SRVBMSUNBVElORyA9IDcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1NFQUxFRCkgewogICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfU0VBTEVEOwogIH0gZWxzZSBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1VTRUQgJiYKICAgICAgICAgICAgICpibG9iX3N0YXR1cyA9PSBCTE9CX1NUQVRVU19TRUFMRUQpIHsKICAgIFVMT0dfRVJST1IgPDwgIk11c3QgaGF2ZSBoYXBwZW5lZCBmYWlsb3ZlciI7CiAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGFzc2VydCBmb3Igbm90LCBmaXggaXQgYWZ0ZXIgc3VwcG9ydCBmYWlsb3ZlcgogICAgYXNzZXJ0KGZhbHNlKTsKICB9Cg==</text>
