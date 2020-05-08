@@ -164,11 +164,11 @@
         <mark key="." line="276" column="91" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/eventloop.h" timestamp="1588834815101" />
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588909198631">
-        <mark key="[" line="232" column="34" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="221" column="48" />
-        <mark key="." line="233" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588917915738">
+        <mark key="[" line="238" column="58" />
+        <mark key="]" line="238" column="61" />
+        <mark key="^" line="238" column="61" />
+        <mark key="." line="238" column="60" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1588840813383">
         <mark key="[" line="106" column="61" />
@@ -198,12 +198,12 @@
         <mark key="." line="477" column="83" />
         <mark key="^" line="477" column="84" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588906679386">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588918113986">
         <mark key="'" line="15" column="35" />
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="40" />
-        <mark key="^" line="25" column="41" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1588832824339">
         <mark key="[" line="106" column="20" />
@@ -341,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoIXpvbmVfZGlza19oYW5kbGVfKSB7CiAgICByZXR1cm4gTUFOVUxfRElTS19OT1RfRVhJU1Q7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -356,31 +356,31 @@
         <text encoding="base64">ICBpZiAoIXpvbmVfZGlza19oYW5kbGVfKSB7CiAgICByZXR1cm4gTUFOVUxfRElTS19OT1RfRVhJU1Q7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50MzJfdCBTaW1wbGVEaXNrSGFuZGxlOjpHZXRab25lTWV0YShab25lSURUeXBlIHpvbmVfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWm9uZU1ldGEqKiB6b25lX21ldGEpIGNvbnN0IHsKICByZXR1cm4gMDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnX2FyY2hpdmVfY29udGV4dC0+R2V0Wm9uZVN0b3JhZ2VNYW5hZ2VyKCktPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGlza19oYW5kbGUgPSBkaXNrc19bY2h1bmtfaW5mby5kaXNrX2lkXS5nZXQoKTsK</text>
+        <text encoding="base64">ICB1aW50NjRfdCBidWZfbGVuID0gMDsKICB1aW50NjRfdCBuZWVkX3JlY292ZXJfY2h1bmtzX2xlbiA9IDA7CiAgZm9yIChhdXRvICYgWyBjaHVua19pbmRleCwgY2h1bmtfaW5mbyBdIDogYmxvYl9tZXRhXy0+Y2h1bmtzX2luZm9zKSB7CiAgICBhdXRvIGl0ID0gY2h1bmtfaW5mby56b25lX2luZm9zLmZpbmQoem9uZV9pbmRleF8pOwogICAgaWYgKGl0ID09IGNodW5rX2luZm8uem9uZV9pbmZvcy5lbmQoKSkgewogICAgICBuZWVkX3JlY292ZXJfY2h1bmtzXy5wdXNoX2JhY2soY2h1bmtfaW5kZXgpOwogICAgICBidWZfbGVuICs9IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25TaW5nbGVJT1NpemU7CiAgICAgIGlmIChuZWVkX3JlY292ZXJfY2h1bmtzX2xlbiAhPSAwKSB7CiAgICAgICAgCiAgICAgIH0KICAgIH0gZWxzZSBpZiAoKml0LT5zZWNvbmQuem9uZV9zdGF0dXMgPT0gWk9ORV9SRVBMSUNBVElORykgewogICAgICAKICAgIH0KICB9CiAgYnVmXy5yZXNpemUoYnVmX2xlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJab25lICIgPDwgem9uZV9pbmRleCA8PCAiIGFscmVhZHkgZXhpc3QuIjsK</text>
+        <text encoding="base64">aW50MzJfdCBTaW1wbGVEaXNrSGFuZGxlOjpHZXRab25lTWV0YShab25lSURUeXBlIHpvbmVfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWm9uZU1ldGEqKiB6b25lX21ldGEpIGNvbnN0IHsKICByZXR1cm4gMDsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyDkv53lrZjkuIDku70gTWV0YSDnmoTluLjlvJXnlKjvvIznlKjkuo7ojrflj5YgU3RhdHVzIOetieS/oeaBrwo=</text>
+        <text encoding="base64">ICAgICAgICBnX2FyY2hpdmVfY29udGV4dC0+R2V0Wm9uZVN0b3JhZ2VNYW5hZ2VyKCktPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGF1dG8gZGlza19oYW5kbGUgPSBkaXNrc19bY2h1bmtfaW5mby5kaXNrX2lkXS5nZXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dG8gaXQgPSBjaHVua19pbmZvLnpvbmVfaW5mb3MuZmluZCh6b25lX2luZGV4Xyk7Cg==</text>
+        <text encoding="base64">ICAgICAgVUxPR19JTkZPIDw8ICJab25lICIgPDwgem9uZV9pbmRleCA8PCAiIGFscmVhZHkgZXhpc3QuIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiDmioogUmVwbGljYXRpbmcg54q25oCB55qEIEJsb2Ig5Yqg5YWl6L+b5p2lCg==</text>
+        <text encoding="base64">ICAvLyDkv53lrZjkuIDku70gTWV0YSDnmoTluLjlvJXnlKjvvIznlKjkuo7ojrflj5YgU3RhdHVzIOetieS/oeaBrwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1NFQUxFRCkgewogICAgKmJsb2Jfc3RhdHVzID0gQkxPQl9TVEFUVVNfU0VBTEVEOwogIH0gZWxzZSBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX1VTRUQgJiYKICAgICAgICAgICAgICpibG9iX3N0YXR1cyA9PSBCTE9CX1NUQVRVU19TRUFMRUQpIHsKICAgIFVMT0dfRVJST1IgPDwgIk11c3QgaGF2ZSBoYXBwZW5lZCBmYWlsb3ZlciI7CiAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGFzc2VydCBmb3Igbm90LCBmaXggaXQgYWZ0ZXIgc3VwcG9ydCBmYWlsb3ZlcgogICAgYXNzZXJ0KGZhbHNlKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
