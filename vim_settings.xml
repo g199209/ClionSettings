@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>222</entry>
         <entry>1287</entry>
         <entry>206</entry>
         <entry>106</entry>
@@ -46,6 +45,7 @@
         <entry>429</entry>
         <entry>275</entry>
         <entry>47</entry>
+        <entry>465</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,14 +155,14 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="44" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588942055989">
-        <mark key="[" line="274" column="13" />
-        <mark key="]" line="274" column="14" />
-        <mark key="^" line="274" column="14" />
-        <mark key="." line="274" column="13" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1588944954001">
+        <mark key="[" line="480" column="23" />
+        <mark key="]" line="480" column="25" />
+        <mark key="^" line="457" column="23" />
+        <mark key="." line="479" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1588941694985" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1588941820613">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1588944686649">
         <mark key="[" line="193" column="33" />
         <mark key="]" line="193" column="37" />
         <mark key="." line="193" column="36" />
@@ -333,8 +333,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_leader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,7 +346,7 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBnX2FyY2hpdmVfY29udGV4dC0+U2V0SXNMZWFkZXIoaXNfbGVhZGVyKTsK</text>
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>,
@@ -378,7 +378,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>47</text>
+        <text>465</text>
       </register>
     </registers>
   </component>
