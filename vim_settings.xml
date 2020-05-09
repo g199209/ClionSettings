@@ -192,12 +192,6 @@
         <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_io.cc" timestamp="1588992716417" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588933411345">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="7" />
-        <mark key="^" line="102" column="7" />
-        <mark key="." line="102" column="6" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588937137295">
         <mark key="'" line="40" column="39" />
         <mark key="[" line="32" column="0" />
@@ -215,6 +209,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/c++/4.8.2/bits/shared_ptr.h" timestamp="1589004065018" />
       <file name="/Dummy.txt" timestamp="1588989452821">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
