@@ -219,6 +219,11 @@
         <mark key="." line="68" column="79" />
         <mark key="^" line="68" column="80" />
       </file>
+      <file name="/Dummy.txt" timestamp="1588989452821">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588939679234">
         <mark key="'" line="15" column="35" />
         <mark key="[" line="111" column="37" />
@@ -334,14 +339,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>[Refine] Add result check.</text>
+      <register name="&quot;" type="4">
+        <text>Add result check.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>Add result check.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -350,33 +355,32 @@
         <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>[Refine] Add result check.</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text>[Refine] Add result check.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
+        <text>[Refine] Add result check.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhc3NlcnQoIWNvbnRleHQtPmxvb3AtPklzSW5Mb29wVGhyZWFkKCkpOwo=</text>
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
+        <text encoding="base64">ICBhc3NlcnQoIWNvbnRleHQtPmxvb3AtPklzSW5Mb29wVGhyZWFkKCkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhdXRvIHVzZV9jb3VudCA9IGNvbnRleHQudXNlX2NvdW50KCk7CiAgYXNzZXJ0KHVzZV9jb3VudCA9PSAyKTsK</text>
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-      0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBhdXRvIHVzZV9jb3VudCA9IGNvbnRleHQudXNlX2NvdW50KCk7CiAgYXNzZXJ0KHVzZV9jb3VudCA9PSAyKTsK</text>
       </register>
       <register name="9" type="4">
         <text>,
-          0</text>
+      0</text>
       </register>
       <register name=":" type="4">
         <text>465</text>
