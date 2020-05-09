@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>1287</entry>
         <entry>206</entry>
         <entry>106</entry>
         <entry>221</entry>
@@ -46,6 +45,7 @@
         <entry>275</entry>
         <entry>47</entry>
         <entry>465</entry>
+        <entry>1089</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -175,12 +175,6 @@
         <mark key="^" line="193" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1588991782698" />
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588933205099">
-        <mark key="[" line="108" column="63" />
-        <mark key="]" line="108" column="42" />
-        <mark key="." line="108" column="41" />
-        <mark key="^" line="108" column="42" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1588937102577">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,6 +190,7 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="34" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_io.cc" timestamp="1588992716417" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1588933411345">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="7" />
@@ -388,7 +383,7 @@
       0</text>
       </register>
       <register name=":" type="4">
-        <text>465</text>
+        <text>1089</text>
       </register>
     </registers>
   </component>
