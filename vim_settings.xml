@@ -175,6 +175,12 @@
         <mark key="^" line="193" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1588991782698" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589008504487">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="125" column="51" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/dpdk/rte_memcpy.h" timestamp="1588995615786" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588991897049">
         <mark key="[" line="140" column="1" />
@@ -189,12 +195,6 @@
         <mark key="." line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_io.cc" timestamp="1588992716417" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1588937137295">
-        <mark key="'" line="40" column="39" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1588938544003">
         <mark key="[" line="142" column="64" />
         <mark key="]" line="142" column="60" />
@@ -220,7 +220,10 @@
         <mark key="^" line="112" column="24" />
         <mark key="." line="112" column="23" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/c++/9.3.0/bits/shared_ptr_base.h" timestamp="1588937954084" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.h" timestamp="1589008887933">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="55" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="81" column="2" filename="$USER_HOME$/Manul/manul/deploy/chunkserver/deploy.sh" />
@@ -327,8 +330,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add result check.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGQ6OnVuaXF1ZV9wdHI8Y29tbW9uOjpTeW5jQ29ubkhhbmRsZT4gY29ubl9oYW5kbGVfOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,35 +343,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnVuaXF1ZV9wdHI8Y29tbW9uOjpTeW5jQ29ubkhhbmRsZT4gY29ubl9oYW5kbGVfOwo=</text>
       </register>
       <register name="1" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgICAvLyB4aWEgeWkgY2hlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text>[Refine] Add result check.</text>
+        <text encoding="base64">Ly8g6L+Z6YeM5LiN5aSE55CGIEFwcGVuZCBJTyDpobrluo/pl67popjvvIzkuIvkuIDlsYLpnIDopoHkv53or4EgRklGTyDmgKfotKjvvIEK</text>
       </register>
       <register name="3" type="2">
-        <text>[Refine] Add result check.</text>
+        <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
+        <text>[Refine] Add result check.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhc3NlcnQoIWNvbnRleHQtPmxvb3AtPklzSW5Mb29wVGhyZWFkKCkpOwo=</text>
+        <text>[Refine] Add result check.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
+        <text encoding="base64">ICBhc3NlcnQoIWNvbnRleHQtPmxvb3AtPklzSW5Mb29wVGhyZWFkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdXRvIHVzZV9jb3VudCA9IGNvbnRleHQudXNlX2NvdW50KCk7CiAgYXNzZXJ0KHVzZV9jb3VudCA9PSAyKTsK</text>
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-      0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB1c2VfY291bnQgPSBjb250ZXh0LnVzZV9jb3VudCgpOwogIGFzc2VydCh1c2VfY291bnQgPT0gMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1089</text>
