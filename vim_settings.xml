@@ -174,6 +174,7 @@
         <mark key="." line="193" column="36" />
         <mark key="^" line="193" column="37" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1588991782698" />
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1588933205099">
         <mark key="[" line="108" column="63" />
         <mark key="]" line="108" column="42" />
@@ -182,6 +183,12 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1588937102577">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588991897049">
+        <mark key="[" line="140" column="1" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/device_manager.cc" timestamp="1588942399122">
         <mark key="[" line="52" column="21" />
@@ -212,7 +219,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/manul_flags.cc" timestamp="1588932526150" />
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1588933208366">
         <mark key="[" line="68" column="72" />
         <mark key="]" line="68" column="80" />
@@ -231,7 +237,6 @@
         <mark key="^" line="112" column="24" />
         <mark key="." line="112" column="23" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/crush.cc" timestamp="1588932472236" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/c++/9.3.0/bits/shared_ptr_base.h" timestamp="1588937954084" />
     </filemarks>
     <jumps>
