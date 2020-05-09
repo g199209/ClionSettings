@@ -176,9 +176,6 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1588991782698" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/dpdk/rte_memcpy.h" timestamp="1588995615786" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1588937102577">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1588991897049">
         <mark key="[" line="140" column="1" />
         <mark key="]" line="141" column="0" />
@@ -215,6 +212,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589005281528" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1588939679234">
         <mark key="'" line="15" column="35" />
         <mark key="[" line="111" column="37" />
