@@ -1,9 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="127.0.0.1" id="8a1ddf83-2169-4072-9efe-1a5d2f652b57" keyPath="$USER_HOME$/.ssh/id_rsa_ucloud" port="1234" customName="UCloud (dadd89b3-9e88-4159-a2a0-c061c6413c78)" nameFormat="CUSTOM" username="mingfei.gao" />
       <sshConfig authType="OPEN_SSH" host="10.42.10.10" id="0e005e6f-efd9-4f19-bb51-16b26faaece8" port="22" customName="Home (3b809ffd-99da-45f7-9192-d61c7b7cf70c)" nameFormat="CUSTOM" username="gmf" />
-      <sshConfig authType="OPEN_SSH" host="10.42.10.10" id="928e9334-1c9c-4342-a9a7-bcee942bf6ce" port="22" customName="Home (3b809ffd-99da-45f7-9192-d61c7b7cf70c)" nameFormat="CUSTOM" username="gmf" />
+      <sshConfig authType="OPEN_SSH" host="Office" id="8a1ddf83-2169-4072-9efe-1a5d2f652b57" port="1234" customName="UCloud (dadd89b3-9e88-4159-a2a0-c061c6413c78)" nameFormat="CUSTOM" username="mingfei.gao" />
     </configs>
   </component>
 </application>
