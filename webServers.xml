@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="dadd89b3-9e88-4159-a2a0-c061c6413c78" name="UCloud (dadd89b3-9e88-4159-a2a0-c061c6413c78)" url="http:///">
-        <fileTransfer accessType="SFTP" host="127.0.0.1" port="1234" sshConfigId="9d5bdaf1-4b61-48be-846d-a6c380c803be" sshConfig="mingfei.gao@127.0.0.1:1234 agent" authAgent="true" />
+        <fileTransfer accessType="SFTP" host="127.0.0.1" port="1234" sshConfigId="8a1ddf83-2169-4072-9efe-1a5d2f652b57" sshConfig="UCloud (dadd89b3-9e88-4159-a2a0-c061c6413c78)" authAgent="true" />
       </webServer>
       <webServer id="3b809ffd-99da-45f7-9192-d61c7b7cf70c" name="Home (3b809ffd-99da-45f7-9192-d61c7b7cf70c)" url="http:///">
         <fileTransfer accessType="SFTP" host="10.42.10.10" port="22" sshConfigId="0e005e6f-efd9-4f19-bb51-16b26faaece8" sshConfig="Home (3b809ffd-99da-45f7-9192-d61c7b7cf70c)" authAgent="true" />
