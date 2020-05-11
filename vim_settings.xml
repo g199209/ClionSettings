@@ -26,8 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>206</entry>
-        <entry>106</entry>
         <entry>221</entry>
         <entry>401</entry>
         <entry>270</entry>
@@ -46,6 +44,8 @@
         <entry>47</entry>
         <entry>465</entry>
         <entry>1089</entry>
+        <entry>73</entry>
+        <entry>235</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,10 +151,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1589196600711">
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="105" column="18" />
+        <mark key="." line="105" column="17" />
+        <mark key="^" line="105" column="18" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589200414709" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1589193263594">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1589193227498">
         <mark key="[" line="39" column="0" />
@@ -168,14 +175,14 @@
         <mark key="^" line="54" column="2" />
         <mark key="." line="54" column="1" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589193208830">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="40" />
-        <mark key="^" line="51" column="2" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589197752445">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h_dir/fragment.cpp" timestamp="1589192737126">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h_dir/fragment.cpp" timestamp="1589196388748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589192493105">
         <mark key="[" line="396" column="60" />
@@ -189,20 +196,11 @@
         <mark key="^" line="142" column="60" />
         <mark key="." line="142" column="59" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1589178318600">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="54" column="31" />
-      </file>
-      <file name="$USER_HOME$/Manul/CMakeLists.txt" timestamp="1589179496127">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589193400364">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589198323061">
+        <mark key="[" line="127" column="41" />
+        <mark key="]" line="127" column="56" />
+        <mark key="^" line="127" column="56" />
+        <mark key="." line="127" column="55" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1589190566305">
         <mark key="[" line="30" column="0" />
@@ -210,31 +208,25 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1589192557520">
-        <mark key="[" line="111" column="28" />
-        <mark key="]" line="112" column="2" />
-        <mark key="." line="112" column="1" />
-        <mark key="^" line="112" column="2" />
+        <mark key="[" line="112" column="28" />
+        <mark key="]" line="113" column="2" />
+        <mark key="." line="113" column="1" />
+        <mark key="^" line="113" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589192965341">
+      <file name="/Dummy.txt" timestamp="1589201046176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589185646076">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="^" line="288" column="14" />
-        <mark key="." line="343" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589201036553">
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
+        <mark key="^" line="287" column="39" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589178106663">
-        <mark key="[" line="89" column="22" />
-        <mark key="]" line="89" column="22" />
-        <mark key="." line="89" column="22" />
-        <mark key="^" line="89" column="23" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589192782977">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="53" column="15" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589200224049">
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="35" />
+        <mark key="^" line="78" column="35" />
+        <mark key="." line="78" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc_dir/fragment.cpp" timestamp="1589192967152">
         <mark key="[" line="0" column="1" />
@@ -245,6 +237,7 @@
         <mark key="^" line="552" column="7" />
         <mark key="." line="552" column="6" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1589198719302" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1589193279941">
         <mark key="[" line="131" column="22" />
         <mark key="]" line="131" column="23" />
@@ -358,7 +351,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBDaG9vc2Ugd2hpY2ggbG9vcD8K</text>
+        <text encoding="base64">ICAgICAgY2JfbGlzdC5wdXNoX2JhY2soc3RkOjptb3ZlKGMuY2IpKTsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,37 +363,37 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OmxvY2tfZ3VhcmQ8c3RkOjptdXRleD4gbGNrKG10eF8pOwo=</text>
+        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIklPIGFscmVhZHkgcmVzcG9uc2UgZHVlIHRvIHByZXZpb3VzIElPIEZhaWxlZCEiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBDaG9vc2Ugd2hpY2ggbG9vcD8K</text>
+        <text encoding="base64">ICAgICAgY2JfbGlzdC5wdXNoX2JhY2soc3RkOjptb3ZlKGMuY2IpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6bG9ja19ndWFyZDxzdGQ6Om11dGV4PiBsY2sobXR4Xyk7Cg==</text>
+        <text encoding="base64">ICAgICAgYy5jYihNQU5VTF9PSyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb29wXy0+QXNzZXJ0SW5Mb29wVGhyZWFkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaXQtPnNlY29uZC5jYihyZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQtPnNlY29uZC5jYihyZXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF1dG8mIHRhc2sgPSAqaXRfbmV3Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb25fZ29pbmdfdGFza3NfLnNwbGljZShvbl9nb2luZ190YXNrc18uZW5kKCksIHBlbmRpbmdfdGFza3NfLCBpdF9uZXcpOwogICAgICBvbl9nb2luZ190YXNrc19udW1fKys7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXRfbmV3ID09IE1BTlVMX09LKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHBlbmRpbmdfdGFza3NfLmVyYXNlKGl0X25ldyk7CiAgICAgIFVMT0dfRVJST1IgPDwgIkV4ZWMgUmVwbGljYXRpb24gVGFzayBGYWlsZWQhXG4iIDw8IHRhc2stPlRvU3RyaW5nKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF1dG8gcmV0X25ldyA9IHRhc2stPkV4ZWMoW3RoaXMsIGl0X25ld10oaW50MzJfdCByZXQpIHsKICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpcywgaXRfbmV3LCByZXRdKCkgeyBUYXNrRG9uZShyZXQsIGl0X25ldyk7IH0pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name=":" type="4">
-        <text>1089</text>
+        <text>235</text>
       </register>
     </registers>
   </component>
