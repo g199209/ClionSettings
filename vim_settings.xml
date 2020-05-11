@@ -156,11 +156,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589174837738">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589177060261">
         <mark key="'" line="255" column="9" />
-        <mark key="[" line="218" column="55" />
-        <mark key="]" line="218" column="56" />
-        <mark key="." line="218" column="55" />
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
         <mark key="^" line="218" column="56" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589015099647">
@@ -331,8 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>[cur_offset] =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiDkvb/nlKjov63ku6Plmajlpb3liKDpmaTvvIEK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -347,31 +347,31 @@
         <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIklPICIgPDwgY3R4LnJ3X2Zsb3dubyA8PCAiIEZhaWxlZCEiOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiDkvb/nlKjov63ku6Plmajlpb3liKDpmaTvvIEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoLS1pdF9jdXJyZW50LT5zZWNvbmQgPT0gMCkgewogICAgYXBwZW5kX2lvX2NvdW50X2J5X3pvbmVfLmVyYXNlKGl0X2N1cnJlbnQpOwogIH0KICBpZiAocmV0ID09IE1BTlVMX09LKSB7CiAgfSBlbHNlIHsKICAgIHpvbmVfaW5mby5pbmZseWluZ19sZW5ndGggPSAwOwogIH0KICBjYihyZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHpvbmVfaW5mby5kYXRhX2xlbmd0aCArPSBsZW5ndGg7CiAgICB6b25lX2luZm8uaW5mbHlpbmdfbGVuZ3RoIC09IGxlbmd0aDsK</text>
+        <text encoding="base64">ICBpZiAoLS1pdF9jdXJyZW50LT5zZWNvbmQgPT0gMCkgewogICAgYXBwZW5kX2lvX2NvdW50X2J5X3pvbmVfLmVyYXNlKGl0X2N1cnJlbnQpOwogIH0KICBpZiAocmV0ID09IE1BTlVMX09LKSB7CiAgfSBlbHNlIHsKICAgIHpvbmVfaW5mby5pbmZseWluZ19sZW5ndGggPSAwOwogIH0KICBjYihyZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8mIFtvZmYsIGN0eF0gOiBpbmZseV9hcHBlbmRfbGlzdCkgewoKICAgIGN0eC5jYigpCiAgfQo=</text>
+        <text encoding="base64">ICAgIHpvbmVfaW5mby5kYXRhX2xlbmd0aCArPSBsZW5ndGg7CiAgICB6b25lX2luZm8uaW5mbHlpbmdfbGVuZ3RoIC09IGxlbmd0aDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghY3R4LmlzX3Jlc3BvbnNlKSB7CiAgICAgIGJyZWFrOwogICAgfQoKICAgIC8vIOWksei0peeahCBJTyDlupTor6XlnKjliY3pnaLlsLHlpITnkIbmjonkuobvvIzkuI3kvJrov5jlnKjliJfooajkuK3vvIEKICAgIGFzc2VydChjdHgucmV0ID09IE1BTlVMX09LKTsK</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8mIFtvZmYsIGN0eF0gOiBpbmZseV9hcHBlbmRfbGlzdCkgewoKICAgIGN0eC5jYigpCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIGlmICghY3R4LmlzX3Jlc3BvbnNlKSB7CiAgICAgIGJyZWFrOwogICAgfQoKICAgIC8vIOWksei0peeahCBJTyDlupTor6XlnKjliY3pnaLlsLHlpITnkIbmjonkuobvvIzkuI3kvJrov5jlnKjliJfooajkuK3vvIEKICAgIGFzc2VydChjdHgucmV0ID09IE1BTlVMX09LKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBpZiAocHJldl9yZXQgIT0gTUFOVUxfT0spCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICBpZiAocHJldl9yZXQgIT0gTUFOVUxfT0spCg==</text>
       </register>
       <register name=":" type="4">
         <text>1089</text>
