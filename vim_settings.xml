@@ -156,12 +156,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589174466030">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589174837738">
         <mark key="'" line="255" column="9" />
-        <mark key="[" line="218" column="19" />
-        <mark key="]" line="219" column="54" />
-        <mark key="." line="219" column="53" />
-        <mark key="^" line="219" column="54" />
+        <mark key="[" line="218" column="55" />
+        <mark key="]" line="218" column="56" />
+        <mark key="." line="218" column="55" />
+        <mark key="^" line="218" column="56" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589015099647">
         <mark key="[" line="25" column="24" />
