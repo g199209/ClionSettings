@@ -26,26 +26,26 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>270</entry>
-        <entry>257</entry>
-        <entry>181</entry>
-        <entry>384</entry>
-        <entry>171</entry>
-        <entry>132</entry>
-        <entry>189</entry>
-        <entry>q</entry>
-        <entry>92</entry>
-        <entry>581</entry>
-        <entry>461</entry>
-        <entry>429</entry>
         <entry>275</entry>
-        <entry>47</entry>
         <entry>465</entry>
         <entry>1089</entry>
         <entry>73</entry>
         <entry>235</entry>
         <entry>281</entry>
         <entry>23</entry>
+        <entry>114</entry>
+        <entry>62</entry>
+        <entry>47</entry>
+        <entry>367</entry>
+        <entry>59</entry>
+        <entry>149</entry>
+        <entry>256</entry>
+        <entry>227</entry>
+        <entry>373</entry>
+        <entry>247</entry>
+        <entry>348</entry>
+        <entry>534</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,10 +157,11 @@
         <mark key="." line="103" column="32" />
         <mark key="^" line="103" column="33" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1589263868037">
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589276387954">
+        <mark key="[" line="371" column="20" />
+        <mark key="]" line="371" column="27" />
+        <mark key="^" line="371" column="27" />
+        <mark key="." line="371" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1589272368642">
         <mark key="[" line="28" column="30" />
@@ -186,13 +187,7 @@
         <mark key="^" line="30" column="15" />
         <mark key="." line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/req_context.cc" timestamp="1589265563325">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="36" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589268865354">
+      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589277310224">
         <mark key="[" line="154" column="41" />
         <mark key="]" line="154" column="45" />
         <mark key="." line="154" column="44" />
@@ -204,24 +199,26 @@
         <mark key="^" line="130" column="33" />
         <mark key="." line="130" column="32" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1589265332403">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="408" column="42" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1589263875605">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="24" column="2" />
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589276288635">
+        <mark key="[" line="225" column="24" />
+        <mark key="]" line="225" column="58" />
+        <mark key="^" line="225" column="58" />
+        <mark key="." line="225" column="57" />
       </file>
       <file name="/Dummy.txt" timestamp="1589273204223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589271553231">
-        <mark key="[" line="110" column="50" />
-        <mark key="]" line="110" column="41" />
-        <mark key="." line="110" column="40" />
-        <mark key="^" line="110" column="41" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589276162804">
+        <mark key="[" line="255" column="69" />
+        <mark key="]" line="255" column="107" />
+        <mark key="." line="255" column="106" />
+        <mark key="^" line="255" column="107" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589275994237">
+        <mark key="[" line="148" column="31" />
+        <mark key="]" line="148" column="33" />
+        <mark key="." line="148" column="32" />
+        <mark key="^" line="148" column="33" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589269775896">
         <mark key="'" line="275" column="30" />
@@ -230,14 +227,30 @@
         <mark key="^" line="295" column="7" />
         <mark key="." line="295" column="6" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589273459342">
-        <mark key="[" line="563" column="3" />
-        <mark key="]" line="564" column="2" />
-        <mark key="^" line="564" column="2" />
-        <mark key="." line="564" column="1" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589276750719">
+        <mark key="[" line="347" column="24" />
+        <mark key="]" line="347" column="29" />
+        <mark key="^" line="347" column="29" />
+        <mark key="." line="347" column="28" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1589265803674" />
-      <file name="$USER_HOME$/Manul/manul/archive/context/req_context.h" timestamp="1589265732882" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_heartbeat.cc" timestamp="1589276888577">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1589274561006">
+        <mark key="[" line="155" column="69" />
+        <mark key="]" line="155" column="90" />
+        <mark key="^" line="155" column="90" />
+        <mark key="." line="155" column="89" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/context/req_context.h" timestamp="1589276413519">
+        <mark key="[" line="71" column="14" />
+        <mark key="]" line="71" column="14" />
+        <mark key="^" line="71" column="14" />
+        <mark key="." line="71" column="13" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/dump_replica_info.cc" timestamp="1589273428819">
         <mark key="[" line="51" column="62" />
         <mark key="]" line="51" column="100" />
@@ -396,7 +409,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>21</text>
       </register>
     </registers>
   </component>
