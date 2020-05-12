@@ -163,17 +163,11 @@
         <mark key="]" line="19" column="51" />
         <mark key="." line="19" column="51" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1589193227498">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1589253188246">
+        <mark key="[" line="20" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="^" line="53" column="18" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1589190836021">
-        <mark key="[" line="53" column="3" />
-        <mark key="]" line="54" column="2" />
-        <mark key="^" line="54" column="2" />
-        <mark key="." line="54" column="1" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589197752445">
         <mark key="[" line="24" column="3" />
@@ -196,8 +190,8 @@
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="55" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1589190566305">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1589253200081">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
@@ -207,16 +201,13 @@
         <mark key="." line="113" column="1" />
         <mark key="^" line="113" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589251568523">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589201036553">
         <mark key="[" line="286" column="0" />
         <mark key="]" line="286" column="0" />
         <mark key="." line="286" column="0" />
         <mark key="^" line="287" column="39" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589200224049">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589253036230">
         <mark key="[" line="78" column="34" />
         <mark key="]" line="78" column="35" />
         <mark key="^" line="78" column="35" />
@@ -351,13 +342,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[Refine] Add result check.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return 0;</text>
+        <text>Add result check.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -366,28 +357,28 @@
         <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIklPIGFscmVhZHkgcmVzcG9uc2UgZHVlIHRvIHByZXZpb3VzIElPIEZhaWxlZCEiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[Refine] Add result check.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBEbyBzb21lIGNoZWNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2JfbGlzdC5wdXNoX2JhY2soc3RkOjptb3ZlKGMuY2IpKTsK</text>
+        <text encoding="base64">ICAvLyBEbyBzb21lIGNoZWNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYy5jYihNQU5VTF9PSyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2JfbGlzdC5wdXNoX2JhY2soc3RkOjptb3ZlKGMuY2IpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXQtPnNlY29uZC5jYihyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgYy5jYihNQU5VTF9PSyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgaXQtPnNlY29uZC5jYihyZXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaXQtPnNlY29uZC5jYihyZXQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
