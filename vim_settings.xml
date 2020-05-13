@@ -26,8 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>114</entry>
-        <entry>47</entry>
         <entry>367</entry>
         <entry>59</entry>
         <entry>149</entry>
@@ -46,6 +44,8 @@
         <entry>611</entry>
         <entry>72</entry>
         <entry>178</entry>
+        <entry>660</entry>
+        <entry>182</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -219,13 +219,13 @@
         <mark key="." line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/verify_fio.sh" timestamp="1589348921529" />
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589356574371">
+      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589359168971">
         <mark key="[" line="154" column="41" />
         <mark key="]" line="154" column="45" />
         <mark key="." line="154" column="44" />
         <mark key="^" line="154" column="45" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589276162804">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589358844968">
         <mark key="[" line="255" column="69" />
         <mark key="]" line="255" column="107" />
         <mark key="." line="255" column="106" />
@@ -393,7 +393,7 @@
         <text encoding="base64">ICAgICAgICBQUmVhZENvbnRleHQgKnByZWFkX2NvbnRleHQgPSBpdGVyLT5zZWNvbmQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>178</text>
+        <text>182</text>
       </register>
     </registers>
   </component>
