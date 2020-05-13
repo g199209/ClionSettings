@@ -151,12 +151,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1589273514962">
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="57" column="70" />
-        <mark key="^" line="57" column="70" />
-        <mark key="." line="57" column="69" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589340918503">
         <mark key="[" line="22" column="57" />
         <mark key="]" line="23" column="18" />
@@ -249,6 +243,7 @@
         <mark key="^" line="155" column="90" />
         <mark key="." line="155" column="89" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589355562589" />
     </filemarks>
     <jumps>
       <jump line="98" column="5" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
