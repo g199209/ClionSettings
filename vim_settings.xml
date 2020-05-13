@@ -151,11 +151,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589281199427">
-        <mark key="[" line="371" column="20" />
-        <mark key="]" line="371" column="27" />
-        <mark key="^" line="371" column="27" />
-        <mark key="." line="371" column="26" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589340514936">
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="26" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1589272368642">
         <mark key="[" line="28" column="30" />
@@ -169,11 +169,11 @@
         <mark key="^" line="57" column="70" />
         <mark key="." line="57" column="69" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589273542415">
-        <mark key="[" line="205" column="27" />
-        <mark key="]" line="205" column="27" />
-        <mark key="^" line="205" column="27" />
-        <mark key="." line="205" column="26" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589340918503">
+        <mark key="[" line="22" column="57" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/c++/9.3.0/bits/stl_tree.h" timestamp="1589280967220" />
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589277310224">
@@ -188,11 +188,11 @@
         <mark key="^" line="130" column="33" />
         <mark key="." line="130" column="32" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589339157019">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="40" column="10" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589340186688">
+        <mark key="[" line="374" column="21" />
+        <mark key="]" line="374" column="22" />
+        <mark key="^" line="374" column="22" />
+        <mark key="." line="374" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1589273204223">
         <mark key="[" line="0" column="0" />
@@ -216,7 +216,7 @@
         <mark key="^" line="295" column="7" />
         <mark key="." line="295" column="6" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589276750719">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589340454903">
         <mark key="[" line="347" column="24" />
         <mark key="]" line="347" column="29" />
         <mark key="^" line="347" column="29" />
@@ -361,14 +361,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJEZXN0cnVjdG9ycyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiAwOyA=</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
