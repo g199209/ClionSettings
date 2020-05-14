@@ -175,12 +175,7 @@
         <mark key="^" line="94" column="24" />
         <mark key="." line="94" column="23" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_heartbeat.cc" timestamp="1589276888577">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="11" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1589428771677" />
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/CMakeLists.txt" timestamp="1589348305469">
         <mark key="[" line="34" column="47" />
         <mark key="]" line="34" column="49" />
@@ -228,11 +223,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589340454903">
-        <mark key="[" line="347" column="24" />
-        <mark key="]" line="347" column="29" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589428734068">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
         <mark key="^" line="347" column="29" />
-        <mark key="." line="347" column="28" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/create_blob.cc" timestamp="1589339222707">
         <mark key="[" line="61" column="15" />
@@ -347,8 +342,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Rml4IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,31 +358,31 @@
         <text encoding="base64">ICAgICAgICAgIFVMT0dfRVJST1IgPDwgIkFsbG9jYXRlIENodW5rcyBGb3IgQmxvYiBGYWlsZWQhIHJldDogIiA8PCByZXQKICAgICAgICAgICAgICAgICAgICAgPDwgIiwgQ2xlYXIgYWxsIHBlbmRpbmcgSU8hIjsKICAgICAgICAgIFNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfQ09SUlVQVEVEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpc10oKSB7CiAgICAgICAgZm9yIChhdXRvJiBbY3R4LCBjYl0gOiBhcHBlbmRfcGVuZGluZ19saXN0XykgewogICAgICAgIH0KICAgICAgICBhcHBlbmRfcGVuZGluZ19saXN0Xy5jbGVhcigpOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpc10oKSB7CiAgICAgICAgZm9yIChhdXRvJiBbY3R4LCBjYl0gOiBhcHBlbmRfcGVuZGluZ19saXN0XykgewogICAgICAgIH0KICAgICAgICBhcHBlbmRfcGVuZGluZ19saXN0Xy5jbGVhcigpOwogICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKHJldCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNiKHJldCk7Cg==</text>
+      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGF1dG8gcmV0ID0gQXBwZW5kKHN0ZDo6bW92ZShjdHgpLCBjYik7CiAgICAgICAgICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgICAgICAgIGNiKHJldCk7CiAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgICAgCiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciAoYXV0byYgW2N0eCwgY2JdIDogYXBwZW5kX3BlbmRpbmdfbGlzdF8pIHsKICAgICAgICAgICAgY2IocmV0KTsKICAgICAgICAgIH0KICAgICAgICAgIGFwcGVuZF9wZW5kaW5nX2xpc3RfLmNsZWFyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
