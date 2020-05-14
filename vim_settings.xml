@@ -228,6 +228,12 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589440209977">
+        <mark key="[" line="612" column="0" />
+        <mark key="]" line="613" column="81" />
+        <mark key="^" line="613" column="81" />
+        <mark key="." line="613" column="80" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589428734068">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -240,7 +246,11 @@
         <mark key="^" line="61" column="15" />
         <mark key="." line="61" column="14" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589355562589" />
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589440128423">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="98" column="5" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
@@ -348,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
+        <text encoding="base64">ICBVTE9HX1RSQUNFCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,31 +373,31 @@
         <text encoding="base64">ICAgICAgICAgIFVMT0dfRVJST1IgPDwgIkFsbG9jYXRlIENodW5rcyBGb3IgQmxvYiBGYWlsZWQhIHJldDogIiA8PCByZXQKICAgICAgICAgICAgICAgICAgICAgPDwgIiwgQ2xlYXIgYWxsIHBlbmRpbmcgSU8hIjsKICAgICAgICAgIFNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfQ09SUlVQVEVEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
+        <text encoding="base64">ICBVTE9HX1RSQUNFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpc10oKSB7CiAgICAgICAgZm9yIChhdXRvJiBbY3R4LCBjYl0gOiBhcHBlbmRfcGVuZGluZ19saXN0XykgewogICAgICAgIH0KICAgICAgICBhcHBlbmRfcGVuZGluZ19saXN0Xy5jbGVhcigpOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpc10oKSB7CiAgICAgICAgZm9yIChhdXRvJiBbY3R4LCBjYl0gOiBhcHBlbmRfcGVuZGluZ19saXN0XykgewogICAgICAgIH0KICAgICAgICBhcHBlbmRfcGVuZGluZ19saXN0Xy5jbGVhcigpOwogICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKHJldCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF1dG8gcmV0ID0gQXBwZW5kKHN0ZDo6bW92ZShjdHgpLCBjYik7CiAgICAgICAgICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgICAgICAgIGNiKHJldCk7CiAgICAgICAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNiKHJldCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgCiAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGF1dG8gcmV0ID0gQXBwZW5kKHN0ZDo6bW92ZShjdHgpLCBjYik7CiAgICAgICAgICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgICAgICAgIGNiKHJldCk7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
