@@ -151,12 +151,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589340918503">
-        <mark key="[" line="22" column="57" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="17" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589426092125">
         <mark key="[" line="139" column="19" />
         <mark key="]" line="139" column="14" />
@@ -206,6 +200,12 @@
         <mark key="^" line="649" column="31" />
         <mark key="." line="649" column="30" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589451208660">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/verify_fio.sh" timestamp="1589362969265">
         <mark key="[" line="53" column="117" />
         <mark key="]" line="53" column="117" />
@@ -234,11 +234,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589450324892">
-        <mark key="[" line="622" column="79" />
-        <mark key="]" line="111" column="114" />
-        <mark key="^" line="111" column="114" />
-        <mark key="." line="111" column="113" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589453140937">
+        <mark key="[" line="678" column="32" />
+        <mark key="]" line="679" column="37" />
+        <mark key="^" line="679" column="37" />
+        <mark key="." line="679" column="36" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589428734068">
         <mark key="[" line="62" column="0" />
@@ -358,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6Om1hcDxab25lSURUeXBlLCBab25lSW5mbz4gY29ycnVwdF96b25lc187ICAvLwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7ICAvLyBGb3IgRmFpbG92ZXIgRGVidWcgdXNlIQo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,34 +370,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6Om1hcDxab25lSURUeXBlLCBab25lSW5mbz4gdXNlZF96b25lc187Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvcnJ1cHRfem9uZXNfW3pvbmVfbWV0YS56b25lX2lkXSA9IFpvbmVJbmZvKCZ6b25lX21ldGEsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6Om1hcDxab25lSURUeXBlLCBab25lSW5mbz4gY29ycnVwdF96b25lc187ICAvLwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7ICAvLyBGb3IgRmFpbG92ZXIgRGVidWcgdXNlIQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTE9HX1RSQUNFCg==</text>
+        <text encoding="base64">ICAgICAgZnJlZV96b25lc19bem9uZV9tZXRhLnpvbmVfaWRdID0gWm9uZUluZm8oJnpvbmVfbWV0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgY2hlY2sgbWVhbmluZyBvZiBsZW5ndGggaW5jbHVkZSBoZWFkIHNpemUgb3Igbm90Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KHpvbmVfd3AgPT0gem9uZV9tZXRhLnNlYWxfbGVuZ3RoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlZF96b25lc19bem9uZV9tZXRhLnpvbmVfaWRdID0KICAgICAgICAgIFpvbmVJbmZvKCZ6b25lX21ldGEsIHpvbmVfbWV0YS5zZWFsX2xlbmd0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZXQgPT0gTUFOVUxfT0spOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9vcF8tPlJ1bkluTG9vcChbdGhpc10oKSB7CiAgICAgICAgZm9yIChhdXRvJiBbY3R4LCBjYl0gOiBhcHBlbmRfcGVuZGluZ19saXN0XykgewogICAgICAgIH0KICAgICAgICBhcHBlbmRfcGVuZGluZ19saXN0Xy5jbGVhcigpOwogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmV0ID09IE1BTlVMX09LKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGNhbF96b25lX2lkID09IHpvbmVfaWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNiKHJldCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IERlYWwgd2l0aCBjaGVjayBDUkMgZmFpbGVkLgogICAgYXNzZXJ0KHpvbmVfbWV0YS5tYWdpY19udW0gPT0gQVJDSElWRV9NQUdJQ19OVU0pOwogICAgYXNzZXJ0KHpvbmVfbWV0YS5DaGVja0NSQygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>531</text>
@@ -410,7 +410,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
