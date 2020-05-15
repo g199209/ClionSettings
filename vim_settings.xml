@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
         <entry>149</entry>
         <entry>227</entry>
         <entry>373</entry>
@@ -46,6 +45,7 @@
         <entry>531</entry>
         <entry>534</entry>
         <entry>256</entry>
+        <entry>374</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,6 +164,12 @@
         <mark key="^" line="131" column="22" />
         <mark key="." line="131" column="21" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589525188593">
+        <mark key="[" line="501" column="35" />
+        <mark key="]" line="501" column="29" />
+        <mark key="^" line="501" column="29" />
+        <mark key="." line="501" column="28" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589522714561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -174,12 +180,6 @@
         <mark key="]" line="260" column="82" />
         <mark key="^" line="260" column="82" />
         <mark key="." line="260" column="81" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589445291430">
-        <mark key="[" line="128" column="18" />
-        <mark key="]" line="128" column="18" />
-        <mark key="." line="128" column="17" />
-        <mark key="^" line="128" column="18" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589450255399">
         <mark key="[" line="142" column="52" />
@@ -333,7 +333,7 @@
         <text encoding="base64">ICAgIC8vIFRPRE86IERlYWwgd2l0aCBjaGVjayBDUkMgZmFpbGVkLgogICAgYXNzZXJ0KHpvbmVfbWV0YS5tYWdpY19udW0gPT0gQVJDSElWRV9NQUdJQ19OVU0pOwogICAgYXNzZXJ0KHpvbmVfbWV0YS5DaGVja0NSQygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>256</text>
+        <text>374</text>
       </register>
     </registers>
   </component>
