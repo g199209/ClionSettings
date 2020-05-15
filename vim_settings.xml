@@ -33,7 +33,6 @@
         <entry>373</entry>
         <entry>247</entry>
         <entry>348</entry>
-        <entry>534</entry>
         <entry>21</entry>
         <entry>44</entry>
         <entry>386</entry>
@@ -46,6 +45,7 @@
         <entry>660</entry>
         <entry>182</entry>
         <entry>531</entry>
+        <entry>534</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -189,11 +189,7 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589450255399">
         <mark key="[" line="142" column="52" />
-        <mark key="]" line="145" column="39" />
-        <mark key="." line="145" column="38" />
-        <mark key="^" line="145" column="39" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/test.sh" timestamp="1589348232607" />
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1589353901353">
         <mark key="[" line="649" column="23" />
         <mark key="]" line="649" column="31" />
@@ -212,6 +208,7 @@
         <mark key="^" line="53" column="117" />
         <mark key="." line="53" column="116" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/query_chunk_meta.cc" timestamp="1589511332692" />
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589432379656">
         <mark key="[" line="96" column="59" />
         <mark key="]" line="96" column="59" />
@@ -219,10 +216,8 @@
         <mark key="^" line="96" column="59" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/test_cases/common_test_case.h" timestamp="1589438631222">
-        <mark key="[" line="21" column="43" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="7" column="33" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589426344216">
         <mark key="[" line="0" column="18" />
@@ -234,7 +229,7 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589453140937">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589509926717">
         <mark key="[" line="678" column="32" />
         <mark key="]" line="679" column="37" />
         <mark key="^" line="679" column="37" />
@@ -400,7 +395,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>531</text>
+        <text>534</text>
       </register>
     </registers>
   </component>
