@@ -28,7 +28,6 @@
       <history-cmd>
         <entry>59</entry>
         <entry>149</entry>
-        <entry>256</entry>
         <entry>227</entry>
         <entry>373</entry>
         <entry>247</entry>
@@ -46,6 +45,7 @@
         <entry>182</entry>
         <entry>531</entry>
         <entry>534</entry>
+        <entry>256</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -169,11 +169,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589509926717">
-        <mark key="[" line="678" column="32" />
-        <mark key="]" line="679" column="37" />
-        <mark key="^" line="679" column="37" />
-        <mark key="." line="679" column="36" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589523542148">
+        <mark key="[" line="260" column="67" />
+        <mark key="]" line="260" column="82" />
+        <mark key="^" line="260" column="82" />
+        <mark key="." line="260" column="81" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589445291430">
         <mark key="[" line="128" column="18" />
@@ -333,7 +333,7 @@
         <text encoding="base64">ICAgIC8vIFRPRE86IERlYWwgd2l0aCBjaGVjayBDUkMgZmFpbGVkLgogICAgYXNzZXJ0KHpvbmVfbWV0YS5tYWdpY19udW0gPT0gQVJDSElWRV9NQUdJQ19OVU0pOwogICAgYXNzZXJ0KHpvbmVfbWV0YS5DaGVja0NSQygpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>534</text>
+        <text>256</text>
       </register>
     </registers>
   </component>
