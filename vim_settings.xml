@@ -151,12 +151,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" timestamp="1589520770495">
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" timestamp="1589590466554">
         <mark key="'" line="529" column="37" />
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="131" column="22" />
-        <mark key="^" line="131" column="22" />
-        <mark key="." line="131" column="21" />
+        <mark key="[" line="550" column="24" />
+        <mark key="]" line="550" column="20" />
+        <mark key="^" line="550" column="20" />
+        <mark key="." line="550" column="19" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589534340080">
         <mark key="[" line="142" column="82" />
