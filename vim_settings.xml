@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>227</entry>
         <entry>373</entry>
         <entry>247</entry>
         <entry>348</entry>
@@ -46,6 +45,7 @@
         <entry>256</entry>
         <entry>374</entry>
         <entry>415</entry>
+        <entry>105</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,6 +164,19 @@
         <mark key="^" line="137" column="18" />
         <mark key="." line="137" column="17" />
       </file>
+      <file name="$USER_HOME$/Manul/scripts/prepare_raft_db.sh" timestamp="1589599936974">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_metaserver.sh" timestamp="1589599663427" />
+      <file name="$USER_HOME$/Manul/scripts/start_raft_db.sh" timestamp="1589599923424">
+        <mark key="[" line="2" column="83" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="29" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/query_chunk_meta.cc" timestamp="1589593118144">
         <mark key="[" line="59" column="43" />
         <mark key="]" line="59" column="38" />
@@ -176,6 +189,11 @@
         <mark key="." line="142" column="95" />
         <mark key="^" line="142" column="96" />
       </file>
+      <file name="$USER_HOME$/Manul/scripts/new_env.sh" timestamp="1589599321140">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589532060091">
         <mark key="[" line="408" column="26" />
         <mark key="]" line="408" column="28" />
@@ -185,6 +203,16 @@
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1589536756371" />
       <file name="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" timestamp="1589589484089">
         <mark key="[" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1589600766331">
+        <mark key="[" line="6" column="382" />
+        <mark key="]" line="6" column="382" />
+        <mark key="." line="6" column="382" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/metaserver/delete_file.cc" timestamp="1589599203248" />
+      <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/new_env.sh" timestamp="1589599318762">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1589594140241">
         <mark key="[" line="0" column="0" />
@@ -201,6 +229,7 @@
         <mark key="." line="128" column="17" />
         <mark key="^" line="128" column="18" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_raft_db.sh" timestamp="1589600265300" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589534812510" />
     </filemarks>
     <jumps>
@@ -308,20 +337,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJlZV96b25lc18uYmVnaW4oKSwgZnJlZV96b25lc18uZW5kKCksIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNlbmRSZXNwb25zZShyZXQsICJDaHVuayBpcyBOb3QgRXhpc3QiKTsKICAgIHJldHVybjsK</text>
+        <text encoding="base64">ZWNobyAiKysrKysgUmFmdCBEQiBQcmVwYXJlICsrKysiCi4vcHJlcGFyZV9yYWZ0X2RiLnNoCnNsZWVwIDUKZWNobyAiKysrKysgUmFmdCBEQiBzdGFydCArKysrIgouL3N0YXJ0X3JhZnRfZGIuc2gKc2xlZXAgNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -351,7 +380,7 @@
         <text>[Refine] Refine Log.</text>
       </register>
       <register name=":" type="4">
-        <text>415</text>
+        <text>105</text>
       </register>
     </registers>
   </component>
