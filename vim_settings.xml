@@ -183,6 +183,12 @@
         <mark key="^" line="59" column="38" />
         <mark key="." line="59" column="37" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/zk_name_container.cc" timestamp="1589602820871">
+        <mark key="[" line="349" column="10" />
+        <mark key="]" line="349" column="17" />
+        <mark key="^" line="349" column="17" />
+        <mark key="." line="349" column="16" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589534340080">
         <mark key="[" line="142" column="82" />
         <mark key="]" line="142" column="96" />
@@ -193,12 +199,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="7" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589532060091">
-        <mark key="[" line="408" column="26" />
-        <mark key="]" line="408" column="28" />
-        <mark key="^" line="408" column="28" />
-        <mark key="." line="408" column="27" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1589536756371" />
       <file name="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" timestamp="1589589484089">
@@ -223,13 +223,13 @@
         <mark key="." line="94" column="59" />
         <mark key="^" line="94" column="60" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1589528097120">
-        <mark key="[" line="128" column="18" />
-        <mark key="]" line="128" column="18" />
-        <mark key="." line="128" column="17" />
-        <mark key="^" line="128" column="18" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1589602793577">
+        <mark key="[" line="46" column="69" />
+        <mark key="]" line="46" column="63" />
+        <mark key="." line="46" column="62" />
+        <mark key="^" line="46" column="63" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/client/file_client_impl.cc" timestamp="1589602283960" />
+      <file name="$USER_HOME$/Manul/manul/client/file_client_impl.cc" timestamp="1589602573938" />
       <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_raft_db.sh" timestamp="1589600265300" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589534812510" />
     </filemarks>
@@ -338,8 +338,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">REVGSU5FX01BTlVMX0VSUk9SQ09ERShNQU5VTF9UUlVOQ0FURV9FUlJPUiwgLTI2LCAiIGZpbGUgaXMgdHJ1bmNhdGluZyIpOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -351,7 +351,7 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiKysrKysgUmFmdCBEQiBQcmVwYXJlICsrKysiCi4vcHJlcGFyZV9yYWZ0X2RiLnNoCnNsZWVwIDUKZWNobyAiKysrKysgUmFmdCBEQiBzdGFydCArKysrIgouL3N0YXJ0X3JhZnRfZGIuc2gKc2xlZXAgNQo=</text>
+        <text encoding="base64">REVGSU5FX01BTlVMX0VSUk9SQ09ERShNQU5VTF9UUlVOQ0FURV9FUlJPUiwgLTI2LCAiIGZpbGUgaXMgdHJ1bmNhdGluZyIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
