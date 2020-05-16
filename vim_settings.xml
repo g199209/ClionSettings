@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>373</entry>
         <entry>247</entry>
         <entry>348</entry>
         <entry>21</entry>
@@ -46,6 +45,7 @@
         <entry>374</entry>
         <entry>415</entry>
         <entry>105</entry>
+        <entry>161</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -229,6 +229,7 @@
         <mark key="." line="128" column="17" />
         <mark key="^" line="128" column="18" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/client/file_client_impl.cc" timestamp="1589602283960" />
       <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_raft_db.sh" timestamp="1589600265300" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589534812510" />
     </filemarks>
@@ -380,7 +381,7 @@
         <text>[Refine] Refine Log.</text>
       </register>
       <register name=":" type="4">
-        <text>105</text>
+        <text>161</text>
       </register>
     </registers>
   </component>
