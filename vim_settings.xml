@@ -152,11 +152,23 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" timestamp="1589592919483">
-        <mark key="'" line="529" column="37" />
-        <mark key="[" line="551" column="34" />
-        <mark key="]" line="551" column="30" />
-        <mark key="^" line="551" column="30" />
-        <mark key="." line="551" column="29" />
+        <mark key="'" line="531" column="37" />
+        <mark key="[" line="553" column="34" />
+        <mark key="]" line="553" column="30" />
+        <mark key="^" line="553" column="30" />
+        <mark key="." line="553" column="29" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/metaserver/get_chunk_meta_handle.cc" timestamp="1589593702100">
+        <mark key="[" line="135" column="9" />
+        <mark key="]" line="137" column="18" />
+        <mark key="^" line="137" column="18" />
+        <mark key="." line="137" column="17" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/query_chunk_meta.cc" timestamp="1589593118144">
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="38" />
+        <mark key="^" line="59" column="38" />
+        <mark key="." line="59" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589534340080">
         <mark key="[" line="142" column="82" />
@@ -174,7 +186,7 @@
       <file name="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" timestamp="1589589484089">
         <mark key="[" line="36" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589538586141">
+      <file name="/Dummy.txt" timestamp="1589594072250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589535870117">
@@ -297,7 +309,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,34 +321,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIlN0aWxsIElPIGluIHRoaXMgY2h1bmsgaGFuZGxlLiBTSE9VTEQgTk9UIEhBUFBFTiIKICAgICAgICAgICAgICAgPDwgIiBDaHVuayBJZCA6ICIgPDwgY2h1bmtfaWQuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIFNlbmRSZXNwb25zZShyZXQsICJDaHVuayBpcyBOb3QgRXhpc3QiKTsKICAgIHJldHVybjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIlN0aWxsIElPIGluIHRoaXMgY2h1bmsgaGFuZGxlLiBTSE9VTEQgTk9UIEhBUFBFTiIKICAgICAgICAgICAgICAgPDwgIiBDaHVuayBJZCA6ICIgPDwgY2h1bmtfaWQuVG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIlN0aWxsIElPIGluIHRoaXMgY2h1bmsgaGFuZGxlLiBTSE9VTEQgTk9UIEhBUFBFTiIK</text>
+        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIlN0aWxsIElPIGluIHRoaXMgY2h1bmsgaGFuZGxlLiBTSE9VTEQgTk9UIEhBUFBFTiIKICAgICAgICAgICAgICAgPDwgIiBDaHVuayBJZCA6ICIgPDwgY2h1bmtfaWQuVG9TdHJpbmcoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgaW4gc29tZSBjYXNlIGl0IHdpbGwgaGFwcGVuCg==</text>
+        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIlN0aWxsIElPIGluIHRoaXMgY2h1bmsgaGFuZGxlLiBTSE9VTEQgTk9UIEhBUFBFTiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgaW4gc29tZSBjYXNlIGl0IHdpbGwgaGFwcGVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpY2UoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REVGSU5SCg==</text>
+        <text encoding="base64">ICAgIGRpY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text>[Refine] Refine Log.</text>
+        <text encoding="base64">REVGSU5SCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICArK2l0Owo=</text>
+        <text>[Refine] Refine Log.</text>
       </register>
       <register name=":" type="4">
         <text>415</text>
