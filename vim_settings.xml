@@ -151,17 +151,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589790892561">
-        <mark key="[" line="162" column="35" />
-        <mark key="]" line="162" column="51" />
-        <mark key="." line="162" column="50" />
-        <mark key="^" line="162" column="51" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1589792019943">
+        <mark key="[" line="63" column="75" />
+        <mark key="]" line="65" column="45" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589791205778">
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="207" column="44" />
-        <mark key="^" line="207" column="44" />
-        <mark key="." line="207" column="43" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589791882528">
+        <mark key="[" line="134" column="3" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1589785907963">
         <mark key="[" line="0" column="0" />
@@ -175,8 +171,6 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1589789936193">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="34" />
-        <mark key="." line="33" column="1" />
-        <mark key="^" line="33" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1589789841085">
         <mark key="[" line="34" column="61" />
@@ -186,10 +180,6 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc_dir/fragment.cpp" timestamp="1589791118717">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" timestamp="1589784281292">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="73" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.h" timestamp="1589785840703">
         <mark key="[" line="9" column="2" />
@@ -203,20 +193,7 @@
         <mark key="^" line="198" column="77" />
         <mark key="." line="198" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589791117074">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589787076610">
-        <mark key="[" line="472" column="0" />
-        <mark key="]" line="472" column="0" />
-        <mark key="." line="472" column="0" />
-        <mark key="^" line="469" column="46" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.h" timestamp="1589783984264">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="39" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589785183119">
         <mark key="[" line="197" column="0" />
         <mark key="]" line="198" column="46" />
@@ -350,14 +327,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>manul::ManulCallback()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>manul::ManulCallback()</text>
+        <text>, manul::ManulCallback()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -366,31 +343,33 @@
         <text encoding="base64">ICAgIERpc2tJRFR5cGUgZGlza19pZCA9IGVsZS5maXJzdDsKICAgIGF1dG8gJmRpc2tfaGFuZGxlID0gZWxlLnNlY29uZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gJiBbIGRpc2tfaWQsIGRpc2tfaGFuZGxlIF0gOiBkaXNrc18pIHsKICAgIGludDMyX3QgcmV0ID0gZGlza19oYW5kbGUtPlN0YW5kQnkobWFudWw6Ok1hbnVsQ2FsbGJhY2soKSk7CiAgICBpZiAocmV0ID09IE1BTlVMX0RJU0tfTk9UX0VYSVNUKSB7CiAgICAgIFVMT0dfV0FSTiA8PCAiRGlzayAiIDw8IGRpc2tfaWQgPDwgIiBub3QgZXhpc3QhIjsKICAgIH0gZWxzZSBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgIFVMT0dfRVJST1IgPDwgIlN0YW5kQnkgZGlzayBGYWlsZWQsIHJldCA6ICIgPDwgcmV0OwogICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGhhbmRsZSBzdGFuZCBieSBmYWlsZWQKICAgICAgYXNzZXJ0KGZhbHNlKTsKICAgIH0KICB9Cg==</text>
+        <text>[BugFix] Fix target name in CMakeList.
+
+Do not use the same name in ustevent.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdGF0dXNfID0gREdfU1RBTkRCWTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gJiBbIGRpc2tfaWQsIGRpc2tfaGFuZGxlIF0gOiBkaXNrc18pIHsKICAgIGludDMyX3QgcmV0ID0gZGlza19oYW5kbGUtPlN0YW5kQnkobWFudWw6Ok1hbnVsQ2FsbGJhY2soKSk7CiAgICBpZiAocmV0ID09IE1BTlVMX0RJU0tfTk9UX0VYSVNUKSB7CiAgICAgIFVMT0dfV0FSTiA8PCAiRGlzayAiIDw8IGRpc2tfaWQgPDwgIiBub3QgZXhpc3QhIjsKICAgIH0gZWxzZSBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgIFVMT0dfRVJST1IgPDwgIlN0YW5kQnkgZGlzayBGYWlsZWQsIHJldCA6ICIgPDwgcmV0OwogICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGhhbmRsZSBzdGFuZCBieSBmYWlsZWQKICAgICAgYXNzZXJ0KGZhbHNlKTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzXyA9IERHX0FDVElWRTsK</text>
+        <text encoding="base64">ICBzdGF0dXNfID0gREdfU1RBTkRCWTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGhhbmRsZSBhY3RpdmUgZmFpbGVkCiAgICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgtPmYK</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzXyA9IERHX0FDVElWRTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERpc2tJRFR5cGUgZGkgPSBkaXNrX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGhhbmRsZSBhY3RpdmUgZmFpbGVkCiAgICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXNfID0gREdfQUNUSVZFOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdHgtPmYK</text>
       </register>
       <register name=":" type="4">
         <text>161</text>
