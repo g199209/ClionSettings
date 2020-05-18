@@ -151,19 +151,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589770534380">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/metaserver/get_chunk_meta_handle.cc" timestamp="1589593702100">
         <mark key="[" line="135" column="9" />
         <mark key="]" line="137" column="18" />
         <mark key="^" line="137" column="18" />
         <mark key="." line="137" column="17" />
       </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/message_util.h" timestamp="1589782677748" />
       <file name="$USER_HOME$/Manul/scripts/prepare_raft_db.sh" timestamp="1589599936974">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_metaserver.sh" timestamp="1589599663427" />
       <file name="$USER_HOME$/Manul/scripts/start_raft_db.sh" timestamp="1589599923424">
         <mark key="[" line="2" column="83" />
         <mark key="]" line="2" column="30" />
@@ -176,12 +179,12 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/simple_ec_chunk_locator.h" timestamp="1589782879078" />
       <file name="$USER_HOME$/Manul/scripts/new_env.sh" timestamp="1589599321140">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="15" column="7" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1589770761697" />
       <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1589600766331">
         <mark key="[" line="6" column="382" />
         <mark key="]" line="6" column="382" />
@@ -190,10 +193,6 @@
       <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/new_env.sh" timestamp="1589599318762">
         <mark key="]" line="3" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589770534380">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/ci_script/smoke_test/start_raft_db.sh" timestamp="1589600265300" />
     </filemarks>
     <jumps>
       <jump line="83" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
