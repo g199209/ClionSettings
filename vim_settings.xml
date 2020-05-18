@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>247</entry>
         <entry>348</entry>
         <entry>21</entry>
         <entry>44</entry>
@@ -46,6 +45,7 @@
         <entry>415</entry>
         <entry>105</entry>
         <entry>161</entry>
+        <entry>138</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -206,11 +206,11 @@
         <mark key="." line="198" column="76" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589796868795">
-        <mark key="[" line="476" column="25" />
-        <mark key="]" line="477" column="70" />
-        <mark key="^" line="477" column="70" />
-        <mark key="." line="477" column="69" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589798305277">
+        <mark key="[" line="435" column="0" />
+        <mark key="]" line="436" column="39" />
+        <mark key="^" line="436" column="39" />
+        <mark key="." line="436" column="38" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589796804689">
         <mark key="[" line="152" column="0" />
@@ -221,11 +221,11 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1589787281123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1589789948965">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="48" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="48" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1589797692881">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="34" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1589785930721">
         <mark key="[" line="47" column="62" />
@@ -346,7 +346,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
+        <text encoding="base64">ICAgICAgICBVTE9HX0RFQlVHIDw8ICJeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXiI7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,39 +358,37 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJAQEBAQEBAQEBAQEBAQCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
+        <text encoding="base64">ICAgICAgICBVTE9HX0RFQlVHIDw8ICJeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgU3RhbmRieSBtb2RlLiI7Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgU3RhbmRieSBtb2RlLiI7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZWxzZSB7CiAgICBVTE9HX0lORk8gPDwgCiAgfQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>[BugFix] Fix target name in CMakeList.
-
-Do not use the same name in ustevent.</text>
+        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>138</text>
       </register>
     </registers>
   </component>
