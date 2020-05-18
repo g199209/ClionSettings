@@ -156,7 +156,7 @@
         <mark key="]" line="65" column="45" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589795439159">
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589796367125">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -206,11 +206,17 @@
         <mark key="." line="198" column="76" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
-      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589785183119">
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="198" column="46" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589796868795">
+        <mark key="[" line="476" column="25" />
+        <mark key="]" line="477" column="70" />
+        <mark key="^" line="477" column="70" />
+        <mark key="." line="477" column="69" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589796804689">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="50" />
         <mark key="^" line="63" column="42" />
-        <mark key="." line="197" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1589787281123">
         <mark key="[" line="0" column="0" />
@@ -340,7 +346,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -352,36 +358,36 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiU3RhbmRieSAiIDw8IGl0ZXItPmZpcnN0IDw8ICIgc3VjY2VzcyEiOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICBVTE9HX0lORk8gPDwgCiAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgU3RhbmRieSBtb2RlLiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICBVTE9HX0lORk8gPDwgCiAgfQ==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>[BugFix] Fix target name in CMakeList.
 
 Do not use the same name in ustevent.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gJiBbIGRpc2tfaWQsIGRpc2tfaGFuZGxlIF0gOiBkaXNrc18pIHsKICAgIGludDMyX3QgcmV0ID0gZGlza19oYW5kbGUtPlN0YW5kQnkobWFudWw6Ok1hbnVsQ2FsbGJhY2soKSk7CiAgICBpZiAocmV0ID09IE1BTlVMX0RJU0tfTk9UX0VYSVNUKSB7CiAgICAgIFVMT0dfV0FSTiA8PCAiRGlzayAiIDw8IGRpc2tfaWQgPDwgIiBub3QgZXhpc3QhIjsKICAgIH0gZWxzZSBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgIFVMT0dfRVJST1IgPDwgIlN0YW5kQnkgZGlzayBGYWlsZWQsIHJldCA6ICIgPDwgcmV0OwogICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpIGhhbmRsZSBzdGFuZCBieSBmYWlsZWQKICAgICAgYXNzZXJ0KGZhbHNlKTsKICAgIH0KICB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzdGF0dXNfID0gREdfU1RBTkRCWTsK</text>
       </register>
       <register name=":" type="4">
         <text>161</text>
