@@ -201,11 +201,6 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589872330543">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589867050613">
         <mark key="'" line="476" column="25" />
         <mark key="[" line="371" column="0" />
@@ -353,7 +348,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,31 +363,31 @@
         <text encoding="base64">ICBhdXRvIHJlbWFpbl9sZW5ndGggPSB0YXJnZXRfbGVuXyAtIHJlY292ZXJfb2Zmc2V0XzsKICBuZXh0X2lvX3NpemVfID0KICAgICAgcmVtYWluX2xlbmd0aCA8IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25TaW5nbGVJT1NpemUKICAgICAgICAgID8gcmVtYWluX2xlbmd0aAogICAgICAgICAgOiBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdXRvIHJlbWFpbl9sZW5ndGggPSB0YXJnZXRfbGVuXyAtIHJlY292ZXJfb2Zmc2V0XzsKICBuZXh0X2lvX3NpemVfID0KICAgICAgcmVtYWluX2xlbmd0aCA8IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25TaW5nbGVJT1NpemUKICAgICAgICAgID8gcmVtYWluX2xlbmd0aAogICAgICAgICAgOiBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyhtaW5nZmVpLmdhbyk6IOWkhOeQhuS4jeWvuem9kOeahOaDheWGtQo=</text>
+        <text encoding="base64">ICBhdXRvIHJlbWFpbl9sZW5ndGggPSB0YXJnZXRfbGVuXyAtIHJlY292ZXJfb2Zmc2V0XzsKICBuZXh0X2lvX3NpemVfID0KICAgICAgcmVtYWluX2xlbmd0aCA8IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25TaW5nbGVJT1NpemUKICAgICAgICAgID8gcmVtYWluX2xlbmd0aAogICAgICAgICAgOiBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5lY19kYXRhX2xlbl8gPSBuZXh0X2lvX3NpemVfOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyhtaW5nZmVpLmdhbyk6IOWkhOeQhuS4jeWvuem9kOeahOaDheWGtQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRkxBR1NfbWFudWxfYXJjaGl2ZXNlcnZlcl9SZXBsaWNhdGlvblNpbmdsZUlPU2l6ZTsK</text>
+        <text encoding="base64">ICBhcHBlbmRfY29udGV4dF9wdHJfLT5lY19kYXRhX2xlbl8gPSBuZXh0X2lvX3NpemVfOwo=</text>
       </register>
       <register name="6" type="2">
-        <text>Format code.</text>
+        <text encoding="base64">ICAgICAgRkxBR1NfbWFudWxfYXJjaGl2ZXNlcnZlcl9SZXBsaWNhdGlvblNpbmdsZUlPU2l6ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBEZWFsIHdpdGggZW1wdHkgem9uZQo=</text>
+        <text>Format code.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCghaXNfYWxsb2NhdGluZ196b25lXyk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBEZWFsIHdpdGggZW1wdHkgem9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOato+WcqCBBbGxvY2F0aW5nIHpvbmUg6L+H56iL5Lit55qE5oOF5Ya15YmN6Z2i5bqU6K+l5bCx5aSE55CG5LqG77yBCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCghaXNfYWxsb2NhdGluZ196b25lXyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>557</text>
