@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>348</entry>
         <entry>21</entry>
         <entry>44</entry>
         <entry>386</entry>
@@ -46,6 +45,7 @@
         <entry>105</entry>
         <entry>161</entry>
         <entry>138</entry>
+        <entry>306</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,11 +162,13 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="132" column="47" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1589855486275">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589791882528">
         <mark key="[" line="134" column="3" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1589785907963">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589786044590">
         <mark key="[" line="0" column="0" />
@@ -193,12 +195,6 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc_dir/fragment.cpp" timestamp="1589791118717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.h" timestamp="1589785840703">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1589787225848">
         <mark key="[" line="198" column="70" />
         <mark key="]" line="198" column="77" />
@@ -206,11 +202,11 @@
         <mark key="." line="198" column="76" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589798305277">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589798584706">
         <mark key="[" line="435" column="0" />
-        <mark key="]" line="436" column="39" />
-        <mark key="^" line="436" column="39" />
-        <mark key="." line="436" column="38" />
+        <mark key="]" line="436" column="18" />
+        <mark key="^" line="436" column="18" />
+        <mark key="." line="436" column="17" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589796804689">
         <mark key="[" line="152" column="0" />
@@ -233,6 +229,7 @@
         <mark key="^" line="47" column="69" />
         <mark key="." line="47" column="68" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/metaserver/replication_manager.cc" timestamp="1589855468486" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589795157447">
         <mark key="[" line="73" column="55" />
         <mark key="]" line="73" column="57" />
@@ -345,14 +342,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVTE9HX0RFQlVHIDw8ICJeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, manul::ManulCallback()</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -388,7 +385,7 @@
         <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>138</text>
+        <text>306</text>
       </register>
     </registers>
   </component>
