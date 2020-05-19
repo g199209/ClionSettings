@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>21</entry>
         <entry>44</entry>
         <entry>386</entry>
         <entry>376</entry>
@@ -46,6 +45,7 @@
         <entry>138</entry>
         <entry>306</entry>
         <entry>178</entry>
+        <entry>557</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -388,7 +388,7 @@ Add some log by the way.</text>
         <text encoding="base64">ICAgICAgICBTZXRDdXJyZW50UG93ZXJNb2RlKHBvd2VyX21vZGUpOwogICAgICAgIGNiKGN1cl9wb3dlcl9tb2RlXyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>178</text>
+        <text>557</text>
       </register>
     </registers>
   </component>
