@@ -34,7 +34,6 @@
         <entry>62</entry>
         <entry>611</entry>
         <entry>72</entry>
-        <entry>178</entry>
         <entry>660</entry>
         <entry>182</entry>
         <entry>531</entry>
@@ -46,6 +45,7 @@
         <entry>161</entry>
         <entry>138</entry>
         <entry>306</entry>
+        <entry>178</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -156,31 +156,28 @@
         <mark key="]" line="65" column="45" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589796367125">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
-        <mark key="^" line="132" column="47" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589857698754">
+        <mark key="[" line="159" column="56" />
+        <mark key="]" line="159" column="60" />
+        <mark key="." line="159" column="59" />
+        <mark key="^" line="159" column="60" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1589855486275">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1589857293894">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589791882528">
         <mark key="[" line="134" column="3" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589786044590">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc_dir/fragment.cpp" timestamp="1589787205672">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589859452852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1589795567440">
-        <mark key="[" line="360" column="25" />
-        <mark key="]" line="360" column="24" />
-        <mark key="." line="360" column="23" />
-        <mark key="^" line="360" column="24" />
+        <mark key="[" line="358" column="25" />
+        <mark key="]" line="358" column="24" />
+        <mark key="." line="358" column="23" />
+        <mark key="^" line="358" column="24" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1589789936193">
         <mark key="[" line="32" column="0" />
@@ -195,18 +192,30 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc_dir/fragment.cpp" timestamp="1589791118717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.h" timestamp="1589858201588">
+        <mark key="[" line="74" column="18" />
+        <mark key="]" line="76" column="21" />
+        <mark key="^" line="76" column="21" />
+        <mark key="." line="76" column="20" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1589787225848">
         <mark key="[" line="198" column="70" />
         <mark key="]" line="198" column="77" />
         <mark key="^" line="198" column="77" />
         <mark key="." line="198" column="76" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589859451028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589798584706">
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="436" column="18" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589858557009">
+        <mark key="'" line="476" column="25" />
+        <mark key="[" line="436" column="0" />
+        <mark key="]" line="436" column="0" />
         <mark key="^" line="436" column="18" />
-        <mark key="." line="436" column="17" />
+        <mark key="." line="436" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1589796804689">
         <mark key="[" line="152" column="0" />
@@ -218,11 +227,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/metaserver/chunk_table_manager.cc" timestamp="1589856584545" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1589797692881">
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1589858296265">
+        <mark key="[" line="52" column="76" />
+        <mark key="]" line="52" column="91" />
+        <mark key="." line="52" column="90" />
+        <mark key="^" line="52" column="91" />
       </file>
       <file name="$USER_HOME$/Manul/manul/metaserver/replication_manager.cc" timestamp="1589856562279" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589795157447">
@@ -233,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
       <jump line="88" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
       <jump line="51" column="31" filename="$USER_HOME$/Manul/manul/archive/archive_storage/smr_disk_handle.cc" />
       <jump line="43" column="28" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" />
@@ -333,12 +341,16 @@
       <jump line="275" column="30" filename="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" />
       <jump line="109" column="24" filename="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" />
       <jump line="529" column="37" filename="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" />
+      <jump line="476" column="25" filename="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text>[Feature][Archive] Add async SMR disk manager support.
+
+1. Add a thread.
+2. Add cb interface.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -350,37 +362,40 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJAQEBAQEBAQEBAQEBAQCI7Cg==</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJTdGFydCBzdGFuZGJ5ICIgPDwgc21yX2Rpc2tfbWFuYWdlcl8tPkdldERldlBhdGgoKS5kYXRhKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVTE9HX0RFQlVHIDw8ICJeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXiI7Cg==</text>
+        <text>[Feature][Archive] Add async SMR disk manager support.
+
+1. Add a thread.
+2. Add cb interface.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
+        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIktLS0tLS0tLS0tLS0tLS0tLSyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgU3RhbmRieSBtb2RlLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgVUxPR19ERUJVRyA8PCAiXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4iOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETzogU3VwcG9ydCB0aGlzIGNhc2UhCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgVUxPR19ERUJVRyA8PCAiISEhISEhISEhISEhISAiIDw8IGRldl9wYXRoXzsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIiUlJSUlJSUlJSUlJSUlJSI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZWxzZSB7CiAgICBVTE9HX0lORk8gPDwgCiAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzc2VydChmYWxzZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+        <text encoding="base64">ICAgICAgICBVTE9HX0RFQlVHIDw8ICJeXl5eXl5eXl5eXl5eXl5eXl5eXl5eXiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfREVCVUcgPDwgIlNldCBERyBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwo=</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgQWN0aXZlIG1vZGUuIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2b2lkIENhbGxiYWNrSXNSdW5uaW5nVVQoTWFudWxDYWxsYmFjayBjYik7Cg==</text>
+        <text encoding="base64">ICBVTE9HX0lORk8gPDwgZGV2X3BhdGhfIDw8ICIgZW50ZXIgU3RhbmRieSBtb2RlLiI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>306</text>
+        <text>178</text>
       </register>
     </registers>
   </component>
