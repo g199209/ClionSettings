@@ -202,11 +202,6 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589879244711">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589880860800">
         <mark key="'" line="476" column="25" />
         <mark key="[" line="868" column="71" />
@@ -353,14 +348,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2Vjb25kLT4=</text>
+      <register name="&quot;" type="2">
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2Vjb25kLT4=</text>
+        <text>Deal with zero zone case in seal blob!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
@@ -369,31 +364,31 @@
         <text encoding="base64">ICBhdXRvIHJlbWFpbl9sZW5ndGggPSB0YXJnZXRfbGVuXyAtIHJlY292ZXJfb2Zmc2V0XzsKICBuZXh0X2lvX3NpemVfID0KICAgICAgcmVtYWluX2xlbmd0aCA8IEZMQUdTX21hbnVsX2FyY2hpdmVzZXJ2ZXJfUmVwbGljYXRpb25TaW5nbGVJT1NpemUKICAgICAgICAgID8gcmVtYWluX2xlbmd0aAogICAgICAgICAgOiBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoIWRpc2tfaGFuZGxlLT5Jc1JlYWR5VG9SZW1vdmUoKSkgewogICAgCiAgfQo=</text>
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIWl0X2Rpc2tfaGFuZGxlLT5zZWNvbmQtPklzUmVhZHlUb1JlbW92ZSgpKSB7CiAgICAvLyDnm67liY3kuI3mlK/mjIHmnIkgSU8g5pe25Yig6Zmk55qE5LiA5Liq6YeN6KaB5Y6f5Zug5pivCiAgICAvLyBJTyDlm57osIPlm57mnaXlkI7oi6UgSGFuZGxlIOiiq+WIoOaOieS6hiB0aGlzIOS8muWPmOaIkOmHjuaMh+mSiAogICAgLy8g5ZCO57ut5aaC5p6c6KaB5pSv5oyB5q2k5oOF5Ya16ZyA6KaB55SoIHNoYXJlZF9wdHIKICAgIFVMT0dfRVJST1IgPDwgIkRpc2sgIiA8PCBwYXRoIDw8ICIgaXMgYnVzeSBhbmQgY2FuJ3QgYmUgcmVtb3ZlZCEiOwogICAgcmV0dXJuIE1BTlVMX0NIVU5LX0lTX0JVU1k7CiAgfQo=</text>
+        <text encoding="base64">ICBpZiAoIWRpc2tfaGFuZGxlLT5Jc1JlYWR5VG9SZW1vdmUoKSkgewogICAgCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoIWl0X2Rpc2tfaGFuZGxlLT5zZWNvbmQtPklzUmVhZHlUb1JlbW92ZSgpKSB7CiAgICAvLyDnm67liY3kuI3mlK/mjIHmnIkgSU8g5pe25Yig6Zmk55qE5LiA5Liq6YeN6KaB5Y6f5Zug5pivCiAgICAvLyBJTyDlm57osIPlm57mnaXlkI7oi6UgSGFuZGxlIOiiq+WIoOaOieS6hiB0aGlzIOS8muWPmOaIkOmHjuaMh+mSiAogICAgLy8g5ZCO57ut5aaC5p6c6KaB5pSv5oyB5q2k5oOF5Ya16ZyA6KaB55SoIHNoYXJlZF9wdHIKICAgIFVMT0dfRVJST1IgPDwgIkRpc2sgIiA8PCBwYXRoIDw8ICIgaXMgYnVzeSBhbmQgY2FuJ3QgYmUgcmVtb3ZlZCEiOwogICAgcmV0dXJuIE1BTlVMX0NIVU5LX0lTX0JVU1k7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhc3NlcnQoZXJhc2VfbnVtID09IDEpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBlcmEK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBEaXNrSURUeXBlIGRpc2tfaWQgPSBpdF9kZXYtPnNlY29uZC5kaXNrX2lkOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhc3NlcnQoZXJhc2VfbnVtID09IDEpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBlcmEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBEaXNrSURUeXBlIGRpc2tfaWQgPSBpdF9kZXYtPnNlY29uZC5kaXNrX2lkOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>[BugFix] Deal with zero zone case in seal blob!</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>313</text>
