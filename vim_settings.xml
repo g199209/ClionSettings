@@ -170,6 +170,12 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1589791882528">
         <mark key="[" line="134" column="3" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1589870264056">
+        <mark key="[" line="563" column="0" />
+        <mark key="]" line="563" column="0" />
+        <mark key="." line="563" column="0" />
+        <mark key="^" line="553" column="2" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589859452852">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,6 +206,9 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589870556875">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1589789292088" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589867050613">
         <mark key="'" line="476" column="25" />
@@ -213,9 +222,6 @@
         <mark key="]" line="152" column="50" />
         <mark key="^" line="63" column="42" />
         <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1589787281123">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/metaserver/chunk_table_manager.cc" timestamp="1589856584545" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1589859924566">
@@ -344,7 +350,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>[Feature] Add async get power mode support.</text>
+        <text>Format code.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -356,36 +362,36 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBTZXRDdXJyZW50UG93ZXJNb2RlKHBvd2VyX21vZGUpOwo=</text>
+        <text encoding="base64">ICBpZiAoaXQtPnNlY29uZC56b25lX2luZm9zLmVtcHR5KCkpIHsKICAgIC8vIOato+WcqCBBbGxvY2F0aW5nIHpvbmUg6L+H56iL5Lit55qE5oOF5Ya15YmN6Z2i5bqU6K+l5bCx5aSE55CG5LqG77yBCiAgICAvLyDov5nph4zlj6/og73mmK/nlLHkuo4gRGlzayDkuI3lrZjlnKjnrYnljp/lm6DnnJ/nmoTmsqHmnIkgWm9uZe+8gQogICAgYXNzZXJ0KCFpc19hbGxvY2F0aW5nX3pvbmVfKTsKICAgIFVMT0dfV0FSTiA8PCAiRGlzayAiIDw8IGl0LT5zZWNvbmQuZGlza19pZAogICAgICAgICAgICAgIDw8ICIgZG9uJ3QgaGF2ZSBhbnkgem9uZXMgZm9yIGJsb2IgIgogICAgICAgICAgICAgIDw8IGJsb2JfbWV0YV8tPmJsb2JfaWQuVG9TdHJpbmcoKTsKICAgIHJldHVybiBEZWxldGVCbG9iQ2h1bmsoKytpdCwgc3RkOjptb3ZlKGNiKSk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text>[Feature] Add async get power mode support.</text>
+        <text>Format code.</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBEZWFsIHdpdGggZW1wdHkgem9uZQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCghaXNfYWxsb2NhdGluZ196b25lXyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIOato+WcqCBBbGxvY2F0aW5nIHpvbmUg6L+H56iL5Lit55qE5oOF5Ya15YmN6Z2i5bqU6K+l5bCx5aSE55CG5LqG77yBCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text>[Feature] Add async get power mode support.</text>
+      </register>
+      <register name="6" type="2">
         <text>[BugFix] Fix standby context finish condition bug.
 
 Add some log by the way.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBBc3NlcnRJbk1haW5Mb29wKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2aXJ0dWFsIHZvaWQgRHVtcERpc2tJbmZvKHVjbG91ZDo6bWFudWw6OkRpc2tJbmZvKiBkaXNrX2luZm8pID0gMDsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBc3NlcnRJbk1haW5Mb29wKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZXRDdXJyZW50UG93ZXJNb2RlKHBvd2VyX21vZGUpOwogICAgICAgIGNiKGN1cl9wb3dlcl9tb2RlXyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>557</text>
