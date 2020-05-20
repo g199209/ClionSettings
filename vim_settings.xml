@@ -151,11 +151,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.h" timestamp="1589872068145">
-        <mark key="[" line="63" column="75" />
-        <mark key="]" line="65" column="45" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1589881513933">
         <mark key="[" line="118" column="51" />
         <mark key="]" line="119" column="14" />
@@ -174,6 +169,7 @@
         <mark key="." line="129" column="59" />
         <mark key="^" line="129" column="60" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/libzbc/libzbc.h" timestamp="1589954022322" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1589945457771">
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
@@ -217,12 +213,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589880860800">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589954034975">
         <mark key="'" line="476" column="25" />
-        <mark key="[" line="868" column="71" />
-        <mark key="]" line="868" column="107" />
-        <mark key="^" line="868" column="107" />
-        <mark key="." line="868" column="106" />
+        <mark key="[" line="618" column="5" />
+        <mark key="]" line="621" column="20" />
+        <mark key="^" line="621" column="20" />
+        <mark key="." line="621" column="19" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589875514555">
         <mark key="[" line="226" column="0" />
@@ -354,8 +350,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Deal with zero zone case in seal blob!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdWludDY0X3Qgem9uZV93cDsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -370,31 +366,31 @@
         <text encoding="base64">ICBzdGF0aWNfYXNzZXJ0KGtNZXRhUmVhbERpc2tTaXplICUgNTEyID09IDAsICJrTWV0YVJlYWxEaXNrU2l6ZSB1bmFsaWduZWQhIik7CiAgaXNfaW5pdF8gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpY19hc3NlcnQoa01ldGFSZWFsRGlza1NpemUgJSA1MTIgPT0gMCwgImtNZXRhUmVhbERpc2tTaXplIHVuYWxpZ25lZCEiKTsK</text>
+        <text encoding="base64">ICAgICAgdWludDY0X3Qgem9uZV93cDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGFzc2VydCh6b25lX2luZm8uemJ6X3R5cGUgPT0gWkJDX1pUX1NFUVVFTlRJQUxfUkVRKTsK</text>
       </register>
       <register name="3" type="2">
-        <text>[BugFix] Deal with zero zone case in seal blob!</text>
+        <text encoding="base64">ICAgIHN0YXRpY19hc3NlcnQoa01ldGFSZWFsRGlza1NpemUgJSA1MTIgPT0gMCwgImtNZXRhUmVhbERpc2tTaXplIHVuYWxpZ25lZCEiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICgrK2N1cl9jb3VudCA+IGxpbWl0KSB7CiAgICAgIGJyZWFrOwogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAobGltaXQpCg==</text>
+        <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3VyX29mZnNldCsrOwo=</text>
+        <text encoding="base64">ICAgIGlmICgrK2N1cl9jb3VudCA+IGxpbWl0KSB7CiAgICAgIGJyZWFrOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
