@@ -190,7 +190,7 @@
         <mark key="^" line="57" column="24" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589880354098">
+      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1589960620081">
         <mark key="[" line="150" column="60" />
         <mark key="]" line="150" column="60" />
         <mark key="^" line="150" column="60" />
@@ -210,7 +210,7 @@
         <mark key="]" line="435" column="5" />
         <mark key="." line="433" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589959635455">
+      <file name="/Dummy.txt" timestamp="1589960706148">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -221,12 +221,7 @@
         <mark key="^" line="805" column="49" />
         <mark key="." line="805" column="48" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589881475877">
-        <mark key="[" line="535" column="11" />
-        <mark key="]" line="536" column="11" />
-        <mark key="." line="536" column="10" />
-        <mark key="^" line="536" column="11" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589961205695" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.h" timestamp="1589955702403">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -243,7 +238,6 @@
       <file name="$USER_HOME$/Manul/manul/archive/rand_ec_chunk_locator.h" timestamp="1589944340353" />
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_thread_allocator.cc" />
       <jump line="51" column="31" filename="$USER_HOME$/Manul/manul/archive/archive_storage/smr_disk_handle.cc" />
       <jump line="43" column="28" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" />
       <jump line="252" column="1" filename="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" />
@@ -343,6 +337,7 @@
       <jump line="109" column="24" filename="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" />
       <jump line="529" column="37" filename="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" />
       <jump line="476" column="25" filename="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" />
+      <jump line="33" column="7" filename="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -363,32 +358,31 @@
         <text encoding="base64">ICBpbnQzMl90IEdldFpvbmVMZW5ndGgoY29uc3QgWm9uZU1ldGEgJnpvbmVfbWV0YSwKICAgICAgICAgICAgICAgICAgICAgICAgWm9uZUxlbmd0aENoZWNrZXJDYiBjYikgY29uc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiUmVwbGljYXRpb24gdGFzayAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkgPDwgIjogIiA8PCByZWNvdmVyX29mZnNldF8KICAgICAgICA8PCAiIC8gIiA8PCB0YXJnZXRfbGVuXyA8PCAiID0gIiA8PCByZWNvdmVyX29mZnNldF8gKiAxMDAgLyB0YXJnZXRfbGVuXwogICAgICAgIDw8ICIlIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX0ZSRUUpIHsKICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIC8vIOi/memHjOacgOWlveS4jeimgeiwg+eUqOWbnuiwgwogICAgcmV0dXJuIE1BTlVMX1pFUk9fTEVOR1RIX0VSUk9SOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
+        <text encoding="base64">ICBvc3MgPDwgIlJlcGxpY2F0aW9uIHRhc2sgIiA8PCB0YXNrX2lkXy5Ub1N0cmluZygpIDw8ICI6ICIgPDwgcmVjb3Zlcl9vZmZzZXRfCiAgICAgIDw8ICIgLyAiIDw8IHRhcmdldF9sZW5fIDw8ICIgPSAiIDw8IHJlY292ZXJfb2Zmc2V0XyAqIDEwMCAvIHRhcmdldF9sZW5fCiAgICAgIDw8ICIlIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHJlY292ZXJfb2Zmc2V0XyA9PSB0YXJnZXRfbGVuXykgewogICAgICAgIERvU2VhbFpvbmUobmVlZF9yZWNvdmVyX2NodW5rc18uYmVnaW4oKSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB6b25lX2xlbjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgKHJlY292ZXJfb2Zmc2V0XyA9PSB0YXJnZXRfbGVuXykgewogICAgVUxPR19JTkZPIDw8ICJDb250aW51ZSBhIHJlcGxpY2F0aW5nIHRhc2ssIHNlYWwgem9uZSEgIgogICAgICAgICAgICAgIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCk7CiAgICBEb1NlYWxab25lKG5lZWRfcmVjb3Zlcl9jaHVua3NfLmJlZ2luKCkpOwogIH0g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2b2lkIFN5bmNDYihpbnQzMl90IHJldCwgdWludDY0X3QgbGVuKSAK</text>
+        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX0ZSRUUpIHsKICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIC8vIOi/memHjOacgOWlveS4jeimgeiwg+eUqOWbnuiwgwogICAgcmV0dXJuIE1BTlVMX1pFUk9fTEVOR1RIX0VSUk9SOwogIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-                        ZoneLengthCheckerCb cb</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>784</text>
