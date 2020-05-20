@@ -212,6 +212,11 @@
         <mark key="]" line="435" column="5" />
         <mark key="." line="433" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589946957435">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589880860800">
         <mark key="'" line="476" column="25" />
         <mark key="[" line="868" column="71" />
@@ -349,8 +354,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpY19hc3NlcnQoa01ldGFSZWFsRGlza1NpemUgJSA1MTIgPT0gMCwgImtNZXRhUmVhbERpc2tTaXplIHVuYWxpZ25lZCEiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Deal with zero zone case in seal blob!</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
