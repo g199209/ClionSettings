@@ -174,11 +174,11 @@
         <mark key="." line="129" column="59" />
         <mark key="^" line="129" column="60" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1589945335171">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="^" line="116" column="26" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1589945457771">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="117" column="26" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/metaserver/replication_manager.cc" timestamp="1589874827284" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589878694798">
@@ -350,7 +350,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpY19hc3NlcnQoa01ldGFSZWFsRGlza1NpemUgJSA1MTIgPT0gMCwgImtNZXRhUmVhbERpc2tTaXplIHVuYWxpZ25lZCEiKTsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,34 +362,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
+        <text encoding="base64">ICBzdGF0aWNfYXNzZXJ0KGtNZXRhUmVhbERpc2tTaXplICUgNTEyID09IDAsICJrTWV0YVJlYWxEaXNrU2l6ZSB1bmFsaWduZWQhIik7CiAgaXNfaW5pdF8gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpY19hc3NlcnQoa01ldGFSZWFsRGlza1NpemUgJSA1MTIgPT0gMCwgImtNZXRhUmVhbERpc2tTaXplIHVuYWxpZ25lZCEiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text>[BugFix] Deal with zero zone case in seal blob!</text>
+        <text encoding="base64">ICBpZiAoIWlzX2luaXRfKSB7CiAgICByZXR1cm4gTUFOVUxfTk9UX0lOSVQ7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
+        <text>[BugFix] Deal with zero zone case in seal blob!</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgrK2N1cl9jb3VudCA+IGxpbWl0KSB7CiAgICAgIGJyZWFrOwogICAgfQo=</text>
+        <text encoding="base64">ICBjb3V0IDw8IHJzcC5EZWJ1Z1N0cmluZygpIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZiAobGltaXQpCg==</text>
+        <text encoding="base64">ICAgIGlmICgrK2N1cl9jb3VudCA+IGxpbWl0KSB7CiAgICAgIGJyZWFrOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3VyX29mZnNldCsrOwo=</text>
+        <text encoding="base64">ICBpZiAobGltaXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBUT0RPKGZhbmdyYW4uZnIpIHN1cHBvcnQgb2Zmc2V0IGxpbWl0Cg==</text>
+        <text encoding="base64">ICAgICAgY3VyX29mZnNldCsrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
