@@ -215,12 +215,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589955308733">
-        <mark key="'" line="473" column="25" />
-        <mark key="[" line="603" column="59" />
-        <mark key="]" line="161" column="44" />
-        <mark key="." line="161" column="43" />
-        <mark key="^" line="161" column="44" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589958064690">
+        <mark key="'" line="474" column="25" />
+        <mark key="[" line="607" column="6" />
+        <mark key="]" line="607" column="6" />
+        <mark key="." line="607" column="6" />
+        <mark key="^" line="612" column="24" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1589881475877">
         <mark key="[" line="535" column="11" />
@@ -348,14 +348,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXV0byA=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return 0;</text>
+        <text encoding="base64">YXV0byA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
