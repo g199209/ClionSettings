@@ -26,7 +26,6 @@
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>611</entry>
         <entry>72</entry>
         <entry>660</entry>
         <entry>182</entry>
@@ -46,6 +45,7 @@
         <entry>146</entry>
         <entry>46</entry>
         <entry>784</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,18 +151,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1589881513933">
-        <mark key="[" line="118" column="51" />
-        <mark key="]" line="119" column="14" />
-        <mark key="." line="119" column="13" />
-        <mark key="^" line="119" column="14" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1589942187285">
-        <mark key="[" line="151" column="22" />
-        <mark key="]" line="151" column="23" />
-        <mark key="^" line="151" column="23" />
-        <mark key="." line="151" column="22" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589958251735">
         <mark key="[" line="182" column="20" />
         <mark key="]" line="182" column="15" />
@@ -176,11 +164,11 @@
         <mark key="^" line="117" column="26" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589955078905">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1589965717161">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="30" column="61" />
+        <mark key="^" line="30" column="62" />
+        <mark key="." line="30" column="61" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1589962796902" />
       <file name="$USER_HOME$/Manul/manul/archive/rand_ec_chunk_locator.cc" timestamp="1589944331810" />
@@ -205,20 +193,22 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589955156360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1589883293042">
-        <mark key="[" line="433" column="0" />
-        <mark key="]" line="435" column="5" />
-        <mark key="." line="433" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1589965935268">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589960706148">
+      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.h" timestamp="1589966866819" />
+      <file name="/Dummy.txt" timestamp="1589966508532">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589962856453">
-        <mark key="[" line="783" column="0" />
-        <mark key="]" line="783" column="0" />
-        <mark key="." line="783" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1589965908170">
+        <mark key="[" line="672" column="0" />
+        <mark key="]" line="672" column="0" />
+        <mark key="." line="672" column="0" />
+        <mark key="^" line="649" column="49" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1589962481762" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.h" timestamp="1589955702403">
@@ -226,15 +216,16 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1589941952572">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc_dir/fragment.cpp" timestamp="1589956115028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/rand_ec_chunk_locator.h" timestamp="1589944340353" />
+      <file name="$USER_HOME$/Manul/manul/archive/context/recover_context.cc" timestamp="1589966891519">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="16" column="78" />
+        <mark key="^" line="16" column="78" />
+        <mark key="." line="16" column="77" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="51" column="31" filename="$USER_HOME$/Manul/manul/archive/archive_storage/smr_disk_handle.cc" />
@@ -341,8 +332,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>Deal with zero zone case in seal blob!</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -354,37 +345,37 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbnQzMl90IEdldFpvbmVMZW5ndGgoY29uc3QgWm9uZU1ldGEgJnpvbmVfbWV0YSwKICAgICAgICAgICAgICAgICAgICAgICAgWm9uZUxlbmd0aENoZWNrZXJDYiBjYikgY29uc3Q7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkaXNrX21ldGFfLT5kaXNrX2lkID09IDUgJiYgem9uZV9pZCA9PSAzODI0NykgIHsKICAgICAgVUxPR19JTkZPIDw8ICIhISEhISEhISAiIDw8IHpvbmVfd3A7CiAgICAgIFVMT0dfSU5GTyA8PCB6b25lX21ldGEuVG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKHRhcmdldF9sZW4gIT0gMCkgewogICAgICAgIAogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCAiUmVwbGljYXRpb24gdGFzayAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkgPDwgIjogIiA8PCByZWNvdmVyX29mZnNldF8KICAgICAgICA8PCAiIC8gIiA8PCB0YXJnZXRfbGVuXyA8PCAiID0gIiA8PCByZWNvdmVyX29mZnNldF8gKiAxMDAgLyB0YXJnZXRfbGVuXwogICAgICAgIDw8ICIlIjsK</text>
+        <text encoding="base64">ICAgICAgYXV0byBwcm9ncmVzcyA9IGN1cnJlbnRfb2ZmICogMTAwIC8gdGFyZ2V0X2xlbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkaXNrX2lkID09IDUgJiYgbWV0YS56b25lX2lkID09IDM4MjQ3KSB7CiAgICAgIFVMT0dfSU5GTyA8PCAiQEBAQEBAQEBAQEBAQCAiIDw8IHpvbmVfbGVuZ3RoOwogICAgICBVTE9HX0lORk8gPDwgbWV0YS5Ub1N0cmluZygpOwogICAgICBpZiAoem9uZV9sZW5ndGggPT0gMCkgewogICAgICAgIGFzc2VydChmYWxzZSk7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvc3MgPDwgIlJlcGxpY2F0aW9uIHRhc2sgIiA8PCB0YXNrX2lkXy5Ub1N0cmluZygpIDw8ICI6ICIgPDwgcmVjb3Zlcl9vZmZzZXRfCiAgICAgIDw8ICIgLyAiIDw8IHRhcmdldF9sZW5fIDw8ICIgPSAiIDw8IHJlY292ZXJfb2Zmc2V0XyAqIDEwMCAvIHRhcmdldF9sZW5fCiAgICAgIDw8ICIlIjsK</text>
+        <text encoding="base64">ICAgIGlmIChkaXNrX2lkID09IDUgJiYgbWV0YS56b25lX2lkID09IDM4MjQ3KSAgewogICAgICBVTE9HX0lORk8gPDwgIkBAQEBAQEBAQEBAQEAgIiA8PCB6b25lX2xlbmd0aDsKICAgICAgVUxPR19JTkZPIDw8IG1ldGEuVG9TdHJpbmcoKTsKICAgICAgaWYgKHpvbmVfbGVuZ3RoID09IDApIHsKICAgICAgICBhc3NlcnQoZmFsc2UpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJlY292ZXJfb2Zmc2V0XyA9PSB0YXJnZXRfbGVuXykgewogICAgICAgIERvU2VhbFpvbmUobmVlZF9yZWNvdmVyX2NodW5rc18uYmVnaW4oKSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChkaXNrX21ldGFfLT5kaXNrX2lkID09IDUgJiYgem9uZV9pZCA9PSAzODI0NykgIHsKICAgICAgVUxPR19JTkZPIDw8ICIhISEhISEhISAiIDw8IHpvbmVfd3A7CiAgICAgIFVMT0dfSU5GTyA8PCB6b25lX21ldGEuVG9TdHJpbmcoKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKHJlY292ZXJfb2Zmc2V0XyA9PSB0YXJnZXRfbGVuXykgewogICAgVUxPR19JTkZPIDw8ICJDb250aW51ZSBhIHJlcGxpY2F0aW5nIHRhc2ssIHNlYWwgem9uZSEgIgogICAgICAgICAgICAgIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCk7CiAgICBEb1NlYWxab25lKG5lZWRfcmVjb3Zlcl9jaHVua3NfLmJlZ2luKCkpOwogIH0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWYgKGRpc2tfbWV0YV8tPmRpc2tfaWQgPT0gNSAmJiB6b25lX2lkID09IDM4MjQ3KSAgewogICAgICAgIFVMT0dfSU5GTyA8PCAiISEhISEhISEgIiA8PCB6b25lX3dwOwogICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX0ZSRUUpIHsKICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIC8vIOi/memHjOacgOWlveS4jeimgeiwg+eUqOWbnuiwgwogICAgcmV0dXJuIE1BTlVMX1pFUk9fTEVOR1RIX0VSUk9SOwogIH0K</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiUmVwbGljYXRpb24gdGFzayAiIDw8IHRhc2tfaWRfLlRvU3RyaW5nKCkgPDwgIjogIiA8PCByZWNvdmVyX29mZnNldF8KICAgICAgICA8PCAiIC8gIiA8PCB0YXJnZXRfbGVuXyA8PCAiID0gIiA8PCByZWNvdmVyX29mZnNldF8gKiAxMDAgLyB0YXJnZXRfbGVuXwogICAgICAgIDw8ICIlIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>784</text>
+        <text>17</text>
       </register>
     </registers>
   </component>
