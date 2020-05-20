@@ -196,11 +196,11 @@
         <mark key="^" line="150" column="60" />
         <mark key="." line="150" column="59" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc" timestamp="1589956394192">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="44" />
-        <mark key="^" line="35" column="45" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc" timestamp="1589957110510">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="36" column="2" />
+        <mark key="." line="36" column="1" />
+        <mark key="^" line="36" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1589955156360">
         <mark key="[" line="0" column="0" />
@@ -349,7 +349,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB6b25lX2xlbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,32 +364,32 @@
         <text encoding="base64">ICBpbnQzMl90IEdldFpvbmVMZW5ndGgoY29uc3QgWm9uZU1ldGEgJnpvbmVfbWV0YSwKICAgICAgICAgICAgICAgICAgICAgICAgWm9uZUxlbmd0aENoZWNrZXJDYiBjYikgY29uc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB6b25lX2xlbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpZiAoem9uZV9tZXRhLnN0YXR1cyA9PSBaT05FX0ZSRUUpIHsKICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIC8vIOi/memHjOacgOWlveS4jeimgeiwg+eUqOWbnuiwgwogICAgcmV0dXJuIE1BTlVMX1pFUk9fTEVOR1RIX0VSUk9SOwogIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFpPTkVfRlJFRSDnmoTml7blgJnnm7TmjqXov5Tlm54gMCDplb/luqbvvIEKICAgIGN0eC0+ZmluYWxfY2IoTUFOVUxfT0ssIDApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB1aW50NjRfdCB6b25lX2xlbjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICB2b2lkIFN5bmNDYihpbnQzMl90IHJldCwgdWludDY0X3QgbGVuKSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>,
                         ZoneLengthCheckerCb cb</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFVMT0dfREVCVUcgPDwgIlN0YXJ0IHJlc2V0IHpvbmUgIiA8PCB6b25lX2lkIDw8ICIgQCAiCiAgICAgICAgICAgICAgIDw8IGRpc2tfbWV0YV8tPmRpc2tfaWQ7CiAgICByZXQgPQogICAgICAgIGRpc2tfbWFuYWdlcl8uUmVzZXRab25lKHpvbmVfYWRkcl9tYXBwZXJfLk1hcFRvQWJzQWRkcmVzcyh6b25lX2lkLCAwKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBab25lSW5mbygpID0gZGVmYXVsdDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdWludDY0X3Qgem9uZV93cDsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIGFzc2VydCh6b25lX2luZm8uemJ6X3R5cGUgPT0gWkJDX1pUX1NFUVVFTlRJQUxfUkVRKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
