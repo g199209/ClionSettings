@@ -164,12 +164,6 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="29" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1589958251735">
-        <mark key="[" line="182" column="20" />
-        <mark key="]" line="182" column="15" />
-        <mark key="." line="182" column="14" />
-        <mark key="^" line="182" column="15" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1589967114128">
         <mark key="[" line="358" column="25" />
         <mark key="]" line="358" column="24" />
@@ -182,13 +176,14 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="36" column="51" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1590030263606">
-        <mark key="[" line="173" column="18" />
-        <mark key="]" line="173" column="42" />
-        <mark key="." line="173" column="41" />
-        <mark key="^" line="173" column="42" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1590039049357">
+        <mark key="[" line="132" column="29" />
+        <mark key="]" line="132" column="30" />
+        <mark key="." line="132" column="29" />
+        <mark key="^" line="132" column="30" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/device_manager.cc" timestamp="1590033322843" />
+      <file name="$USER_HOME$/Manul/manul/common/cout_color.h" timestamp="1590038994641" />
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_zone_calculator.h" timestamp="1590029599473">
         <mark key="[" line="47" column="29" />
         <mark key="]" line="47" column="33" />
@@ -219,6 +214,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590039094456">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590032507659">
         <mark key="[" line="597" column="38" />
@@ -340,19 +338,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbmxpbmUgemJjX3pvbmUgJm9wZXJhdG9yW10oc2l6ZV90IG4pIHsgcmV0dXJuIHpvbmVfaW5mb3Nbbl07IH0K</text>
+        <text encoding="base64">ICBjb3V0IDw8IENPTE9SKE1BR0VOVEEsICJDTVIgWm9uZSBOdW1iZXI6ICIpIDw8IHJlYWxfY21yX3pvbmVfY291bnRfOyAK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(zone_length_ * cmr_zone_count_ - kMetaRealDiskSize)</text>
+        <text>zone_infos_.size() - 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpbmxpbmUgemJjX3pvbmUgJm9wZXJhdG9yW10oc2l6ZV90IG4pIHsgcmV0dXJuIHpvbmVfaW5mb3Nbbl07IH0K</text>
+        <text encoding="base64">ICBjb3V0IDw8IENPTE9SKE1BR0VOVEEsICJDTVIgWm9uZSBOdW1iZXI6ICIpIDw8IHJlYWxfY21yX3pvbmVfY291bnRfOyAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
