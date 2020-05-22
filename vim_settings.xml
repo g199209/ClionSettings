@@ -167,11 +167,11 @@
         <mark key="^" line="463" column="40" />
         <mark key="." line="463" column="39" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590139846056">
-        <mark key="[" line="290" column="54" />
-        <mark key="]" line="291" column="29" />
-        <mark key="^" line="291" column="29" />
-        <mark key="." line="291" column="28" />
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590139987740">
+        <mark key="[" line="263" column="29" />
+        <mark key="]" line="263" column="38" />
+        <mark key="^" line="263" column="38" />
+        <mark key="." line="263" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1590138434113">
         <mark key="[" line="52" column="49" />
@@ -219,8 +219,8 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1590134642837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590138794567">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1590140004809">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -352,13 +352,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Deal with each chunk zone append ret.</text>
+        <text>ec_zone_offset_</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Deal with each chunk zone append ret.</text>
+        <text>ec_zone_offset_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
