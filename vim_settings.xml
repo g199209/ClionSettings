@@ -174,12 +174,6 @@
         <mark key="." line="49" column="43" />
         <mark key="^" line="49" column="44" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/rw_scheduler.cc" timestamp="1589967114128">
-        <mark key="[" line="358" column="25" />
-        <mark key="]" line="358" column="24" />
-        <mark key="." line="358" column="23" />
-        <mark key="^" line="358" column="24" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.h" timestamp="1590032537597">
         <mark key="[" line="36" column="46" />
         <mark key="]" line="36" column="52" />
@@ -234,6 +228,12 @@
         <mark key="]" line="575" column="54" />
         <mark key="." line="575" column="53" />
         <mark key="^" line="575" column="54" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1590117110149">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="50" />
+        <mark key="^" line="63" column="42" />
+        <mark key="." line="152" column="0" />
       </file>
     </filemarks>
     <jumps>
