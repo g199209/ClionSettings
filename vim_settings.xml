@@ -359,25 +359,25 @@
         <text>[Refine] Refine Log.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>[Refine] Refine Log.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdXRvIGl0ID0gbGlzdGVuZXJfbWFwXy5maW5kKGRpc2tfaWQpOwogIGlmIChpdCAhPSBsaXN0ZW5lcl9tYXBfLmVuZCgpKSB7CiAgICBmb3IgKGF1dG8mIGYgOiBpdC0+c2Vjb25kKSB7CiAgICAgIGYoZGlza19pZCwgWm9uZURpc2tFdmVudDo6a0Rpc2tBZGRFdmVudCk7CiAgICB9CiAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBhdXRvIGl0ID0gbGlzdGVuZXJfbWFwXy5maW5kKGRpc2tfaWQpOwogIGlmIChpdCAhPSBsaXN0ZW5lcl9tYXBfLmVuZCgpKSB7CiAgICBmb3IgKGF1dG8mIGYgOiBpdC0+c2Vjb25kKSB7CiAgICAgIGYoZGlza19pZCwgWm9uZURpc2tFdmVudDo6a0Rpc2tBZGRFdmVudCk7CiAgICB9CiAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoc2VhbF9sZW5ndGggPiB6b25lX2luZm8uZGF0YV9sZW5ndGgpIHsKICAgIFVMT0dfRVJST1IgPDwKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhc3NlcnQoem9uZV9pbmZvLmluZmx5aW5nX2xlbmd0aCA9PSAwKTsK</text>
+        <text encoding="base64">ICBpZiAoc2VhbF9sZW5ndGggPiB6b25lX2luZm8uZGF0YV9sZW5ndGgpIHsKICAgIFVMT0dfRVJST1IgPDwKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3NlcnQoc2VhbF9pZCA9PSB6b25lX2lkKTsK</text>
+        <text encoding="base64">ICBhc3NlcnQoem9uZV9pbmZvLmluZmx5aW5nX2xlbmd0aCA9PSAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3NlcnQoaXQgPT0gaXRfbmV3KTsK</text>
+        <text encoding="base64">ICBhc3NlcnQoc2VhbF9pZCA9PSB6b25lX2lkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
