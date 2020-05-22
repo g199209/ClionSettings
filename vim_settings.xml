@@ -174,7 +174,6 @@
         <mark key="." line="44" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1590130818930" />
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1590044730066" />
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_zone_calculator.h" timestamp="1590053351163">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="9" />
@@ -186,6 +185,9 @@
         <mark key="]" line="62" column="64" />
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="63" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590136943781">
+        <mark key="[" line="294" column="27" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1590052635548">
         <mark key="[" line="96" column="54" />
