@@ -163,11 +163,12 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590229333032">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590232006524">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="74" />
+        <mark key="." line="30" column="73" />
+        <mark key="^" line="30" column="74" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1590131127599">
         <mark key="[" line="175" column="0" />
@@ -198,7 +199,7 @@
         <mark key="^" line="63" column="42" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/CMakeLists.txt" timestamp="1590229270300">
+      <file name="$USER_HOME$/HASS_AliGenie/CMakeLists.txt" timestamp="1590229645326">
         <mark key="[" line="41" column="13" />
         <mark key="]" line="41" column="28" />
         <mark key="." line="41" column="27" />
@@ -248,16 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="31" filename="$USER_HOME$/Manul/manul/archive/archive_storage/smr_disk_handle.cc" />
-      <jump line="43" column="28" filename="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" />
-      <jump line="252" column="1" filename="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" />
-      <jump line="105" column="0" filename="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" />
-      <jump line="16" column="77" filename="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" />
-      <jump line="9" column="16" filename="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.h" />
-      <jump line="23" column="20" filename="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.h" />
-      <jump line="23" column="0" filename="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" />
-      <jump line="25" column="42" filename="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" />
-      <jump line="5" column="23" filename="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.h" />
       <jump line="62" column="2" filename="$USER_HOME$/Manul/manul/archive/rw_context.cc" />
       <jump line="179" column="3" filename="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" />
       <jump line="140" column="20" filename="$USER_HOME$/Manul/manul/archive/disk_group.cc" />
@@ -348,12 +339,22 @@
       <jump line="529" column="37" filename="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_storage.cc" />
       <jump line="476" column="25" filename="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" />
       <jump line="33" column="7" filename="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" />
+      <jump line="2" column="1" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="3" column="9" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="4" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="16" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="25" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="41" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="71" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="67" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
+      <jump line="44" column="0" filename="$USER_HOME$/HASS_AliGenie/main.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZmluZF9wYWNrYWdlKEJvb3N0IFJFUVVJUkVEKQppZiAoTk9UIEJvb3N0X0ZPVU5EKQogIG1lc3NhZ2UoIk5vdCBmb3VuZCBCb29zdCIpCmVuZGlmICgpCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zaW5rcy9zdGRvdXRfY29sb3Jfc2lua3MuaCIK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,31 +369,31 @@
         <text encoding="base64">ZmluZF9wYWNrYWdlKEJvb3N0IFJFUVVJUkVEKQppZiAoTk9UIEJvb3N0X0ZPVU5EKQogIG1lc3NhZ2UoIk5vdCBmb3VuZCBCb29zdCIpCmVuZGlmICgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInNwZGxvZy9zaW5rcy9zdGRvdXRfY29sb3Jfc2lua3MuaCIK</text>
       </register>
       <register name="2" type="2">
-        <text>[Refine] Update gitignore.</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text>[Feature] Fix some compile problem.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>Add some test.</text>
+        <text>[Refine] Update gitignore.</text>
       </register>
       <register name="5" type="2">
-        <text>[Refine] Refine Log.</text>
+        <text>[Feature] Fix some compile problem.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gb2ZmIDogZWNfem9uZV9vZmZzZXQpIHsKICB9Cg==</text>
+        <text>Add some test.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChvZmYgIT0gc3RkOjpudW1lcmljX2xpbWl0czx1aW50NjRfdD46Om1heCgpKSB7CiAgICAgIG9mZnNldF9jb3VudFtvZmZdKys7CiAgICB9Cg==</text>
+        <text>[Refine] Refine Log.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwo=</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gb2ZmIDogZWNfem9uZV9vZmZzZXQpIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwogIHN0ZDo6bWFwPHVpbnQ2NF90LCBpbnQ+IG9mZnNldF9jb3VudDsK</text>
+        <text encoding="base64">ICAgIGlmIChvZmYgIT0gc3RkOjpudW1lcmljX2xpbWl0czx1aW50NjRfdD46Om1heCgpKSB7CiAgICAgIG9mZnNldF9jb3VudFtvZmZdKys7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
