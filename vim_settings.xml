@@ -151,27 +151,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1590131127599">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1590049349887">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590137960079">
-        <mark key="[" line="462" column="62" />
-        <mark key="]" line="463" column="40" />
-        <mark key="^" line="463" column="40" />
-        <mark key="." line="463" column="39" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590139987740">
-        <mark key="[" line="263" column="29" />
-        <mark key="]" line="263" column="38" />
-        <mark key="^" line="263" column="38" />
-        <mark key="." line="263" column="37" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590137395122">
+        <mark key="[" line="294" column="4" />
+        <mark key="]" line="294" column="27" />
+        <mark key="^" line="294" column="27" />
+        <mark key="." line="294" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1590138434113">
         <mark key="[" line="52" column="49" />
@@ -179,7 +163,68 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1590130818930" />
+      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590229333032">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1590131127599">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590135890525">
+        <mark key="[" line="273" column="40" />
+        <mark key="]" line="274" column="40" />
+        <mark key="." line="274" column="39" />
+        <mark key="^" line="274" column="40" />
+      </file>
+      <file name="$USER_HOME$/HASS_AliGenie/.gitignore" timestamp="1590228680074">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590137960079">
+        <mark key="[" line="462" column="62" />
+        <mark key="]" line="463" column="40" />
+        <mark key="^" line="463" column="40" />
+        <mark key="." line="463" column="39" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1590117110149">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="50" />
+        <mark key="^" line="63" column="42" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/HASS_AliGenie/CMakeLists.txt" timestamp="1590229270300">
+        <mark key="[" line="41" column="13" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="28" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1590135638446">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590139987740">
+        <mark key="[" line="263" column="29" />
+        <mark key="]" line="263" column="38" />
+        <mark key="^" line="263" column="38" />
+        <mark key="." line="263" column="37" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590137890771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1590120320641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1590127996335">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="55" column="2" />
+        <mark key="^" line="55" column="2" />
+        <mark key="." line="55" column="1" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_zone_calculator.h" timestamp="1590053351163">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="9" />
@@ -192,24 +237,6 @@
         <mark key="^" line="62" column="64" />
         <mark key="." line="62" column="63" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590137395122">
-        <mark key="[" line="294" column="4" />
-        <mark key="]" line="294" column="27" />
-        <mark key="^" line="294" column="27" />
-        <mark key="." line="294" column="26" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1590052635548">
-        <mark key="[" line="96" column="54" />
-        <mark key="]" line="96" column="55" />
-        <mark key="^" line="96" column="55" />
-        <mark key="." line="96" column="54" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h_dir/fragment.cpp" timestamp="1590135638446">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc_dir/fragment.cpp" timestamp="1590120320641">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1590135727971">
         <mark key="[" line="173" column="31" />
         <mark key="]" line="173" column="47" />
@@ -218,32 +245,6 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h_dir/fragment.cpp" timestamp="1590134642837">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590140004809">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590135890525">
-        <mark key="[" line="273" column="40" />
-        <mark key="]" line="274" column="40" />
-        <mark key="." line="274" column="39" />
-        <mark key="^" line="274" column="40" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1590117110149">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="50" />
-        <mark key="^" line="63" column="42" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590137890771">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1590127996335">
-        <mark key="[" line="36" column="66" />
-        <mark key="]" line="55" column="2" />
-        <mark key="^" line="55" column="2" />
-        <mark key="." line="55" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -351,8 +352,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ec_zone_offset_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmluZF9wYWNrYWdlKEJvb3N0IFJFUVVJUkVEKQppZiAoTk9UIEJvb3N0X0ZPVU5EKQogIG1lc3NhZ2UoIk5vdCBmb3VuZCBCb29zdCIpCmVuZGlmICgpCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,34 +365,34 @@
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3Rvcjx1aW50NjRfdD4gZWNfem9uZV9vZmZzZXRfOwo=</text>
+        <text encoding="base64">ZmluZF9wYWNrYWdlKEJvb3N0IFJFUVVJUkVEKQppZiAoTk9UIEJvb3N0X0ZPVU5EKQogIG1lc3NhZ2UoIk5vdCBmb3VuZCBCb29zdCIpCmVuZGlmICgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>[Refine] Refine Log.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgKGF1dG8gb2ZmIDogZWNfem9uZV9vZmZzZXQpIHsKICB9Cg==</text>
+        <text>[Refine] Update gitignore.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChvZmYgIT0gc3RkOjpudW1lcmljX2xpbWl0czx1aW50NjRfdD46Om1heCgpKSB7CiAgICAgIG9mZnNldF9jb3VudFtvZmZdKys7CiAgICB9Cg==</text>
+        <text>[Feature] Fix some compile problem.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwo=</text>
+        <text>Add some test.</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwogIHN0ZDo6bWFwPHVpbnQ2NF90LCBpbnQ+IG9mZnNldF9jb3VudDsK</text>
+        <text>[Refine] Refine Log.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICBmb3IgKGF1dG8gb2ZmIDogZWNfem9uZV9vZmZzZXQpIHsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3Rvcjx1aW50NjRfdD4gZWNfem9uZV9vZmZzZXRfOwo=</text>
+        <text encoding="base64">ICAgIGlmIChvZmYgIT0gc3RkOjpudW1lcmljX2xpbWl0czx1aW50NjRfdD46Om1heCgpKSB7CiAgICAgIG9mZnNldF9jb3VudFtvZmZdKys7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>[Refine] Refine Log.</text>
+        <text encoding="base64">ICBhdXRvIGVjX3pvbmVfb2Zmc2V0ID0gY29udGV4dC0+ZWNfem9uZV9vZmZzZXRfOwogIHN0ZDo6bWFwPHVpbnQ2NF90LCBpbnQ+IG9mZnNldF9jb3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
