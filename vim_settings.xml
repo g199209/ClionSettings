@@ -151,12 +151,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590137395122">
-        <mark key="[" line="294" column="4" />
-        <mark key="]" line="294" column="27" />
-        <mark key="^" line="294" column="27" />
-        <mark key="." line="294" column="26" />
-      </file>
       <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240994104">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="20" />
@@ -172,8 +166,8 @@
         <mark key="^" line="463" column="40" />
         <mark key="." line="463" column="39" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/CMakeLists.txt" timestamp="1590239924828">
-        <mark key="[" line="35" column="42" />
+      <file name="$USER_HOME$/HASS_AliGenie/CMakeLists.txt" timestamp="1590245091042">
+        <mark key="[" line="9" column="57" />
         <mark key="]" line="35" column="51" />
         <mark key="." line="35" column="50" />
         <mark key="^" line="35" column="51" />
@@ -184,7 +178,7 @@
         <mark key="^" line="263" column="38" />
         <mark key="." line="263" column="37" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590232168495" />
+      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590245117249" />
       <file name="$USER_HOME$/HASS_AliGenie/config_flags.cc" timestamp="1590240776388">
         <mark key="[" line="10" column="80" />
         <mark key="]" line="10" column="70" />
@@ -192,28 +186,24 @@
         <mark key="." line="10" column="69" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/include/gflags/gflags_declare.h" timestamp="1590240868751" />
+      <file name="$USER_HOME$/HASS_AliGenie/cinatra/include/cinatra/response_cv.hpp" timestamp="1590243839815" />
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1590138434113">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="31" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590241671415">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590245218512">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590241628878">
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="49" column="42" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="42" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590135890525">
-        <mark key="[" line="273" column="40" />
-        <mark key="]" line="274" column="40" />
-        <mark key="." line="274" column="39" />
-        <mark key="^" line="274" column="40" />
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590245361688">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/HASS_AliGenie/.gitignore" timestamp="1590228680074">
         <mark key="[" line="13" column="6" />
@@ -224,14 +214,21 @@
       <file name="/" timestamp="1590241694250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590137890771">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/global_context.h" timestamp="1590243301666">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590241454739">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="20" column="8" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="7" />
+      <file name="$USER_HOME$/HASS_AliGenie/global_context.cc" timestamp="1590243274762">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590243321534">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -340,46 +337,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text encoding="base64">c3RkOjp1bmlxdWVfcHRyPA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjbGFzcyBDaW5hdHJhSW1wbDsK</text>
+        <text encoding="base64">ICBTUERMT0dfSU5GTygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzcGRsb2c6OmZsdXNoX29uKHNwZGxvZzo6bGV2ZWw6OmRlYnVnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICBzcGRsb2c6OnNldF9sZXZlbChzcGRsb2c6OmxldmVsOjpkZWJ1Zyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgc3RkOjpjb3V0Owo=</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDaW5hdHJhSW1wbCh1aW50MzJfdCApCg==</text>
+        <text encoding="base64">ICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdGV4cHIgdWludDMyX3Qga09hdXRoU2VydmVyVGhyZWFkTnVtID0gMTsK</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IHB1YmxpYzoK</text>
+        <text encoding="base64">ICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">ICBzcGRsb2c6OnNldF9sZXZlbChzcGRsb2c6OmxldmVsOjpkZWJ1Zyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
