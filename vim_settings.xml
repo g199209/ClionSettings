@@ -157,7 +157,7 @@
         <mark key="^" line="294" column="27" />
         <mark key="." line="294" column="26" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240950476">
+      <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240994104">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="20" />
@@ -198,16 +198,16 @@
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590240008956">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590241671415">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590240974738">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590241628878">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="41" />
+        <mark key="^" line="49" column="42" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590135890525">
         <mark key="[" line="273" column="40" />
@@ -221,16 +221,17 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="/" timestamp="1590239872321">
+      <file name="/" timestamp="1590241694250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590137890771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590240361646">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590241454739">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="8" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -338,47 +339,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;hass.gaomf.store.key&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;hass.gaomf.store.key&quot;</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVDTEFSRV9zdHJpbmcoT0F1dGhfU1NMX0NFUlRfRklMRSk7Cg==</text>
+        <text encoding="base64">ICBjbGFzcyBDaW5hdHJhSW1wbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB1aW50MzJfdCBtYXhfdGhyZWFkX251bSA9IHN0ZDo6dGhyZWFkOjpoYXJkd2FyZV9jb25jdXJyZW5jeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdGV4cHIgdWludDMyX3Qgbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgc3RkOjpjb3V0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ym9vbCBUbWFsbE9hdXRoU2VydmVyOjpQcmludENvbnRlbnQ6OmJlZm9yZShjaW5hdHJhOjpyZXF1ZXN0JiByZXEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2luYXRyYTo6cmVzcG9uc2UmIHJlcykgewp9Cgpib29sIFRtYWxsT2F1dGhTZXJ2ZXI6OlByaW50Q29udGVudDo6YWZ0ZXIoY2luYXRyYTo6cmVxdWVzdCYgcmVxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2luYXRyYTo6cmVzcG9uc2UmIHJlcykgewp9Cg==</text>
+        <text encoding="base64">ICBDaW5hdHJhSW1wbCh1aW50MzJfdCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b3N0cmluZ3N0cmVhbSBvc3M7CiAgICBvc3MgPDwgIlJzcDogIiA8PCBlbmRsOwogICAgb3NzIDw8IHJlcy5yZXNwb25zZV9zdHIoKSA8PCBlbmRsOwogICAgb3NzIDw8ICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIgPDwgZW5kbAogICAgICAgIDw8IGVuZGw7CiAgICBTUERMT0dfREVCVUcob3NzLnN0cigpKTsKICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICBjb25zdGV4cHIgdWludDMyX3Qga09hdXRoU2VydmVyVGhyZWFkTnVtID0gMTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3NzOwogIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgIlJlcTogIiA8PCBzdGQ6OmVuZGw7CiAgb3NzIDw8IHJlcS5oZWFkKCkgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgcmVxLmJvZHkoKSA8PCBzdGQ6OmVuZGwgPDwgc3RkOjplbmRsOwogIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">IHB1YmxpYzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b3N0cmluZ3N0cmVhbSBvc3M7CiAgICBvc3MgPDwgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiA8PCBlbmRsOwogICAgb3NzIDw8ICJSZXE6ICIgPDwgZW5kbDsKICAgIG9zcyA8PCByZXEuaGVhZCgpIDw8IGVuZGwgPDwgZW5kbDsKICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IGVuZGwgPDwgZW5kbDsKICAgIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3NzOwogIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgIlJlcTogIiA8PCBzdGQ6OmVuZGw7CiAgb3NzIDw8IHJlcS5oZWFkKCkgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgcmVxLmJvZHkoKSA8PCBzdGQ6OmVuZGwgPDwgc3RkOjplbmRsOwogIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
