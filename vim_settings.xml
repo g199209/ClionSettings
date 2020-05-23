@@ -157,11 +157,11 @@
         <mark key="^" line="294" column="27" />
         <mark key="." line="294" column="26" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590239696672">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240950476">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/HASS_AliGenie/error_code.cc" timestamp="1590239514899">
         <mark key="[" line="3" column="0" />
@@ -185,36 +185,29 @@
         <mark key="." line="263" column="37" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590232168495" />
-      <file name="$USER_HOME$/HASS_AliGenie/config_flags.cc" timestamp="1590239413780">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="60" />
-        <mark key="^" line="6" column="60" />
-        <mark key="." line="6" column="59" />
+      <file name="$USER_HOME$/HASS_AliGenie/config_flags.cc" timestamp="1590240776388">
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="69" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1590135727971">
-        <mark key="[" line="173" column="31" />
-        <mark key="]" line="173" column="47" />
-        <mark key="^" line="173" column="47" />
-        <mark key="." line="173" column="46" />
-      </file>
+      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/include/gflags/gflags_declare.h" timestamp="1590240868751" />
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1590138434113">
         <mark key="[" line="52" column="49" />
         <mark key="]" line="52" column="31" />
         <mark key="^" line="52" column="31" />
         <mark key="." line="52" column="30" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590234343990">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="7" />
+      <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590240008956">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590239831922">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.cc" timestamp="1590240974738">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590135890525">
         <mark key="[" line="273" column="40" />
@@ -234,10 +227,9 @@
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590137890771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590239816139">
+      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590240361646">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
-        <mark key="^" line="14" column="17" />
         <mark key="." line="18" column="0" />
       </file>
     </filemarks>
@@ -346,47 +338,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;hass.gaomf.store.key&quot;</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRtYWxsX29hdXRoX3NlcnZlci5o</text>
+        <text>&quot;hass.gaomf.store.key&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIENlbnRhdXJ1cyB7Cgp9IC8vIG5hbWVzcGFjZSBDZW50YXVydXMK</text>
+        <text encoding="base64">REVDTEFSRV9zdHJpbmcoT0F1dGhfU1NMX0NFUlRfRklMRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1aW50MzJfdCBtYXhfdGhyZWFkX251bSA9IHN0ZDo6dGhyZWFkOjpoYXJkd2FyZV9jb25jdXJyZW5jeSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdGV4cHIgdWludDMyX3Qgbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3RleHByIGludDMyX3QgUkVUX09LIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9vbCBUbWFsbE9hdXRoU2VydmVyOjpQcmludENvbnRlbnQ6OmJlZm9yZShjaW5hdHJhOjpyZXF1ZXN0JiByZXEsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2luYXRyYTo6cmVzcG9uc2UmIHJlcykgewp9Cgpib29sIFRtYWxsT2F1dGhTZXJ2ZXI6OlByaW50Q29udGVudDo6YWZ0ZXIoY2luYXRyYTo6cmVxdWVzdCYgcmVxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2luYXRyYTo6cmVzcG9uc2UmIHJlcykgewp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6b3N0cmluZ3N0cmVhbSBvc3M7CiAgICBvc3MgPDwgIlJzcDogIiA8PCBlbmRsOwogICAgb3NzIDw8IHJlcy5yZXNwb25zZV9zdHIoKSA8PCBlbmRsOwogICAgb3NzIDw8ICI9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIgPDwgZW5kbAogICAgICAgIDw8IGVuZGw7CiAgICBTUERMT0dfREVCVUcob3NzLnN0cigpKTsKICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKE5PVCBCb29zdF9GT1VORCkKICBtZXNzYWdlKCJOb3QgZm91bmQgQm9vc3QiKQplbmRpZiAoKQo=</text>
+        <text encoding="base64">ICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3NzOwogIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgIlJlcTogIiA8PCBzdGQ6OmVuZGw7CiAgb3NzIDw8IHJlcS5oZWFkKCkgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgcmVxLmJvZHkoKSA8PCBzdGQ6OmVuZGwgPDwgc3RkOjplbmRsOwogIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgKE5PVCBzcGRsb2dfRk9VTkQpCiAgbWVzc2FnZSgiTm90IGZvdW5kIHNwZGxvZyIpCmVuZGlmICgpCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6b3N0cmluZ3N0cmVhbSBvc3M7CiAgICBvc3MgPDwgIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IiA8PCBlbmRsOwogICAgb3NzIDw8ICJSZXE6ICIgPDwgZW5kbDsKICAgIG9zcyA8PCByZXEuaGVhZCgpIDw8IGVuZGwgPDwgZW5kbDsKICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IGVuZGwgPDwgZW5kbDsKICAgIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKE5PVCBzcGRsb2dfRk9VTkQpCiAgbWVzc2FnZSgiTm90IGZvdW5kIHNwZGxvZyIpCmVuZGlmICgpCg==</text>
+        <text encoding="base64">ICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3NzOwogIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgIlJlcTogIiA8PCBzdGQ6OmVuZGw7CiAgb3NzIDw8IHJlcS5oZWFkKCkgPDwgc3RkOjplbmRsIDw8IHN0ZDo6ZW5kbDsKICBvc3MgPDwgcmVxLmJvZHkoKSA8PCBzdGQ6OmVuZGwgPDwgc3RkOjplbmRsOwogIFNQRExPR19ERUJVRyhvc3Muc3RyKCkpOwogIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
