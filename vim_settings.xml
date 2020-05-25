@@ -164,9 +164,6 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/error_code.cc" timestamp="1590239514899">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1590389499824">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -241,6 +238,7 @@
         <mark key="^" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/device_manager.cc" timestamp="1590399439020" />
       <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590243321534">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="22" />
