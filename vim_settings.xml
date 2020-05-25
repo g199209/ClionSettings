@@ -152,11 +152,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590387501724">
-        <mark key="[" line="385" column="3" />
-        <mark key="]" line="387" column="44" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590389478436">
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="0" />
         <mark key="^" line="387" column="44" />
-        <mark key="." line="387" column="43" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240994104">
         <mark key="[" line="13" column="20" />
@@ -167,11 +167,15 @@
       <file name="$USER_HOME$/HASS_AliGenie/error_code.cc" timestamp="1590239514899">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1590387708058">
-        <mark key="[" line="97" column="62" />
-        <mark key="]" line="98" column="15" />
-        <mark key="." line="98" column="14" />
-        <mark key="^" line="98" column="15" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1590389499824">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1590389470726">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590385417739">
         <mark key="[" line="462" column="62" />
@@ -212,11 +216,11 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590387940972">
-        <mark key="[" line="86" column="53" />
-        <mark key="]" line="87" column="48" />
-        <mark key="." line="87" column="47" />
-        <mark key="^" line="87" column="48" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590388865193">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="243" column="6" />
       </file>
       <file name="/" timestamp="1590241694250">
         <mark key="[" line="0" column="0" />
@@ -233,9 +237,9 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1590385341903">
         <mark key="[" line="138" column="74" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590243321534">
         <mark key="[" line="16" column="21" />
@@ -350,13 +354,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIDwjaW5pdGlhbGl6ZXIgIz47</text>
+        <text>fetch_add(1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -365,31 +369,31 @@
         <text encoding="base64">ICBTUERMT0dfSU5GTygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBpZiAoLS1ibG9iX21ldGFfLT5yZXBsaWNhdGluZ196b25lX251bSA9PSAwKSB7CiAgICBibG9iX21ldGFfLT5TZXRCbG9iU3RhdHVzKEJMT0JfU1RBVFVTX1NFQUxFRCk7CiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">CiAgQmxvYk1ldGEgJiBvcGVyYXRvcj0oY29uc3QgQmxvYk1ldGEgJnJocyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzcGRsb2c6OmZsdXNoX29uKHNwZGxvZzo6bGV2ZWw6OmRlYnVnKTsK</text>
+        <text encoding="base64">ICAvLyDmraPlnKjov5vooYwgUmVwbGljYXRpbmcg55qEIFpvbmUg5pWw6YePCiAgc3RkOjphdG9taWM8Wm9uZUluZGV4VHlwZT4gcmVwbGljYXRpbmdfem9uZV9udW07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcGRsb2c6OnNldF9sZXZlbChzcGRsb2c6OmxldmVsOjpkZWJ1Zyk7Cg==</text>
+        <text encoding="base64">QmxvYk1ldGEmIEJsb2JNZXRhOjpvcGVyYXRvcj0oY29uc3QgQmxvYk1ldGEmIHJocykgewogIGJsb2JfaWQgPSByaHMuYmxvYl9pZDsKICBibG9iX3R5cGUgPSByaHMuYmxvYl90eXBlOwogIGJhc2ljX21ldGEgPSByaHMuYmFzaWNfbWV0YTsKICBjaHVua3NfaW5mb3MgPSByaHMuY2h1bmtzX2luZm9zOwogIGJsb2Jfc3RhdHVzID0gcmhzLmJsb2Jfc3RhdHVzOwogIHNpbmdsZV96b25lX2xlbmd0aCA9IHJocy5zaW5nbGVfem9uZV9sZW5ndGg7CiAgbGVuZ3RoID0gcmhzLmxlbmd0aDsKICBtYXhfbGVuZ3RoID0gcmhzLm1heF9sZW5ndGg7CiAgbWF4X3pvbmVfbnVtID0gcmhzLm1heF96b25lX251bTsKICByZXBsaWNhdGluZ196b25lX251bS5zdG9yZShyaHMucmVwbGljYXRpbmdfem9uZV9udW0ubG9hZCgpKTsKICByZXR1cm4gKnRoaXM7Cn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBibG9iX21ldGFfLT5yZXBsaWNhdGluZ196b25lX251bQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgtLWJsb2JfbWV0YV8tPnJlcGxpY2F0aW5nX3pvbmVfbnVtID09IDApIHsKICAgICAgYmxvYl9tZXRhXy0+U2V0QmxvYlN0YXR1cyhCTE9CX1NUQVRVU19TRUFMRUQpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCAiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCByZXEuYm9keSgpIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIGJsb2JfbWV0YV8tPlNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfU0VBTEVEKTsK</text>
       </register>
       <register name=":" type="4">
         <text>389</text>
