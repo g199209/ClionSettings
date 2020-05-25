@@ -24,6 +24,7 @@
         <entry>Data len</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>660</entry>
@@ -346,7 +347,7 @@
         <text encoding="base64">c3RkOjp1bmlxdWVfcHRyPA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRfZmxhZ1w+</text>
+        <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBTUERMT0dfSU5GTygiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsK</text>
@@ -385,11 +386,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-search>
+      <last-search encoding="base64">XDxdXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRfZmxhZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxdXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
