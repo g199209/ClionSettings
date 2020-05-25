@@ -193,12 +193,6 @@
         <mark key="^" line="35" column="51" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590245117249" />
-      <file name="$USER_HOME$/HASS_AliGenie/config_flags.cc" timestamp="1590240776388">
-        <mark key="[" line="10" column="80" />
-        <mark key="]" line="10" column="70" />
-        <mark key="^" line="10" column="70" />
-        <mark key="." line="10" column="69" />
-      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/include/gflags/gflags_declare.h" timestamp="1590240868751" />
       <file name="$USER_HOME$/HASS_AliGenie/cinatra/include/cinatra/response_cv.hpp" timestamp="1590243839815" />
       <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590245218512">
@@ -213,6 +207,7 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/replication/ec_replica_repairer.cc" timestamp="1590401059527" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590388865193">
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="0" />
