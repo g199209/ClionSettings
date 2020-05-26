@@ -158,6 +158,12 @@
         <mark key="^" line="387" column="44" />
         <mark key="." line="384" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1590468657421">
+        <mark key="[" line="77" column="12" />
+        <mark key="]" line="77" column="11" />
+        <mark key="." line="77" column="10" />
+        <mark key="^" line="77" column="11" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1590389499824">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -194,7 +200,6 @@
         <mark key="^" line="115" column="14" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590245117249" />
-      <file name="$USER_HOME$/HASS_AliGenie/cinatra/include/cinatra/response_cv.hpp" timestamp="1590243839815" />
       <file name="/Dummy.txt" timestamp="1590465028592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,11 +216,11 @@
         <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/replication/ec_replica_repairer.cc" timestamp="1590401059527" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590468263898">
-        <mark key="[" line="563" column="18" />
-        <mark key="]" line="563" column="33" />
-        <mark key="." line="563" column="32" />
-        <mark key="^" line="563" column="33" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590468914817">
+        <mark key="[" line="598" column="0" />
+        <mark key="]" line="599" column="51" />
+        <mark key="." line="599" column="50" />
+        <mark key="^" line="599" column="51" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h_dir/fragment.cpp" timestamp="1590464718013">
         <mark key="[" line="0" column="0" />
