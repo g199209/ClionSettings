@@ -27,7 +27,6 @@
         <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>660</entry>
         <entry>182</entry>
         <entry>531</entry>
         <entry>534</entry>
@@ -47,6 +46,7 @@
         <entry>784</entry>
         <entry>17</entry>
         <entry>389</entry>
+        <entry>189</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -382,7 +382,7 @@
         <text encoding="base64">ICAgIGJsb2JfbWV0YV8tPlNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfU0VBTEVEKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>389</text>
+        <text>189</text>
       </register>
     </registers>
   </component>
