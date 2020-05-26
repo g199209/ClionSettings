@@ -158,12 +158,6 @@
         <mark key="^" line="387" column="44" />
         <mark key="." line="384" column="0" />
       </file>
-      <file name="$USER_HOME$/HASS_AliGenie/error_code.h" timestamp="1590240994104">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="19" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1590389499824">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -193,7 +187,6 @@
         <mark key="^" line="35" column="51" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/local/include/spdlog/common.h" timestamp="1590245117249" />
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/10.42.10.10_22/3b809ffd-99da-45f7-9192-d61c7b7cf70c/usr/include/gflags/gflags_declare.h" timestamp="1590240868751" />
       <file name="$USER_HOME$/HASS_AliGenie/cinatra/include/cinatra/response_cv.hpp" timestamp="1590243839815" />
       <file name="$USER_HOME$/HASS_AliGenie/main.cpp" timestamp="1590245218512">
         <mark key="[" line="14" column="0" />
