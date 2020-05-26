@@ -211,6 +211,12 @@
         <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/replication/ec_replica_repairer.cc" timestamp="1590401059527" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590468263898">
+        <mark key="[" line="563" column="18" />
+        <mark key="]" line="563" column="33" />
+        <mark key="." line="563" column="32" />
+        <mark key="^" line="563" column="33" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h_dir/fragment.cpp" timestamp="1590464718013">
         <mark key="[" line="0" column="0" />
       </file>
@@ -227,12 +233,6 @@
         <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/device_manager.cc" timestamp="1590399439020" />
-      <file name="$USER_HOME$/HASS_AliGenie/tmall_oauth_server.h" timestamp="1590243321534">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="22" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="179" column="3" filename="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" />
