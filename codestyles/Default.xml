@@ -60,7 +60,7 @@
   </Objective-C>
   <Objective-C-extensions>
     <extensions>
-      <pair source="cc" header="h" fileNamingConvention="PASCAL_CASE" />
+      <pair source="cc" header="h" fileNamingConvention="SNAKE_CASE" />
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
     <rules>
