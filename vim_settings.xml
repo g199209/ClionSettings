@@ -195,17 +195,19 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1590648417130">
+        <mark key="[" line="57" column="45" />
+        <mark key="]" line="58" column="43" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="58" column="42" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/failover_dummy_io_sender.cc_dir/fragment.cpp" timestamp="1590647072365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590648202672">
+      <file name="/Dummy.txt" timestamp="1590648994649">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590648347341">
-        <mark key="[" line="248" column="19" />
-        <mark key="]" line="248" column="17" />
-        <mark key="^" line="248" column="17" />
-        <mark key="." line="248" column="16" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/failover_dummy_io_sender.h" timestamp="1590647950972">
         <mark key="[" line="18" column="2" />
@@ -331,14 +333,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVSZWFkKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
