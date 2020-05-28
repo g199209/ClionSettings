@@ -152,17 +152,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590638197852">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590651244133">
+        <mark key="[" line="29" column="58" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.h" timestamp="1590637728522" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590638192515">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590651142086">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="33" column="9" />
+        <mark key="^" line="33" column="9" />
+        <mark key="." line="33" column="8" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/dummy_io_sender.cc" timestamp="1590637741697">
         <mark key="[" line="12" column="0" />
@@ -208,6 +209,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590651091520">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="81" column="3" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/failover_dummy_io_sender.h" timestamp="1590647950972">
         <mark key="[" line="18" column="2" />
@@ -333,8 +338,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Deal with decided zone length error assert.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtPaywK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -346,16 +351,16 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhdXRvIHJldCA9IGR1bW15X2lvX3NlbmRlcl8uUmVxdWlyZUlPKAogICAgICBJT19DTURfQVBQRU5ELCBBUkNISVZFX0lPX0NMQVNTX0JFU1RfRUZGT1JULCAmc3VzcGVuZF9yZW1haW5fdGltZV8pOwo=</text>
+        <text encoding="base64">ICAgIGtPaywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVSZWFkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVXcml0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgbmVlZF9yZWNvdmVyX2NodW5rc18ucHVzaF9iYWNrKGNodW5rX2luZGV4KTsKICAgICAgYnVmX2xlbiArPSBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwogICAgICBpZiAobmVlZF9yZWNvdmVyX2NodW5rc19sZW4gPj0gMCAmJgogICAgICAgICAgbmVlZF9yZWNvdmVyX2NodW5rc19sZW4gIT0gaXQtPnNlY29uZC5kYXRhX2xlbmd0aCkgewogICAgICAgIFVMT0dfRVJST1IgPDwgIlJlcGxpY2F0aW5nIHpvbmVzIGxlbmd0aCBub3QgZXF1YWwsIHNldCB0byBjb3JydXB0ZWQhIjsKICAgICAgICBibG9iX21ldGFfLT5TZXRCbG9iU3RhdHVzKEJMT0JfU1RBVFVTX0NPUlJVUFRFRCk7CiAgICAgICAgZmluaXNoX2NiXyhNQU5VTF9DT1JSVVBURURfRVJST1IpOwogICAgICAgIHJldHVybjsKICAgICAgfQogICAgICBuZWVkX3JlY292ZXJfY2h1bmtzX2xlbiA9IGl0LT5zZWNvbmQuZGF0YV9sZW5ndGg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXQgPSBSZXF1aXJlV3JpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgbmVlZF9yZWNvdmVyX2NodW5rc18ucHVzaF9iYWNrKGNodW5rX2luZGV4KTsKICAgICAgYnVmX2xlbiArPSBGTEFHU19tYW51bF9hcmNoaXZlc2VydmVyX1JlcGxpY2F0aW9uU2luZ2xlSU9TaXplOwogICAgICBpZiAobmVlZF9yZWNvdmVyX2NodW5rc19sZW4gPiAwKSB7CiAgICAgICAgVUxPR19FUlJPUiA8PCAiUmVwbGljYXRpbmcgem9uZXMgbGVuZ3RoIG5vdCBlcXVhbCwgc2V0IHRvIGNvcnJ1cHRlZCEiOwogICAgICAgIGJsb2JfbWV0YV8tPlNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfQ09SUlVQVEVEKTsKICAgICAgICBmaW5pc2hfY2JfKE1BTlVMX0NPUlJVUFRFRF9FUlJPUik7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIG5lZWRfcmVjb3Zlcl9jaHVua3NfbGVuID0gMDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVSZWFkKCk7Cg==</text>
@@ -364,16 +369,16 @@
         <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVXcml0ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgQ29uc3RydWN0RHVtbXlSZXFDdHgoKTsK</text>
+        <text encoding="base64">ICByZXQgPSBSZXF1aXJlV3JpdGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAiYXJjaGl2ZV9jb250ZXh0LmgiCg==</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVSZWFkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFyY2hpdmVfY29udGV4dC5oPgo=</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9IFJlcXVpcmVXcml0ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAiYXJjaGl2ZV9jb250ZXh0LmgiCg==</text>
+        <text encoding="base64">CiAgQ29uc3RydWN0RHVtbXlSZXFDdHgoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
