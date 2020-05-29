@@ -179,6 +179,7 @@
         <mark key="^" line="31" column="8" />
         <mark key="." line="31" column="7" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1590720936164" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1590657350372" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_context.h" timestamp="1590647600606" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/failover_dummy_io_sender.cc" timestamp="1590648015438">
@@ -212,7 +213,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590653608871">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590721761532">
         <mark key="[" line="712" column="78" />
         <mark key="]" line="712" column="78" />
         <mark key="." line="712" column="77" />
@@ -236,12 +237,6 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/failover_dummy_io_sender.h_dir/fragment.cpp" timestamp="1590648206192">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/dummy_io_sender.h" timestamp="1590637902714">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="18" column="57" />
-        <mark key="." line="18" column="56" />
-        <mark key="^" line="18" column="57" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility_flags.cc" timestamp="1590660364356">
         <mark key="[" line="29" column="50" />
