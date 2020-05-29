@@ -152,11 +152,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590734714078">
-        <mark key="[" line="101" column="47" />
-        <mark key="]" line="101" column="60" />
-        <mark key="." line="101" column="59" />
-        <mark key="^" line="101" column="60" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590737379765">
+        <mark key="[" line="66" column="35" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="101" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590734645595">
         <mark key="[" line="585" column="39" />
@@ -353,7 +353,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2b2lkIFNlYWxab25lRG9uZShDaHVua0luZGV4VHlwZSBjaHVua19pbmRleCwgaW50MzJfdCByZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9uX2dvaW5nX2ZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,31 +368,31 @@
         <text encoding="base64">ICB2b2lkIFNlYWxab25lRG9uZShDaHVua0luZGV4VHlwZSBjaHVua19pbmRleCwgaW50MzJfdCByZXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnQzMl90IFNlYWxab25lKENodW5rSW5kZXhUeXBlIGNodW5rX2luZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG9uX2dvaW5nX2ZsYWcgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbnQzMl90IFNlYWxab25lKENodW5rSW5kZXhUeXBlIGNodW5rX2luZGV4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50MzJfdCBTaW1wbGVEaXNrSGFuZGxlOjpTZWFsWm9uZShab25lSURUeXBlIHpvbmVfaWQsIHVpbnQ2NF90IHNlYWxfbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hbnVsQ2FsbGJhY2sgY2IpIHsKICByZXR1cm4gMDsKfQo=</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgdm9pZCBDYWxFYWNoWm9uZVNlYWxMZW5ndGgoY29uc3QgQmxvYkNodW5rSW5mbyYgKQo=</text>
+        <text encoding="base64">aW50MzJfdCBTaW1wbGVEaXNrSGFuZGxlOjpTZWFsWm9uZShab25lSURUeXBlIHpvbmVfaWQsIHVpbnQ2NF90IHNlYWxfbGVuZ3RoLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hbnVsQ2FsbGJhY2sgY2IpIHsKICByZXR1cm4gMDsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgdm9pZCBDYWxFYWNoWm9uZVNlYWxMZW5ndGgoY29uc3QgQmxvYkNodW5rSW5mbyYgKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RydWN0IE5vZGUgewogIE5vZGUgKiBsZWZ0OwogIE5vZGUgKiByaWdodDsKICB2b2lkICogZGF0YTsKfTsKCnZvaWQgUmVzZXJ2ZVRyZWUoTm9kZSAqIG5vZGUpIHsKICBpZiAobm9kZSA9PSBudWxscHRyKSB7CiAgICByZXR1cm47CiAgfQogIHN0ZDo6c3dhcChub2RlLT5sZWZ0LCBub2RlLT5yaWdodCk7CiAgUmVzZXJ2ZVRyZWUobm9kZS0+bGVmdCk7CiAgUmVzZXJ2ZVRyZWUobm9kZS0+cmlnaHQpOwp9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
