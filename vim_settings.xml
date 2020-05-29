@@ -152,7 +152,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590723702327">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590724336345">
         <mark key="[" line="102" column="41" />
         <mark key="]" line="99" column="41" />
         <mark key="." line="99" column="40" />
@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc_dir/fragment.cpp" timestamp="1590657366293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1590722600638" />
+      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1590724177216" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1590660406650">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="21" column="39" />
