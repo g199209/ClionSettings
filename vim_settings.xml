@@ -152,11 +152,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590720874667">
-        <mark key="[" line="91" column="77" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590722692556">
+        <mark key="[" line="92" column="70" />
+        <mark key="]" line="93" column="2" />
+        <mark key="." line="93" column="1" />
+        <mark key="^" line="93" column="2" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1590654058963">
         <mark key="[" line="77" column="12" />
@@ -167,6 +167,7 @@
       <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc_dir/fragment.cpp" timestamp="1590657366293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1590722600638" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1590660406650">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="21" column="39" />
@@ -194,11 +195,6 @@
         <mark key="." line="84" column="42" />
         <mark key="^" line="84" column="43" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.h" timestamp="1590638234750">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1590648417130">
         <mark key="[" line="57" column="45" />
         <mark key="]" line="58" column="43" />
@@ -213,7 +209,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590721761532">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1590722245029">
         <mark key="[" line="712" column="78" />
         <mark key="]" line="712" column="78" />
         <mark key="." line="712" column="77" />
