@@ -204,12 +204,6 @@
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1590724734207">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1590648417130">
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="58" column="43" />
-        <mark key="^" line="58" column="43" />
-        <mark key="." line="58" column="42" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590724732592">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -220,6 +214,12 @@
         <mark key="]" line="712" column="78" />
         <mark key="." line="712" column="77" />
         <mark key="^" line="712" column="78" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_unittest.cc" timestamp="1590731254055">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="25" />
+        <mark key="^" line="69" column="25" />
+        <mark key="." line="69" column="24" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590651091520">
         <mark key="[" line="52" column="0" />
@@ -350,7 +350,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBSZXNlcnZlVHJlZShub2RlLT5sZWZ0KTsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,7 +362,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU2VhbFpvbmUoY2h1bmtfaW5kZXgpID09IE1BTlVMX09LKSB7CiAgICAgICAgICBvbl9nb2luZ19mbGFnID0gdHJ1ZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICBSZXNlcnZlVHJlZShub2RlLT5sZWZ0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
