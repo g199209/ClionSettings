@@ -170,6 +170,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1590745288289">
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="." line="329" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590725085950">
         <mark key="[" line="563" column="0" />
         <mark key="]" line="563" column="0" />
@@ -188,9 +193,6 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.h_dir/fragment.cpp" timestamp="1590724694041">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1590734529531">
         <mark key="[" line="31" column="47" />
@@ -213,8 +215,10 @@
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1590734488008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590744784495">
-        <mark key="[" line="85" column="3" />
+      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590745251983">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1590734954493">
         <mark key="[" line="242" column="16" />
@@ -354,7 +358,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGNvbmNlcHRzCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -369,31 +373,31 @@
         <text encoding="base64">ICByZXR1cm4gTUFOVUxfT0s7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGNvbmNlcHRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPAo=</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogIGNvbmNlcHQgU3RyaW5nTGlrZSA9IHN0ZDo6aXNfc2FtZV92PFQsIHN0ZDo6c3RyaW5nPiB8fCBzdGQ6OmlzX3NhbWVfdjxULCBzdGQ6OnN0cmluZ192aWV3PjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgCmNvbmNlcHQgYm9vbCBFcXVhbGl0eUNvbXBhcmFibGUgPSByZXF1aXJlcyhUIGEsIFQgYikgewogIHsgYSA9PSBiIH0gLT4gYm9vbDsKfTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNvbmNlcHQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zcyA8PCB6b25lX3N0YWdlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCB6b25lX3N0YWdlOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJlcGxpY2F0aW9uU2VhbFRhc2s6OlpvbmVTdGFnZSBhYWEgPSB6b25lX3N0YWdlOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">dGVtcGxhdGUgPAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgCmNvbmNlcHQgYm9vbCBFcXVhbGl0eUNvbXBhcmFibGUgPSByZXF1aXJlcyhUIGEsIFQgYikgewogIHsgYSA9PSBiIH0gLT4gYm9vbDsKfTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGNvbmNlcHQ+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG9zcyA8PCB6b25lX3N0YWdlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCB6b25lX3N0YWdlOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YmFzZTo6TG9nU3RyZWFtJiBvcGVyYXRvcjw8KGJhc2U6OkxvZ1N0cmVhbSYgc3RyZWFtLCBjb25zdCBSZXBsaWNhdGlvblNlYWxUYXNrOjpab25lU3RhZ2UgJiBzdGFnZSl7CnJldHVybiBzdHJlYW07Cn0K</text>
+        <text encoding="base64">ICAgIFJlcGxpY2F0aW9uU2VhbFRhc2s6OlpvbmVTdGFnZSBhYWEgPSB6b25lX3N0YWdlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
