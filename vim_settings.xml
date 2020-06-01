@@ -202,8 +202,8 @@
         <mark key="." line="89" column="23" />
         <mark key="^" line="89" column="24" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1590982885933">
-        <mark key="[" line="149" column="59" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1590989885330">
+        <mark key="[" line="161" column="32" />
         <mark key="]" line="149" column="68" />
         <mark key="^" line="149" column="68" />
         <mark key="." line="149" column="67" />
@@ -214,16 +214,16 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="20" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1590982948738">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="32" />
-        <mark key="^" line="39" column="32" />
-        <mark key="." line="39" column="31" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1590990118265">
+        <mark key="[" line="325" column="65" />
+        <mark key="]" line="325" column="65" />
+        <mark key="^" line="325" column="66" />
+        <mark key="." line="325" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590983083733">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1590990156881">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590740816567">
         <mark key="[" line="30" column="0" />
@@ -349,14 +349,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Deal with decided zone length error assert.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
