@@ -191,11 +191,17 @@
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/base/logging.h" timestamp="1590979230662" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473" />
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1591000096785">
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1591001223037">
         <mark key="[" line="48" column="57" />
         <mark key="]" line="13" column="1" />
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1591001826501">
+        <mark key="[" line="180" column="63" />
+        <mark key="]" line="180" column="72" />
+        <mark key="." line="180" column="71" />
+        <mark key="^" line="180" column="72" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590992161262" />
       <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980558444">
@@ -239,11 +245,6 @@
         <mark key="]" line="202" column="17" />
         <mark key="^" line="202" column="17" />
         <mark key="." line="202" column="16" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/seal_context.h" timestamp="1590740724067">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
