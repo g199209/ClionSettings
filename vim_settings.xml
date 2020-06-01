@@ -223,8 +223,10 @@
         <mark key="^" line="325" column="66" />
         <mark key="." line="325" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590992285916">
-        <mark key="[" line="0" column="52" />
+      <file name="/Dummy.txt" timestamp="1590996115146">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590992958675">
         <mark key="[" line="103" column="52" />
@@ -349,14 +351,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250ZXh0LT56b25lX3JldF8ucmVzaXplKG5lZWRfY2h1bmtfbnVtKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
