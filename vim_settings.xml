@@ -170,11 +170,6 @@
         <mark key="." line="585" column="51" />
         <mark key="^" line="585" column="52" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1590743799656">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1590981878283">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="8" column="0" />
@@ -197,6 +192,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/tool/rdma_echo_server.cc" timestamp="1591004673683" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1591001826501">
         <mark key="[" line="180" column="63" />
         <mark key="]" line="180" column="72" />
