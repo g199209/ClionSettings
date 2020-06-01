@@ -152,12 +152,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590980339006">
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590981620681">
         <mark key="'" line="147" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="15" />
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="82" />
+        <mark key="." line="15" column="81" />
+        <mark key="^" line="15" column="82" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1590981109608">
+        <mark key="[" line="9" column="25" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590734645595">
         <mark key="[" line="585" column="39" />
@@ -170,38 +175,28 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1590980410336">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="37" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1590725085950">
-        <mark key="[" line="563" column="0" />
-        <mark key="]" line="563" column="0" />
-        <mark key="." line="563" column="0" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1590981878283">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/base/logging.h" timestamp="1590979230662" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1590734693327">
         <mark key="'" line="118" column="68" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="26" />
-        <mark key="^" line="50" column="27" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1590734529531">
         <mark key="[" line="31" column="47" />
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="68" />
         <mark key="^" line="31" column="69" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590741351668">
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="79" />
-        <mark key="^" line="387" column="44" />
-        <mark key="." line="384" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590981104092">
+        <mark key="[" line="500" column="25" />
+        <mark key="]" line="500" column="46" />
+        <mark key="^" line="500" column="46" />
+        <mark key="." line="500" column="45" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1590738155242">
         <mark key="[" line="84" column="25" />
@@ -212,11 +207,11 @@
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1590734488008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980424726">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="89" column="33" />
+      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980558444">
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="23" />
+        <mark key="^" line="89" column="24" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1590734954493">
         <mark key="[" line="242" column="16" />
@@ -224,10 +219,10 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590740780710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1590981895778">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_unittest.cc" timestamp="1590731580445">
         <mark key="[" line="57" column="0" />
@@ -355,47 +350,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxTdHJpbmdMaWtlIFQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eal with decided zone length error assert.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nTGlrZTxUPg==</text>
+        <text>eal with decided zone length error assert.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXF1aXJlcyBPdXRTdHJlYW1MaWtlPFQ+Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KcmVxdWlyZXMgT3V0U3RyZWFtTGlrZTxUPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxTdHJpbmdMaWtlIFQ+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHVzdGV2ZW50L2Jhc2UvbG9nX3N0cmVhbS5oPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCB6b25lX3N0YWdlOwogICAgc3RkOjpjb3V0IDw8IHpvbmVfc3RhZ2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTxTdHJpbmdMaWtlIFQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIHRlbXBsYXRlIDx0eXBlbmFtZSBULCB0eXBlbmFtZSA9IHR5cGVuYW1lIHN0ZDo6ZW5hYmxlX2lmPAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmc+Ojp2YWx1ZSB8fAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmdfdmlldz46OnZhbHVlPjo6dHlwZT4K</text>
+        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGNvbmNlcHRzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogIGNvbmNlcHQgU3RyaW5nTGlrZSA9IHN0ZDo6aXNfc2FtZV92PFQsIHN0ZDo6c3RyaW5nPiB8fCBzdGQ6OmlzX3NhbWVfdjxULCBzdGQ6OnN0cmluZ192aWV3PjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gIHRlbXBsYXRlIDx0eXBlbmFtZSBULCB0eXBlbmFtZSA9IHR5cGVuYW1lIHN0ZDo6ZW5hYmxlX2lmPAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmc+Ojp2YWx1ZSB8fAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmdfdmlldz46OnZhbHVlPjo6dHlwZT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PGNvbmNlcHRzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVtcGxhdGUgPAo=</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogIGNvbmNlcHQgU3RyaW5nTGlrZSA9IHN0ZDo6aXNfc2FtZV92PFQsIHN0ZDo6c3RyaW5nPiB8fCBzdGQ6OmlzX3NhbWVfdjxULCBzdGQ6OnN0cmluZ192aWV3PjsK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
