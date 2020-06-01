@@ -189,12 +189,7 @@
         <mark key="'" line="118" column="68" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590984420902">
-        <mark key="[" line="500" column="29" />
-        <mark key="]" line="500" column="15" />
-        <mark key="^" line="500" column="15" />
-        <mark key="." line="500" column="14" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590984420902" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task.h" timestamp="1590738155242">
         <mark key="[" line="84" column="25" />
         <mark key="]" line="84" column="43" />
