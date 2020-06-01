@@ -181,17 +181,14 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc_dir/fragment.cpp" timestamp="1590982082653">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/base/logging.h" timestamp="1590979230662" />
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1590734693327">
         <mark key="'" line="118" column="68" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473" />
-      <file name="$USER_HOME$/Manul/manul/archive/disk_handle.h" timestamp="1590734529531">
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="68" />
-        <mark key="^" line="31" column="69" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590981104092">
         <mark key="[" line="500" column="25" />
         <mark key="]" line="500" column="46" />
@@ -204,14 +201,17 @@
         <mark key="." line="84" column="42" />
         <mark key="^" line="84" column="43" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1590734488008">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980558444">
         <mark key="[" line="88" column="22" />
         <mark key="]" line="89" column="24" />
         <mark key="." line="89" column="23" />
         <mark key="^" line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1590982885933">
+        <mark key="[" line="149" column="59" />
+        <mark key="]" line="149" column="68" />
+        <mark key="^" line="149" column="68" />
+        <mark key="." line="149" column="67" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.cc" timestamp="1590734954493">
         <mark key="[" line="242" column="16" />
@@ -219,25 +219,29 @@
         <mark key="^" line="242" column="21" />
         <mark key="." line="242" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590981895778">
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1590982948738">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590983083733">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_unittest.cc" timestamp="1590731580445">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590740816567">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="34" column="3" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1590982074086">
+        <mark key="[" line="202" column="18" />
+        <mark key="]" line="202" column="17" />
+        <mark key="^" line="202" column="17" />
+        <mark key="." line="202" column="16" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/simple_disk_handle.h" timestamp="1590734536145">
         <mark key="[" line="27" column="66" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1590734463491">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/seal_context.h" timestamp="1590740724067">
         <mark key="[" line="14" column="0" />
@@ -351,46 +355,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>eal with decided zone length error assert.</text>
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>eal with decided zone length error assert.</text>
+        <text>Deal with decided zone length error assert.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KcmVxdWlyZXMgT3V0U3RyZWFtTGlrZTxUPgo=</text>
+        <text encoding="base64">ICAgIEFyY2hpdmVJT0NsYXNzIGlvX2NsYXNzOwogICAgaWYgKGNvbW1hbmRzLnNpemUoKSA9PSA1KSB7CiAgICAgIGlvX2NsYXNzID0gQVJDSElWRV9JT19DTEFTU19CRVNUX0VGRk9SVDsKICAgIH0gZWxzZSBpZiAoY29tbWFuZHMuc2l6ZSgpID09IDYpIHsKICAgICAgaW9fY2xhc3MgPSAoQXJjaGl2ZUlPQ2xhc3Mpc3RkOjpzdHJ0b2QoY29tbWFuZHNbNV0uZGF0YSgpLCBudWxscHRyKTsKICAgIH0gZWxzZSB7CiAgICAgIHJldHVybiBNQU5VTF9JTlZBTElEX0FSR1VNRU5UX0VSUk9SOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHVzdGV2ZW50L2Jhc2UvbG9nX3N0cmVhbS5oPgo=</text>
+        <text encoding="base64">ICAgIGlmIChjb21tYW5kcy5zaXplKCkgIT0gMykgewogICAgICByZXR1cm4gTUFOVUxfSU5WQUxJRF9BUkdVTUVOVF9FUlJPUjsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCB6b25lX3N0YWdlOwogICAgc3RkOjpjb3V0IDw8IHpvbmVfc3RhZ2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTxTdHJpbmdMaWtlIFQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIE1BTlVMX0lOVkFMSURfQVJHVU1FTlRfRVJST1I7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChjb21tYW5kcy5zaXplKCkgPT0gNikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHVzdGV2ZW50L2Jhc2UvbG9nX3N0cmVhbS5oPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCB6b25lX3N0YWdlOwogICAgc3RkOjpjb3V0IDw8IHpvbmVfc3RhZ2U7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gIHRlbXBsYXRlIDx0eXBlbmFtZSBULCB0eXBlbmFtZSA9IHR5cGVuYW1lIHN0ZDo6ZW5hYmxlX2lmPAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmc+Ojp2YWx1ZSB8fAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGQ6OmlzX3NhbWU8VCwgc3RkOjpzdHJpbmdfdmlldz46OnZhbHVlPjo6dHlwZT4K</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTxTdHJpbmdMaWtlIFQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGNvbmNlcHRzCg==</text>
+        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTx0eXBlbmFtZSBUPgogIGNvbmNlcHQgU3RyaW5nTGlrZSA9IHN0ZDo6aXNfc2FtZV92PFQsIHN0ZDo6c3RyaW5nPiB8fCBzdGQ6OmlzX3NhbWVfdjxULCBzdGQ6OnN0cmluZ192aWV3PjsK</text>
+        <text encoding="base64">dGVtcGxhdGU8T3V0U3RyZWFtTGlrZSBUPgo=</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
