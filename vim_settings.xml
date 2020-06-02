@@ -152,6 +152,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590996115146">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1590992202800">
         <mark key="'" line="147" column="0" />
         <mark key="[" line="186" column="38" />
@@ -159,10 +164,40 @@
         <mark key="." line="187" column="0" />
         <mark key="^" line="186" column="38" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590992958675">
+        <mark key="[" line="103" column="52" />
+        <mark key="]" line="104" column="2" />
+        <mark key="." line="104" column="1" />
+        <mark key="^" line="104" column="2" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1591001223037">
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1590984389006">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980558444">
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="23" />
+        <mark key="^" line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1590989885330">
+        <mark key="[" line="161" column="32" />
+        <mark key="]" line="149" column="68" />
+        <mark key="^" line="149" column="68" />
+        <mark key="." line="149" column="67" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1590982074086">
+        <mark key="[" line="202" column="18" />
+        <mark key="]" line="202" column="17" />
+        <mark key="^" line="202" column="17" />
+        <mark key="." line="202" column="16" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1590992788016">
         <mark key="[" line="585" column="39" />
@@ -170,6 +205,13 @@
         <mark key="." line="585" column="51" />
         <mark key="^" line="585" column="52" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1590991757560">
+        <mark key="[" line="169" column="67" />
+        <mark key="]" line="169" column="55" />
+        <mark key="^" line="169" column="55" />
+        <mark key="." line="169" column="54" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1591069417654" />
       <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1590981878283">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="8" column="0" />
@@ -184,63 +226,17 @@
       <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc_dir/fragment.cpp" timestamp="1590982082653">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/base/logging.h" timestamp="1590979230662" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.h" timestamp="1590980336473" />
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1591001223037">
-        <mark key="[" line="48" column="57" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/tool/rdma_echo_server.cc" timestamp="1591004673683" />
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_manager.cc" timestamp="1591001826501">
         <mark key="[" line="180" column="63" />
         <mark key="]" line="180" column="72" />
         <mark key="." line="180" column="71" />
         <mark key="^" line="180" column="72" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1590992161262" />
-      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1590980558444">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="89" column="24" />
-        <mark key="." line="89" column="23" />
-        <mark key="^" line="89" column="24" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1590989885330">
-        <mark key="[" line="161" column="32" />
-        <mark key="]" line="149" column="68" />
-        <mark key="^" line="149" column="68" />
-        <mark key="." line="149" column="67" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1590991757560">
-        <mark key="[" line="169" column="67" />
-        <mark key="]" line="169" column="55" />
-        <mark key="^" line="169" column="55" />
-        <mark key="." line="169" column="54" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1590998202968" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1590990118265">
         <mark key="[" line="325" column="65" />
         <mark key="]" line="325" column="65" />
         <mark key="^" line="325" column="66" />
         <mark key="." line="325" column="65" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590996115146">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1590992958675">
-        <mark key="[" line="103" column="52" />
-        <mark key="]" line="104" column="2" />
-        <mark key="." line="104" column="1" />
-        <mark key="^" line="104" column="2" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1590982074086">
-        <mark key="[" line="202" column="18" />
-        <mark key="]" line="202" column="17" />
-        <mark key="^" line="202" column="17" />
-        <mark key="." line="202" column="16" />
       </file>
     </filemarks>
     <jumps>
