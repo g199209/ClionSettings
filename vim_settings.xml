@@ -152,7 +152,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/logging.h" timestamp="1591166258916" />
+      <file name="$USER_HOME$/Manul/ustevent/src/base/logging.h" timestamp="1591171587763" />
       <file name="/Dummy.txt" timestamp="1591156661691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -229,7 +229,8 @@
         <mark key="^" line="43" column="41" />
         <mark key="." line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/tmp_test.cc" timestamp="1591167075178">
+      <file name="$USER_HOME$/Manul/ustevent/src/base/logging.cc" timestamp="1591171179999" />
+      <file name="$USER_HOME$/Manul/manul/archive/unittest/tmp_test.cc" timestamp="1591171466986">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
