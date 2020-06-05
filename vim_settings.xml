@@ -158,7 +158,7 @@
         <mark key="^" line="268" column="33" />
         <mark key="." line="268" column="32" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591345186900">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591345991016">
         <mark key="[" line="149" column="24" />
         <mark key="]" line="149" column="36" />
         <mark key="." line="149" column="35" />
@@ -180,7 +180,6 @@
         <mark key="^" line="195" column="38" />
         <mark key="." line="195" column="37" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591326811236" />
       <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591329702043" />
       <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591341457899">
         <mark key="[" line="71" column="3" />
@@ -188,15 +187,16 @@
         <mark key="." line="72" column="12" />
         <mark key="^" line="72" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591340323745">
+      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1591346396036">
+        <mark key="[" line="131" column="13" />
+        <mark key="]" line="131" column="14" />
+        <mark key="^" line="131" column="14" />
+        <mark key="." line="131" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591346691381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1591251503478">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="275" column="20" />
-        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/asm-generic/errno-base.h" timestamp="1591345054601" />
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591328714271" />
