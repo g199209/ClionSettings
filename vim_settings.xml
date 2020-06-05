@@ -152,14 +152,47 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591339097209">
-        <mark key="[" line="268" column="34" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591339142471">
+        <mark key="[" line="268" column="33" />
         <mark key="]" line="268" column="33" />
         <mark key="^" line="268" column="33" />
         <mark key="." line="268" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591254536811">
-        <mark key="[" line="0" column="10" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591342240666">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="165" column="75" />
+        <mark key="." line="165" column="74" />
+        <mark key="^" line="165" column="75" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc_dir/fragment.cpp" timestamp="1591340325196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1591250950459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.cc" timestamp="1591340202960">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="40" />
+        <mark key="^" line="34" column="38" />
+        <mark key="." line="34" column="40" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/uuid.h" timestamp="1591339558651" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1591340490320">
+        <mark key="[" line="195" column="37" />
+        <mark key="]" line="195" column="38" />
+        <mark key="^" line="195" column="38" />
+        <mark key="." line="195" column="37" />
+      </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591326811236" />
+      <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591329702043" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591341457899">
+        <mark key="[" line="71" column="3" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="12" />
+        <mark key="^" line="72" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591340323745">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -173,26 +206,15 @@
         <mark key="]" line="275" column="20" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1591250950459">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591326811236" />
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591328714271" />
-      <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591329702043" />
-      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591338191912">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="25" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1591251114228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1591166608692">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="41" />
-        <mark key="^" line="43" column="41" />
-        <mark key="." line="43" column="40" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591341933415">
+        <mark key="[" line="140" column="59" />
+        <mark key="]" line="140" column="90" />
+        <mark key="^" line="140" column="90" />
+        <mark key="." line="140" column="89" />
       </file>
     </filemarks>
     <jumps>
@@ -301,46 +323,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW9fbG9vcF9oYW5kbGVfLT5TdG9wUGVuZGluZ0lPKCk7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0x1234</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
+        <text encoding="base64">ICBpc19zcGlubmluZ191cF8gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW9fbG9vcF9oYW5kbGVfLT5TdG9wUGVuZGluZ0lPKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlvX2xvb3BfaGFuZGxlXy0+U3RvcFBlbmRpbmdJTygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1aW50MTZfdCBwYWRkaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZyZWUoYnVmKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBNQU5VTF9ESVNLX1NBU19DTVIgPSAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldXRybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBTcGluVXBEdW1teVJlYWQoc3RkOjptb3ZlKGNiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpb19sb29wX2hhbmRsZV8tPlN0YXJ0UGVuZGluZ0lPKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoaXQtPnNlY29uZCA9PSB6b25lX2luZm8uZGF0YV9sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpb19sb29wX2hhbmRsZV8tPlN0YXJ0UGVuZGluZ0lPKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgICAgICByZXR1cm4gcmV0OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmV0ICE9IE1BTlVMX09LKSB7CiAgICAgICAgICByZXR1cm4gcmV0OwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
