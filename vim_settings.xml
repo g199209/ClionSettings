@@ -152,6 +152,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591339097209">
+        <mark key="[" line="268" column="34" />
+        <mark key="]" line="268" column="33" />
+        <mark key="^" line="268" column="33" />
+        <mark key="." line="268" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591254536811">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -167,28 +173,20 @@
         <mark key="]" line="275" column="20" />
         <mark key="." line="274" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1591001223037">
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc_dir/fragment.cpp" timestamp="1591250950459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591326811236" />
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591328714271" />
       <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591329702043" />
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc_dir/fragment.cpp" timestamp="1591156665678">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591338191912">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc_dir/fragment.cpp" timestamp="1591251114228">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.h" timestamp="1591162951009">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="27" />
-        <mark key="^" line="41" column="27" />
-        <mark key="." line="41" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1591166608692">
         <mark key="[" line="43" column="31" />
@@ -302,47 +300,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>eal with decided zone length error assert.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>eal with decided zone length error assert.</text>
+        <text>0x1234</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmxvYl9tZXRhXy0+YmxvYl9zdGF0dXMgPT0gQkxPQl9TVEFUVVNfREVMRVRJTkcgfHwK</text>
+        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldXRybiAwOwo=</text>
+        <text encoding="base64">Y29uc3RleHByIHVpbnQzMl90IGtNZXRhVmVyc2lvbkRldlRlc3QgPSAxOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoaXQtPnNlY29uZCA9PSB6b25lX2luZm8uZGF0YV9sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICB1aW50MTZfdCBwYWRkaW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBNQU5VTF9ESVNLX1NBU19DTVIgPSAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldXRybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChjdHgtPmZhaWxfbnVtID09IDApIHsKICAgICAgc3RhdHVzXyA9IERHX0FDVElWRTsKICAgICAgVUxPR19JTkZPIDw8ICJTZXQgREcgIiA8PCBkZ19pZF8gPDwgIiBTdGF0dXMgdG8gIiA8PCBzdGF0dXNfOwogICAgfSBlbHNlIHsKICAgICAgVUxPR19FUlJPUiA8PCAiQWN0aXZlIERHICIgPDwgZGdfaWRfCiAgICAgICAgICAgICAgICAgPDwgIiBGYWlsZWQhIGZhaWwgY291bnQ6ICIgPDwgY3R4LT5mYWlsX251bTsKICAgIH0KICAgIGN0eC0+Y2IoY3R4LT5yZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBEaXNrSURUeXBlIGRpc2tfaWQgPSBjaHVua19pbmZvLmRpc2tfaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoaXQtPnNlY29uZCA9PSB6b25lX2luZm8uZGF0YV9sZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBab25lSURUeXBlIHpvbmVfaWQgPSB6b25lX2luZm8uem9uZV9pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXQgIT0gTUFOVUxfT0spIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
