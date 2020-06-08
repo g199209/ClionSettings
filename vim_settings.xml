@@ -153,12 +153,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_listener.h" timestamp="1591606001417" />
-      <file name="$USER_HOME$/Manul/ustevent/tests/aio_test/CMakeLists.txt" timestamp="1591586071661">
-        <mark key="[" line="5" column="34" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/rw_context.cc" timestamp="1591599897508" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/CMakeLists.txt" timestamp="1591607705884">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/tests/base/CMakeLists.txt" timestamp="1591586168213" />
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/memory_slab.cc" timestamp="1591600817526" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591608972136">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/infiniband/verbs.h" timestamp="1591601617036" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/spdk/nvme.h" timestamp="1591605501936" />
       <file name="$USER_HOME$/Manul/ustevent/tests/CMakeLists.txt" timestamp="1591586184983" />
@@ -193,13 +202,18 @@
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/connection_rdma.cc" timestamp="1591601285490" />
       <file name="$USER_HOME$/Manul/ustevent/example/epoll_perf/CMakeLists.txt" timestamp="1591586131864" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591609084197">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1591606074484">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591606933352">
-        <mark key="[" line="73" column="39" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591607295973">
         <mark key="]" line="73" column="55" />
         <mark key="^" line="73" column="55" />
         <mark key="." line="73" column="54" />
@@ -311,58 +325,57 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">REVGSU5FX2Jvb2wobWFudWxfY2h1bmtzZXJ2ZXJfRW5hYmxlU3RhdCwgdHJ1ZSwgImVuYWJsZSBjaHVua3NlcnZlciBzdGF0Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVGSU5FX2Jvb2wobWFudWxfY2h1bmtzZXJ2ZXJfRW5hYmxlU3RhdCwgdHJ1ZSwgImVuYWJsZSBjaHVua3NlcnZlciBzdGF0Iik7Cg==</text>
+        <text encoding="base64">fSAgLy8gbmFtZXNwYWNlIG1hbnVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvcHRpb24uZW5hYmxlX2Rpc2tfaW9fc3RhdHMgCg==</text>
+        <text encoding="base64">ICAgc3RkOjptdXRleCgpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBJT1N0YXRGaWxlV3JpdGVyKCk7CiAgfklPU3RhdEZpbGVXcml0ZXIoKSA9IGRlZmF1bHQ7CgogIElPU3RhdEZpbGVXcml0ZXIoY29uc3QgSU9TdGF0RmlsZVdyaXRlciAmKSA9IGRlbGV0ZTsKICBJT1N0YXRGaWxlV3JpdGVyICZvcGVyYXRvcj0oY29uc3QgSU9TdGF0RmlsZVdyaXRlciAmKSA9IGRlbGV0ZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBvcHRpb24uZW5hYmxlX2Rpc2tfaW9fc3RhdHMgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICBjb3JlX2lkX3ZlYwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>include
 include
 include
 include
 include</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>#
 #
 #
 #
 #</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">LXAgCi1wIAotcCAKLXAgCi1wIA==</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>L
 L</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>LRUCache
 LRUCache</text>
-      </register>
-      <register name="8" type="8">
-        <text>LRUCache
-LRUCache</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">R2V0KDgpIDw8IHN0ZDo6ZW5kbDsKICBzdGQ6OmNvdXQgPDwgImdl</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
