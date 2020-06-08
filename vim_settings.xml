@@ -152,37 +152,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591345991016">
-        <mark key="[" line="149" column="24" />
-        <mark key="]" line="149" column="36" />
-        <mark key="." line="149" column="35" />
-        <mark key="^" line="149" column="36" />
-      </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_listener.h" timestamp="1591606001417" />
       <file name="$USER_HOME$/Manul/ustevent/tests/aio_test/CMakeLists.txt" timestamp="1591586071661">
         <mark key="[" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/rw_context.cc" timestamp="1591599897508" />
-      <file name="$USER_HOME$/Manul/manul/archive/manager_handle.cc" timestamp="1591346396036">
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="131" column="14" />
-        <mark key="^" line="131" column="14" />
-        <mark key="." line="131" column="13" />
-      </file>
       <file name="$USER_HOME$/Manul/ustevent/tests/base/CMakeLists.txt" timestamp="1591586168213" />
-      <file name="$USER_HOME$/Manul/manul/metaserver/CMakeLists.txt" timestamp="1591350306602" />
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/memory_slab.cc" timestamp="1591600817526" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/infiniband/verbs.h" timestamp="1591601617036" />
+      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/spdk/nvme.h" timestamp="1591605501936" />
       <file name="$USER_HOME$/Manul/ustevent/tests/CMakeLists.txt" timestamp="1591586184983" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591606192568">
+        <mark key="[" line="154" column="78" />
+        <mark key="]" line="154" column="74" />
+        <mark key="." line="154" column="73" />
+        <mark key="^" line="154" column="74" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/do_cmake.sh" timestamp="1591588998248">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591599858137">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591606511698">
+        <mark key="[" line="226" column="55" />
+        <mark key="]" line="227" column="73" />
+        <mark key="." line="227" column="72" />
+        <mark key="^" line="227" column="73" />
       </file>
       <file name="/Dummy.txt" timestamp="1591586426771">
         <mark key="[" line="0" column="9" />
@@ -195,9 +191,19 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/asm-generic/errno-base.h" timestamp="1591345054601" />
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/connection_rdma.cc" timestamp="1591601285490" />
       <file name="$USER_HOME$/Manul/ustevent/example/epoll_perf/CMakeLists.txt" timestamp="1591586131864" />
+      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1591606074484">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591606933352">
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="55" />
+        <mark key="^" line="73" column="55" />
+        <mark key="." line="73" column="54" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_worker.cc" timestamp="1591602175221" />
     </filemarks>
     <jumps>
@@ -306,7 +312,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb3JlX2lkX3ZlYwo=</text>
+        <text encoding="base64">REVGSU5FX2Jvb2wobWFudWxfY2h1bmtzZXJ2ZXJfRW5hYmxlU3RhdCwgdHJ1ZSwgImVuYWJsZSBjaHVua3NlcnZlciBzdGF0Iik7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,45 +324,45 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpc19zcGlubmluZ191cF8gPSB0cnVlOwo=</text>
+        <text encoding="base64">REVGSU5FX2Jvb2wobWFudWxfY2h1bmtzZXJ2ZXJfRW5hYmxlU3RhdCwgdHJ1ZSwgImVuYWJsZSBjaHVua3NlcnZlciBzdGF0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBvcHRpb24uZW5hYmxlX2Rpc2tfaW9fc3RhdHMgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBjb3JlX2lkX3ZlYwo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>include
 include
 include
 include
 include</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>#
 #
 #
 #
 #</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">LXAgCi1wIAotcCAKLXAgCi1wIA==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>L
 L</text>
-      </register>
-      <register name="6" type="8">
-        <text>LRUCache
-LRUCache</text>
       </register>
       <register name="7" type="8">
         <text>LRUCache
 LRUCache</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">R2V0KDgpIDw8IHN0ZDo6ZW5kbDsKICBzdGQ6OmNvdXQgPDwgImdl</text>
+      <register name="8" type="8">
+        <text>LRUCache
+LRUCache</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBiYXNlOjpMUlVDYWNoZTxpbnQsIGludD4gbHJ1X2NhY2hlKDUpOwogIGJhc2U6OkxSVUNhY2hlPGludCwgaW50PiBscnVfY2FjaGUyKDUsIC0xKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">R2V0KDgpIDw8IHN0ZDo6ZW5kbDsKICBzdGQ6OmNvdXQgPDwgImdl</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
