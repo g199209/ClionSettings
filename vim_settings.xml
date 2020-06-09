@@ -161,11 +161,12 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/fio_client_plugin/manul_client_io_unit_data.h" timestamp="1591611686637" />
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.h" timestamp="1591611450794" />
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591609464598">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="55" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591682764178">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="88" column="41" />
+        <mark key="]" line="88" column="41" />
+        <mark key="." line="88" column="40" />
+        <mark key="^" line="88" column="41" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/spdk/nvme.h" timestamp="1591605501936" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" timestamp="1591675227055">
@@ -173,11 +174,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591606192568">
-        <mark key="[" line="154" column="78" />
-        <mark key="]" line="154" column="74" />
-        <mark key="." line="154" column="73" />
-        <mark key="^" line="154" column="74" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591680865288">
+        <mark key="[" line="156" column="55" />
+        <mark key="]" line="156" column="55" />
+        <mark key="." line="156" column="54" />
+        <mark key="^" line="156" column="55" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/event2/event.h" timestamp="1591673714447" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591606511698">
@@ -195,11 +196,11 @@
         <mark key="]" line="22" column="19" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591669684800">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="49" column="37" />
-        <mark key="^" line="49" column="37" />
-        <mark key="." line="49" column="36" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591681188747">
+        <mark key="[" line="52" column="20" />
+        <mark key="]" line="52" column="37" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1591606074484">
         <mark key="[" line="199" column="0" />
@@ -227,19 +228,6 @@
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_worker.cc" timestamp="1591610174891" />
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="162" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="156" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="150" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="146" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="139" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="130" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="123" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="101" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="90" column="0" filename="$USER_HOME$/Manul/manul/archive/ec_repli_recover.cc" />
-      <jump line="170" column="33" filename="$USER_HOME$/Manul/manul/archive/blob_manager.cc" />
-      <jump line="87" column="20" filename="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" />
-      <jump line="37" column="2" filename="$USER_HOME$/Manul/manul/archive/disk_group.cc" />
       <jump line="13" column="6" filename="$USER_HOME$/Manul/manul/common/json_configure_loader.cc" />
       <jump line="618" column="45" filename="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" />
       <jump line="517" column="11" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
@@ -327,51 +315,64 @@
       <jump line="156" column="0" filename="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" />
       <jump line="153" column="0" filename="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" />
       <jump line="147" column="0" filename="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" />
+      <jump line="8" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="9" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="11" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="14" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="17" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="28" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="35" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="37" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="41" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="66" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="64" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="59" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="49" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0aHJlYWRfLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgIGlmIChjdHgudXBkYXRlX3RpbWVzID09IDApIHsKICAgIH0K</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkOjpjb3V0IDw8ICJSdW5uaW5nIiA8PCBzdGQ6OmVuZGw7IA==</text>
+        <text>stat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIlNsZWVwIDEwcyIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXRvbWljX2ludF9mYXN0NjRfdCB1cGRhdGVfdGltZXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aHJlYWRfLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgIGlmIChjdHgudXBkYXRlX3RpbWVzID09IDApIHsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGxvb3AtPlJ1bkluTG9vcChbd29ya2VyXSgpIHsKLy8gICAgICAgIHdvcmtlci0+U3RvcCgpOwovLyAgICAgIH0sIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6YXRvbWljX2Jvb2wgaXNfdXBkYXRpbmc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdfLT5TdG9wKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0aHJlYWRfLmpvaW4oKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8vLyAgd29ya2VyLT5TdG9wKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gIHNsZWVwKDUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImlvX3N0YXRfZmlsZV93cml0ZXIuaCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">REVGSU5FX2Jvb2wobWFudWxfY2h1bmtzZXJ2ZXJfRW5hYmxlU3RhdCwgdHJ1ZSwgImVuYWJsZSBjaHVua3NlcnZlciBzdGF0Iik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgYXV0byB0ID0gc3RkOjp0aHJlYWQoW10oKXtzbGVlcCgzKTt9KTsKICB0LmpvaW4oKTsK</text>
+        <text encoding="base64">SU9TdGF0RmlsZVdyaXRlcjo6SU9TdGF0RmlsZVdyaXRlcihzdGQ6OnN0cmluZ192aWV3IGRldl9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZDo6c3RyaW5nX3ZpZXcgc3RhdF9maWxlX3BhdGgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50MzJfdCBtYXhfaW9fbG9vcF9udW0pIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocmVhZF8uam9pbigpOwo=</text>
+        <text encoding="base64">ICB0aHJlYWRfLmpvaW4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
