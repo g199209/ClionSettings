@@ -152,7 +152,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_listener.h" timestamp="1591606001417" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/CMakeLists.txt" timestamp="1591607705884">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="14" column="26" />
@@ -161,27 +160,29 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/fio_client_plugin/manul_client_io_unit_data.h" timestamp="1591611686637" />
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.h" timestamp="1591611450794" />
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591687000316">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="72" column="66" />
-        <mark key="]" line="73" column="23" />
-        <mark key="." line="73" column="22" />
-        <mark key="^" line="73" column="23" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591690560283">
+        <mark key="'" line="78" column="16" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/spdk/nvme.h" timestamp="1591605501936" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" timestamp="1591687832017">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="23" column="14" />
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591686539377">
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591689020458">
         <mark key="[" line="159" column="65" />
         <mark key="]" line="159" column="64" />
         <mark key="." line="159" column="63" />
         <mark key="^" line="159" column="64" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/event2/event.h" timestamp="1591673714447" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h_dir/fragment.cpp" timestamp="1591690431612">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591683150541">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="49" />
@@ -192,16 +193,21 @@
       <file name="$USER_HOME$/Manul/ustevent/src/base/CMakeLists.txt" timestamp="1591672941773">
         <mark key="[" line="51" column="25" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591690431659">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/worker_thread.cc" timestamp="1591675291325">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="19" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591687950070">
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="50" column="41" />
-        <mark key="^" line="50" column="42" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591690439606">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="23" />
       </file>
       <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1591606074484">
         <mark key="[" line="199" column="0" />
@@ -229,7 +235,6 @@
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_worker.cc" timestamp="1591610174891" />
     </filemarks>
     <jumps>
-      <jump line="618" column="45" filename="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" />
       <jump line="517" column="11" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
       <jump line="507" column="11" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
       <jump line="482" column="0" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
@@ -329,18 +334,19 @@
       <jump line="59" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
       <jump line="49" column="0" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
       <jump line="15" column="5" filename="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" />
+      <jump line="78" column="16" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxMb29wU3RhdEN0eD4gc3RhdF9jdHhfOwo=</text>
+      <register name="&quot;" type="4">
+        <text>dir_name</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stat</text>
+        <text>dir_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -349,31 +355,31 @@
         <text encoding="base64">ICBzdGQ6OnZlY3RvcjxMb29wU3RhdEN0eD4gc3RhdF9jdHhfOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OnZlY3RvcjxMb29wU3RhdEN0eD4gc3RhdF9jdHhfOwo=</text>
+        <text encoding="base64">Ly8gIGZzOjpwYXRoIHAgPSBibG9ja19yb290X2Rpci5hcHBlbmQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZmlsZXN5c3RlbTo6cGF0aCBkaXNrX3N0YXRfZGlyXzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6b2YK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBmZF87Cg==</text>
+        <text encoding="base64">ICAgIExvb3BTdGF0Q3R4KGNvbnN0IHN0ZDo6ZmlsZXN5c3RlbTo6cGF0aCAmYmxvY2tfcm9vdF9kaXIpOwoKICAgIH5Mb29wU3RhdEN0eCgpOwoKICAgIGludDMyX3QgQ29weVN0YXRCdWYoKTsKCiAgICBpbnQzMl90IFdyaXRlU3RhdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgcCA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6ZmlsZXN5c3RlbTo6cGF0aCBkaXNrX3N0YXRfZGlyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmczo6ZmlsZQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZpbGVzeXN0ZW0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwIC89ICJiYmIiOwo=</text>
+        <text encoding="base64">ICBvZnMuZmx1c2goKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmZF8gPSA6Om9wZW4oKQo=</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmczo6cGF0aCByb290X3BhdGgoRkxBR1NfbWFudWxfY2h1bmtzZXJ2ZXJfRGlza0lPU3RhdERpcmVjdG9yeSk7CiAgcm9vdF9wYXRoIC89ICJibG9jayI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
