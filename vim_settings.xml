@@ -152,24 +152,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/CMakeLists.txt" timestamp="1591692171202">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="25" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591779373845">
+        <mark key="[" line="54" column="73" />
+        <mark key="]" line="54" column="75" />
+        <mark key="." line="54" column="74" />
+        <mark key="^" line="54" column="75" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591778415288">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="47" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="47" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591691467910">
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591779882788">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/chunkserver_unittest.cc" timestamp="1591691168214">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/disk_io_util.cc" timestamp="1591760566252">
         <mark key="'" line="137" column="2" />
@@ -184,18 +174,24 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591771774309">
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591779756504">
         <mark key="'" line="101" column="74" />
-        <mark key="[" line="100" column="73" />
-        <mark key="]" line="100" column="71" />
-        <mark key="." line="100" column="70" />
-        <mark key="^" line="100" column="71" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="128" column="84" />
+        <mark key="^" line="128" column="85" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591689020458">
-        <mark key="[" line="159" column="65" />
-        <mark key="]" line="159" column="64" />
-        <mark key="." line="159" column="63" />
-        <mark key="^" line="159" column="64" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591779975485">
+        <mark key="[" line="154" column="52" />
+        <mark key="]" line="154" column="53" />
+        <mark key="." line="154" column="52" />
+        <mark key="^" line="154" column="53" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.h" timestamp="1591779642254">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="86" column="22" />
+        <mark key="^" line="86" column="22" />
+        <mark key="." line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591759991405">
         <mark key="[" line="89" column="24" />
@@ -203,27 +199,32 @@
         <mark key="." line="89" column="24" />
         <mark key="^" line="89" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h_dir/fragment.cpp" timestamp="1591690431612">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591773380025" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591779590277">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="53" />
+        <mark key="." line="315" column="0" />
+        <mark key="^" line="317" column="11" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/spdk/nvme_device.cc" timestamp="1591767629906">
         <mark key="[" line="453" column="56" />
         <mark key="]" line="453" column="80" />
         <mark key="." line="453" column="79" />
         <mark key="^" line="453" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591767659619">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591780261260">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.cc" timestamp="1591773683556" />
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591694361544">
-        <mark key="[" line="67" column="31" />
-        <mark key="]" line="67" column="40" />
-        <mark key="." line="67" column="39" />
-        <mark key="^" line="67" column="40" />
-      </file>
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591771696511" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591779971372">
+        <mark key="[" line="96" column="22" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="36" />
+        <mark key="^" line="96" column="37" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/CMakeLists.txt" timestamp="1591695434679">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -338,46 +339,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Enhance</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Enhance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ZXhwciB1aW50NjRfdCBkZWx0YV9yX2J5dGUgPSB0YXJnZXRfcl9idyAvIHRhcmdldF9yX2lvcyAqIGRlbHRhX3JfaW87Cg==</text>
+        <text encoding="base64">REVDTEFSRV9ib29sKG1hbnVsX2NodW5rc2VydmVyX0VuYWJsZURpc2tJT1N0YXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVpbnQ2NF90IGRlbHRhX3JfYnl0ZSA9ICh0YXJnZXRfcl9pb3MgKiB1cGRhdGVfZGVsYXlfaW50ZXJ2YWwgLyAxMDAwMDAwKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdGV4cHIgdWludDY0X3QgdGFyZ2V0X3JfaW9zID0gMTAwMDA7CiAgY29uc3RleHByIHVpbnQ2NF90IHRhcmdldF93X2lvcyA9IDIwMDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc2tfaW9fc3RhdHMuaW9fdGlja3MgKz0gKGNwdV9taHogKiB1cGRhdGVfZGVsYXlfaW50ZXJ2YWwgKiB0YXJnZXRfdXRpbCk7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHdvcmtlcl9pZCA9IGxvb3BfLT53b3JrZXIoKS0+aWQoKTsKICB1ZXZlbnQ6OkRpc2tJT1N0YXRzIGRpc2tfaW9fc3RhdHM7CiAgbG9vcF8tPmRpc2tfaW9fdXRpbCgpLT5HZXREaXNrSU9TdGF0cygmZGlza19pb19zdGF0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ZXhwciBkb3VibGUgdGFyZ2V0X3V0aWwgPSAwLjU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVpbnQ2NF90IGNwdV9taHogPSBiYXNlOjpnZXRfY3B1X21oeigpOwo=</text>
+        <text encoding="base64">ICBsb29wLT53b3JrZXIoKS0+aWQoKTsKICB1ZXZlbnQ6OkRpc2tJT1N0YXRzIGRpc2tfaW9fc3RhdHM7CiAgbG9vcC0+ZGlza19pb191dGlsKCktPkdldERpc2tJT1N0YXRzKCZkaXNrX2lvX3N0YXRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKICAgICAgOwo=</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkb3VibGUgaW9fdGlja3MgPSBzdGF0LmlvX3RpY2tzOwogIGlmIChpbl9mbGlndGggPiAwKSB7CgogIH0K</text>
+        <text encoding="base64">ICAKICBVTE9HX0lORk8gPDwgIj09PT09PT09PT09PT09PT09PT0gSW5pdCBDaHVuayBQb29sID09PT09PT09PT09PT09PSI7CiAgSW5pdENodW5rUG9vbChJbml0Q2h1bmtQb29sRG9uZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZiAoc3RhdHMtPmluX2ZsaWdodF9yZWFkX2NvdW50ICsgc3RhdHMtPmluX2ZsaWdodF93cml0ZV9jb3VudCA+IDApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
