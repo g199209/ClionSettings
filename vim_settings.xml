@@ -158,11 +158,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591777370010">
-        <mark key="[" line="39" column="74" />
-        <mark key="]" line="39" column="74" />
-        <mark key="." line="39" column="73" />
-        <mark key="^" line="39" column="74" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591778415288">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="47" />
+        <mark key="." line="28" column="46" />
+        <mark key="^" line="28" column="47" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591691467910">
         <mark key="[" line="0" column="0" />
@@ -337,14 +337,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ZXhwciB1aW50NjRfdCBkZWx0YV9yX2J5dGUgPSB0YXJnZXRfcl9idyAvIHRhcmdldF9yX2lvcyAqIGRlbHRhX3JfaW87Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICh0YXJnZXRfcl9pb3MgKiB1cGRhdGVfZGVsYXlfaW50ZXJ2YWwgLyAxMDAwMDAwKQ==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
