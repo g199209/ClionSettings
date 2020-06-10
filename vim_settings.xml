@@ -184,12 +184,12 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591695190333">
-        <mark key="'" line="78" column="16" />
-        <mark key="[" line="69" column="49" />
-        <mark key="]" line="69" column="53" />
-        <mark key="." line="69" column="52" />
-        <mark key="^" line="69" column="53" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591762102547">
+        <mark key="'" line="104" column="16" />
+        <mark key="[" line="98" column="58" />
+        <mark key="]" line="99" column="7" />
+        <mark key="." line="99" column="6" />
+        <mark key="^" line="99" column="7" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" timestamp="1591687832017">
         <mark key="[" line="22" column="14" />
@@ -203,7 +203,6 @@
         <mark key="." line="159" column="63" />
         <mark key="^" line="159" column="64" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/event2/event.h" timestamp="1591673714447" />
       <file name="$USER_HOME$/Manul/ustevent/src/callbacks.h" timestamp="1591759991405">
         <mark key="[" line="89" column="24" />
         <mark key="]" line="89" column="25" />
@@ -236,12 +235,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="27" column="40" />
-      </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/CMakeLists.txt" timestamp="1591672960365">
-        <mark key="[" line="119" column="20" />
-        <mark key="]" line="109" column="24" />
-        <mark key="^" line="109" column="24" />
-        <mark key="." line="109" column="23" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/timecycle.cc" timestamp="1591759066914" />
     </filemarks>
@@ -351,7 +344,11 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>[BugFix] Change CMake base directory macro.</text>
+        <text>/*****
+ * 
+ * 
+ * @return 
+ */</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,28 +363,32 @@
         <text encoding="base64">ICB1aW50NjRfdCB3cml0ZV9pb19jb3VudF8gPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>[BugFix] Change CMake base directory macro.</text>
+        <text>/*****
+ * 
+ * 
+ * @return 
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyDkvJjlhYjojrflj5YgU1BESyDnmoTnu5/orqEK</text>
+        <text>[BugFix] Change CMake base directory macro.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxcF9pbmZvLT5kaXNjYXJkX2lvX2NvdW50XysrOwo=</text>
+        <text encoding="base64">ICAvLyDkvJjlhYjojrflj5YgU1BESyDnmoTnu5/orqEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBxcF9pbmZvLT5kaXNjYXJkX2lvX2NvdW50XysrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0cy0+d3JpdGVfaW9fY291bnQgPSBxcF9pbmZvLT53cml0ZV9pb19jb3VudF87Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0cy0+cmVhZF9sYXQgPSBxcF9pbmZvLT5yZWFkX2xhdF87Cg==</text>
+        <text encoding="base64">ICBzdGF0cy0+d3JpdGVfaW9fY291bnQgPSBxcF9pbmZvLT53cml0ZV9pb19jb3VudF87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0cy0+cmVhZF9pb19jb3VudCA9IHFwX2luZm8tPnJlYWRfaW9fY291bnRfOwo=</text>
+        <text encoding="base64">ICBzdGF0cy0+cmVhZF9sYXQgPSBxcF9pbmZvLT5yZWFkX2xhdF87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB3cml0ZV9sYXQgPSAwOyAvLyDljZXkvY1jcHUgY3ljbGUK</text>
+        <text encoding="base64">ICBzdGF0cy0+cmVhZF9pb19jb3VudCA9IHFwX2luZm8tPnJlYWRfaW9fY291bnRfOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICB1aW50NjRfdCB3cml0ZV9sYXQgPSAwOyAvLyDljZXkvY1jcHUgY3ljbGUK</text>
