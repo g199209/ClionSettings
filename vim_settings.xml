@@ -158,11 +158,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591769231859">
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="41" column="40" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591771581949">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="69" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591691467910">
         <mark key="[" line="0" column="0" />
@@ -184,12 +184,12 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591767878956">
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591771774309">
         <mark key="'" line="101" column="74" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="111" column="39" />
+        <mark key="[" line="100" column="73" />
+        <mark key="]" line="100" column="71" />
+        <mark key="." line="100" column="70" />
+        <mark key="^" line="100" column="71" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" timestamp="1591687832017">
         <mark key="[" line="22" column="14" />
@@ -233,6 +233,7 @@
         <mark key="." line="67" column="39" />
         <mark key="^" line="67" column="40" />
       </file>
+      <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591771696511" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/CMakeLists.txt" timestamp="1591695434679">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -346,14 +347,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpc2tfaW9fc3RhdHMuaW5fZmxpZ2h0X3dyaXRlX2NvdW50Kys7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>double</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
