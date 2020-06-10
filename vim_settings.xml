@@ -158,11 +158,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591694931955">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591768191400">
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="40" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591691467910">
         <mark key="[" line="0" column="0" />
@@ -184,12 +184,12 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591762102547">
-        <mark key="'" line="104" column="16" />
-        <mark key="[" line="98" column="58" />
-        <mark key="]" line="99" column="7" />
-        <mark key="." line="99" column="6" />
-        <mark key="^" line="99" column="7" />
+      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591767878956">
+        <mark key="'" line="101" column="74" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="111" column="39" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" timestamp="1591687832017">
         <mark key="[" line="22" column="14" />
@@ -218,11 +218,14 @@
         <mark key="." line="227" column="72" />
         <mark key="^" line="227" column="73" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/spdk/nvme_device.cc" timestamp="1591760336484">
-        <mark key="[" line="136" column="37" />
-        <mark key="]" line="137" column="45" />
-        <mark key="." line="137" column="44" />
-        <mark key="^" line="137" column="45" />
+      <file name="$USER_HOME$/Manul/ustevent/src/spdk/nvme_device.cc" timestamp="1591767629906">
+        <mark key="[" line="453" column="56" />
+        <mark key="]" line="453" column="80" />
+        <mark key="." line="453" column="79" />
+        <mark key="^" line="453" column="80" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591767659619">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.h" timestamp="1591694361544">
         <mark key="[" line="67" column="31" />
@@ -236,11 +239,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="27" column="40" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/timecycle.cc" timestamp="1591759066914" />
+      <file name="$USER_HOME$/Manul/ustevent/src/base/timecycle.cc" timestamp="1591766869320" />
     </filemarks>
     <jumps>
-      <jump line="507" column="11" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
-      <jump line="482" column="0" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
       <jump line="514" column="16" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
       <jump line="486" column="4" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
       <jump line="235" column="26" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc.h" />
@@ -339,59 +340,53 @@
       <jump line="15" column="5" filename="$USER_HOME$/Manul/manul/chunkserver/unittest/temp_test.cc" />
       <jump line="78" column="16" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
       <jump line="137" column="2" filename="$USER_HOME$/Manul/ustevent/src/disk_io_util.cc" />
+      <jump line="104" column="19" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
+      <jump line="103" column="74" filename="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>/*****
- * 
- * 
- * @return 
- */</text>
+        <text encoding="base64">ICAgIGRpc2tfaW9fc3RhdHMuaW5fZmxpZ2h0X3dyaXRlX2NvdW50Kys7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB3cml0ZV9pb19jb3VudF8gPSAwOwo=</text>
+        <text encoding="base64">ICAgIGRpc2tfaW9fc3RhdHMuaW5fZmxpZ2h0X3dyaXRlX2NvdW50Kys7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>/*****
- * 
- * 
- * @return 
- */</text>
+        <text encoding="base64">CgoKICAgICAgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text>[BugFix] Change CMake base directory macro.</text>
+        <text encoding="base64">ICBkb3VibGUgaW9fdGlja3MgPSBzdGF0LmlvX3RpY2tzOwogIGlmIChpbl9mbGlndGggPiAwKSB7CgogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyDkvJjlhYjojrflj5YgU1BESyDnmoTnu5/orqEK</text>
+        <text encoding="base64">ICBpZiAoc3RhdHMtPmluX2ZsaWdodF9yZWFkX2NvdW50ICsgc3RhdHMtPmluX2ZsaWdodF93cml0ZV9jb3VudCA+IDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxcF9pbmZvLT5kaXNjYXJkX2lvX2NvdW50XysrOwo=</text>
+        <text encoding="base64">ICAgIGlvX3RpY2tzID0gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGF0cy0+d3JpdGVfaW9fY291bnQgPSBxcF9pbmZvLT53cml0ZV9pb19jb3VudF87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0cy0+cmVhZF9sYXQgPSBxcF9pbmZvLT5yZWFkX2xhdF87Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBIb3cgdG8gYWNoaWV2ZSB1cGRhdGUgc3RhdCBmaWxlIGF0b21pY2FsbHk/Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0cy0+cmVhZF9pb19jb3VudCA9IHFwX2luZm8tPnJlYWRfaW9fY291bnRfOwo=</text>
+        <text encoding="base64">ICBmczo6cmVzaXplX2ZpbGUoc3RhdF9maWxlX3BhdGhfLCAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1aW50NjRfdCB3cml0ZV9sYXQgPSAwOyAvLyDljZXkvY1jcHUgY3ljbGUK</text>
+        <text encoding="base64">ICBvZnNfLnNlZWtwKDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
