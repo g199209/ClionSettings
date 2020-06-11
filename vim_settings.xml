@@ -152,11 +152,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/common/CMakeLists.txt" timestamp="1591855789892">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="38" column="21" />
+      <file name="$USER_HOME$/Manul/scripts/prepare_raft_db.sh" timestamp="1591865173794">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="49" />
+      </file>
+      <file name="$USER_HOME$/Manul/scripts/kill_metaserver.sh" timestamp="1591864865941">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Manul/scripts/kill_chunkserver.sh" timestamp="1591864834777">
+        <mark key="[" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/ec_engine_benchmark.sh" timestamp="1591862776430">
         <mark key="[" line="0" column="0" />
@@ -168,14 +177,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/run_clang_format.py" timestamp="1591863184003" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1591860244441">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/init.sql" timestamp="1591866087948">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="97" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.cc_dir/fragment.cpp" timestamp="1591857336780">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/verify_fio.sh" timestamp="1591865456822" />
+      <file name="$USER_HOME$/Manul/manul/utility_tool/raft_manager.cc" timestamp="1591865151095" />
+      <file name="$USER_HOME$/Manul/manul/run_clang_format.py" timestamp="1591863184003" />
+      <file name="$USER_HOME$/Manul/scripts/new_env.sh" timestamp="1591866072255" />
+      <file name="$USER_HOME$/Manul/scripts/start_chunkserver.sh" timestamp="1591865949983">
+        <mark key="[" line="9" column="93" />
+        <mark key="]" line="6" column="126" />
+        <mark key="^" line="6" column="126" />
+        <mark key="." line="6" column="125" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1591860374477">
         <mark key="[" line="840" column="0" />
@@ -189,46 +204,24 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h_dir/fragment.cpp" timestamp="1591857378178">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/start_raft_db.sh" timestamp="1591865177942">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_scsi.c" timestamp="1591859126829">
-        <mark key="[" line="986" column="21" />
-        <mark key="]" line="986" column="28" />
-        <mark key="." line="986" column="27" />
-        <mark key="^" line="986" column="28" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_zone_calculator.h" timestamp="1591855282123">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="5" />
-      </file>
+      <file name="$USER_HOME$/Manul/scripts/utility.sh" timestamp="1591865410322" />
       <file name="$USER_HOME$/Manul/manul/check_clang.sh" timestamp="1591863139781" />
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h" timestamp="1591860573048">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.h" timestamp="1591855735916">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="25" />
-        <mark key="^" line="15" column="26" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc_dir/fragment.cpp" timestamp="1591856519587">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591859228835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_ata.c" timestamp="1591859907207">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="35" />
-        <mark key="^" line="46" column="35" />
-        <mark key="." line="46" column="34" />
+      <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1591866049383">
+        <mark key="[" line="8" column="539" />
+        <mark key="]" line="8" column="540" />
+        <mark key="." line="8" column="539" />
+        <mark key="^" line="8" column="540" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.cc" timestamp="1591860758732">
         <mark key="[" line="10" column="0" />
@@ -236,10 +229,11 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.cc" timestamp="1591860242282">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/format.sh" timestamp="1591865730350">
+        <mark key="[" line="6" column="83" />
+        <mark key="]" line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="82" />
       </file>
     </filemarks>
     <jumps>
@@ -347,20 +341,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gdF9kaXNrX2luZm8gdmFsdWVzICgiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgMCwgMTAsIC0yLCAwLCAicmVzZXJ2ZSIpOwppbnNlcnQgaW50byB0X2Rpc2tfaW5mbyB2YWx1ZXMgKCI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAwLCAxMCwgLTIsIDAsICJyZXNlcnZlIik7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/home/gitlab-runner/builds/EUo2tGrz/0/Manul/manul/output/bin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSBaQkNfQVRBX1NUQU5EQllfSU1NRURJQVRFIDB4RTAK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gdF9kaXNrX2luZm8gdmFsdWVzICgiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgMCwgMTAsIC0yLCAwLCAicmVzZXJ2ZSIpOwppbnNlcnQgaW50byB0X2Rpc2tfaW5mbyB2YWx1ZXMgKCI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAwLCAxMCwgLTIsIDAsICJyZXNlcnZlIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPG9zdHJlYW0+Cg==</text>
