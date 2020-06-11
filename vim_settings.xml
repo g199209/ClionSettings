@@ -189,12 +189,6 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591858230879">
-        <mark key="[" line="73" column="1" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591854931038">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="22" />
