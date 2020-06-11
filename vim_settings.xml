@@ -158,14 +158,24 @@
         <mark key="." line="2" column="48" />
         <mark key="^" line="2" column="49" />
       </file>
-      <file name="$USER_HOME$/Manul/scripts/kill_metaserver.sh" timestamp="1591864865941">
+      <file name="$USER_HOME$/Manul/scripts/kill_metaserver.sh" timestamp="1591866606980">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Manul/scripts/kill_chunkserver.sh" timestamp="1591864834777">
+      <file name="$USER_HOME$/Manul/scripts/kill_chunkserver.sh" timestamp="1591866580954">
         <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Manul/scripts/manul.sql" timestamp="1591866491108" />
+      <file name="$USER_HOME$/Manul/scripts/fio_gflag" timestamp="1591866543720">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/ec_engine_benchmark.sh" timestamp="1591862776430">
         <mark key="[" line="0" column="0" />
@@ -177,14 +187,21 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/scripts/init.sql" timestamp="1591866087948">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="97" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/init.sql" timestamp="1591866463761">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="60" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/verify_fio.sh" timestamp="1591865456822" />
       <file name="$USER_HOME$/Manul/manul/utility_tool/raft_manager.cc" timestamp="1591865151095" />
       <file name="$USER_HOME$/Manul/manul/run_clang_format.py" timestamp="1591863184003" />
+      <file name="$USER_HOME$/Manul/scripts/ps_manul.sh" timestamp="1591866624858">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/Manul/scripts/new_env.sh" timestamp="1591866072255" />
       <file name="$USER_HOME$/Manul/scripts/start_chunkserver.sh" timestamp="1591865949983">
         <mark key="[" line="9" column="93" />
@@ -192,17 +209,8 @@
         <mark key="^" line="6" column="126" />
         <mark key="." line="6" column="125" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1591860374477">
-        <mark key="[" line="840" column="0" />
-        <mark key="]" line="841" column="30" />
-        <mark key="." line="841" column="29" />
-        <mark key="^" line="841" column="30" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.h" timestamp="1591860581047">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/start_portal.sh" timestamp="1591866677076">
+        <mark key="[" line="4" column="170" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/start_raft_db.sh" timestamp="1591865177942">
         <mark key="[" line="2" column="23" />
@@ -210,24 +218,15 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Manul/scripts/utility.sh" timestamp="1591865410322" />
+      <file name="$USER_HOME$/Manul/scripts/utility.sh" timestamp="1591866696468">
+        <mark key="[" line="4" column="164" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/check_clang.sh" timestamp="1591863139781" />
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h" timestamp="1591860573048">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1591866049383">
-        <mark key="[" line="8" column="539" />
-        <mark key="]" line="8" column="540" />
-        <mark key="." line="8" column="539" />
-        <mark key="^" line="8" column="540" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.cc" timestamp="1591860758732">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1591867110649">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="44" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/format.sh" timestamp="1591865730350">
         <mark key="[" line="6" column="83" />
@@ -342,7 +341,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdF9kaXNrX2luZm8gdmFsdWVzICgiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgMCwgMTAsIC0yLCAwLCAicmVzZXJ2ZSIpOwppbnNlcnQgaW50byB0X2Rpc2tfaW5mbyB2YWx1ZXMgKCI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAwLCAxMCwgLTIsIDAsICJyZXNlcnZlIik7Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gdF9jaHVua3NlcnZlcl9pbmZvIHZhbHVlcyAoMjUyLCAiMTI3LjAuMC4xIiwgMTMzNjIsIDEzMzYzLCAwLCAiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgLTIpOwppbnNlcnQgaW50byB0X2NodW5rc2VydmVyX2luZm8gdmFsdWVzICgyNTMsICIxMjcuMC4wLjEiLCAxMzM2NCwgMTMzNjUsIDAsICI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAtMik7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -354,7 +353,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdF9kaXNrX2luZm8gdmFsdWVzICgiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgMCwgMTAsIC0yLCAwLCAicmVzZXJ2ZSIpOwppbnNlcnQgaW50byB0X2Rpc2tfaW5mbyB2YWx1ZXMgKCI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAwLCAxMCwgLTIsIDAsICJyZXNlcnZlIik7Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gdF9jaHVua3NlcnZlcl9pbmZvIHZhbHVlcyAoMjUyLCAiMTI3LjAuMC4xIiwgMTMzNjIsIDEzMzYzLCAwLCAiZjY5NDY2ZDAtMTE3ZC00Njk3LTkzNmItODg2MjZjY2M1NzVjIiwgLTIpOwppbnNlcnQgaW50byB0X2NodW5rc2VydmVyX2luZm8gdmFsdWVzICgyNTMsICIxMjcuMC4wLjEiLCAxMzM2NCwgMTMzNjUsIDAsICI1NTUxZjA4OS00MjdjLTQ3ZDItYWRkMy0zY2FkYmEzYTQ5MTAiLCAtMik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgPG9zdHJlYW0+Cg==</text>
