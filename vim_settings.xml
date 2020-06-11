@@ -158,11 +158,17 @@
         <mark key="^" line="38" column="22" />
         <mark key="." line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/Manul/scripts/ec_engine_benchmark.sh" timestamp="1591862776430">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1591860762744">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/run_clang_format.py" timestamp="1591863184003" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1591860244441">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -177,25 +183,12 @@
         <mark key="." line="841" column="29" />
         <mark key="^" line="841" column="30" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/unittest/smr_disk_unittest.cc" timestamp="1591848889373">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.h" timestamp="1591860581047">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591854931038">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_storage_unittest.cc" timestamp="1591854379410" />
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h_dir/fragment.cpp" timestamp="1591857378178">
         <mark key="[" line="0" column="0" />
       </file>
@@ -211,6 +204,7 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/check_clang.sh" timestamp="1591863139781" />
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h" timestamp="1591860573048">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -353,14 +347,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9zdHJlYW0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Unknown</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
