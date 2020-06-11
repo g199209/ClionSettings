@@ -166,6 +166,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" timestamp="1591847757376">
+        <mark key="[" line="992" column="19" />
+        <mark key="]" line="992" column="27" />
+        <mark key="." line="992" column="26" />
+        <mark key="^" line="992" column="27" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/.gitignore" timestamp="1591846229888">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="15" column="9" />
@@ -205,7 +211,7 @@
         <mark key="." line="453" column="79" />
         <mark key="^" line="453" column="80" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591846504310">
+      <file name="/Dummy.txt" timestamp="1591847777001">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -326,19 +332,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Update .gitignore</text>
+        <text>Simplify CMakelists.</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Update .gitignore</text>
+        <text>Simplify CMakelists.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVDTEFSRV9ib29sKG1hbnVsX2NodW5rc2VydmVyX0VuYWJsZURpc2tJT1N0YXQpOwo=</text>
+        <text encoding="base64">ICAgICAgemJjX2RlYnVnKCJ6YmNfc2NzaV9wb3dlcl9vcDogMHglMDJ4IDB4JTAyeFxuIiwgcG93ZXJfc2Vuc2VfZGF0YVswXSwKICAgICAgICAgICAgICAgIHBvd2VyX3NlbnNlX2RhdGFbMV0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text>[Feature] Add disk IO stat file writer.
