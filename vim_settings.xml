@@ -152,6 +152,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/common/CMakeLists.txt" timestamp="1591848613587">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="17" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="16" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591779373845">
         <mark key="[" line="54" column="73" />
         <mark key="]" line="54" column="75" />
@@ -198,33 +204,40 @@
         <mark key="^" line="86" column="22" />
         <mark key="." line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.h" timestamp="1591773380025" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591779590277">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="53" />
         <mark key="." line="315" column="0" />
         <mark key="^" line="317" column="11" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/spdk/nvme_device.cc" timestamp="1591767629906">
-        <mark key="[" line="453" column="56" />
-        <mark key="]" line="453" column="80" />
-        <mark key="." line="453" column="79" />
-        <mark key="^" line="453" column="80" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591847777001">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1591847837754">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.cc" timestamp="1591773683556" />
+      <file name="$USER_HOME$/Manul/manul/common/unittest/smr_disk_unittest.cc" timestamp="1591848889373">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591845474434" />
+      <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1591848282196">
+        <mark key="[" line="43" column="10" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591779971372">
         <mark key="[" line="96" column="22" />
         <mark key="]" line="96" column="37" />
         <mark key="." line="96" column="36" />
         <mark key="^" line="96" column="37" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/timecycle.cc" timestamp="1591773347760" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1591848712448">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="514" column="16" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" />
@@ -331,8 +344,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Simplify CMakelists.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5oIgo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -347,30 +360,30 @@
         <text encoding="base64">ICAgICAgemJjX2RlYnVnKCJ6YmNfc2NzaV9wb3dlcl9vcDogMHglMDJ4IDB4JTAyeFxuIiwgcG93ZXJfc2Vuc2VfZGF0YVswXSwKICAgICAgICAgICAgICAgIHBvd2VyX3NlbnNlX2RhdGFbMV0pOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5oIgo=</text>
+      </register>
+      <register name="2" type="2">
         <text>[Feature] Add disk IO stat file writer.
 
 Generate disk io stat file for iostat.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHRtcF90ZXN0ICR7Q09NTUxJQlN9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodG1wX3Rlc3QgdG1wX3Rlc3QuY2MpCgo=</text>
+        <text encoding="base64">dGFyZ2V0X2xpbmtfbGlicmFyaWVzKHRtcF90ZXN0ICR7Q09NTUxJQlN9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">YWRkX2V4ZWN1dGFibGUodG1wX3Rlc3QgdG1wX3Rlc3QuY2MpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhdXRvIHdvcmtlcl9pZCA9IGxvb3BfLT53b3JrZXIoKS0+aWQoKTsKICB1ZXZlbnQ6OkRpc2tJT1N0YXRzIGRpc2tfaW9fc3RhdHM7CiAgbG9vcF8tPmRpc2tfaW9fdXRpbCgpLT5HZXREaXNrSU9TdGF0cygmZGlza19pb19zdGF0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdXRvIHdvcmtlcl9pZCA9IGxvb3BfLT53b3JrZXIoKS0+aWQoKTsKICB1ZXZlbnQ6OkRpc2tJT1N0YXRzIGRpc2tfaW9fc3RhdHM7CiAgbG9vcF8tPmRpc2tfaW9fdXRpbCgpLT5HZXREaXNrSU9TdGF0cygmZGlza19pb19zdGF0cyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
