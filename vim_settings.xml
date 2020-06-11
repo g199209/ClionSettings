@@ -152,25 +152,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/common/CMakeLists.txt" timestamp="1591848613587">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="17" />
-        <mark key="^" line="38" column="17" />
-        <mark key="." line="38" column="16" />
+      <file name="$USER_HOME$/Manul/manul/common/CMakeLists.txt" timestamp="1591855789892">
+        <mark key="[" line="38" column="21" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/unittest/io_stat_file_writer_unittest.cc" timestamp="1591779373845">
-        <mark key="[" line="54" column="73" />
-        <mark key="]" line="54" column="75" />
-        <mark key="." line="54" column="74" />
-        <mark key="^" line="54" column="75" />
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591854931038">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc_dir/fragment.cpp" timestamp="1591779882788">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_storage_unittest.cc" timestamp="1591854379410" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1591846059141">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_zone_calculator.h" timestamp="1591855282123">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_scsi.c" timestamp="1591847757376">
         <mark key="[" line="992" column="19" />
@@ -184,53 +188,51 @@
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_stat_file_writer.cc" timestamp="1591779756504">
-        <mark key="'" line="101" column="74" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="128" column="84" />
-        <mark key="^" line="128" column="85" />
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h" timestamp="1591855712014">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/infiniband/verbs.h" timestamp="1591842371258" />
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.h" timestamp="1591855735916">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="26" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591780771995">
         <mark key="[" line="154" column="52" />
         <mark key="]" line="154" column="53" />
         <mark key="." line="154" column="52" />
         <mark key="^" line="154" column="53" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.h" timestamp="1591779642254">
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="86" column="22" />
-        <mark key="^" line="86" column="22" />
-        <mark key="." line="86" column="21" />
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1591855778389">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="15" column="22" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" timestamp="1591779590277">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="53" />
-        <mark key="." line="315" column="0" />
-        <mark key="^" line="317" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591847837754">
+      <file name="/Dummy.txt" timestamp="1591854441979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/get_clock.cc" timestamp="1591773683556" />
       <file name="$USER_HOME$/Manul/manul/common/unittest/smr_disk_unittest.cc" timestamp="1591848889373">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.h" timestamp="1591855507788">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/Opensource/sysstat/iostat.c" timestamp="1591845474434" />
       <file name="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" timestamp="1591848282196">
         <mark key="[" line="43" column="10" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591779971372">
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="37" />
-        <mark key="." line="96" column="36" />
-        <mark key="^" line="96" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1591848712448">
         <mark key="[" line="9" column="13" />
@@ -345,19 +347,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5oIgo=</text>
+        <text encoding="base64">ICAgIHpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5jYwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Simplify CMakelists.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgemJjX2RlYnVnKCJ6YmNfc2NzaV9wb3dlcl9vcDogMHglMDJ4IDB4JTAyeFxuIiwgcG93ZXJfc2Vuc2VfZGF0YVswXSwKICAgICAgICAgICAgICAgIHBvd2VyX3NlbnNlX2RhdGFbMV0pOwo=</text>
+        <text encoding="base64">ICAgIHpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5jYwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2luY2x1ZGUgInpvbmVkX3N0b3JhZ2Uvc21yX2Rpc2tfbWFuYWdlci5oIgo=</text>
