@@ -152,59 +152,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1591932275685">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="52" column="1" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/CMakeLists.txt" timestamp="1591869875040">
-        <mark key="[" line="34" column="39" />
         <mark key="]" line="14" column="26" />
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/scripts/kill_metaserver.sh" timestamp="1591866606980">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/kill_chunkserver.sh" timestamp="1591866580954">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/manul.sql" timestamp="1591866491108" />
-      <file name="$USER_HOME$/Manul/scripts/fio_gflag" timestamp="1591866543720">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/chunkserver_flags.cc" timestamp="1591867731153">
-        <mark key="[" line="154" column="53" />
-        <mark key="]" line="154" column="52" />
-        <mark key="." line="154" column="51" />
-        <mark key="^" line="154" column="52" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/init.sql" timestamp="1591866463761">
-        <mark key="[" line="4" column="60" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="59" />
-        <mark key="^" line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/verify_fio.sh" timestamp="1591865456822" />
-      <file name="$USER_HOME$/Manul/scripts/ps_manul.sh" timestamp="1591866624858">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="42" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/new_env.sh" timestamp="1591866072255" />
-      <file name="$USER_HOME$/Manul/scripts/start_chunkserver.sh" timestamp="1591865949983">
-        <mark key="[" line="9" column="93" />
-        <mark key="]" line="6" column="126" />
-        <mark key="^" line="6" column="126" />
-        <mark key="." line="6" column="125" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/tool/manul_format_tool.cc" timestamp="1591932144041" />
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/libzbc.h" timestamp="1591931444521" />
       <file name="$USER_HOME$/Manul/scripts/start_portal.sh" timestamp="1591866677076">
         <mark key="[" line="4" column="170" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.h" timestamp="1591933677339">
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="66" column="32" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591933844643">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+        <mark key="." line="33" column="5" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/libevent/aio_util.cc" timestamp="1591929302529">
         <mark key="[" line="80" column="0" />
@@ -215,28 +189,44 @@
       <file name="$USER_HOME$/Manul/scripts/utility.sh" timestamp="1591866696468">
         <mark key="[" line="4" column="164" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.h" timestamp="1591930869725">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="30" column="36" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.h" timestamp="1591933679874">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="$USER_HOME$/Manul/scripts/start_metaserver.sh" timestamp="1591867110649">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_device_manager.cc" timestamp="1591933542720">
+        <mark key="[" line="714" column="0" />
+        <mark key="]" line="732" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591870538424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/smr_disk_manager.cc" timestamp="1591933821957">
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="45" />
+        <mark key="^" line="56" column="45" />
+        <mark key="." line="56" column="44" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/CMakeLists.txt" timestamp="1591869828900">
         <mark key="[" line="109" column="20" />
         <mark key="]" line="109" column="24" />
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="23" />
-      </file>
-      <file name="$USER_HOME$/Manul/scripts/format.sh" timestamp="1591865730350">
-        <mark key="[" line="6" column="83" />
-        <mark key="]" line="6" column="83" />
-        <mark key="^" line="6" column="83" />
-        <mark key="." line="6" column="82" />
       </file>
     </filemarks>
     <jumps>
@@ -344,47 +334,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFpb19kYXRhLT5sZW5ndGggPSBzaXplOyAK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/home/gitlab-runner/builds/EUo2tGrz/0/Manul/manul/output/bin</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFpb19kYXRhLT5sZW5ndGggPSBzaXplOyAK</text>
+        <text encoding="base64">ICBpbnQgZmxhZ3MgPSBPX1JEV1IgfCBPX0xBUkdFRklMRSB8IE9fRElSRUNUOwogIGZkXyA9IDo6b3BlbihkZXZfbmFtZS5jX3N0cigpLCBmbGFncyk7CiAgaWYgKGZkXyA8IDApIHsKICAgIFVMT0dfRVJST1IgPDwgIm9wZW4gZGV2IGVycm9yLCAiCiAgICAgICAgICAgICAgIDw8ICJkZXZfbmFtZTogIiA8PCBkZXZfbmFtZTsKICAgIHJldHVybiBNQU5VTF9ESVNLX0VSUk9SOwogIH0KICBvZmZfdCBzID0gbHNlZWsoZmRfLCAwLCBTRUVLX0VORCk7CiAgaWYgKHMgPD0gMCkgewogICAgQ2xvc2UoKTsKICAgIFVMT0dfRVJST1IgPDwgImdldCBkZXYgc2l6ZSBlcnJvciI7CiAgICByZXR1cm4gTUFOVUxfRElTS19FUlJPUjsKICB9CiAgbGVuZ3RoXyA9IHN0YXRpY19jYXN0PHVpbnQ2NF90PihzKTsKICBpZiAoaW9jdGwoZmRfLCBCTEtTU1pHRVQsICZwaHlzaWNhbF9zZWN0b3Jfc2l6ZV8pIDwgMCkgewogICAgQ2xvc2UoKTsKICAgIFVMT0dfRVJST1IgPDwgImdldCBkZXYgYmxvY2sgc2l6ZSBlcnJvciI7CiAgICByZXR1cm4gTUFOVUxfRElTS19FUlJPUjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfSU5GTyA8PCAiU1NTU1MgV3JpdGU6ICIgPDwgYWlvX2RhdGEtPmxlbmd0aDsK</text>
+        <text encoding="base64">Q01SRGlza01hbmFnZXI6OkNNUkRpc2tNYW5hZ2VyKCkge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFVMT0dfSU5GTyA8PCAiU1NTU1MgUmVhZDogIiA8PCBhaW9fZGF0YS0+bGVuZ3RoOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiU1NTU1M6ICIgPDwgZGlza19pb19zdGF0cy53cml0ZV9ieXRlc19jb3VudCA8PCAiICAiCiAgICAgICAgICAgICAgPDwgZGlza19pb19zdGF0cy5yZWFkX2J5dGVzX2NvdW50Owo=</text>
+        <text encoding="base64">ICBkZXZfaW5mby56YmRfc2VjdG9yczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG9zdHJlYW0+Cg==</text>
+        <text encoding="base64">ICBhdXRvICYgZGV2X2luZm8gPSB6b25lX2Rpc2tfaW5mby5kZXZfaW5mbzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNzdHJlYW0+Cg==</text>
+        <text encoding="base64">ICBhdXRvICYgZGV2X2luZm8gPSB6b25lX2Rpc2tfaW5mby5kZXZfaW5mbzsKICBkZXZfaW5mby56YmRfdHlwZSA9IFpCQ19EVF9GQUtFOwogIGRldl9pbmZvLnpiZF9tb2RlbCA9IFpCQ19ETV9TVEFOREFSRDsKICBkZXZfaW5mby56YmRfZmxhZ3MgPSBaQkNfVU5SRVNUUklDVEVEX1JFQUQ7CiAgZGV2X2luZm8uemJkX3NlY3RvcnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RkOjpzdHJpbmcgWm9uZURpc2tJbmZvOjpUb1N0cmluZygpIHsKICBzdGQ6Om9zdHJpbmdzdHJlYW0gb3NzOwoKICBvc3MgPDwgIlZlbmRvciBJRDogIiA8PCBkZXZfaW5mby56YmRfdmVuZG9yX2lkIDw8ICJcbiI7CgogIGlmIChkZXZfaW5mby56YmRfbW9kZWwgPT0gWkJDX0RNX1NUQU5EQVJEKSB7CiAgICBvc3MgPDwgOjp6YmNfZGV2aWNlX3R5cGVfc3RyKGRldl9pbmZvLnpiZF90eXBlKQogICAgICAgIDw8ICIgaW50ZXJmYWNlLCBzdGFuZGFyZCBibG9jayBkZXZpY2VcbiI7CiAgfSBlbHNlIHsKICAgIG9zcyA8PCA6OnpiY19kZXZpY2VfdHlwZV9zdHIoZGV2X2luZm8uemJkX3R5cGUpIDw8ICIgaW50ZXJmYWNlLCAiCiAgICAgICAgPDwgOjp6YmNfZGV2aWNlX21vZGVsX3N0cihkZXZfaW5mby56YmRfbW9kZWwpIDw8ICIgem9uZSBtb2RlbFxuIjsKICB9CgogIG9zcyA8PCBkZXZfaW5mby56YmRfc2VjdG9ycyA8PCAiIDUxMi1ieXRlcyBzZWN0b3JzXG4iOwogIG9zcyA8PCBkZXZfaW5mby56YmRfbGJsb2NrcyA8PCAiIGxvZ2ljYWwgYmxvY2tzIG9mICIKICAgICAgPDwgZGV2X2luZm8uemJkX2xibG9ja19zaXplIDw8ICIgQlxuIjsKICBvc3MgPDwgZGV2X2luZm8uemJkX3BibG9ja3MgPDwgIiBwaHlzaWNhbCBibG9ja3Mgb2YgIgogICAgICA8PCBkZXZfaW5mby56YmRfcGJsb2NrX3NpemUgPDwgIiBCXG4iOwogIG9zcyA8PCAoZG91YmxlKShkZXZfaW5mby56YmRfc2VjdG9ycyA8PCA5KSAvIDEwMDAwMDAwMDAgPDwgIiBHQiBjYXBhY2l0eVxuIjsKCiAgaWYgKGRldl9pbmZvLnpiZF9tb2RlbCA9PSBaQkNfRE1fSE9TVF9NQU5BR0VEIHx8CiAgICAgIGRldl9pbmZvLnpiZF9tb2RlbCA9PSBaQkNfRE1fSE9TVF9BV0FSRSkKICAgIG9zcyA8PCAiUmVhZCBjb21tYW5kcyBhcmUgIgogICAgICAgIDw8ICgoZGV2X2luZm8uemJkX2ZsYWdzICYgWkJDX1VOUkVTVFJJQ1RFRF9SRUFEKSA/ICJ1bnJlc3RyaWN0ZWRcbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAicmVzdHJpY3RlZFxuIik7CgogIG9zcyA8PCAodW5zaWduZWQgbG9uZyBsb25nKShkZXZfaW5mby56YmRfbWF4X3J3X3NlY3RvcnMgPDwgOSkgLyAxMDI0CiAgICAgIDw8ICIgS2lCIG1heCBSL1cgc2l6ZVxuIjsKCiAgaWYgKGRldl9pbmZvLnpiZF9tb2RlbCA9PSBaQkNfRE1fSE9TVF9NQU5BR0VEKSB7CiAgICBvc3MgPDwgIk1heGltdW0gbnVtYmVyIG9mIG9wZW4gc2VxdWVudGlhbCB3cml0ZSByZXF1aXJlZCB6b25lczogIjsKICAgIGlmIChkZXZfaW5mby56YmRfbWF4X25yX29wZW5fc2VxX3JlcSA9PSBaQkNfTk9fTElNSVQpCiAgICAgIG9zcyA8PCAiVW5saW1pdGVkXG4iOwogICAgZWxzZQogICAgICBvc3MgPDwgZGV2X2luZm8uemJkX21heF9ucl9vcGVuX3NlcV9yZXEgPDwgIlxuIjsKICB9IGVsc2UgaWYgKGRldl9pbmZvLnpiZF9tb2RlbCA9PSBaQkNfRE1fSE9TVF9BV0FSRSkgewogICAgb3NzIDw8ICJPcHRpbWFsIG51bWJlciBvZiBvcGVuIHNlcXVlbnRpYWwgd3JpdGUgcHJlZmVycmVkIHpvbmVzOiAiOwogICAgaWYgKGRldl9pbmZvLnpiZF9vcHRfbnJfb3Blbl9zZXFfcHJlZiA9PSBaQkNfTk9UX1JFUE9SVEVEKQogICAgICBvc3MgPDwgIk5vdCByZXBvcnRlZFxuIjsKICAgIGVsc2UKICAgICAgb3NzIDw8IGRldl9pbmZvLnpiZF9vcHRfbnJfb3Blbl9zZXFfcHJlZiA8PCAiXG4iOwoKICAgIG9zcyA8PCAiT3B0aW1hbCBudW1iZXIgb2Ygbm9uLXNlcXVlbnRpYWxseSB3cml0dGVuIHNlcXVlbnRpYWwgd3JpdGUgIgogICAgICAgICAgICJwcmVmZXJyZWQgem9uZXM6ICI7CiAgICBpZiAoZGV2X2luZm8uemJkX29wdF9ucl9ub25fc2VxX3dyaXRlX3NlcV9wcmVmID09IFpCQ19OT1RfUkVQT1JURUQpCiAgICAgIG9zcyA8PCAiTm90IHJlcG9ydGVkXG4iOwogICAgZWxzZQogICAgICBvc3MgPDwgZGV2X2luZm8uemJkX29wdF9ucl9ub25fc2VxX3dyaXRlX3NlcV9wcmVmIDw8ICJcbiI7CiAgfQogIHJldHVybiBvc3Muc3RyKCk7Cn0KCnN0ZDo6c3RyaW5nIFN0b3JhZ2Vab25lSW5mbzo6VG9TdHJpbmcoKSB7CiAgc3RkOjpvc3RyaW5nc3RyZWFtIG9zczsKCiAgdWludDMyX3Qgem5vID0gMDsKICBvc3MgPDwgIlRvdGFsIHpvbmVzOiAiIDw8IHpvbmVfaW5mb3Muc2l6ZSgpIDw8ICJcbiI7CiAgZm9yIChhdXRvJiB6IDogem9uZV9pbmZvcykgewogICAgb3NzIDw8ICJab25lICIgPDwgem5vIDw8ICI6IHR5cGUgIiA8PCB6YmNfem9uZV90eXBlKCZ6KSA8PCAiLCBjb25kICIKICAgICAgICA8PCB6YmNfem9uZV9jb25kaXRpb24oJnopIDw8ICIsIHN0YXJ0OiAiIDw8IHpiY196b25lX3N0YXJ0KCZ6KQogICAgICAgIDw8ICIsIGxlbmd0aDogIiA8PCB6YmNfem9uZV9sZW5ndGgoJnopOwogICAgaWYgKHpiY196b25lX3NlcXVlbnRpYWwoJnopKSB7CiAgICAgIG9zcyA8PCAiLCB3cDogIiA8PCB6YmNfem9uZV93cCgmeik7CiAgICB9CiAgICBvc3MgPDwgIlxuIjsKICAgIHpubysrOwogIH0KCiAgcmV0dXJuIG9zcy5zdHIoKTsKfQo=</text>
+        <text encoding="base64">ICBtZW1zZXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RydWN0IFpvbmVEaXNrSW5mbyB7CiAgemJjX2RldmljZV9pbmZvIGRldl9pbmZvOwoKICBzdGQ6OnN0cmluZyBUb1N0cmluZygpOwp9OwoKc3RydWN0IFN0b3JhZ2Vab25lSW5mbyB7CiAgc3RkOjp2ZWN0b3I8emJjX3pvbmU+IHpvbmVfaW5mb3M7CgogIHN0ZDo6c3RyaW5nIFRvU3RyaW5nKCk7CgogIGlubGluZSBzdGQ6OnZlY3Rvcjx6YmNfem9uZT46Oml0ZXJhdG9yIGJlZ2luKCkgeyByZXR1cm4gem9uZV9pbmZvcy5iZWdpbigpOyB9CgogIGlubGluZSBzdGQ6OnZlY3Rvcjx6YmNfem9uZT46Oml0ZXJhdG9yIGVuZCgpIHsgcmV0dXJuIHpvbmVfaW5mb3MuZW5kKCk7IH0KCiAgaW5saW5lIHpiY196b25lICZvcGVyYXRvcltdKHNpemVfdCBuKSB7IHJldHVybiB6b25lX2luZm9zW25dOyB9CgogIGlubGluZSBjb25zdCB6YmNfem9uZSAmb3BlcmF0b3JbXShzaXplX3QgbikgY29uc3QgeyByZXR1cm4gem9uZV9pbmZvc1tuXTsgfQoKICBpbmxpbmUgYm9vbCBlbXB0eSgpIHsgcmV0dXJuIHpvbmVfaW5mb3MuZW1wdHkoKTsgfQoKICBpbmxpbmUgc2l6ZV90IHNpemUoKSB7IHJldHVybiB6b25lX2luZm9zLnNpemUoKTsgfQp9Owo=</text>
+        <text encoding="base64">ICBzdHJjcHkoZGV2X2luZm8uemJkX3ZlbmRvcl9pZCwgImNtci1kaXNrIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBab25lRGlza0luZm8gR2V0RGV2aWNlSW5mbygpOwogIFN0b3JhZ2Vab25lSW5mbyBHZXRab25lSW5mbygpOwoKICBpbnQgUmVzZXRab25lKHVpbnQ2NF90IGFkZHIpOwogIGludCBSZXNldEFsbFpvbmVzKCk7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
