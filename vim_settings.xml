@@ -161,11 +161,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/libzbc.h" timestamp="1591943551443" />
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591948621270">
-        <mark key="[" line="177" column="4" />
-        <mark key="]" line="177" column="4" />
-        <mark key="." line="177" column="4" />
-        <mark key="^" line="175" column="14" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591950151013">
+        <mark key="[" line="112" column="52" />
+        <mark key="]" line="112" column="52" />
+        <mark key="." line="112" column="52" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
         <mark key="[" line="75" column="10" />
@@ -365,14 +364,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICIgICIgPDwgc3RhdGljX2Nhc3Q8aW50PihtYW51bDo6TUFOVUxfRElTS19TQVRBX0NNUikgPDwgIiA6ICIKICAgICAgIDw8IG1hbnVsOjpNQU5VTF9ESVNLX1NBVEFfQ01SIDw8IGVuZGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHwgWkJDX09fRFJWX0JMT0NL</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHwgWkJDX09fRFJWX0JMT0NL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
@@ -384,30 +383,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnQgcmV0ID0gZGlza19tYW5hZ2VyXy0+UmVzZXRBbGxab25lcygpOwogIGlmIChyZXQgIT0gTUFOVUxfT0spIHsKICAgIHJldHVybiByZXQ7CiAgfQo=</text>
+        <text encoding="base64">ICBpbnQgb2ZsYWcgPSBPX1JEV1IgfCBPX0RJUkVDVDsKICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBEaXNrVHlwZSBkaXNrX3R5cGVfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBpbnQgcmV0ID0gZGlza19tYW5hZ2VyXy0+UmVzZXRBbGxab25lcygpOwogIGlmIChyZXQgIT0gTUFOVUxfT0spIHsKICAgIHJldHVybiByZXQ7CiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBEaXNrVHlwZSBkaXNrX3R5cGVfOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBkaXNrX21hbmFnZXJfLnJlc2V0KGRldl9wYXRoXy5kYXRhKCksIGRpc2tfdHlwZSwgcG93ZXJfb25seSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>,
       disk_manager_(dev_path_.data(), MANUL_DISK_Optane, power_only)</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBhdXRvICYgZGV2X3BhdGggPSBjb21tYW5kc1sxXTsKICBEaXNrVHlwZSBkaXNrX3R5cGUgPSAoRGlza1R5cGUpOjpzdHJ0b2QoY29tbWFuZHNbMl0uZGF0YSgpLCBudWxscHRyKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBhdXRvICYgZGV2X3BhdGggPSBjb21tYW5kc1sxXTsKICBEaXNrVHlwZSBkaXNrX3R5cGUgPSAoRGlza1R5cGUpOjpzdHJ0b2QoY29tbWFuZHNbMl0uZGF0YSgpLCBudWxscHRyKTsgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-                                            true</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
