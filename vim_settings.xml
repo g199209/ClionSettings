@@ -152,19 +152,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h" timestamp="1591948576042">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h" timestamp="1591950963722">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="57" column="10" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h_dir/fragment.cpp" timestamp="1591947732934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/libzbc.h" timestamp="1591943551443" />
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591950151013">
-        <mark key="[" line="112" column="52" />
-        <mark key="]" line="112" column="52" />
-        <mark key="." line="112" column="52" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591950947287">
+        <mark key="[" line="399" column="14" />
+        <mark key="]" line="373" column="26" />
+        <mark key="." line="373" column="25" />
+        <mark key="^" line="373" column="26" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
         <mark key="[" line="75" column="10" />
@@ -224,10 +226,10 @@
         <mark key="." line="88" column="12" />
         <mark key="^" line="88" column="13" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591943584928">
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1591950459263">
         <mark key="'" line="42" column="72" />
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="37" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="80" column="3" />
         <mark key="." line="62" column="36" />
         <mark key="^" line="62" column="37" />
       </file>
@@ -364,48 +366,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHwgWkJDX09fRFJWX0JMT0NL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGF0aWMgY29uc3RleHByIHNpemVfdCBtZXRhX2lvX2NvdW50XyA9IGtNZXRhUmVhbERpc2tTaXplIC8gNTEyOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgWkJDX09fRFJWX0JMT0NL</text>
+        <text encoding="base64">IC8gNTEy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICIgICIgPDwgc3RhdGljX2Nhc3Q8aW50PihtYW51bDo6TUFOVUxfRElTS19TQVRBX0NNUikgPDwgIiA6ICIKICAgICAgIDw8IG1hbnVsOjpNQU5VTF9ESVNLX1NBVEFfQ01SIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICBpZiAoZmQgPCAwKSB7CiAgICBVTE9HX0VSUk9SIDw8ICJvcGVuIGRldiBlcnJvciwgIgogICAgICAgICAgICAgICA8PCAiZGV2X25hbWU6ICIgPDwgZGV2X3BhdGhfOwogICAgcmV0dXJuIE1BTlVMX0RJU0tfRVJST1I7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgY29uc3RleHByIHNpemVfdCBtZXRhX2lvX2NvdW50XyA9IGtNZXRhUmVhbERpc2tTaXplIC8gNTEyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnQgb2ZsYWcgPSBPX1JEV1IgfCBPX0RJUkVDVDsKICAK</text>
+        <text encoding="base64">ICB6YmNfZGV2aWNlICpkZXZfID0gbnVsbHB0cjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbnQgcmV0ID0gZGlza19tYW5hZ2VyXy0+UmVzZXRBbGxab25lcygpOwogIGlmIChyZXQgIT0gTUFOVUxfT0spIHsKICAgIHJldHVybiByZXQ7CiAgfQo=</text>
+        <text encoding="base64">ICBhdXRvIHJldCA9CiAgICAgIDo6emJjX29wZW4oZGV2X3BhdGhfLmRhdGEoKSwgT19SRFdSIHwgT19ESVJFQ1QsICZkZXZfKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBEaXNrVHlwZSBkaXNrX3R5cGVfOwo=</text>
+        <text encoding="base64">ICBpZiAocmV0ICE9IDApIHsKICAgIHJldHVybjsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkaXNrX21hbmFnZXJfLnJlc2V0KGRldl9wYXRoXy5kYXRhKCksIGRpc2tfdHlwZSwgcG93ZXJfb25seSk7Cg==</text>
+        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIm9wZW4gZGV2IGVycm9yLCAiCiAgICAgICAgICAgICAgIDw8ICJkZXZfbmFtZTogIiA8PCBkZXZfcGF0aF8uZGF0YSgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-      disk_manager_(dev_path_.data(), MANUL_DISK_Optane, power_only)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvdXQgPDwgIk9wZW4gRGV2aWNlIEZhaWxlZCEgIiA8PCA6OnN0cmVycm9yKC1yZXQpIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhdXRvICYgZGV2X3BhdGggPSBjb21tYW5kc1sxXTsKICBEaXNrVHlwZSBkaXNrX3R5cGUgPSAoRGlza1R5cGUpOjpzdHJ0b2QoY29tbWFuZHNbMl0uZGF0YSgpLCBudWxscHRyKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBNQU5VTF9ESVNLX0VSUk9SOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
