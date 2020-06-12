@@ -221,24 +221,13 @@
         <mark key="." line="6" column="44" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/base/CMakeLists.txt" timestamp="1591869895017">
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="6" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591870538424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/chunkserver/io_loop_handle.cc" timestamp="1591870042370">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/CMakeLists.txt" timestamp="1591869828900">
-        <mark key="[" line="119" column="20" />
+        <mark key="[" line="109" column="20" />
         <mark key="]" line="109" column="24" />
         <mark key="^" line="109" column="24" />
         <mark key="." line="109" column="23" />
