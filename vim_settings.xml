@@ -162,18 +162,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/libzbc.h" timestamp="1591943551443" />
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591952370398">
-        <mark key="[" line="204" column="61" />
-        <mark key="]" line="204" column="67" />
-        <mark key="." line="204" column="66" />
-        <mark key="^" line="204" column="67" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" timestamp="1591953580474">
+        <mark key="[" line="210" column="55" />
+        <mark key="]" line="210" column="47" />
+        <mark key="." line="210" column="46" />
+        <mark key="^" line="210" column="47" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
         <mark key="[" line="75" column="10" />
         <mark key="]" line="77" column="50" />
         <mark key="." line="75" column="15" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591944466405">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591953267098">
         <mark key="[" line="506" column="57" />
         <mark key="]" line="503" column="0" />
         <mark key="." line="506" column="62" />
@@ -366,47 +366,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpZiAoZmQgPCAwKSB7CiAgICBVTE9HX0VSUk9SIDw8ICJvcGVuIGRldiBlcnJvciwgIgogICAgICAgICAgICAgICA8PCAiZGV2X25hbWU6ICIgPDwgZGV2X3BhdGhfOwogICAgcmV0dXJuIE1BTlVMX0RJU0tfRVJST1I7CiAgfQo=</text>
+        <text encoding="base64">ICBpZiAocmVhZF9kaXNrX21ldGEtPm1hZ2ljX251bSA9PSBBUkNISVZFX01BR0lDX05VTSkgewogICAgaWYgKHJlYWRfZGlza19tZXRhLT5DaGVja0NSQygpKSB7CiAgICAgIGNvdXQgPDwgQ09MT1IoR1JFRU4sICJDUkMgT0shIikgPDwgZW5kbCA8PCBlbmRsOwogICAgfSBlbHNlIHsKICAgICAgY291dCA8PCBDT0xPUihSRUQsICJDUkMgRVJST1IhIikgPDwgZW5kbCA8PCBlbmRsOwogICAgfQogIH0gZWxzZSB7CiAgICBjb3V0IDw8IENPTE9SKFJFRCwgIk1hZ2ljIEVSUk9SISIpIDw8IGVuZGwgPDwgZW5kbDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbnQzMl90IHJldDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICByZWFkX3JldCA9CiAgICAgIDo6cHJlYWQoZmRfLCByZWFkX2Rpc2tfbWV0YSwga01ldGFSZWFsRGlza1NpemUsIGJhY2t1cF9kaXNrX21ldGFfb2Zmc2V0Xyk7CiAgaWYgKHJlYWRfcmV0ICE9IGtNZXRhUmVhbERpc2tTaXplKSB7CiAgICBjb3V0IDw8ICJSZWFkIERpc2sgTWV0YShCYWNrdXApIEZhaWxlZCEgIiA8PCBzdHJlcnJvcihlcnJubykgPDwgZW5kbDsKICAgIHJldHVybiBNQU5VTF9ESVNLX0VSUk9SOwogIH0KICBjb3V0IDw8IHJlYWRfZGlza19tZXRhLT5Ub1N0cmluZygpIDw8IGVuZGw7CiAgaWYgKHJlYWRfZGlza19tZXRhLT5DaGVja0NSQygpKSB7CiAgICBjb3V0IDw8IENPTE9SKEdSRUVOLCAiQ1JDIE9LISIpIDw8IGVuZGwgPDwgZW5kbDsKICB9IGVsc2UgewogICAgY291dCA8PCBDT0xPUihSRUQsICJDUkMgRVJST1IhIikgPDwgZW5kbCA8PCBlbmRsOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoZGlza190eXBlID09IE1BTlVMX0RJU0tfU0FUQV9TTVIgfHwgZGlza190eXBlID09IE1BTlVMX0RJU0tfU0FTX1NNUikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY29uc3RleHByIHNpemVfdCBtZXRhX2lvX2NvdW50XyA9IGtNZXRhUmVhbERpc2tTaXplIC8gNTEyOwo=</text>
+        <text encoding="base64">ICBjb3V0IDw8IENPTE9SKEJMVUUsICJCYWNrdXAgRGlzayBNZXRhOiAiKSA8PCBlbmRsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB6YmNfZGV2aWNlICpkZXZfID0gbnVsbHB0cjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgQ09MT1IoQkxVRSwgIk1haW4gRGlzayBNZXRhOiAiKSA8PCBlbmRsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhdXRvIHJldCA9CiAgICAgIDo6emJjX29wZW4oZGV2X3BhdGhfLmRhdGEoKSwgT19SRFdSIHwgT19ESVJFQ1QsICZkZXZfKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAocmV0ICE9IDApIHsKICAgIHJldHVybjsKICB9Cg==</text>
+        <text encoding="base64">ICBhdXRvIHJlYWRfcmV0ID0gOjpwcmVhZChmZF8sIHJlYWRfZGlza19tZXRhLCBrTWV0YVJlYWxEaXNrU2l6ZSwgMCk7CiAgaWYgKHJlYWRfcmV0ICE9IGtNZXRhUmVhbERpc2tTaXplKSB7CiAgICBjb3V0IDw8IENPTE9SKFJFRCwgIlJlYWQgRGlzayBNZXRhIEZhaWxlZCEgIikgPDwgc3RyZXJyb3IoZXJybm8pIDw8IGVuZGw7CiAgICByZXR1cm4gTUFOVUxfRElTS19FUlJPUjsKICB9CiAgY291dCA8PCBDT0xPUihCTFVFLCAiTWFpbiBEaXNrIE1ldGE6ICIpIDw8IGVuZGw7CiAgY291dCA8PCByZWFkX2Rpc2tfbWV0YS0+VG9TdHJpbmcoKSA8PCBlbmRsOwogIGlmIChyZWFkX2Rpc2tfbWV0YS0+bWFnaWNfbnVtID09IEFSQ0hJVkVfTUFHSUNfTlVNKSB7CiAgICBpZiAocmVhZF9kaXNrX21ldGEtPkNoZWNrQ1JDKCkpIHsKICAgICAgY291dCA8PCBDT0xPUihHUkVFTiwgIkNSQyBPSyEiKSA8PCBlbmRsIDw8IGVuZGw7CiAgICB9IGVsc2UgewogICAgICBjb3V0IDw8IENPTE9SKFJFRCwgIkNSQyBFUlJPUiEiKSA8PCBlbmRsIDw8IGVuZGw7CiAgICB9CiAgfSBlbHNlIHsKICAgIGNvdXQgPDwgQ09MT1IoUkVELCAiTWFnaWMgRVJST1IhIikgPDwgZW5kbCA8PCBlbmRsOwogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVMT0dfRVJST1IgPDwgIm9wZW4gZGV2IGVycm9yLCAiCiAgICAgICAgICAgICAgIDw8ICJkZXZfbmFtZTogIiA8PCBkZXZfcGF0aF8uZGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgIGNvdXQK</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
