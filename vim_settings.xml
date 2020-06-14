@@ -141,10 +141,10 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
     </shortcut-conflicts>
@@ -152,6 +152,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591953267098">
+        <mark key="[" line="506" column="57" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="506" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591959211731">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h" timestamp="1591950963722">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -163,42 +173,25 @@
         <mark key="]" line="232" column="53" />
         <mark key="." line="232" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h_dir/fragment.cpp" timestamp="1591947732934">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1591957264162" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
-        <mark key="[" line="75" column="10" />
-        <mark key="]" line="77" column="50" />
-        <mark key="." line="75" column="15" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_type.h" timestamp="1591953267098">
-        <mark key="[" line="506" column="57" />
-        <mark key="]" line="503" column="0" />
-        <mark key="." line="506" column="62" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1591949232781">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="224" column="45" />
-        <mark key="^" line="211" column="18" />
-        <mark key="." line="223" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1591945371104">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="36" column="14" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.h" timestamp="1591956876592">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="32" />
-        <mark key="^" line="88" column="32" />
-        <mark key="." line="88" column="31" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591945957367">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="147" column="38" />
+        <mark key="." line="147" column="37" />
+        <mark key="^" line="147" column="38" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1591948671585">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="55" column="3" />
         <mark key="." line="962" column="14" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1591957498088">
+        <mark key="[" line="96" column="24" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1591957702764">
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="295" column="53" />
+        <mark key="." line="295" column="0" />
+        <mark key="^" line="119" column="51" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/unittest/smr_disk_unittest.cc" timestamp="1591946031235">
         <mark key="[" line="14" column="39" />
@@ -206,20 +199,11 @@
         <mark key="." line="14" column="59" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1591945497238">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="99" column="35" />
-        <mark key="^" line="99" column="35" />
-        <mark key="." line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_storage_manager.cc" timestamp="1591945957367">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="147" column="38" />
-        <mark key="." line="147" column="37" />
-        <mark key="^" line="147" column="38" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.cc" timestamp="1591957498088">
-        <mark key="[" line="96" column="24" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1591949232781">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="224" column="45" />
+        <mark key="^" line="211" column="18" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1591949229595">
         <mark key="[" line="86" column="20" />
@@ -234,20 +218,35 @@
         <mark key="." line="70" column="52" />
         <mark key="^" line="70" column="53" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h_dir/fragment.cpp" timestamp="1591947732934">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1591945371104">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="36" column="14" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_storage_unittest.cc" timestamp="1591945593912">
         <mark key="[" line="219" column="24" />
         <mark key="." line="219" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591959211731">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.h" timestamp="1591956876592">
+        <mark key="[" line="88" column="22" />
+        <mark key="]" line="88" column="32" />
+        <mark key="^" line="88" column="32" />
+        <mark key="." line="88" column="31" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1591957702764">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="53" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="119" column="51" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1591945497238">
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="99" column="35" />
+        <mark key="^" line="99" column="35" />
+        <mark key="." line="48" column="7" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
+        <mark key="[" line="75" column="10" />
+        <mark key="]" line="77" column="50" />
+        <mark key="." line="75" column="15" />
       </file>
     </filemarks>
     <jumps>
