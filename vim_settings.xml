@@ -198,6 +198,12 @@
         <mark key="." line="295" column="0" />
         <mark key="^" line="119" column="51" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_sg.c" timestamp="1592198413363">
+        <mark key="[" line="253" column="13" />
+        <mark key="]" line="253" column="13" />
+        <mark key="^" line="253" column="13" />
+        <mark key="." line="253" column="12" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1592197173522" />
       <file name="$USER_HOME$/Manul/manul/common/unittest/smr_disk_unittest.cc" timestamp="1591946031235">
         <mark key="[" line="14" column="39" />
@@ -226,12 +232,6 @@
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h_dir/fragment.cpp" timestamp="1591947732934">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/async_disk_manager.h" timestamp="1591945371104">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/unittest/archive_storage_unittest.cc" timestamp="1591945593912">
         <mark key="[" line="219" column="24" />
