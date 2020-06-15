@@ -179,10 +179,11 @@
         <mark key="." line="147" column="37" />
         <mark key="^" line="147" column="38" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1591948671585">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="962" column="14" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1592200299930">
+        <mark key="[" line="576" column="0" />
+        <mark key="]" line="577" column="5" />
+        <mark key="." line="576" column="0" />
+        <mark key="^" line="552" column="12" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1592197240664">
         <mark key="[" line="67" column="0" />
@@ -230,6 +231,7 @@
         <mark key="." line="70" column="52" />
         <mark key="^" line="70" column="53" />
       </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/libevent/aio_util.cc" timestamp="1592200455710" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/disk_manager.h_dir/fragment.cpp" timestamp="1591947732934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -242,12 +244,6 @@
         <mark key="]" line="88" column="32" />
         <mark key="^" line="88" column="32" />
         <mark key="." line="88" column="31" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.h" timestamp="1591945497238">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="99" column="35" />
-        <mark key="^" line="99" column="35" />
-        <mark key="." line="48" column="7" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_disk_handle.h" timestamp="1591945510025">
         <mark key="[" line="75" column="10" />
@@ -361,7 +357,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEVJTwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmV0ID09IE1BTlVMX09LKTsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -373,7 +369,7 @@
         <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJsb2JfbWV0YV8tPlNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfQ09SUlVQVEVEKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmV0ID09IE1BTlVMX09LKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEVJTwo=</text>
