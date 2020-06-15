@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>ch</entry>
         <entry>dosend</entry>
         <entry>easy</entry>
@@ -25,6 +24,7 @@
         <entry>remove</entry>
         <entry encoding="base64">XDxyZXN1bHRfZmxhZ1w+</entry>
         <entry encoding="base64">XDxdXD4=</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>534</entry>
@@ -157,7 +157,7 @@
         <mark key="]" line="232" column="53" />
         <mark key="." line="232" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1592204577524">
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1592212393845">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
@@ -184,13 +184,8 @@
         <mark key="]" line="71" column="6" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/libevent/aio_util.cc" timestamp="1592200455710" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1592211001974" />
-      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.h" timestamp="1591956876592">
-        <mark key="[" line="88" column="22" />
-        <mark key="]" line="88" column="32" />
-        <mark key="^" line="88" column="32" />
-        <mark key="." line="88" column="31" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_sg.h" timestamp="1592212463097" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1592211015231" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1592210100586">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -201,7 +196,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_scsi.c" timestamp="1592205033913">
+      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_scsi.c" timestamp="1592212429346">
         <mark key="[" line="971" column="0" />
         <mark key="]" line="971" column="0" />
         <mark key="^" line="1002" column="24" />
