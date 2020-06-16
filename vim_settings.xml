@@ -152,11 +152,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_seal_task.cc" timestamp="1591957675828">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="53" />
-        <mark key="." line="232" column="0" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_task_scheduler.h" timestamp="1592299610962" />
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/zone_disk_manager.cc" timestamp="1592212393845">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="97" column="0" />
