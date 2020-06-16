@@ -159,12 +159,14 @@
         <mark key="." line="97" column="0" />
         <mark key="^" line="97" column="51" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1592300941542" />
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1592210538456">
         <mark key="[" line="172" column="73" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="172" column="73" />
         <mark key="^" line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group_manager.cc" timestamp="1592301881565" />
       <file name="$USER_HOME$/Manul/manul/include/manul_type.h" timestamp="1592204937006">
         <mark key="[" line="90" column="2" />
         <mark key="]" line="76" column="2" />
@@ -201,19 +203,12 @@
         <mark key="." line="577" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/utility_tool/iptables_tool.cc" timestamp="1592273900586" />
-      <file name="$USER_HOME$/Manul/manul/archive/replication/replication_recover_task.cc" timestamp="1591957702764">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="53" />
-        <mark key="." line="295" column="0" />
-        <mark key="^" line="119" column="51" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_sg.c" timestamp="1592198413363">
         <mark key="[" line="253" column="13" />
         <mark key="]" line="253" column="13" />
         <mark key="^" line="253" column="13" />
         <mark key="." line="253" column="12" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1592197173522" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1592208847945" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1592209189221">
         <mark key="[" line="293" column="34" />
@@ -392,7 +387,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
