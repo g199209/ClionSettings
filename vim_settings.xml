@@ -178,7 +178,6 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="71" column="6" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/libevent/aio_util.cc" timestamp="1592200455710" />
       <file name="$USER_HOME$/Manul/manul/common/zoned_storage/libzbc/zbc_sg.h" timestamp="1592212463097" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1592211015231" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/CMakeLists.txt" timestamp="1592210100586">
@@ -217,7 +216,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_io.cc" timestamp="1592363717091" />
     </filemarks>
     <jumps>
       <jump line="234" column="18" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc.h" />
