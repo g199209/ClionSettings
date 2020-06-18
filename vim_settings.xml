@@ -170,13 +170,20 @@
       <file name="$USER_HOME$/Manul/manul/utility_tool/CMakeLists.txt" timestamp="1592470661279">
         <mark key="[" line="45" column="45" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_client.cc" timestamp="1592468059188" />
+      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_client.cc" timestamp="1592473867808">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="37" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/infiniband/verbs.h" timestamp="1592463871874" />
       <file name="$USER_HOME$/Manul/ustevent/tests/rdma/rdma_perf_client.cc" timestamp="1592451185233" />
       <file name="$USER_HOME$/Manul/manul/client/stream_core/cluster_stream_io.cc" timestamp="1592462612402" />
       <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/local/include/ustevent/callbacks.h" timestamp="1592460810384" />
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/rdma_config.h" timestamp="1592463922627" />
-      <file name="$USER_HOME$/Manul/ustevent/src/rdma/connection_rdma.h" timestamp="1592451155715" />
+      <file name="$USER_HOME$/Manul/manul/tool/CMakeLists.txt" timestamp="1592474126990">
+        <mark key="[" line="43" column="45" />
+      </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/CMakeLists.txt" timestamp="1592470577229">
         <mark key="[" line="51" column="25" />
       </file>
@@ -192,11 +199,11 @@
         <mark key="^" line="16" column="111" />
         <mark key="." line="16" column="110" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1592472080606">
-        <mark key="[" line="204" column="36" />
-        <mark key="]" line="204" column="43" />
-        <mark key="^" line="204" column="43" />
-        <mark key="." line="204" column="42" />
+      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_server.cc" timestamp="1592473888498">
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="37" />
+        <mark key="^" line="50" column="37" />
+        <mark key="." line="50" column="36" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/CMakeLists.txt" timestamp="1592470568973">
         <mark key="[" line="119" column="20" />
@@ -312,46 +319,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>FLAGS_manul_tool_IP</text>
+        <text>msg_size</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FLAGS_manul_tool_IP</text>
+        <text>msg_size</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2lmZGVmIFZFUlNJT05fVEFHCmNvbnN0IGNoYXIgKnZlcnNpb25fdGFnID0geHN0cihWRVJTSU9OX1RBRyk7CiNlbHNlCmNvbnN0IGNoYXIgKnZlcnNpb25fdGFnID0gInVua25vd24iOwojZW5kaWYK</text>
+        <text encoding="base64">ICAgIE1lc3NhZ2VIZWFkIGhlYWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGVhZC0+Y21kID0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfYXJjaGl2ZXNlcnZlcl9TZXRQb3dlck1heFJldHJ5VGltZXMpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uL2FyY2hpdmVzZXJ2ZXJfZmxhZ3MuY2MK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyhmYW5ncmFuLmZyKSBjbWQgbm90IHN1cHBvcnRlZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfYXJjaGl2ZXNlcnZlcl9TZXRQb3dlck1heFJldHJ5VGltZXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC4uL2FyY2hpdmVzZXJ2ZXJfZmxhZ3MuY2MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyhmYW5ncmFuLmZyKSBjbWQgbm90IHN1cHBvcnRlZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpCiAgICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgaGFuZGxlIElPX01BR0lDIEZhaWxlZAogICAgYXNzZXJ0KGhkci5tYWdpYyA9PSBJT19NQUdJQyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPKGZhbmdyYW4uZnIpCiAgICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8oZmFuZ3Jhbi5mcikgaGFuZGxlIElPX01BR0lDIEZhaWxlZAogICAgYXNzZXJ0KGhkci5tYWdpYyA9PSBJT19NQUdJQyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>568</text>
