@@ -27,9 +27,6 @@
         <entry encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>534</entry>
-        <entry>256</entry>
-        <entry>374</entry>
         <entry>415</entry>
         <entry>105</entry>
         <entry>161</entry>
@@ -47,6 +44,9 @@
         <entry>189</entry>
         <entry>568</entry>
         <entry>set multiple_cursors</entry>
+        <entry>206</entry>
+        <entry>260</entry>
+        <entry>446</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,14 +170,13 @@
       <file name="$USER_HOME$/Manul/manul/utility_tool/CMakeLists.txt" timestamp="1592470661279">
         <mark key="[" line="45" column="45" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_client.cc" timestamp="1592549117868">
-        <mark key="[" line="122" column="58" />
-        <mark key="]" line="122" column="37" />
-        <mark key="." line="122" column="36" />
-        <mark key="^" line="122" column="37" />
+      <file name="$USER_HOME$/Manul/manul/tool/rdma_spdk_echo_client.cc" timestamp="1592553190778">
+        <mark key="[" line="122" column="37" />
+        <mark key="]" line="122" column="34" />
+        <mark key="." line="122" column="33" />
+        <mark key="^" line="122" column="34" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/memory_slab.cc" timestamp="1592538277099" />
-      <file name="$USER_HOME$/Library/Caches/JetBrains/CLion2020.1/.remote/127.0.0.1_1234/dadd89b3-9e88-4159-a2a0-c061c6413c78/usr/include/infiniband/verbs.h" timestamp="1592463871874" />
       <file name="$USER_HOME$/Manul/ustevent/src/rdma/memory_pool.cc" timestamp="1592545717012">
         <mark key="[" line="86" column="24" />
         <mark key="]" line="86" column="24" />
@@ -191,11 +190,14 @@
       <file name="$USER_HOME$/Manul/ustevent/src/base/CMakeLists.txt" timestamp="1592470577229">
         <mark key="[" line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/Manul/ustevent/src/rdma/connection_rdma.cc" timestamp="1592551489324">
-        <mark key="[" line="615" column="19" />
-        <mark key="]" line="615" column="21" />
-        <mark key="^" line="615" column="21" />
-        <mark key="." line="615" column="20" />
+      <file name="/Dummy.txt" timestamp="1592553502913">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/rdma/connection_rdma.cc" timestamp="1592553597329">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="199" column="65" />
       </file>
       <file name="$USER_HOME$/Manul/scripts/rdma/new_env.sh" timestamp="1592469143323">
         <mark key="[" line="0" column="0" />
@@ -322,50 +324,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>FLAGS_manul_chunkserver_PollingCoreList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GOiAiIDw8IHJlYWRfYWNrLT5idWZfbGVuIDw8ICIsIHJldDogIiA8PCByZXQ7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FLAGS_manul_chunkserver_PollingCoreList</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvcHRpb24uZW5hYmxlX3NwZGsgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAoKmlubmVyX3dyKSgwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWQtPmZsb3dubyA9IDE7Cg==</text>
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GOiAiIDw8IHJlYWRfYWNrLT5idWZfbGVuIDw8ICIsIHJldDogIiA8PCByZXQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3RleHByIHVpbnQ2NF90IGtNc2dTaXplID0gMTAyNCAqIDEwMjQgKiAxMDI0ICogMlVMTDsKICAgICAgYXV0byBoZWFkID0gcmVpbnRlcnByZXRfY2FzdDxNZXNzYWdlSGVhZCAqPih3Xy0+TWFsbG9jKGtNc2dTaXplLCAwKSk7CiAgICAgIGhlYWQtPnNpemUgPSBrTXNnU2l6ZS1zaXplb2YoTWVzc2FnZUhlYWQpOwogICAgICBoZWFkLT5mbG93bm8gPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAoKmlubmVyX3dyKShyZXQpOwogICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaGVhZC0+Y21kID0K</text>
+        <text encoding="base64">ICAgICAgaWYgKHJldCA9PSByZWFkX2Fjay0+YnVmX2xlbikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REVDTEFSRV91aW50MzIobWFudWxfYXJjaGl2ZXNlcnZlcl9TZXRQb3dlck1heFJldHJ5VGltZXMpOwo=</text>
+        <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJpYnZfcG9zdF9zZW5kLCBxcDogIiA8PCBxdWV1ZV9wYWlyKCktPnFwKCktPnFwX251bQogICAgICAgICAgICA8PCAiLCBsZW46ICIgPDwgbXNnX2xlbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC4uL2FyY2hpdmVzZXJ2ZXJfZmxhZ3MuY2MK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyhmYW5ncmFuLmZyKSBjbWQgbm90IHN1cHBvcnRlZAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgKCppbm5lcl93cikocmV0KTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGhlYWQtPmZsb3dubyA9IDE7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>568</text>
+        <text>446</text>
       </register>
     </registers>
   </component>
