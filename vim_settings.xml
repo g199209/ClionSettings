@@ -177,11 +177,10 @@
         <mark key="^" line="86" column="24" />
         <mark key="." line="86" column="23" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc" timestamp="1592627221567">
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="50" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc" timestamp="1592639304830">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/ustevent/src/base/CMakeLists.txt" timestamp="1592470577229">
         <mark key="[" line="51" column="25" />
@@ -190,7 +189,7 @@
       <file name="/Dummy.txt" timestamp="1592553502913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1592626964365">
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1592639854116">
         <mark key="[" line="656" column="0" />
         <mark key="]" line="578" column="5" />
         <mark key="." line="577" column="0" />
@@ -336,31 +335,31 @@
         <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJEZWFsIHdpdGggIiA8PCB6b25lX21ldGEuem9uZV9pZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GOiAiIDw8IHJlYWRfYWNrLT5idWZfbGVuIDw8ICIsIHJldDogIiA8PCByZXQ7Cg==</text>
+        <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJEZWFsIHdpdGggIiA8PCB6b25lX21ldGEuem9uZV9pZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAoKmlubmVyX3dyKShyZXQpOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFVMT0dfSU5GTyA8PCAiR01GOiAiIDw8IHJlYWRfYWNrLT5idWZfbGVuIDw8ICIsIHJldDogIiA8PCByZXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHJldCA9PSByZWFkX2Fjay0+YnVmX2xlbikgewo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAoKmlubmVyX3dyKShyZXQpOwogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text />
+        <text encoding="base64">ICAgICAgaWYgKHJldCA9PSByZWFkX2Fjay0+YnVmX2xlbikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJpYnZfcG9zdF9zZW5kLCBxcDogIiA8PCBxdWV1ZV9wYWlyKCktPnFwKCktPnFwX251bQogICAgICAgICAgICA8PCAiLCBsZW46ICIgPDwgbXNnX2xlbjsK</text>
+        <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTE9HX1RSQUNFIDw8ICJpYnZfcG9zdF9zZW5kLCBxcDogIiA8PCBxdWV1ZV9wYWlyKCktPnFwKCktPnFwX251bQogICAgICAgICAgICA8PCAiLCBsZW46ICIgPDwgbXNnX2xlbjsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKCppbm5lcl93cikocmV0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhlYWQtPmZsb3dubyA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgKCppbm5lcl93cikocmV0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>446</text>
