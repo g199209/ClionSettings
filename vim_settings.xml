@@ -27,9 +27,6 @@
         <entry encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>415</entry>
-        <entry>105</entry>
-        <entry>161</entry>
         <entry>138</entry>
         <entry>306</entry>
         <entry>178</entry>
@@ -47,6 +44,9 @@
         <entry>206</entry>
         <entry>260</entry>
         <entry>446</entry>
+        <entry>154</entry>
+        <entry>427</entry>
+        <entry>346</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -165,12 +165,6 @@
         <mark key="^" line="56" column="32" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.cc" timestamp="1592795673965">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="39" column="37" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/unittest/temp_class.cc_dir/fragment.cpp" timestamp="1592813095556">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,11 +191,7 @@
       <file name="/Dummy.txt" timestamp="1592907659027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1592641539986">
-        <mark key="[" line="705" column="0" />
-        <mark key="]" line="705" column="0" />
-        <mark key="." line="705" column="0" />
-      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1592913561384" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1592907420373">
         <mark key="[" line="455" column="36" />
         <mark key="]" line="455" column="80" />
@@ -209,18 +199,13 @@
         <mark key="^" line="455" column="80" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1592904512347" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/zone_length_checker.h" timestamp="1592641464512">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="58" column="2" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1592897458480">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="35" column="27" />
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="26" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592913919303" />
       <file name="$USER_HOME$/Manul/manul/archive/unittest/temp_class.cc" timestamp="1592816292815">
         <mark key="[" line="16" column="3" />
         <mark key="]" line="18" column="30" />
@@ -240,6 +225,7 @@
         <mark key="." line="38" column="59" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/req_context.h" timestamp="1592904522360" />
+      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.cc" timestamp="1592913563739" />
     </filemarks>
     <jumps>
       <jump line="234" column="18" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc.h" />
@@ -389,7 +375,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>446</text>
+        <text>346</text>
       </register>
     </registers>
   </component>
