@@ -165,14 +165,11 @@
         <mark key="^" line="56" column="32" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1592914656761" />
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1592915787929" />
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1592905994661">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
-      </file>
-      <file name="/fragment.cpp" timestamp="1592813095568">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/delete_blob.cc" timestamp="1592905529907">
         <mark key="[" line="43" column="52" />
@@ -190,6 +187,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1592913561384" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1592916373733">
+        <mark key="[" line="259" column="19" />
+        <mark key="]" line="259" column="30" />
+        <mark key="." line="259" column="29" />
+        <mark key="^" line="259" column="30" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1592907420373">
         <mark key="[" line="455" column="36" />
         <mark key="]" line="455" column="80" />
