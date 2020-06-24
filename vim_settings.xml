@@ -27,7 +27,6 @@
         <entry encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>138</entry>
         <entry>306</entry>
         <entry>178</entry>
         <entry>557</entry>
@@ -47,6 +46,7 @@
         <entry>154</entry>
         <entry>427</entry>
         <entry>346</entry>
+        <entry>79</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -165,6 +165,12 @@
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1592991517674">
+        <mark key="[" line="407" column="0" />
+        <mark key="]" line="408" column="17" />
+        <mark key="." line="407" column="0" />
+        <mark key="^" line="412" column="80" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1592990084088">
         <mark key="[" line="92" column="0" />
@@ -319,19 +325,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
+        <text encoding="base64">ICAgIFNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfREVMRVRFRCk7CiAgICBjYihNQU5VTF9PSyk7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gc3RkOjptb3ZlKGNvbnRleHQp</text>
+        <text>MANUL_ZERO_CHUNK_ERROR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYmVmb3JlIHNlbmQ6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
+        <text encoding="base64">ICAgIFNldEJsb2JTdGF0dXMoQkxPQl9TVEFUVVNfREVMRVRFRCk7CiAgICBjYihNQU5VTF9PSyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
@@ -361,7 +367,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>346</text>
+        <text>79</text>
       </register>
     </registers>
   </component>
