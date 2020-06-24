@@ -177,11 +177,6 @@
         <mark key="^" line="43" column="50" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592987613240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/append_context.h" timestamp="1592913561384" />
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1592907420373">
         <mark key="[" line="455" column="36" />
@@ -189,8 +184,7 @@
         <mark key="." line="455" column="79" />
         <mark key="^" line="455" column="80" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1592904512347" />
-      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1592987529171" />
+      <file name="$USER_HOME$/Manul/manul/include/manul_errorcode_def.h" timestamp="1592987976928" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/cluster_manager.cc" timestamp="1592971165373">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="35" column="27" />
@@ -325,7 +319,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,31 +334,31 @@
         <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYmVmb3JlIHNlbmQ6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIGNvbnRleHQucmVzZXQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVUxPR19ERUJVRyA8PCAiZmluYWwgdXNlIGNvdW50OiAiIDw8IGNvbnRleHQudXNlX2NvdW50KCk7Cg==</text>
+        <text encoding="base64">Ly8gIGNvbnRleHQucmVzZXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8g54S26ICM6L+Z6YeM5peg5rOV5Lil5qC85L+d6K+BIGNvbnRleHQudXNlX2NvdW50KCkgPT0gMQogICAgICAvLyDlm6DkuLrmraTlm57osIPlj6/og73kvJrlkIzml7booqvlpJrkuKrnur/nqIvosIPnlKjvvIzlhbbku5blm57osIPosIPnlKjlj6/og73mraPlnKjov5Tlm57ov4fnqIvkuK0KICAgICAgLy8gY29udGV4dCDnmoQgcmVmY291bnQg6L+Y5rKh5pyJ6KKrIC0xCg==</text>
+        <text encoding="base64">ICAgICAgVUxPR19ERUJVRyA8PCAiZmluYWwgdXNlIGNvdW50OiAiIDw8IGNvbnRleHQudXNlX2NvdW50KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgZm9yICIgPDwgZnJhZ191bmlxdWVfaWQgPDwgIiA6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
+        <text encoding="base64">ICAgICAgLy8g54S26ICM6L+Z6YeM5peg5rOV5Lil5qC85L+d6K+BIGNvbnRleHQudXNlX2NvdW50KCkgPT0gMQogICAgICAvLyDlm6DkuLrmraTlm57osIPlj6/og73kvJrlkIzml7booqvlpJrkuKrnur/nqIvosIPnlKjvvIzlhbbku5blm57osIPosIPnlKjlj6/og73mraPlnKjov5Tlm57ov4fnqIvkuK0KICAgICAgLy8gY29udGV4dCDnmoQgcmVmY291bnQg6L+Y5rKh5pyJ6KKrIC0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYWZ0ZXIgc2VuZDogIiA8PCBjb250ZXh0LnVzZV9jb3VudCgpOwo=</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgZm9yICIgPDwgZnJhZ191bmlxdWVfaWQgPDwgIiA6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYmVmb3JlIHNlbmQ6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYWZ0ZXIgc2VuZDogIiA8PCBjb250ZXh0LnVzZV9jb3VudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBVTE9HX0RFQlVHIDw8ICJ1c2UgY291bnQgYmVmb3JlIHNlbmQ6ICIgPDwgY29udGV4dC51c2VfY291bnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3NlcnQoY29udGV4dC51c2VfY291bnQoKSA9PSAxKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>346</text>
