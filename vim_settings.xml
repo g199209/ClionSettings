@@ -168,11 +168,11 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593421309826">
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="66" />
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593421927692">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="14" column="141" />
+        <mark key="." line="14" column="140" />
+        <mark key="^" line="14" column="141" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592985201071">
         <mark key="[" line="109" column="30" />
@@ -321,13 +321,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0 -fno-lifetime-dse</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCQk=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0 -fno-lifetime-dse</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCQk=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
