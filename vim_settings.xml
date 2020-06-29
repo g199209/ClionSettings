@@ -169,11 +169,11 @@
         <mark key="^" line="67" column="56" />
         <mark key="." line="67" column="55" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/unittest/calculate_crc_for_file.cc" timestamp="1593411730764">
-        <mark key="[" line="51" column="33" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="33" />
-        <mark key="^" line="51" column="34" />
+      <file name="$USER_HOME$/Manul/manul/common/unittest/calculate_crc_for_file.cc" timestamp="1593412210739">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="52" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="52" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/stream_client_impl.h" timestamp="1593411524450" />
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592985201071">
@@ -299,8 +299,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0xFFFFFFFF</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb3V0IDw8ICJDUkMzMi1DIEludGVsOiAiIDw8IGNyY19pbnRlbCA8PCBlbmRsOwo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -312,7 +312,7 @@
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICJDUkMzMi1DIEludGVsOiAiIDw8IGNyYyA8PCBlbmRsOwo=</text>
+        <text encoding="base64">ICBjb3V0IDw8ICJDUkMzMi1DIEludGVsOiAiIDw8IGNyY19pbnRlbCA8PCBlbmRsOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
