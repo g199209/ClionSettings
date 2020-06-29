@@ -158,6 +158,11 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593414126836">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1593399576102">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -174,6 +179,9 @@
         <mark key="]" line="52" column="52" />
         <mark key="." line="52" column="51" />
         <mark key="^" line="52" column="52" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593414036266">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/stream_client_impl.h" timestamp="1593411524450" />
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592985201071">
@@ -299,14 +307,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb3V0IDw8ICJDUkMzMi1DIEludGVsOiAiIDw8IGNyY19pbnRlbCA8PCBlbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0xFFFFFFFF</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
@@ -315,31 +323,31 @@
         <text encoding="base64">ICBjb3V0IDw8ICJDUkMzMi1DIEludGVsOiAiIDw8IGNyY19pbnRlbCA8PCBlbmRsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">W1JlZmluZV0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjcmMgPSAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmMgPSAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHsKCn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZnMucmVhZCgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIHsKCn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpZnMucmVhZCgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN5cy9zdGF0Lmg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
