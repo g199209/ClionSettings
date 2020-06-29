@@ -168,11 +168,11 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593421927692">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="14" column="141" />
-        <mark key="." line="14" column="140" />
-        <mark key="^" line="14" column="141" />
+      <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593422723645">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="61" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592985201071">
         <mark key="[" line="109" column="30" />
@@ -321,19 +321,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCQk=</text>
+        <text encoding="base64">LWZuby10cmVlLWRjZSA=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCQk=</text>
+        <text encoding="base64">LWZuby10cmVlLWRjZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgKih1aW50MTZfdCAqKWFkZHIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">I3NldChDTUFLRV9DWFhfRkxBR1NfUkVMV0lUSERFQklORk8gIi1nIC1nZ2RiIC1PMSAtZm5vLXRyZWUtYnVpbHRpbi1jYWxsLWRjZSAtZm5vLXRyZWUtZGNlIC1mbm8tdHJlZS1kc2UiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBtYWdpY19udW1fIDw8IHN0ZDo6ZW5kbDsK</text>
