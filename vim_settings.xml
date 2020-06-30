@@ -163,6 +163,12 @@
         <mark key="." line="30" column="30" />
       </file>
       <file name="/calculate_crc_for_file.cc" timestamp="1593485241781" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1593501472801">
+        <mark key="[" line="61" column="21" />
+        <mark key="]" line="61" column="21" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="61" column="21" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1592985432927">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
@@ -314,46 +320,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjU1NTU1NTU1NTUiIDw8IHN0ZDo6Zmx1c2g7CiAgKih2b2xhdGlsZSBpbnQgKikoMCkgPSAwOwoKCgo=</text>
+        <text encoding="base64">ICB1aW50NjRfdCByZXNlcnZlZDsK</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDw8IHN0ZDo6Zmx1c2g=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjExMTExMTEiIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmZsdXNoOwo=</text>
+        <text encoding="base64">ICB1aW50MzJfdCBtYWdpYzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjU1NTU1NTU1NTUiIDw8IHN0ZDo6Zmx1c2g7CiAgKih2b2xhdGlsZSBpbnQgKikoMCkgPSAwOwoKCgo=</text>
+        <text encoding="base64">ICB1aW50NjRfdCByZXNlcnZlZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgc3RkOjpjb3V0IDw8ICIyMjIyMjIiIDw8IHN0ZDo6ZW5kbCA7CiAgc3RkOjpjb3V0IDw8ICIzMzMzMzMiIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICB1aW50NjRfdCByZXNlcnZlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqKHZvbGF0aWxlIGludCAqKSgwKSA9IDA7Cg==</text>
+        <text encoding="base64">ICAvLyBDUkMzMkMgZm9yIGRhdGEgZmllbGQhCiAgdWludDMyX3QgY3JjOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjU1NTU1NTU1NTUiIDw8IHN0ZDo6Zmx1c2g7CiAgKih2b2xhdGlsZSBpbnQgKikoMCkgPSAwOwoKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgc3RkOjpjb3V0IDw8ICIyMjIyMjIiIDw8IHN0ZDo6ZW5kbCA7CiAgc3RkOjpjb3V0IDw8ICIzMzMzMzMiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0dC0+RG9zb21ldGhpbmcoKTsK</text>
+        <text encoding="base64">ICAqKHZvbGF0aWxlIGludCAqKSgwKSA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2b2lkIFByaW50VmFsKCkgdm9sYXRpbGUgewogICAgc3RkOjpjb3V0IDw8IHZhbCA8PCBzdGQ6OmVuZGw7CiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkJlZm9yZTogIiA8PCB0dC0+bWFnaWNfbnVtXyA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICB0dC0+RG9zb21ldGhpbmcoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
