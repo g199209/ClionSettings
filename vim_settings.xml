@@ -208,11 +208,10 @@
         <mark key="^" line="56" column="123" />
         <mark key="." line="56" column="122" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/client/unittest/tmp_test.cc" timestamp="1593483494290">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="10" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/Manul/manul/client/unittest/tmp_test.cc" timestamp="1593484508137">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -321,46 +320,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjU1NTU1NTU1NTUiIDw8IHN0ZDo6Zmx1c2g7CiAgKih2b2xhdGlsZSBpbnQgKikoMCkgPSAwOwoKCgo=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IOStream</text>
+        <text encoding="base64">IDw8IHN0ZDo6Zmx1c2g=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkJlZm9yZSBDb25zdHJ1Y3Q6ICIgPDwgcC0+dmFsIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjExMTExMTEiIDw8IHN0ZDo6ZW5kbCA8PCBzdGQ6OmZsdXNoOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIjU1NTU1NTU1NTUiIDw8IHN0ZDo6Zmx1c2g7CiAgKih2b2xhdGlsZSBpbnQgKikoMCkgPSAwOwoKCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgc3RkOjpjb3V0IDw8ICIyMjIyMjIiIDw8IHN0ZDo6ZW5kbCA7CiAgc3RkOjpjb3V0IDw8ICIzMzMzMzMiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0dC0+RG9zb21ldGhpbmcoKTsK</text>
+        <text encoding="base64">ICAqKHZvbGF0aWxlIGludCAqKSgwKSA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNzdGRpbnQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2b2lkIFByaW50VmFsKCkgdm9sYXRpbGUgewogICAgc3RkOjpjb3V0IDw8IHZhbCA8PCBzdGQ6OmVuZGw7CiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkJlZm9yZTogIiA8PCB0dC0+bWFnaWNfbnVtXyA8PCBzdGQ6OmVuZGw7Cg==</text>
+        <text encoding="base64">ICB0dC0+RG9zb21ldGhpbmcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gIHZvaWQgKiBhZGRyID0gdHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBUZXN0Q2xhc3MgKnRlc3QgPSBuZXcgVGVzdDsK</text>
+        <text encoding="base64">ICB2b2lkIFByaW50VmFsKCkgdm9sYXRpbGUgewogICAgc3RkOjpjb3V0IDw8IHZhbCA8PCBzdGQ6OmVuZGw7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHsK</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkJlZm9yZTogIiA8PCB0dC0+bWFnaWNfbnVtXyA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
