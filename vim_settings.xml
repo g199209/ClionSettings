@@ -163,27 +163,28 @@
         <mark key="." line="30" column="30" />
       </file>
       <file name="/calculate_crc_for_file.cc" timestamp="1593485241781" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.h" timestamp="1593503225505">
+        <mark key="[" line="61" column="41" />
+        <mark key="]" line="60" column="41" />
+        <mark key="^" line="60" column="41" />
+        <mark key="." line="60" column="40" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_proto.h" timestamp="1593501999822">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1592985432927">
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1593503439482">
+        <mark key="[" line="256" column="69" />
+        <mark key="]" line="256" column="17" />
+        <mark key="." line="256" column="16" />
+        <mark key="^" line="256" column="17" />
       </file>
       <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593483445538">
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="48" />
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="61" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/read_context.cc" timestamp="1592985201071">
-        <mark key="[" line="109" column="30" />
-        <mark key="]" line="110" column="18" />
-        <mark key="^" line="110" column="18" />
-        <mark key="." line="110" column="17" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/ufile_blob_handle.cc" timestamp="1593399576102">
         <mark key="[" line="27" column="0" />
@@ -318,14 +319,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gVmVyc2lvbiBrSU9Nc2dWZXJzaW9uRmlyc3RSZWxlYXNlID09IDEK</text>
+      <register name="&quot;" type="4">
+        <text>return 0;</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>return 0;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
