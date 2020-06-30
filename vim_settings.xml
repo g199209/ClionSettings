@@ -156,7 +156,6 @@
       <file name="/Dummy.txt" timestamp="1593415162795">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/client/stream_client_impl.h" timestamp="1593415650707" />
       <file name="$USER_HOME$/Manul/manul/client/unittest/CMakeLists.txt" timestamp="1593418487278">
         <mark key="[" line="30" column="30" />
         <mark key="]" line="30" column="30" />
@@ -185,12 +184,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/common/unittest/CMakeLists.txt" timestamp="1593498444323">
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="56" />
-        <mark key="^" line="20" column="56" />
-        <mark key="." line="20" column="55" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/unittest/calculate_crc_for_file.cc" timestamp="1593412210739">
         <mark key="[" line="52" column="43" />
