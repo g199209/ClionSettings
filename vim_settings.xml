@@ -152,13 +152,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Manul/manul/client/stream_client_impl.cc" timestamp="1593415510382" />
       <file name="/calculate_crc_for_file.cc" timestamp="1593485241781" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.h" timestamp="1593582518366">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="54" />
+        <mark key="^" line="42" column="55" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.h" timestamp="1593508173526">
         <mark key="[" line="66" column="18" />
         <mark key="]" line="66" column="39" />
         <mark key="^" line="66" column="39" />
         <mark key="." line="66" column="38" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc_dir/fragment.cpp" timestamp="1593582374733">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593483445538">
         <mark key="[" line="15" column="62" />
@@ -175,7 +183,7 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc_dir/fragment.cpp" timestamp="1593511819884">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593512971459">
+      <file name="/Dummy.txt" timestamp="1593582374738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/unittest/CMakeLists.txt" timestamp="1593418487278">
@@ -187,9 +195,9 @@
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc_dir/fragment.cpp" timestamp="1593512971445">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.h" timestamp="1593513279457">
-        <mark key="[" line="72" column="73" />
-        <mark key="]" line="72" column="77" />
+      <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.h" timestamp="1593581850422">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="74" column="42" />
         <mark key="^" line="72" column="77" />
         <mark key="." line="72" column="76" />
       </file>
@@ -206,11 +214,12 @@
         <mark key="." line="427" column="11" />
         <mark key="^" line="427" column="12" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1593573958157">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="47" />
-        <mark key="^" line="42" column="47" />
-        <mark key="." line="42" column="46" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1593582525974">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="12" />
+        <mark key="^" line="130" column="12" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" timestamp="1593514226244" />
       <file name="$USER_HOME$/Manul/manul/client/unittest/tmp_test.cc" timestamp="1593484508137">
@@ -218,15 +227,14 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1593513507669">
-        <mark key="[" line="250" column="22" />
-        <mark key="]" line="202" column="47" />
-        <mark key="." line="202" column="46" />
-        <mark key="^" line="202" column="47" />
+      <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1593581910072">
+        <mark key="[" line="331" column="0" />
+        <mark key="]" line="335" column="58" />
+        <mark key="." line="315" column="27" />
+        <mark key="^" line="315" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="1" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc.h" />
       <jump line="123" column="44" filename="$USER_HOME$/Manul/manul/common/SMR/smr_disk_manager.cc" />
       <jump line="191" column="4" filename="$USER_HOME$/Manul/manul/archive/utility/disk_manager.cc" />
       <jump line="201" column="69" filename="$USER_HOME$/Manul/manul/common/SMR/libzbc/zbc_sg.c" />
@@ -326,51 +334,52 @@
       <jump line="68" column="31" filename="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" />
       <jump line="70" column="12" filename="$USER_HOME$/Manul/manul/chunkserver/chunkserver.cc" />
       <jump line="55" column="122" filename="$USER_HOME$/Manul/manul/archive/context/recover_context.cc" />
+      <jump line="13" column="24" filename="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBGaWxsQ1JDKCZtc2dfaGVhZCk7Cg==</text>
+        <text encoding="base64">ICBGaWxsQ1JDKCk7Cg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ARCHIVE_IO_RES_cHEAD_SIZE</text>
+        <text>msg_hdr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGaWxsQ1JDKCZtc2dfaGVhZCk7Cg==</text>
+        <text encoding="base64">ICBGaWxsQ1JDKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjcmMgXj0gMHhGRkZGRkZGRjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJT1JlcXVlc3RIZWFkICppb19oZHIgPSAoSU9SZXF1ZXN0SGVhZCAqKW1zZ19oZWFkXy5kYXRhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFyY2hpdmVfcHJvdG8uaD4K</text>
+        <text encoding="base64">ICBGaWxsQ1JDKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNyYzMyY19pbnRlbC5oPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0X2NvZGUgPSBjb25uZWN0aW9uLT5TZW5kRGF0YShjb250ZXh0LT5HZXRSZWFkQnVmZmVyKCksIGhkci0+bGVuZ3RoKTsKICAgICAgVUxPR19UUkFDRSA8PCAiU2VuZCBSZWFkIERhdGEgYmFjayA6ICIgPDwgRHVtcElPUmVxSGVhZCgqaGRyKQogICAgICAgICAgICAgICAgIDw8ICIgUmVhZCBjcmM6ICIKICAgICAgICAgICAgICAgICA8PCBjb21tb246OkRvQ3JjMzJjKGNvbnRleHQtPkdldFJlYWRCdWZmZXIoKSwgaGRyLT5sZW5ndGgpOwogICAgICBpZiAocmV0X2NvZGUpIHsKICAgICAgICBVTE9HX0VSUk9SIDw8ICJTZW5kIElPIFJlc3BvbnNlIEZhaWxlZCI7CiAgICAgIH0K</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcmMgPSBjb21tb246OkRvQ3JjMzJjRXh0ZW5kKGNyYykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbnQzMl90IEZpbGxDUkMoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjcmMgXj0gMHhGRkZGRkZGRjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhdXRvIG1zZ19oZHIgPSAoTWVzc2FnZUhlYWQgKiljb250ZXh0LT5HZXRNZXNzYWdlSGVhZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
