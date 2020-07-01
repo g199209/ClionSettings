@@ -165,7 +165,7 @@
         <mark key="^" line="66" column="39" />
         <mark key="." line="66" column="38" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc_dir/fragment.cpp" timestamp="1593582374733">
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc_dir/fragment.cpp" timestamp="1593583257504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/CMakeLists.txt" timestamp="1593483445538">
@@ -183,7 +183,7 @@
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc_dir/fragment.cpp" timestamp="1593511819884">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593582374738">
+      <file name="/Dummy.txt" timestamp="1593583256317">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/client/unittest/CMakeLists.txt" timestamp="1593418487278">
@@ -214,12 +214,12 @@
         <mark key="." line="427" column="11" />
         <mark key="^" line="427" column="12" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1593582525974">
+      <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.cc" timestamp="1593583499503">
         <mark key="'" line="13" column="24" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="12" />
-        <mark key="^" line="130" column="12" />
-        <mark key="." line="167" column="0" />
+        <mark key="[" line="221" column="56" />
+        <mark key="]" line="222" column="38" />
+        <mark key="^" line="222" column="38" />
+        <mark key="." line="222" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" timestamp="1593514226244" />
       <file name="$USER_HOME$/Manul/manul/client/unittest/tmp_test.cc" timestamp="1593484508137">
@@ -339,44 +339,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBGaWxsQ1JDKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nullptr</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>msg_hdr</text>
+        <text>nullptr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGaWxsQ1JDKCk7Cg==</text>
+        <text encoding="base64">ICBpZiAoaW9fcmVzX2hkci5jbWQgPT0gSU9fQ01EX1JFQUQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBJT1JlcXVlc3RIZWFkICppb19oZHIgPSAoSU9SZXF1ZXN0SGVhZCAqKW1zZ19oZWFkXy5kYXRhOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBGaWxsQ1JDKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNyYzMyY19pbnRlbC5oPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBJT1Jlc3BvbnNlSGVhZCAqaW9faGRyID0gKElPUmVzcG9uc2VIZWFkICopbXNnX2hkci0+ZGF0YTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBJT1JlcXVlc3RIZWFkICppb19oZHIgPSAoSU9SZXF1ZXN0SGVhZCAqKW1zZ19oZWFkXy5kYXRhOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBGaWxsQ1JDKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnQzMl90IEZpbGxDUkMoKQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNyYzMyY19pbnRlbC5oPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjcmMgXj0gMHhGRkZGRkZGRjsK</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
