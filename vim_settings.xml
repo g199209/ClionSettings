@@ -152,7 +152,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/calculate_crc_for_file.cc" timestamp="1593485241781" />
       <file name="$USER_HOME$/Manul/manul/archive/utility/sync_io_connector.h" timestamp="1593582518366">
         <mark key="[" line="42" column="51" />
         <mark key="]" line="42" column="55" />
@@ -227,6 +226,7 @@
         <mark key="^" line="222" column="38" />
         <mark key="." line="222" column="37" />
       </file>
+      <file name="$USER_HOME$/Manul/ustevent/src/libevent/tcp_memory_slab.cc" timestamp="1593670007881" />
       <file name="$USER_HOME$/Manul/manul/chunkserver/chunk_storage/raw_chunk_handle.cc" timestamp="1593514226244" />
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1593589753139">
         <mark key="[" line="267" column="33" />
