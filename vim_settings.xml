@@ -152,6 +152,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Manul/manul/archive/disk_group.cc" timestamp="1593759180328">
+        <mark key="[" line="497" column="47" />
+        <mark key="]" line="498" column="13" />
+        <mark key="." line="498" column="12" />
+        <mark key="^" line="498" column="13" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/context/req_context.cc" timestamp="1593757200056">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="19" />
@@ -168,6 +174,9 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc_dir/fragment.cpp" timestamp="1593757354460">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1593686072249">
         <mark key="[" line="47" column="0" />
@@ -190,20 +199,8 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/rw_context.h" timestamp="1593675441081">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="11" />
-        <mark key="^" line="57" column="11" />
-        <mark key="." line="57" column="10" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/unittest/CMakeLists.txt" timestamp="1593690878050">
         <mark key="[" line="19" column="68" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/CMakeLists.txt" timestamp="1593673677671">
-        <mark key="[" line="70" column="28" />
-        <mark key="]" line="70" column="32" />
-        <mark key="^" line="70" column="32" />
-        <mark key="." line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1593746006133">
         <mark key="[" line="434" column="0" />
@@ -220,13 +217,16 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="52" column="2" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1593746996236">
-        <mark key="[" line="503" column="68" />
-        <mark key="]" line="503" column="76" />
-        <mark key="^" line="503" column="76" />
-        <mark key="." line="503" column="75" />
+      <file name="$USER_HOME$/Manul/manul/archive/utility/blob_manager.cc" timestamp="1593757390689">
+        <mark key="[" line="243" column="3" />
+        <mark key="]" line="244" column="18" />
+        <mark key="^" line="244" column="18" />
+        <mark key="." line="244" column="17" />
       </file>
       <file name="$USER_HOME$/Manul/manul/common/EC/ec_worker_stack.cc" timestamp="1593744908174" />
+      <file name="/Dummy.txt" timestamp="1593757334257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1593684340933">
         <mark key="[" line="268" column="7" />
         <mark key="]" line="268" column="7" />
