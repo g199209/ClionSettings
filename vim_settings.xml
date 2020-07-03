@@ -174,12 +174,6 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/common/zoned_storage/cmr_disk_manager.cc" timestamp="1593589086696">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="27" />
-        <mark key="^" line="67" column="27" />
-        <mark key="." line="67" column="26" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/common/unittest/CMakeLists.txt" timestamp="1593690878050">
         <mark key="[" line="19" column="68" />
       </file>
@@ -195,6 +189,7 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="52" column="2" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/common/EC/ec_worker_stack.cc" timestamp="1593744908174" />
       <file name="/Dummy.txt" timestamp="1593681993539">
         <mark key="[" line="0" column="0" />
       </file>
