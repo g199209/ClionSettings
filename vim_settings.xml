@@ -337,13 +337,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1zZ19oZHIgPT0gbnVsbHB0cikgewogICAgICAgIFVMT0dfRVJST1IgPDwgIk1hbGxvYyBmYWlsZWQiOwogICAgICAgIHJldHVybiBNQU5VTF9OT19NRU1PUlk7CiAgICAgIH0K</text>
+        <text encoding="base64">W0J1Z0ZpeF0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cur_power_mode_</text>
+        <text encoding="base64">IEFkZCBlcnJvciBsb2cg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
@@ -352,31 +352,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQocmVhZF9idWZmZXIgIT0gbnVsbHB0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1zZ19oZHIgPT0gbnVsbHB0cikgewogICAgICAgIFVMT0dfRVJST1IgPDwgIk1hbGxvYyBmYWlsZWQiOwogICAgICAgIHJldHVybiBNQU5VTF9OT19NRU1PUlk7CiAgICAgIH0K</text>
+        <text encoding="base64">W0J1Z0ZpeF0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobXNnX2RhdGEgPT0gbnVsbHB0cikgewogICAgICAgICAgcmV0dXJuIE1BTlVMX05PX01FTU9SWTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">W0J1Z0ZpeF0gQWRkIGVycm9yIGxvZyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gTUFOVUxfSU9fRVJST1I7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1zZ19oZHIgPT0gbnVsbHB0cikgewogICAgICAgIFVMT0dfRVJST1IgPDwgIk1hbGxvYyBmYWlsZWQiOwogICAgICAgIHJldHVybiBNQU5VTF9OT19NRU1PUlk7CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhc3NlcnQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobXNnX2RhdGEgPT0gbnVsbHB0cikgewogICAgICAgICAgcmV0dXJuIE1BTlVMX05PX01FTU9SWTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gTUFOVUxfSU9fRVJST1I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobXNnX2RhdGEgIT0gbnVsbHB0cik7Cg==</text>
+        <text encoding="base64">ICBhc3NlcnQoZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFOVUxfTk9fTUVNT1JZOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobXNnX2RhdGEgIT0gbnVsbHB0cik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
