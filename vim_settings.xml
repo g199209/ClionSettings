@@ -212,6 +212,12 @@
         <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/dump_blob_info.cc" timestamp="1594087002281" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1594089397788">
+        <mark key="[" line="268" column="7" />
+        <mark key="]" line="268" column="7" />
+        <mark key="^" line="268" column="7" />
+        <mark key="." line="268" column="6" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594018657169">
         <mark key="[" line="525" column="2" />
         <mark key="]" line="525" column="8" />
@@ -227,12 +233,6 @@
         <mark key="]" line="31" column="52" />
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="32" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/context/append_context.cc" timestamp="1593756897565">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/fio_archive_plugin/manul_archive_engine.cc" timestamp="1594013602341">
         <mark key="[" line="443" column="65" />
