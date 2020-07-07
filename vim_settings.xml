@@ -203,20 +203,12 @@
         <mark key="^" line="244" column="18" />
         <mark key="." line="244" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594091215652">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1594092989386">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/dump_blob_info.cc" timestamp="1594087002281" />
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1594092123653">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/io_committer.cc" timestamp="1594090602222">
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
-      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594018657169">
         <mark key="[" line="525" column="2" />
         <mark key="]" line="525" column="8" />
@@ -341,14 +333,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEFkZCBlcnJvciBsb2cg</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEFkZCBlcnJvciBsb2cg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
