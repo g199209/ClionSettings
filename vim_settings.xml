@@ -209,6 +209,12 @@
         <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/dump_blob_info.cc" timestamp="1594087002281" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_storage/generic_disk_handle.cc" timestamp="1594100777974">
+        <mark key="[" line="509" column="14" />
+        <mark key="]" line="509" column="14" />
+        <mark key="^" line="513" column="18" />
+        <mark key="." line="509" column="14" />
+      </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594018657169">
         <mark key="[" line="525" column="2" />
         <mark key="]" line="525" column="8" />
@@ -334,13 +340,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFkZCBlcnJvciBsb2cg</text>
+        <text>cur_power_mode_</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEFkZCBlcnJvciBsb2cg</text>
+        <text>cur_power_mode_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
