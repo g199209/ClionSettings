@@ -207,11 +207,11 @@
         <mark key="^" line="513" column="18" />
         <mark key="." line="509" column="14" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594108919680">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="48" />
-        <mark key="^" line="106" column="38" />
-        <mark key="." line="106" column="37" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594110179110">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="^" line="96" column="33" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility_flags.cc" timestamp="1594104686382">
         <mark key="[" line="31" column="0" />
@@ -337,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBNQU5VTF9GT1JNQVRfSU5WQUxJRDsgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1zZ19oZHIgPT0gbnVsbHB0cikgewogICAgICAgIFVMT0dfRVJST1IgPDwgIk1hbGxvYyBmYWlsZWQiOwogICAgICAgIHJldHVybiBNQU5VTF9OT19NRU1PUlk7CiAgICAgIH0K</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,34 +349,34 @@
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBNQU5VTF9GT1JNQVRfSU5WQUxJRDsgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmVhZF9idWZmZXIgIT0gbnVsbHB0cik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gTUFOVUxfSU9fRVJST1I7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1zZ19oZHIgPT0gbnVsbHB0cikgewogICAgICAgIFVMT0dfRVJST1IgPDwgIk1hbGxvYyBmYWlsZWQiOwogICAgICAgIHJldHVybiBNQU5VTF9OT19NRU1PUlk7CiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhc3NlcnQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobXNnX2RhdGEgPT0gbnVsbHB0cikgewogICAgICAgICAgcmV0dXJuIE1BTlVMX05PX01FTU9SWTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gTUFOVUxfSU9fRVJST1I7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobXNnX2RhdGEgIT0gbnVsbHB0cik7Cg==</text>
+        <text encoding="base64">ICBhc3NlcnQoZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFOVUxfTk9fTUVNT1JZOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobXNnX2RhdGEgIT0gbnVsbHB0cik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoZmFsc2UpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFOVUxfTk9fTUVNT1JZOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">REVGSU5FX2RvdWJsZShtYW51bF9hcmNoaXZldXRpbGl0eV9QQl9UaW1lb3V0LCAyLjAsCiAgICAgICAgICAgICAgIklPIHRpbWVvdXQgdGltZSwgdW5pdDogcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
