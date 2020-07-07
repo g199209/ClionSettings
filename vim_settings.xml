@@ -27,7 +27,6 @@
         <entry encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>178</entry>
         <entry>557</entry>
         <entry>82</entry>
         <entry>313</entry>
@@ -47,6 +46,7 @@
         <entry>346</entry>
         <entry>79</entry>
         <entry>295</entry>
+        <entry>107</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -207,11 +207,11 @@
         <mark key="^" line="513" column="18" />
         <mark key="." line="509" column="14" />
       </file>
-      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594018657169">
-        <mark key="[" line="525" column="2" />
-        <mark key="]" line="525" column="8" />
-        <mark key="." line="525" column="7" />
-        <mark key="^" line="525" column="8" />
+      <file name="$USER_HOME$/Manul/manul/archive/archive_loop_handle.cc" timestamp="1594108919680">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="48" />
+        <mark key="^" line="106" column="38" />
+        <mark key="." line="106" column="37" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility_flags.cc" timestamp="1594104686382">
         <mark key="[" line="31" column="0" />
@@ -337,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBNQU5VTF9GT1JNQVRfSU5WQUxJRDsgICAgICAgICAgCg==</text>
       </register>
       <register name="*" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,37 +349,37 @@
         <text encoding="base64">XDx2ZXJzaW9uX3RhZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REVGSU5FX2RvdWJsZShtYW51bF9hcmNoaXZldXRpbGl0eV9JT19UaW1lb3V0LCAxMjAuMCwKICAgICAgICAgICAgICAiSU8gdGltZW91dCB0aW1lLCB1bml0OiBzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBNQU5VTF9GT1JNQVRfSU5WQUxJRDsgICAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gTUFOVUxfSU9fRVJST1I7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REVGSU5FX2RvdWJsZShtYW51bF9hcmNoaXZldXRpbGl0eV9QQl9UaW1lb3V0LCAyLjAsCiAgICAgICAgICAgICAgIklPIHRpbWVvdXQgdGltZSwgdW5pdDogcyIpOwo=</text>
+        <text encoding="base64">ICBhc3NlcnQoZmFsc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W0J1Z0ZpeF0gQWRkIGVycm9yIGxvZyA=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0KGZhbHNlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobXNnX2RhdGEgIT0gbnVsbHB0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W0J1Z0ZpeF0gQWRkIGVycm9yIGxvZyA=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFOVUxfTk9fTUVNT1JZOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluZmx5X3JlYWRfaW9fY291bnRfYnlfem9uZV9bem9uZV9pZF0tLTsKICAgICAgICAgIGFzc2VydChpbmZseV9yZWFkX2lvX2NvdW50X2J5X3pvbmVfW3pvbmVfaWRdID49IDApOwogICAgICAgICAgY2IocmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHlfcmVhZF9pb19jb3VudF9ieV96b25lX1t6b25lX2lkXS0tOwogICAgICAgICAgICBhc3NlcnQoaW5mbHlfcmVhZF9pb19jb3VudF9ieV96b25lX1t6b25lX2lkXSA+PSAwKTsKICAgICAgICAgICAgY2IocmV0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyDlpoLmnpzov5jmnInor7vnm67liY3kuI3lgZrlpITnkIbvvIwK</text>
+        <text encoding="base64">REVGSU5FX2RvdWJsZShtYW51bF9hcmNoaXZldXRpbGl0eV9QQl9UaW1lb3V0LCAyLjAsCiAgICAgICAgICAgICAgIklPIHRpbWVvdXQgdGltZSwgdW5pdDogcyIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>295</text>
+        <text>107</text>
       </register>
     </registers>
   </component>
