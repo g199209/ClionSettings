@@ -164,6 +164,7 @@
         <mark key="^" line="61" column="75" />
         <mark key="." line="61" column="74" />
       </file>
+      <file name="$USER_HOME$/Manul/manul/archive/utility/archive_utility.cc" timestamp="1594177776214" />
       <file name="$USER_HOME$/Manul/manul/archive/archiveserver_flags.cc" timestamp="1594031100823" />
       <file name="$USER_HOME$/Manul/ustevent/src/libevent/connection_libevent.cc" timestamp="1594024448715" />
       <file name="$USER_HOME$/Manul/ustevent/src/connector_uevent.cc" timestamp="1594026557233" />
@@ -179,12 +180,6 @@
         <mark key="]" line="138" column="14" />
         <mark key="." line="138" column="13" />
         <mark key="^" line="138" column="14" />
-      </file>
-      <file name="$USER_HOME$/Manul/manul/archive/blob_manager.cc" timestamp="1593767234846">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="435" column="39" />
-        <mark key="^" line="435" column="39" />
-        <mark key="." line="435" column="38" />
       </file>
       <file name="$USER_HOME$/Manul/manul/archive/archive_server.cc" timestamp="1594034496144">
         <mark key="[" line="117" column="76" />
