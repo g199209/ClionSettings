@@ -12,6 +12,7 @@
       <mapping pattern="monitor_release_flag" type="PLAIN_TEXT" />
       <mapping pattern="archiveserver_release_flag" type="PLAIN_TEXT" />
       <mapping pattern="chunkserver_release_flag" type="PLAIN_TEXT" />
+      <mapping ext="tokens" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
