@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="online_rdma_list" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="fio_gflag" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="portal_release_flag" type="PLAIN_TEXT" />
       <mapping pattern=".clion.source.upload.marker" type="PLAIN_TEXT" />
       <mapping pattern="metaserver_release_flag" type="PLAIN_TEXT" />
