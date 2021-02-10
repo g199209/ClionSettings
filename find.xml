@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.cpp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -27,9 +28,9 @@
     <mask>*.hpp</mask>
     <mask>*.tcc</mask>
     <mask>*.mm</mask>
-    <mask>*.cpp</mask>
     <mask>*.cc</mask>
     <mask>*.c</mask>
     <mask>*.txt</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
